@@ -52,7 +52,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R14, R15; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.

@@ -2,17 +2,9 @@
 
 Research checked 5 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named research method or a documented practice faithfully, attributes it to its originator through a public source, and states where it breaks. It claims that the order of the pack and the "When to run it" lines come from what designers and researchers say they struggle with.
-
-It does not claim that using these skills makes research faster, more valid, compliant or more likely to change a product decision. No source below tested these skills. Most sources are guidance from an institution, a practitioner article or an originator's description of a method, not studies of its effect. Where a source is a preprint, a practitioner opinion or guidance written for one country's public sector, its row says so. Nothing in the pack is legal advice: consent, privacy, data protection, tax and accessibility points are framed as questions to check with your privacy lead or a qualified adviser.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
-
-## How the struggles scan was done
-
-The pack reuses a scan of struggles collected for product designers in September and October 2026 (practitioner articles, trend reports and around 80 posts from two design communities on Reddit, grouped into 14 clusters and 23 rows), and adds a web pass on 4 October 2026 aimed at the research job: research operations, participant fraud, consent for AI notetakers, synthetic participants, repositories and readouts. Each pain was paraphrased in under 20 words and mapped to the skill that answers it. Limits: Reddit was reached through search results in the second pass, not read directly; communities lean to venting and opinion; vendor blogs lean optimistic about AI and were used only for the pain they describe. Counts show emphasis, not prevalence, and "sources" and "posts" are different units. No usernames are kept.
 
 ## Sources
 

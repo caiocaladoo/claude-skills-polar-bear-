@@ -49,7 +49,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 No promised performance percentage. A retro is neither investigation nor a substitute for capacity.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S1, S2, S5, S6, S9 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it

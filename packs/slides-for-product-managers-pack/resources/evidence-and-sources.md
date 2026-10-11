@@ -2,15 +2,9 @@
 
 Research checked 3 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named presentation, product or team method faithfully, attributes it to its originator through a public source, and states where the method breaks. It claims that the deck types and the "When to run it" lines come from the decks product people make and from what product and project people say they struggle with. It claims that the Claude Slides features the skills use (drafting from a request in any conversation, direct edits, comments for Claude on a slide, presenting from Claude, a share link, scheduled tasks, turning a doc into a deck, and export as PowerPoint or PDF) are described on official Anthropic pages, and that Claude Slides is in beta.
-
-It does not claim that Claude Slides reads an uploaded PowerPoint template or slide master, writes speaker notes, draws native charts, or exports PowerPoint files with editable text boxes and shapes: none of these was confirmed on an official page when this pack was checked, so no skill relies on them. It does not claim that using these skills makes a deck persuasive, a meeting shorter or a decision better. No source below tested these skills. Most sources describe a method or a practice, not its effect. This is a practice resource, not a validated intervention. Where a source describes one organisation's practice or is published by a vendor, that is stated in its row.
-
-## How the struggles scan was done
-
-This pack reuses three scans already collected for product work, then adds a short web pass on decks. The product scan (26 to 27 September 2026) kept 176 paraphrased pain statements from Reddit, LinkedIn and question-shaped Google searches; a project and delivery scan from the same month added statements about status reports, decisions and team rituals; on 3 October 2026 a deck, update and business case pass regrouped them into 14 product struggles. A web pass the same day added seven deck-specific pains, mostly from third-party reviews of Claude Slides published in its first weeks and from practitioner writing on sprint reviews and kickoffs. Every pain was paraphrased in under 20 words and no usernames were stored. The largest were "updates nobody reads, and dates read as promises", "I cannot distil my work for executives", "decks eat days of building and rework" and "AI output is generic and off-brand". Limits: first-person product voice about decks is thin, many sources are reviewers or vendors, Reddit could not be fetched in the deck pass, and relevance search is not a random sample. Counts show emphasis in what we pulled, not how common a struggle is. The struggles set the order of the pack and the wording of its "When" lines; they did not remove any method.
 
 ## Sources
 

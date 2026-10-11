@@ -1,6 +1,6 @@
 # Evidence and sources
 
-Research checked 10 September 2026. These are original workflows for managerial practice, not a validated intervention, and sources do not endorse the pack. Most studies examined constrained judgments, student participants, or specific forecasting tasks. Organizational choices also involve power, competing values, information quality, and implementation. No evidence here justifies outsourcing human judgment to an AI assistant.
+Research checked 10 September 2026. Most studies examined constrained judgments, student participants, or specific forecasting tasks. Organizational choices also involve power, competing values, information quality, and implementation. No evidence here justifies outsourcing human judgment to an AI assistant.
 
 ## What the evidence supports, and what it does not
 
@@ -38,6 +38,6 @@ Access labels describe material inspected for this pack, not whether a full text
 
 ## Design choices to review in practice
 
-The three-to-five option shortlist is a convenience, not a scientifically optimal number. Qualitative sensitivity questions are a simplified decision-analysis practice, not a validated substitute for expert modeling. Human rights, consultation duties, safety requirements, and confidential information require their own proper processes. No worksheet can legitimate a predetermined choice disguised as consultation.
+Human rights, consultation duties, safety requirements, and confidential information require their own proper processes. No worksheet can legitimate a predetermined choice disguised as consultation.
 
 For a first evaluation, track whether a brief clarified the actual choice, whether new evidence changed an assumption, whether people affected were heard, whether promised actions occurred, and whether review triggers were useful. Do not convert this into a manager score or infer causality from improvement in one case.

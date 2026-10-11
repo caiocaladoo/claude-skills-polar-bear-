@@ -10,10 +10,6 @@ Deux points restent ouverts et sont traités comme des questions pour le juriste
 - la loi n° 2025-989 du 24 octobre 2025 ne dit pas, dans le texte lu, comment les entretiens tenus sous l'ancien régime comptent pour le premier état des lieux récapitulatif du nouveau régime ;
 - l'article L6323-13 sur l'abondement connaît une nouvelle version à compter du 1er janvier 2027 (ordonnance n° 2025-1247 du 17 décembre 2025, article 38), qui porte sur le contrôle des versements ; les skills ne calculent jamais un abondement.
 
-## Comment les difficultés ont été relevées
-
-Les difficultés viennent des notes de recherche web et LinkedIn du profil, complétées par des recherches web ciblées sur la réforme, les trames, les contestations et la formation, sans collecte payante. Les publications LinkedIn ont été lues et paraphrasées, sans nom ni identifiant. Les pages web sont souvent des pages d'éditeurs ou de cabinets : elles ont servi à repérer une difficulté, jamais à fournir un chiffre. Les comptes montrent l'insistance d'un sujet, pas sa fréquence.
-
 ## Sources
 
 | ID | Source et accès | Ce qui en est retenu | Limite, et skills qui l'appliquent |

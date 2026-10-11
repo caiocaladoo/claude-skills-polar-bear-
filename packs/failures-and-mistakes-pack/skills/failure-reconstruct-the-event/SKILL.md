@@ -40,7 +40,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 Every causal assertion is labeled hypothesis; no invented motive or memory; counterevidence is retained.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.

@@ -61,7 +61,7 @@ Invite correction before treating the draft as final.
 Do not invent the other side’s priorities, encourage deceptive bargaining or treat fundamental protections as tradable.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D11, D13, D14 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.

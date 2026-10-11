@@ -45,7 +45,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 Do not create a maturity score or use perceptions alone to establish causes.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S3, S7, S8 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it

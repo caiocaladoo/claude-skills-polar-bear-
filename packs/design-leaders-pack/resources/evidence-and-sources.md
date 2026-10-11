@@ -2,15 +2,9 @@
 
 Research checked 5 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named method or a documented practice faithfully, attributes it to its originator through a public source, and states where it breaks. It claims that the order of the pack and the "When to run it" lines come from what senior designers and design leaders say they struggle with.
-
-It does not claim that using these skills wins a review, proves the value of design, gets anyone promoted or makes a hire fair. No source below tested these skills. Most sources are guidance, originator descriptions of a method or research papers about the method itself, not studies of its effect when used with Claude. This is a practice resource, not a validated intervention. Nothing in the pack is legal or employment advice: employment, accessibility law and regulatory points are framed as questions for a qualified adviser.
-
-## How the struggles scan was done
-
-The pack reuses a profile scan of senior and lead designers' public struggles (open web articles, newsletters and community threads grouped into 14 struggle clusters, and a set of 80 Reddit items paraphrased in under 20 words), then adds a web pass made on 4 October 2026 aimed at design leadership: practitioner articles, public job ads for staff designers, design managers and heads of design, public design career ladders and search snippets. That pass added eight pack-specific pains. No usernames were stored and no competing collection is named. The largest struggles were stakeholders and politics with opinion beating evidence, proving the impact of design, unclear senior growth and the promotion case, and the move from IC to lead where meetings eat the craft. Limits: Reddit appears only through the earlier paraphrased set and search snippets; several sources are newsletters, vendors or course providers and are used only for the pain they describe; job ads and ladders describe what employers ask for, not what the job feels like. "Sources" and Reddit items are different units. Counts show emphasis in what we collected, not how common a struggle is across the profession. The struggles set the order of the pack and the wording of its "When" lines; they did not remove any method.
 
 ## Sources
 

@@ -6,10 +6,6 @@ Recherche vérifiée le 4 octobre 2026 ; sources confirmées le 5 octobre 2026.
 
 Le pack affirme que chaque skill suit une méthode publique ou une règle officielle, citée ci-dessous, et que chaque point juridique renvoie à sa source. Il n'affirme aucun effet mesuré sur la qualité des recrutements, aucun gain de temps chiffré et aucune conformité garantie. Les règles citées résument des textes : elles ne remplacent pas un conseil. Pour chaque point juridique, vérifiez auprès d'un juriste ou d'un avocat en droit social.
 
-## Comment les difficultés ont été relevées
-
-Les difficultés viennent des notes web et LinkedIn du profil (afflux de candidatures et de CV écrits par IA, nouvelle charge de conformité, IA utilisée sans cadre, ghosting, profils rares en intérim, intégrations ratées), complétées par des sources web consultées le 4 octobre 2026, surtout officielles (CNIL, Défenseur des droits, service-public.fr, Légifrance). Aucun scraping payant n'a été lancé. Les comptes montrent l'insistance des sources, pas la fréquence réelle : LinkedIn penche vers les éditeurs et les commentateurs RH, et un blog d'éditeur ne sert jamais pour un chiffre. Aucun nom d'utilisateur ni aucun produit concurrent n'est cité.
-
 ## Sources
 
 | ID | Source et accès | Ce qui est utilisé | Limite, et skill qui l'applique |

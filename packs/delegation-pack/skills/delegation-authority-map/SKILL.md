@@ -22,7 +22,7 @@ Use the minimum useful level of detail and match the user's language.
 ## Method
 1. Begin with the user's proposed boundary between required constraints and choices left to the owner.
 2. List concrete decisions the work requires: method, scope, spend, supplier, client commitment, timing, and release approval where relevant.
-3. For each decision specify one route: owner decides; owner consults then decides; owner recommends and named approver decides; decision retained elsewhere. These are drafting categories, not a validated ladder.
+3. For each decision specify one route: owner decides; owner consults then decides; owner recommends and named approver decides; decision retained elsewhere. These are drafting categories, not a formal ladder.
 4. For consultation distinguish advice from veto power. Set a reasonable response window and what happens if the adviser is unavailable.
 5. Confirm the delegator actually holds the authority being transferred. Missing authority or access becomes a prerequisite with an owner.
 6. State budget, risk, confidentiality, and external-commitment limits in observable terms. Label unknown limits for confirmation; never invent permission.
@@ -42,7 +42,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never imply silence grants permission for a reserved or risky action. Do not override formal controls or transfer authority the user lacks.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R1, R2, R7 in the optional pack evidence notes.

@@ -1,6 +1,6 @@
 # Evidence and sources
 
-Research checked 10 September 2026. This is a focused academic synthesis, not a preregistered systematic review. The numbered evidence map distinguishes intervention research, associations and our own design choices. Academic citations do not imply endorsement.
+Research checked 10 September 2026. This is a focused academic synthesis, not a preregistered systematic review. The numbered evidence map distinguishes intervention research, associations and our own design choices.
 
 ## What the evidence supports
 
@@ -29,9 +29,9 @@ Clear roles, shared information and shared understanding are useful design direc
 
 ## Original design choices
 
-The ten skill boundaries, exact templates, four-norm limit, 40-minute agenda, ten-minute debrief, two-meeting trial and balancing-measure format are Polar Bear workflow choices. They are adjustable, not tested prescriptions. Independent input, no forced disclosure, role-based ownership and explicit human review are implementation safeguards. Before/after trials guide local decisions but cannot isolate causality when staffing, scope or demand changes.
+The ten skill boundaries, exact templates, four-norm limit, 40-minute agenda, ten-minute debrief, two-meeting trial and balancing-measure format are Polar Bear workflow choices. They are adjustable. Independent input, no forced disclosure, role-based ownership and explicit human review are implementation safeguards. Before/after trials guide local decisions but cannot isolate causality when staffing, scope or demand changes.
 
 ## Practical evidence standard
 
-Record what was expected, what happened, one plausible process explanation, at least one alternative and the next observation. Prefer a small useful work artifact over surveillance. Pair a delivery outcome with burden/quality checks. Do not claim a team is failing because an unvalidated AI checklist says so.
+Record what was expected, what happened, one plausible process explanation, at least one alternative and the next observation. Prefer a small useful work artifact over surveillance. Pair a delivery outcome with burden/quality checks. Do not claim a team is failing because an AI checklist says so.
 

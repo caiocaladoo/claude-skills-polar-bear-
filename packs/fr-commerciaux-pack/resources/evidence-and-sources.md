@@ -6,12 +6,6 @@ Recherche vérifiée le 4 octobre 2026 ; sources confirmées le 5 octobre 2026.
 
 Le pack affirme que les méthodes qu'il utilise sont publiques et décrites par les sources ci-dessous, et que les difficultés auxquelles il répond reviennent dans les sources consultées sur le métier commercial B2B en France. Il n'affirme pas que ces méthodes augmentent vos ventes, vos taux de réponse ou vos marges : aucune promesse de résultat, aucun chiffre de performance. Il ne donne pas de conseil juridique : les points sur la prospection et sur le devis renvoient au texte officiel et se terminent par « vérifiez auprès d'un juriste ».
 
-## Comment les difficultés ont été relevées
-
-Les difficultés viennent des notes de recherche web et LinkedIn du profil, complétées par des sources web : fiches métier et offres d'emploi (Apec, HelloWork, France Travail) pour ingénieurs d'affaires, ingénieurs commerciaux et technico-commerciaux, articles de praticiens français, pages officielles (CNIL, service-public) et pages d'éditeurs signalées comme telles. Aucun scraping payant n'a été lancé. Le scan LinkedIn en français n'a rendu presque que des offres d'emploi pour la vente : il n'y a donc pas de voix directe de commerciaux. Les chiffres d'éditeurs ne sont jamais repris. Les comptes de sources montrent une insistance, pas une fréquence.
-
-Difficultés retenues, de la plus citée à la moins citée : les comptes rendus et la saisie CRM qui mangent le temps de vente ; une prospection qui rend moins et des messages écrits par IA qui se ressemblent tous ; un prévisionnel et une revue de pipe au jugé ; des devis qui meurent faute de relance ; la pression sur les prix ; des cycles plus longs avec plus de monde dans la décision ; les propositions et les devis en plus de tout le reste ; la confiance dans ce que produit l'IA.
-
 ## Sources
 
 | ID | Source et accès | Ce qui est utilisé | Limite, et skill qui l'applique |

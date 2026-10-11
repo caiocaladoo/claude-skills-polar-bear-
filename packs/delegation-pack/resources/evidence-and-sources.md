@@ -1,6 +1,6 @@
 # Evidence and sources
 
-Research checked 10 September 2026. These are original practical workflows informed by research, not a tested intervention. A citation supports the limited finding described here; it does not validate the whole skill. Meta-analyses aggregate different tasks, populations, and measures. Associations and statistical mediation do not establish a causal chain. Do not promise a percentage improvement from using this pack.
+Research checked 10 September 2026. A citation supports the limited finding described here; it does not validate the whole skill. Meta-analyses aggregate different tasks, populations, and measures. Associations and statistical mediation do not establish a causal chain. Do not promise a percentage improvement from using this pack.
 
 ## What the evidence changes in the design
 

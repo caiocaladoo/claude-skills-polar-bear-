@@ -47,7 +47,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 A shared wrong model is still wrong. Do not infer expertise from identity, seniority or confidence.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S5, S8 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it

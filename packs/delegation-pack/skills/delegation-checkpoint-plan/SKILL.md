@@ -42,7 +42,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never prescribe a universal daily cadence, monitor private activity, or interpret a request for help as failed delegation.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R5, R7, R8, R9 in the optional pack evidence notes.

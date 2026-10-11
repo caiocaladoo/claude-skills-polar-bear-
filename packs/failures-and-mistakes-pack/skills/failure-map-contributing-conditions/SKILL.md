@@ -40,7 +40,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 No person is the root cause; individual actions remain visible; no causal certainty from one event.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.

@@ -2,13 +2,9 @@
 
 Research checked 27 September 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
-The pack claims that each skill follows a named method or a common manager artifact, that the method is attributed to a public source where one exists, and that the order of the skills reflects what managers say they struggle with. It does not claim that any skill improves engagement, retention, performance or wellbeing. It is a practice resource, not a validated intervention. Several sources are observational or come from one organisation; where that is so, the table says it, and correlation is not treated as causation.
-
-## How the struggles scan was done
-
-On 27 September 2026 we collected public posts and questions from managers and team leads: top and searched threads from Reddit management communities, LinkedIn posts from the previous three months, and question-shaped Google searches. About 960 items were read and 219 were kept as statements of a struggle, paraphrased in under 20 words, then grouped into 15 struggles that set the order of the domains and the "When To Use" wording of each skill. Limits: Reddit leans to venting and dramatic cases, LinkedIn leans to coaches and vendors, and relevance search is not a random sample, so the counts show emphasis in what we pulled, not how common a struggle is among managers. No usernames were kept.
+The pack claims that each skill follows a named method or a common manager artifact, that the method is attributed to a public source where one exists, and that the order of the skills reflects what managers say they struggle with. It does not claim that any skill improves engagement, retention, performance or wellbeing. Several sources are observational or come from one organisation; where that is so, the table says it, and correlation is not treated as causation.
 
 ## Sources
 

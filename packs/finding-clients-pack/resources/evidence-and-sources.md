@@ -2,13 +2,9 @@
 
 Research checked 5 October 2026.
 
-## What this guide claims, and what it does not
+## What this guide claims
 
-It claims that each skill follows a named method or a common practice, attributed to its originator through a public source where one exists, and that the struggles it answers are ones people who sell their own expertise describe often in public. It does not claim that any skill wins clients, raises close rates or shortens sales cycles. It reports no results, and none of the survey figures below describe what using this guide will do. This is a practice resource, not a validated intervention.
-
-## How the struggles scan was done
-
-We read public surveys of firms and independent consultants who sell expertise, practitioner articles, and public forum threads where founders, consultants and agency owners describe how they find and win work, then grouped what they said into recurring struggles (feast or famine, dependence on referrals, no time to sell while delivering, proposals that go silent, discovery with the wrong people, outreach that sounds machine-made, pricing under "AI should make it cheaper", disclosure of AI use). We counted distinct sources and forum items per struggle to set the order of the guide. Counts show emphasis, not prevalence: the forum items lean to agency owners, the surveys are self-reported and mostly North American, and sources and forum items are different units. No usernames are kept.
+It claims that each skill follows a named method or a common practice, attributed to its originator through a public source where one exists, and that the struggles it answers are ones people who sell their own expertise describe often in public. It does not claim that any skill wins clients, raises close rates or shortens sales cycles. It reports no results, and none of the survey figures below describe what using this guide will do.
 
 ## Sources: evidence
 

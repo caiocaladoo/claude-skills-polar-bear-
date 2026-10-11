@@ -2,15 +2,9 @@
 
 Research checked 27 September 2026.
 
-## What the pack claims, and what it does not
+## What the pack claims
 
 **It claims** that each skill follows a named, public method or a plainly described practitioner method: job analysis before criteria, the same questions for every candidate, behavioural and situational questions with planned probes, anchored rating descriptions that interviewers fill in, independent ratings before any group discussion, structured reference calls, realistic job previews, and job-related feedback. Where a skill touches law (pay transparency, disability adjustments, work authorisation, data protection, automated decision rules, agency terms), it points to the public rule and says: check with a qualified adviser.
-
-**It does not claim** that using the pack will improve your hires, cut your time to fill or reduce bias by any amount. The research below reports averages across many studies and settings, not results for one team. Much of it is correlational; correlation is not causation. This is a practice resource, not a validated intervention, and nothing here is legal advice.
-
-## How the struggles scan was done
-
-We collected 198 short pain statements from public sources on 26 and 27 September 2026: top and searched posts in a recruiting forum and a candidate forum on Reddit, recent LinkedIn posts found with three recruiting queries, and question-shaped Google searches from a keyword tool. Each statement was paraphrased in under 20 words, tagged by who has the pain (recruiter, agency recruiter, candidate, talent acquisition leader) and grouped into twelve struggles, which set the order of the domains and the "When to run it" lines. Limits: relevance search is not a random sample, Reddit leans towards venting and US posters, LinkedIn leans towards leaders and vendors, one query word inflated the ghosting count, and candidate posts were used only for candidate experience struggles. The counts show emphasis in what we pulled, not how common a problem is across the profession. No usernames were kept.
 
 ## Sources
 

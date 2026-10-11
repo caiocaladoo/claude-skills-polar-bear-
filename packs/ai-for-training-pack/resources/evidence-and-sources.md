@@ -2,15 +2,9 @@
 
 Research checked 27 September 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 **It claims:** each skill applies a named method or produces a standard L&D artifact; each method is attributed to its originator through a public page, an institution guide or a peer-reviewed paper; and the research below supports the design choices the skills make (retrieval practice in checks, spacing in follow-up, practice with feedback in role-play, managers in transfer, less extraneous content in e-learning).
-
-**It does not claim:** that using the pack improves learning, performance or business results. It has not been tested as an intervention. Most of the learning research below was done with students or in short lab tasks, and the transfer research is largely correlational, so the pack treats it as direction for design, not as a promise. This is a practice resource, not a validated intervention. Cited sources do not imply endorsement.
-
-## How the struggles scan was done
-
-In late September 2026 we collected 1,019 public items and kept 206 pain statements from people doing L&D work: top posts of the past year and in-subreddit searches in r/instructionaldesign, r/Training and r/humanresources (late September 2025 to September 2026), LinkedIn posts from the last three months found with three L&D search phrases, and question-shaped Google searches from a keyword tool. Each statement was paraphrased in under 20 words, tagged with who had the pain, and grouped into 13 struggles plus one out of scope (the job market). The struggles set the order of the domains and the "When" line of each skill. Limits: Reddit leans to instructional designers and venting, LinkedIn leans to L&D leaders and consultants, corporate trainers are under-represented, and relevance search is not a random sample. The counts show emphasis in what we pulled, not how common a problem is across the profession. No usernames were stored and no product or vendor names are carried into the pack.
 
 ## Sources
 

@@ -42,7 +42,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never use this as an automated promotion, compensation, or protected-characteristic audit. Do not claim equal counts alone demonstrate fairness.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R1, R2, R4, R12 in the optional pack evidence notes.

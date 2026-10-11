@@ -1,6 +1,6 @@
 # Evidence and sources
 
-Researched 10 September 2026 with the Firecrawl paper index, related-paper expansion and primary academic web sources. This is a focused evidence review, not a registered systematic review or a test of this pack. References support components; combining them into prompts, output schemas, suggested trial lengths and small outcome lists is original design. No source endorses this pack.
+Researched 10 September 2026 with the Firecrawl paper index, related-paper expansion and primary academic web sources. This is a focused evidence review, not a registered systematic review or a test of this pack. References support components; combining them into prompts, output schemas, suggested trial lengths and small outcome lists is original design.
 
 ## What the evidence supports—and does not
 

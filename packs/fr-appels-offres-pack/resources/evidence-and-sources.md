@@ -8,10 +8,6 @@ Le pack affirme que la réponse à un marché public suit des étapes connues, f
 
 Le pack n'affirme pas qu'il fait gagner des marchés, ni qu'il fait gagner un temps donné. Il ne donne aucun taux de réussite, aucun prix, aucun seuil chiffré qui n'ait été vérifié sur une source officielle. Il ne remplace ni le règlement de consultation, qui prime toujours, ni un juriste : pour chaque point de procédure, vérifiez dans le règlement de consultation et auprès d'un juriste.
 
-## Comment les difficultés ont été relevées
-
-Les difficultés auxquelles répond le pack viennent des notes de recherche web et LinkedIn du profil, complétées par des sources web en français (pages officielles, cabinets d'avocats, presse professionnelle, blogs de praticiens du bid management), sans extraction payante. La lecture LinkedIn n'a donné aucun signal exploitable sur les appels d'offres ; les difficultés propres au pack viennent donc du web. Beaucoup de pages lues sont écrites par des éditeurs d'outils de réponse : elles ont servi à repérer une difficulté, jamais pour un chiffre, et elles ne sont pas citées. Les comptes indiquent l'insistance d'un thème dans les sources lues, pas sa fréquence dans la profession.
-
 ## Sources
 
 | ID | Source et accès | Ce qui est retenu | Limite, et quelle skill l'applique |

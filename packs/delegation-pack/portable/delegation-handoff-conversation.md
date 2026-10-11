@@ -38,7 +38,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never send the handoff, claim someone agreed, or use AI-generated dialogue as a record of an actual conversation.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R1, R3, R5 in the optional pack evidence notes.

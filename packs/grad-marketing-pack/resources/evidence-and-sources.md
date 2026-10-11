@@ -2,17 +2,9 @@
 
 Research checked 4 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims three things. First, that its skills cover the tasks UK graduate and junior marketing job ads actually list: reporting on performance, running social media, writing web and SEO copy, sending email, making assets and supporting campaigns. Second, that each skill applies a named method or a documented practice faithfully, attributes it to its originator through a public source, and says where it breaks. Third, that the "When to run it" lines come from what marketing graduates and junior marketers say they struggle with.
-
-It does not claim that junior marketing ads demand AI skills. They mostly do not: of the 15 ads read for this pack, only 2 asked for AI skills explicitly, 2 more mentioned AI only in context (the name of an apprenticeship standard, a rotation through an AI search team), and 11 did not mention AI at all. The pack's case is different: the junior job is broad, much of it is reporting and writing across many channels, and doing that job well, faster and with every claim checked is what a graduate can show. Surveys of marketing leaders (R2, R3) report an AI skills gap in their teams and some cuts to early-career roles; those are surveys of leaders, not a description of what hiring managers screen for.
-
-It does not claim that using these skills gets anyone a job, an interview or better campaign results. No source below tested these skills. Most sources are guidance, documentation or an originator's description of a method, not studies of its effect. This is a practice resource, not a validated intervention. Nothing in the pack is legal advice: advertising, consumer law and data protection points (the CAP Code, the fake review rules, ad labelling, AI disclosure) are framed as checks and questions, and every one ends with "check with a qualified adviser".
-
-## How the struggles scan was done
-
-We read 15 UK job ads for graduate, entry-level, apprenticeship and junior marketing roles in full on 4 October 2026, from the job boards and careers pages that could be fetched that day (several large boards blocked access), and counted the tasks, tools and AI asks each one listed. We then mapped an earlier scan of graduate struggles (Reddit, LinkedIn posts and web articles, grouped into 13 clusters, reused and not re-read) to the marketing job, and added seven marketing-specific pains from the ads, two Marketing Week articles, a Chartered Institute of Marketing article and press release, and the UK advertising rules. Each pain was paraphrased in under 20 words and no usernames were stored. The loudest were reporting numbers nobody taught you to read (13 of 15 ads), too many channels at once (social in 11, web and SEO in 10, email in 9), and the experience and portfolio ask. Limits: the ad sample is small and opportunistic, shaped by which boards could be fetched, and tilted towards content and social roles; two of the 15 ads sit one step above entry level; the surveys are global or reader samples. "Ads", "findings" and "sources" are different units. Counts show emphasis in what we collected, not how common a task or struggle is across the profession. The struggles set the order of the pack and the wording of its "When" lines; they did not remove any method.
 
 ## Sources
 

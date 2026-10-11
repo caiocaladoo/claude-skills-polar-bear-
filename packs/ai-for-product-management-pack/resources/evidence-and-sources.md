@@ -2,15 +2,9 @@
 
 Research checked 27 September 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named product method faithfully, attributes it to its originator through a public source, and states where the method breaks. It claims that the order of the pack and the "When to run it" lines come from what product managers and product owners say they struggle with.
-
-It does not claim that using these skills makes a product succeed, speeds up delivery or improves any metric. No source below tested these skills. Most sources are practitioner or originator descriptions of a method, not studies of its effect. This is a practice resource, not a validated intervention. Where a source is observational or describes one organisation's practice, that is stated in its row.
-
-## How the struggles scan was done
-
-Between 26 and 27 September 2026 we collected 771 public items: top posts and in-subreddit searches from two product management communities on Reddit, LinkedIn posts from the previous three months found with product-role search terms, and question-shaped Google search terms from US keyword data. We kept 176 pain statements (Reddit 127, LinkedIn 34, Google 15), paraphrased each one in under 20 words, stored no usernames, and grouped them into 14 struggles. The largest were "everything is urgent and I cannot say no", "the role is meetings and tickets", "the AI prototype is mistaken for the product", "specs get misread" and "no time or access for discovery". Limits: Reddit leans to venting and career worry, LinkedIn leans to leaders, coaches, vendors and recruiters, and relevance search is not a random sample. Counts show emphasis in what we pulled, not how common a struggle is across the profession. The struggles set the order of the pack and the wording of its "When" lines; they did not remove any method.
 
 ## Sources
 

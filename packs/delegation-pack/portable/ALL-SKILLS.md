@@ -41,7 +41,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never promise delegation always saves time, infer capability from identity, or assign work without human agreement. Reserved accountability is not erased by this exercise.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R1, R2, R3, R4 in the optional pack evidence notes.
@@ -91,7 +91,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never normalize unpaid extra hours, diagnose burnout, or call added responsibility empowering when resources are absent.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R3, R4, R5 in the optional pack evidence notes.
@@ -142,7 +142,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never invent customer requirements, fabricate agreement, or claim a goal-setting paper validates this exact brief.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R4, R6 in the optional pack evidence notes.
@@ -173,7 +173,7 @@ Use the minimum useful level of detail and match the user's language.
 ## Method
 1. Begin with the user's proposed boundary between required constraints and choices left to the owner.
 2. List concrete decisions the work requires: method, scope, spend, supplier, client commitment, timing, and release approval where relevant.
-3. For each decision specify one route: owner decides; owner consults then decides; owner recommends and named approver decides; decision retained elsewhere. These are drafting categories, not a validated ladder.
+3. For each decision specify one route: owner decides; owner consults then decides; owner recommends and named approver decides; decision retained elsewhere. These are drafting categories, not a formal ladder.
 4. For consultation distinguish advice from veto power. Set a reasonable response window and what happens if the adviser is unavailable.
 5. Confirm the delegator actually holds the authority being transferred. Missing authority or access becomes a prerequisite with an owner.
 6. State budget, risk, confidentiality, and external-commitment limits in observable terms. Label unknown limits for confirmation; never invent permission.
@@ -193,7 +193,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never imply silence grants permission for a reserved or risky action. Do not override formal controls or transfer authority the user lacks.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R1, R2, R7 in the optional pack evidence notes.
@@ -244,7 +244,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never send the handoff, claim someone agreed, or use AI-generated dialogue as a record of an actual conversation.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R1, R3, R5 in the optional pack evidence notes.
@@ -295,7 +295,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never prescribe a universal daily cadence, monitor private activity, or interpret a request for help as failed delegation.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R5, R7, R8, R9 in the optional pack evidence notes.
@@ -345,7 +345,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never refuse urgent help to prevent reverse delegation. Coaching meta-analyses do not establish the effectiveness of this short manager conversation.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R3, R8, R10 in the optional pack evidence notes.
@@ -396,7 +396,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never infer negligence, recommend discipline from one-sided evidence, or hide a takeover behind the word support.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R3, R4, R9 in the optional pack evidence notes.
@@ -447,7 +447,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never fabricate feedback or promise a performance uplift from the debrief. Do not silently change access or records.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R6, R9, R11 in the optional pack evidence notes.
@@ -498,7 +498,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never use this as an automated promotion, compensation, or protected-characteristic audit. Do not claim equal counts alone demonstrate fairness.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R1, R2, R4, R12 in the optional pack evidence notes.

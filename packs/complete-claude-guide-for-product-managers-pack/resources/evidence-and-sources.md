@@ -2,15 +2,9 @@
 
 Research checked 3 October 2026.
 
-## What this guide claims, and what it does not
+## What this guide claims
 
 The guide claims that each skill applies a named product method faithfully, attributes it to its originator through a public source, and states where the method breaks. It claims that the eight stages follow the order public lifecycle sources describe (direction first, evaluation last, and a loop back to discovery), and that the "When to run it" lines come from what product managers and product owners say they struggle with.
-
-It does not claim that using these skills makes a product succeed, speeds up delivery or improves any metric. No source below tested these skills. Most sources are practitioner or originator descriptions of a method, not studies of its effect. This is a practice resource, not a validated intervention. Where a source is observational, describes one organisation's practice or was written for another setting (public spending, the military, model builders), that is stated in its row.
-
-## How the struggles scan was done
-
-Between 26 and 27 September 2026 we collected public items from two product management communities on Reddit, LinkedIn posts from the previous three months found with product-role search terms, and question-shaped Google search terms from US keyword data. We kept 176 pain statements, paraphrased each one in under 20 words, stored no usernames, and grouped them into 14 struggles. On 3 October 2026 we added open-web sources on updates, decks, business cases and AI feature specs, and a small search on team rituals (retros that repeat, updates nobody reads, quarter plans that turn into promises). The largest struggles were "everything is urgent and I cannot say no", "the loudest leader sets the roadmap", "the prototype is mistaken for the product", "the role is meetings and tickets" and "specs get misread". Limits: Reddit leans to venting and career worry, LinkedIn leans to leaders, coaches, vendors and recruiters, the ritual pains rest on a handful of practitioner and vendor pages, and relevance search is not a random sample. Counts show emphasis in what we pulled, not how common a struggle is across the profession. The struggles set the wording of the "When" lines and added the ritual skills; they did not remove any method.
 
 ## Sources
 

@@ -1,6 +1,6 @@
 # Reusable change records
 
-Copy only the block needed. Use aliases and mark assumptions. These are work aids, not validated measures.
+Copy only the block needed. Use aliases and mark assumptions. These are work aids, not formal measures.
 
 ## One-page behavior brief
 - Problem and observed example:

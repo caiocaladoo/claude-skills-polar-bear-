@@ -6,10 +6,6 @@ Recherche vérifiée le 4 octobre 2026 ; sources confirmées le 5 octobre 2026.
 
 Le pack affirme que chaque skill suit une méthode ou un texte public, nommé et daté, et que chaque délai qu'il cite a été lu sur une source officielle à la date ci-dessus. Il n'affirme pas que ces textes s'appliquent à votre situation : votre effectif, votre convention collective, vos accords d'entreprise et la jurisprudence peuvent changer la règle. Chaque point de droit se termine donc par « vérifiez auprès d'un juriste ou d'un avocat en droit social ». Le pack ne donne aucun conseil juridique, ne calcule ni paie, ni indemnité, ni index, et ne promet aucun résultat.
 
-## Comment les difficultés du métier ont été recueillies
-
-Les difficultés viennent des notes de recherche web et LinkedIn du profil (posts publics de personnes RH, baromètres RH français publiés en 2024 et 2025) et de sources web lues pour ce pack, notamment les pages officielles sur les changements de 2026. Aucune collecte payante n'a été faite. Les comptes montrent l'insistance des sources, pas la fréquence d'un problème : un post très partagé et un baromètre ne pèsent pas la même chose, et les sources LinkedIn penchent vers les éditeurs et les consultants. Aucun nom d'utilisateur n'est conservé.
-
 ## Sources
 
 | ID | Source et accès | Ce qui est utilisé | Limite, et skill qui l'applique |

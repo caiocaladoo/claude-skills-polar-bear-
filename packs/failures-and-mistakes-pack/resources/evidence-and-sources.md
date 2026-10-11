@@ -10,7 +10,7 @@ Each entry provides its access level, evidence type, design implication, and pri
 
 | ID | Academic source | Evidence and access | Use and limitation |
 |---|---|---|---|
-| E1 | Dahlin, K. B., Chuang, Y.-T., & Roulet, T. J. (2018). Opportunity, Motivation, and Ability to Learn from Failures and Errors. *Academy of Management Annals*, 12, 252–277. [DOI](https://doi.org/10.5465/annals.2016.0049) | Integrative review; abstract and author manuscript opening. | Reconstruction and causal mapping: distinguish process quality from outcome. Framework synthesis, not a tested incident protocol. |
+| E1 | Dahlin, K. B., Chuang, Y.-T., & Roulet, T. J. (2018). Opportunity, Motivation, and Ability to Learn from Failures and Errors. *Academy of Management Annals*, 12, 252–277. [DOI](https://doi.org/10.5465/annals.2016.0049) | Integrative review; abstract and author manuscript opening. | Reconstruction and causal mapping: distinguish process quality from outcome. Framework synthesis. |
 | E2 | van Dyck, C., Frese, M., Baer, M., & Sonnentag, S. (2005). Organizational Error Management Culture and Its Impact on Performance: A Two-Study Replication. *Journal of Applied Psychology*, 90, 1228–1240. [DOI](https://doi.org/10.1037/0021-9010.90.6.1228) | Two organizational field studies; university-hosted abstract. | Receiving reports and repair: detection, communication, correction matter. Associations in Dutch and German organizations do not establish causal effects. |
 | E3 | Keith, N., & Frese, M. (2008). Effectiveness of Error Management Training: A Meta-Analysis. *Journal of Applied Psychology*, 93, 59–69. [DOI](https://doi.org/10.1037/0021-9010.93.1.59) | Meta-analysis of 24 studies; university abstract and manuscript opening. | Prevention practice: protected exploration can support transfer. Effects vary; not permission to experiment on clients. |
 | E4 | Martin-Delgado, J., Martínez-García, A., Aranaz, J. M., Valencia-Martín, J. L., & Mira, J. J. (2020). How Much of Root Cause Analysis Translates into Improved Patient Safety: A Systematic Review. *Medical Principles and Practice*. [DOI](https://doi.org/10.1159/000508677) | Systematic review, 21 studies; full-text methods/results/discussion sections retrieved from [PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7768139/). | Prevention tests and closure: recommendations and implementation are recurring weaknesses; only limited studies demonstrated safety improvement. Heterogeneous hospital research, much observational; do not infer that analysis alone prevents recurrence. |
@@ -26,7 +26,7 @@ Each entry provides its access level, evidence type, design implication, and pri
 
 ## Original design choices
 
-Containment cards, accountability wording, timeline columns, action ownership, exposure denominators, rollback fields, and closure labels are practical synthesis choices. Research motivates checking implementation and uncertainty; it does not establish these specific templates or time limits. An apology draft is practical communication design, not a research-backed guarantee of trust repair. A two-minute reflection is optional convenience, not a tested dose.
+Containment cards, accountability wording, timeline columns, action ownership, exposure denominators, rollback fields, and closure labels are practical synthesis choices. Research motivates checking implementation and uncertainty; it does not establish these specific templates or time limits. An apology draft is practical communication design, not a research-backed guarantee of trust repair.
 
 ## Research method and boundaries
 

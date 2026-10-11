@@ -2,15 +2,9 @@
 
 Research checked 5 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill follows a named method as its originator or a public institution describes it, or a practitioner convention described generically where no public originator page exists. It claims that the struggles it answers are ones founders, partners and consultants describe in public, in their own words.
-
-It does not claim that any skill wins more work, raises a close rate or shortens a sales cycle. It cites no benchmark for proposal win rates and gives no prices. Where a source reports a survey figure, the figure belongs to that survey's population and is not a finding about your clients. Correlation is not causation: the buyer surveys below are observational.
-
-## How the struggles scan was done
-
-We read public posts and comments by founders, freelancers and consultants about discovery calls, proposals and pricing under AI pressure (a verbatim file compiled 28 September 2026 from forums, community threads and professional posts), practitioner articles on why proposals go silent, and public coverage of buyers who compare firms with AI before meeting them. Each pain was mapped to the skills that answer it. We also read public coverage of a 2025 US class action complaint over an AI notetaker that recorded meeting participants who had not agreed (allegations, not findings): (a law-firm workplace privacy blog on a class action over an AI notetaking tool, August 2025) . Limits: the speakers lean toward freelancers and small firms, the posts are self-selected, quotes, sources and threads are different units, and counts show emphasis, not prevalence. No usernames are kept in the pack.
 
 ## Sources
 
@@ -40,12 +34,12 @@ Methods described generically, with no originator cited because no public origin
 | MEDDIC Qualification | S1 |
 | Buying Committee Map | generic |
 | Bid/No-Bid Decision | generic, S14 |
-| AI-Written Brief Review | generic, struggles scan |
+| AI-Written Brief Review | generic |
 | Pre-Call Research Brief | generic, S14 |
-| Discovery Call Agenda | S3, struggles scan (recording consent) |
+| Discovery Call Agenda | S3 (recording consent) |
 | Discovery Call Questions | S2 |
 | Cost of Inaction | generic |
-| Discovery Call Notes | generic, struggles scan (recording consent) |
+| Discovery Call Notes | generic (recording consent) |
 | Discovery Recap Email | S4 |
 | Problem Statement | S5 |
 | Issue Tree | generic |
@@ -55,7 +49,7 @@ Methods described generically, with no originator cited because no public origin
 | Consulting Proposal | S9 |
 | Win Themes | generic, S14 |
 | Case Study Paragraph | generic |
-| AI Use Statement | S12, struggles scan |
+| AI Use Statement | S12 |
 | Statement of Work | S8 |
 | Proposal Red Team Review | generic |
 | Proposal Walk-Through Deck | generic |

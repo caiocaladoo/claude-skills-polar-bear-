@@ -56,7 +56,7 @@ Invite correction before treating the draft as final.
 Do not equate disagreement volume with quality, score people’s courage, or use a devil’s advocate role as proof that all views were heard.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D1–D3, D8 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.

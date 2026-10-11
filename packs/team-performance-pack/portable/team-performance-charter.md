@@ -47,7 +47,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 A charter cannot create budget or authority. Student simulation findings do not establish agency results.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S4, S7 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it

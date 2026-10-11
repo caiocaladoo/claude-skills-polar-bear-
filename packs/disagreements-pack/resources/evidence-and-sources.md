@@ -1,6 +1,6 @@
 # Evidence and sources
 
-Research checked 10 September 2026. This is a focused research synthesis, not a systematic review. Searches used Firecrawl’s paper index, citation-related expansion and online primary sources. Full text was not available for every paper. These original workflows combine research-informed ideas with practical design; no study evaluated this pack, its AI prompts, or its effectiveness in agencies of 20–200 people.
+Research checked 10 September 2026. This is a focused research synthesis, not a systematic review. Searches used Firecrawl’s paper index, citation-related expansion and online primary sources. Full text was not available for every paper.
 
 ## What the evidence changes
 
@@ -33,6 +33,6 @@ The skill references below use shortened endings of `disagreement-…` names.
 
 ## Original design choices and limits
 
-The issue categories, worksheets, output schemas, timing suggestions, stop conditions and AI interaction pattern are original practice design. They have not been evaluated as a package. Serious harm allegations are outside ordinary disagreement facilitation; the independent-route safeguards are prudent boundaries, not an empirically validated reporting protocol.
+The issue categories, worksheets, output schemas, timing suggestions, stop conditions and AI interaction pattern are original practice design. Serious harm allegations are outside ordinary disagreement facilitation; the independent-route safeguards are prudent boundaries, not an empirically validated reporting protocol.
 
-Many studies use students, simulations, self-report or settings outside small professional-services businesses. Meta-analyses aggregate heterogeneous measures and do not automatically eliminate confounding, reverse causation or publication bias. The source set was selected for relevance and opposing findings, not exhaustiveness. No study or author endorses this pack.
+Many studies use students, simulations, self-report or settings outside small professional-services businesses. Meta-analyses aggregate heterogeneous measures and do not automatically eliminate confounding, reverse causation or publication bias. The source set was selected for relevance and opposing findings, not exhaustiveness.

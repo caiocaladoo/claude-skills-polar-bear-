@@ -2,15 +2,9 @@
 
 Research checked 27 September 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named method or a common support artifact faithfully, attributes it to a public source, and was chosen because support people describe the problem it addresses. It claims that the red line (a person answers anyone upset, at risk or asking for an exception, and no customer is told a bot is a person) is consistent with public guidance on workplace abuse, customer attitudes to AI in service, a regulator's warning about chatbot loops, and EU transparency rules.
-
-It does not claim that any skill improves satisfaction, resolution times, retention or staff wellbeing. None of the skills has been tested in a trial. Where a source is a survey or observational study, it shows association, not cause. Where a source is a vendor or consultancy, it is labelled as such. This is a practice resource, not a validated intervention. Legal and regulatory points (refund law, duties toward staff facing abuse, AI disclosure) differ by country: check with a qualified adviser.
-
-## How the struggles scan was done
-
-Between 26 and 27 September 2026 we collected 994 public items and kept 202 pain statements: top posts and comments from support and customer success communities on Reddit, searches inside those communities, recent LinkedIn posts about support teams, and question-shaped Google searches with their US monthly volumes. Each statement was paraphrased in under 20 words, tagged by who has the pain, and grouped into 13 struggles, which set the order of the skills and the words in each "When To Use". A second, small LinkedIn run looked only at the bot handoff. Limits: Reddit leans toward frontline agents and venting, LinkedIn toward vendors, consultants and leaders, and relevance search is not a random sample, so counts show emphasis, not prevalence. Near-duplicate Google questions share one volume and were counted once. No usernames were stored.
 
 ## Sources
 

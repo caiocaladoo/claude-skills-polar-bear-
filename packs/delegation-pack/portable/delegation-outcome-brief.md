@@ -38,7 +38,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never invent customer requirements, fabricate agreement, or claim a goal-setting paper validates this exact brief.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R4, R6 in the optional pack evidence notes.

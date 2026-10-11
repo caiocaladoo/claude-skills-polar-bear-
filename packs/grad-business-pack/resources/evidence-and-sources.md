@@ -2,17 +2,11 @@
 
 Research checked 4 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named method or a documented practice faithfully, attributes it to its originator through a public source, and states where it breaks. It claims that the order of the pack and the "When to run it" lines come from what employers say about entry-level work and from what business graduates say they struggle with.
 
-It does not claim that using these skills gets anyone a job, an interview, a grade or a promotion. No source below tested these skills. Most sources are guidance, documentation, careers advice or originator descriptions of a method, not studies of its effect. Employer surveys describe what recruiters say they want; they are observational and do not show that any skill causes a hiring outcome. This is a practice resource, not a validated intervention. Nothing in the pack is legal, data protection or financial advice: those points are framed as questions for a qualified adviser. Course work stays within your university's rules, and work tasks within your employer's AI policy.
-
 The pack names the AI Fluency framework and its four competencies (Delegation, Description, Discernment, Diligence) and links the framework and Anthropic's course. The framework is released under a Creative Commons BY-NC-SA licence; the pack describes the competencies in its own words and does not reproduce course text, diagrams or the framework's sub-categories.
-
-## How the struggles scan was done
-
-The pack reuses a scan of graduate struggles collected for this profile in late September 2026 (web pages, careers-service articles, survey reports and search snippets, grouped into 13 struggle clusters), and adds a pass on 4 October 2026 aimed at business graduates and AI: employer survey pages, a UK jobs trends report, careers advice pages, one job board read as listing summaries, and Claude's product documentation. About ten web searches were run; Reddit could not be fetched in that pass, so no forum voices were added. Each finding was paraphrased in under 20 words, no usernames were stored, and the result was grouped into nine pack-specific pains. The largest were "not AI-ready while employers make AI literacy a baseline", "entry work shifts from producing to judging AI output", "applications that all sound the same and are distrusted", "no experience to show" and "unclear rules on using and disclosing AI". Limits: employer surveys lean to large graduate recruiters; the job board was read as summaries on one day; the "how do you use AI?" interview question is supported mainly by careers blogs. "Findings" and "sources" are different units. Counts show emphasis in what we collected, not how common a struggle is. The struggles set the order of the pack and the wording of its "When" lines; they did not remove any method.
 
 ## Sources
 

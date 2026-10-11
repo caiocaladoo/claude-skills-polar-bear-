@@ -2,15 +2,9 @@
 
 Research checked 4 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named method, a platform's own documented feature or a documented practice faithfully, attributes it through a public source, and states where it breaks. It claims that the order of the pack and the "When to run it" lines come from what final-year students and new graduates say they struggle with on LinkedIn, and from what UK careers guidance and LinkedIn's own pages advise.
-
-It does not claim that using these skills gets anyone a job, an interview, a recruiter message, more views or more connections. No source below tested these skills. Most sources are platform help pages, policies, careers guidance or originator descriptions of a method, not studies of their effect. This is a practice resource, not a validated intervention. LinkedIn's features, limits and policies change; the pack quotes only what LinkedIn's own pages stated on the check date and otherwise says "within LinkedIn's current limit". Nothing in the pack is legal advice: points on the User Agreement, confidentiality, employer social media policies or data protection end with "check with a qualified adviser". Where a source is older, a marketing page or a single guide, its row says so.
-
-## How the struggles scan was done
-
-The pack reuses a profile-wide scan of graduate job-search struggles (13 clusters from UK careers press, surveys and forums, collected for this set of packs) and adds a LinkedIn-specific web pass on 4 October 2026: LinkedIn's help and policy pages, UK careers-service and graduate careers guides, and thread titles and search snippets from a UK student forum and a non-UK professional forum. Reddit could not be reached in this pass. Each statement was paraphrased in under 20 words and no usernames were stored. The pass added 11 pack-specific pains, the largest being "sounds like everyone else's AI", "nothing to put on it", "overclaiming", "fear of posting" and "being seen without spamming or risking the account". Limits: forum snippets are short and some threads are old; the "cringe" voices come from a non-UK forum and are tone evidence only; recruiter-usage statistics seen in search results came from vendor sites with no traceable method and none is used. Findings, sources and threads are different units. Counts show emphasis in what we collected, not how common a struggle is among graduates. The struggles set the order of the pack and the wording of its "When" lines; they did not remove any method.
 
 ## Sources
 

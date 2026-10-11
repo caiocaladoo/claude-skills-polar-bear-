@@ -41,7 +41,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never normalize unpaid extra hours, diagnose burnout, or call added responsibility empowering when resources are absent.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R3, R4, R5 in the optional pack evidence notes.

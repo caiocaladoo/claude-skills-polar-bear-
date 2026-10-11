@@ -2,15 +2,9 @@
 
 Research checked 3 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill produces one document a product person writes, applies a named method or artifact faithfully, attributes it to its originator through a public source, and states where the method breaks. It claims that the order of the pack and the "When to run it" lines come from what product managers, product owners and heads of product say they struggle with, and that the surface notes (Claude Docs, Claude for Word, Claude in Google Docs, Google Docs from chat) match Anthropic's own pages on the check date.
-
-It does not claim that these skills make a product succeed, get a document read or improve any metric. No source below tested these skills. Most sources describe a method or an organisation's practice; they are not studies of its effect. This is a practice resource, not a validated intervention. Claude Docs and Claude in Google Docs are in beta, so their features can change after the check date.
-
-## How the struggles scan was done
-
-The pack reuses an earlier scan of public posts from product communities, LinkedIn and question-shaped search terms (176 product statements and a separate set from project and delivery roles, each paraphrased in under 20 words with no usernames stored, grouped into struggles), updated on 3 October 2026 with new web sources on writing at work: practitioner blog posts and newsletters, discussion threads on a technology forum, press coverage of a management article on low-effort AI work, and one third-party test of AI writing tells. The loudest struggles were "everything is urgent and I cannot say no", "decisions do not stick", "specs get misread, go unread or are AI-bloated", "updates take hours and get skimmed in seconds" and "AI output is generic and off-template". Limits: the forum leans to engineers, who read PM specs rather than write them; no Reddit or LinkedIn collection was run this time; press figures on low-effort AI work were not checked at the source, so none is used. Counts show emphasis in what was collected, not how common a struggle is across the profession. The struggles set the order and the "When" lines; they did not remove any method.
 
 ## Sources
 

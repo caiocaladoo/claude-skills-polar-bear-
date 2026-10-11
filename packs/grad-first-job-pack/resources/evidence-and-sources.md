@@ -2,15 +2,9 @@
 
 Research checked 4 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named method or a documented practice faithfully, attributes it to its originator through a public source, and states where it breaks. It claims that the order of the pack follows what new starters do in their first 90 days, and that the "When to run it" lines come from what graduates and new starters say they struggle with, including unclear AI rules at work.
-
-It does not claim that using these skills makes anyone faster, better rated, safer from mistakes, compliant with any law or policy, or more likely to pass probation or be promoted. No source below tested these skills. Most sources are guidance, documentation or originator descriptions of a method, not studies of its effect. This is a practice resource, not a validated intervention. Your employer's AI policy always overrides anything in the pack. Nothing in the pack is legal advice: employment, contract, probation and data protection points are framed as questions for HR or a qualified adviser. Anthropic's plan settings change; the pack tells you to re-check them on the privacy centre before relying on them.
-
-## How the struggles scan was done
-
-The pack reuses a web scan of graduate struggles collected in August 2026 (employer and student surveys, careers services, official pages, grouped into 13 clusters), a weak Reddit pull from the same period, and a pack-specific pass on 4 October 2026 using web search, direct fetches of official UK guidance and Anthropic pages, and Google UK autocomplete ("first 90 days in a new job", "can I use ChatGPT at work", "what not to put into ChatGPT"). Reddit was not fetched in the new pass. Each statement was paraphrased in under 20 words and no usernames were stored. The new pass added seven pains: no clear AI rules at work, hidden or banned AI use, over-reliance and lost learning, data pasted into public tools, overwhelm and fear of asking, lost confidence in one's own writing, and unchecked AI output. Limits: employer surveys lean to large graduate recruiters; several figures come from vendor surveys read through press summaries; one pain (lost confidence in writing) rests on a search snippet only and is not used as evidence; the guidance sources describe what should happen, not how often things go wrong. Counts show emphasis in what we collected, not how common a struggle is. The struggles set the order of the pack and the wording of its "When" lines; they did not remove any method.
 
 ## Sources
 

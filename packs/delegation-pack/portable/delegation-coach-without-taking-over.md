@@ -37,7 +37,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never refuse urgent help to prevent reverse delegation. Coaching meta-analyses do not establish the effectiveness of this short manager conversation.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R3, R8, R10 in the optional pack evidence notes.

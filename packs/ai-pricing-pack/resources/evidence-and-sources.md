@@ -2,13 +2,9 @@
 
 Research checked 5 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
-The pack claims that each skill follows a named, public method (or a plainly described practitioner convention) and that the struggles it answers are ones people who sell their expertise describe in their own words. It does not claim that any skill raises prices, wins work, protects margin or keeps a client. It contains no market rates, no benchmarks and no competitor prices: every number in a finished output comes from the person using it. The figures quoted below describe the research context only and are never used as a target, a norm or an input to a price. This is a practice resource, not a validated intervention. Cited sources do not imply endorsement.
-
-## How the struggles scan was done
-
-We mapped struggles already collected for this work (verbatim posts and comments from public forums, a few public professional posts, and published surveys, gathered between late September and early October 2026) and grouped them into themes and founder questions, then checked each theme against public reporting and surveys with web search and direct page reads. Every skill's "When" line comes from one of those themes. Limits: counts show emphasis, not prevalence; quotes and sources are different units; many of the loudest voices are freelancers rather than owners of a firm; some forum pages could only be reached through archives; no forum data was collected for this pack beyond the existing set. No usernames are kept and no competitor is named.
+The pack claims that each skill follows a named, public method (or a plainly described practitioner convention) and that the struggles it answers are ones people who sell their expertise describe in their own words. It does not claim that any skill raises prices, wins work, protects margin or keeps a client. It contains no market rates, no benchmarks and no competitor prices: every number in a finished output comes from the person using it. The figures quoted below describe the research context only and are never used as a target, a norm or an input to a price.
 
 ## Sources
 

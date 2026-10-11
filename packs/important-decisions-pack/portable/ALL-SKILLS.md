@@ -53,7 +53,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R1, R2; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.
@@ -112,7 +112,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R1; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.
@@ -171,7 +171,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R2; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.
@@ -230,7 +230,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R3, R4, R5; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.
@@ -289,7 +289,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R6, R7, R8, R9; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.
@@ -348,7 +348,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R10, R11, R12; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.
@@ -407,7 +407,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R13; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.
@@ -466,7 +466,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R2, R3; original decision-analysis workflow; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.
@@ -525,7 +525,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R14, R15; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.
@@ -584,7 +584,7 @@ Keep the depth proportionate to the consequences and time available.
 Do not choose for the human, infer consent, or dress a preferred answer as objective science.
 Do not rank individuals for employment decisions or turn rights into a weighted score.
 For regulated, legal, medical, or investment matters, organize process questions for qualified review.
-This is an original practice workflow, not a validated decision intervention.
+Do not promise that this workflow will improve the decision's outcome.
 Research basis for reviewers: R14, R8, R9; details are in the pack evidence notes.
 
 Part of Polar Bear’s Important Decisions Pack · v1.0.0 · Internal and client use; not for resale.

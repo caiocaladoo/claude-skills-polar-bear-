@@ -1,6 +1,6 @@
 # Evidence and sources
 
-Prepared 17 September 2026. These are original Polar Bear practice tools informed by the sources below. No source author or publisher endorses this pack. We have not tested whether using these skills improves psychological safety or workplace outcomes.
+Prepared 17 September 2026. These are original Polar Bear practice tools informed by the sources below.
 
 ## The article behind this pack
 
@@ -24,7 +24,7 @@ The Harvard repository abstract describes a field study of 51 teams in one manuf
 
 ## Polar Bear's design choices
 
-The six workflows, output formats, templates, and fictional examples are our practical interpretation. They are not a validated assessment or an implementation prescribed by the source authors.
+The six workflows, output formats, templates, and fictional examples are our practical interpretation.
 
 | Source idea | Practical design choice |
 |---|---|

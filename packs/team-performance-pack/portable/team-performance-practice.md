@@ -47,7 +47,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 Practice is not appraisal or proof of real-world transfer. Avoid crisis simulations beyond facilitator competence.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S3, S6, S14 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it

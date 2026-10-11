@@ -40,7 +40,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 No premature root-cause claim; no destructive cleanup; no unauthorized promise.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.
@@ -96,7 +96,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 Repair is specific; affected people need not reassure the person who erred; words do not substitute for correction.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.
@@ -152,7 +152,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 Every causal assertion is labeled hypothesis; no invented motive or memory; counterevidence is retained.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.
@@ -208,7 +208,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 No person is the root cause; individual actions remain visible; no causal certainty from one event.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.
@@ -264,7 +264,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 No retaliation, blanket immunity, forced public confession, or employee scoring.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.
@@ -320,7 +320,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 No forced positivity; no guarantee of resilience; no excusing harm; no diagnostic labels.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.
@@ -376,7 +376,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 A recommendation has an owner and test; error reporting increases are not automatically worsening safety.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.
@@ -432,7 +432,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 Closed does not mean risk-free; implementation is not proof; lessons reach a real owner.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.

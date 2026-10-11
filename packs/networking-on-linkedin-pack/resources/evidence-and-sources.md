@@ -2,15 +2,9 @@
 
 Research checked 5 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named method or a plainly described practice faithfully, attributes named methods to their originator through a public source, and states where each method breaks. It claims that the order of the pack (a brief, your own data, fit before closeness, names chosen by hand, sourced research, a reason to write, your own message, small runs, introductions) follows a networking method described generically here, and that the "When to run it" lines come from what people who sell their own expertise say they struggle with.
-
-It does not claim that using these skills brings introductions, clients or revenue, or improves any number. No source below tested these skills. The surveys describe what respondents report, not cause and effect: a survey showing that people you know are a top source of work does not show that more networking produces more work. The academic studies on ties were run on job seekers and executives, not on people winning clients, and are applied here by analogy. This is a practice resource, not a validated intervention.
-
-## How the struggles scan was done
-
-On 4 October 2026 we combined three passes. A free web pass read agency and consulting surveys, consulting and agency media, practitioner newsletters and official Anthropic pages, and grouped what we found into 14 struggles. A scan of top posts from the past year in two Reddit communities (agency owners and consultants) kept 80 items and two top comments each, paraphrased every pain in under 25 words and stored no usernames. A short pack-specific pass added seven pains about asking for and making introductions from public research pages and an originator's post. The loudest struggles for this pack were: work that depends on a few people sending it, with nothing in place when they stop; contacts that go cold between needs; past clients nobody keeps in touch with; asking for introductions that feels awkward and rarely works; and outreach that reads as written by AI. Limits: the Reddit items came almost entirely from the agency community, so consultants and advisers are represented mostly by the web pass; top-of-year posts favour success stories; vendor blogs inflate the pains they sell against, and their figures were not used; relevance search is not a random sample. Counts show emphasis in what we pulled, not how common a struggle is. Web sources and Reddit items are different units and are never added together.
 
 ## Sources
 

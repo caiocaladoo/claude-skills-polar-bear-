@@ -10,7 +10,7 @@ A pilot gives local learning. Without a credible comparison it cannot establish 
 
 ## Academic source ledger
 
-Access labels describe what was actually retrieved: **body** means relevant full-text sections; **abstract** means abstract or author/publisher summary only; **record** means bibliographic record and limited retrieved passages. Source links do not imply endorsement.
+Access labels describe what was actually retrieved: **body** means relevant full-text sections; **abstract** means abstract or author/publisher summary only; **record** means bibliographic record and limited retrieved passages.
 
 | ID and reference | Evidence and access | Finding, limitation and use |
 |---|---|---|

@@ -42,7 +42,7 @@ Distinguish facts, hypotheses, and original suggestions.
 
 ## What you never do
 Never fabricate feedback or promise a performance uplift from the debrief. Do not silently change access or records.
-This is a preparation aid, not a validated intervention or a substitute for accountable human judgment.
+This is a preparation aid, not a substitute for accountable human judgment. Do not promise outcomes.
 
 ## Evidence boundary
 Research pointers: R6, R9, R11 in the optional pack evidence notes.

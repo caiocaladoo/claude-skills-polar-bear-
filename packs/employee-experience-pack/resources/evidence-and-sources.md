@@ -1,6 +1,6 @@
 # Evidence and sources
 
-Research checked 10 September 2026. These are original workflows informed by research, not a validated employee-experience intervention or a proprietary assessment. Evidence was gathered through Firecrawl's paper index, related-paper expansion, and primary publisher, university, PubMed, and PMC pages. Full-text access was uneven. A literature review is not necessarily a meta-analysis, and a meta-analysis of associations does not establish that this pack causes improvement.
+Research checked 10 September 2026. Evidence was gathered through Firecrawl's paper index, related-paper expansion, and primary publisher, university, PubMed, and PMC pages. Full-text access was uneven. A literature review is not necessarily a meta-analysis, and a meta-analysis of associations does not establish that this pack causes improvement.
 
 ## What the evidence supports
 
@@ -28,6 +28,6 @@ The templates, step sequences, three-question pulse, prioritization criteria, an
 
 ## Limits of the synthesis
 
-This is a focused evidence review, not an exhaustive systematic review. Index coverage favors biomedical literature; organizational-behavior sources required web searches. Reviews may overlap in primary studies and must not be counted as independent replications. Several papers were accessible only as abstracts or partial excerpts. Agency-specific effectiveness, accessibility trade-offs, confidentiality choices, and causal improvements from these AI prompts have not been tested.
+This is a focused evidence review, not an exhaustive systematic review. Index coverage favors biomedical literature; organizational-behavior sources required web searches. Reviews may overlap in primary studies and must not be counted as independent replications. Several papers were accessible only as abstracts or partial excerpts.
 
 Use proximal work observations alongside optional employee input. Do not repurpose a pulse as a diagnostic instrument or employee rating system. Improvements can help one group while worsening another group's work. Meaningful human review therefore includes whose burden changed and who was not heard.

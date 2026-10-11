@@ -2,13 +2,9 @@
 
 Research checked 5 October 2026.
 
-## What the pack claims, and what it does not
+## What the pack claims
 
 The pack claims that each skill follows a method with a public source, applied to one person who sells their own expertise. It claims that LinkedIn's own rules forbid the shortcuts the pack refuses (pods, automation, scraping). It does not claim that any skill brings more clients, more reach or more conversations. It gives no benchmarks, posting frequencies that "work", or reply rates. Brand research (the 95-5 rule) is applied here to a person as a principle, not a promise. Findings on trust and AI disclosure come from lab experiments and a design framework, not from studies of LinkedIn.
-
-## How the struggles scan was done
-
-We mapped the struggles of people who sell their own expertise from earlier scans of public Reddit threads, web articles and practitioner newsletters, plus web searches and page reads in October 2026. Each struggle was tagged and grouped: visibility that brings no conversations, AI-sounding content, no time and no ideas while delivering, vague positioning, networking without follow-up, whether to say you use AI, rule-breaking shortcuts, and presence that pays late. Limits: Reddit could not be searched again in this run; counts show emphasis, not prevalence; sources and threads are different units; vendor and practitioner figures were not used. No usernames are kept.
 
 ## Sources
 

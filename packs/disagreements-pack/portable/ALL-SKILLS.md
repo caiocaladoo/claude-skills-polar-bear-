@@ -60,7 +60,7 @@ Invite correction before treating the draft as final.
 Do not call one side irrational or force an issue into a single category. Do not manufacture conflict because dissent is supposedly always beneficial.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D1–D3, D6 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.
@@ -126,7 +126,7 @@ Invite correction before treating the draft as final.
 Do not turn absence of evidence into proof of dishonesty. No access to private systems or external actions is implied.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D7, D8, D11 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.
@@ -192,7 +192,7 @@ Invite correction before treating the draft as final.
 Do not claim listening will persuade someone or that imagined perspective taking reveals their motives. Do not require disclosure of private experiences.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D4, D5, D7 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.
@@ -258,7 +258,7 @@ Invite correction before treating the draft as final.
 Do not disguise agreement, flatter, threaten or write manipulative scripts. Do not mistake polite language for a fair process.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D6, D8, D12 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.
@@ -324,7 +324,7 @@ Invite correction before treating the draft as final.
 Do not invent consensus or imply consultation grants veto rights. Do not put serious misconduct allegations through peer mediation.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D9, D10, D12 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.
@@ -390,7 +390,7 @@ Invite correction before treating the draft as final.
 Do not equate disagreement volume with quality, score people’s courage, or use a devil’s advocate role as proof that all views were heard.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D1–D3, D8 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.
@@ -456,7 +456,7 @@ Invite correction before treating the draft as final.
 Do not invent the other side’s priorities, encourage deceptive bargaining or treat fundamental protections as tradable.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D11, D13, D14 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.
@@ -522,7 +522,7 @@ Invite correction before treating the draft as final.
 Do not instruct people to tolerate abuse, calm down on command, or withdraw a substantive concern to restore harmony.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D1–D3, D4–D6 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.
@@ -588,7 +588,7 @@ Invite correction before treating the draft as final.
 Do not label silence as consent or use “disagree and commit” to silence new evidence or legitimate reporting.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D9, D10, D13 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.
@@ -654,7 +654,7 @@ Invite correction before treating the draft as final.
 Do not treat absence of complaints as satisfaction or a good result as proof that the process was fair. Do not maintain employee conflict dossiers.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D9, D10 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.

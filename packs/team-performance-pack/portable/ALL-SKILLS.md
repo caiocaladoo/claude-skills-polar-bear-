@@ -54,7 +54,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 Do not create a maturity score or use perceptions alone to establish causes.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S3, S7, S8 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it
@@ -116,7 +116,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 A charter cannot create budget or authority. Student simulation findings do not establish agency results.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S4, S7 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it
@@ -178,7 +178,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 Silence is not agreement. Do not promise anonymity in small teams or override policy.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S4, S10, S13 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it
@@ -242,7 +242,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 No promised performance percentage. A retro is neither investigation nor a substitute for capacity.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S1, S2, S5, S6, S9 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it
@@ -304,7 +304,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 Keep emotional support optional and separate. Do not impose trauma processing or blame.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S1, S2, S6 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it
@@ -366,7 +366,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 Do not promise service levels beyond capacity or authorize contractual commitments.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S5, S7, S8 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it
@@ -430,7 +430,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 Satisfaction does not prove improved delivery. Do not record or analyze participants without appropriate permission.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S5, S11, S12 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it
@@ -492,7 +492,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 A shared wrong model is still wrong. Do not infer expertise from identity, seniority or confidence.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S5, S8 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it
@@ -554,7 +554,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 Practice is not appraisal or proof of real-world transfer. Avoid crisis simulations beyond facilitator competence.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S3, S6, S14 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it
@@ -618,7 +618,7 @@ Name owner and review or mark unassigned. Ask the user to make the final judgmen
 
 No significance claim from tiny convenience samples. A two-week trial is a design choice, not an optimal scientific dose.
 For harassment, retaliation or formal employment concerns, use an appropriate safe human route.
-Research informs design; this AI workflow is not a validated intervention.
+Do not promise that this workflow will improve outcomes.
 Evidence map: S2, S3, S6, S9 in the pack evidence notes. No external files are needed to run this skill.
 
 ## Try it

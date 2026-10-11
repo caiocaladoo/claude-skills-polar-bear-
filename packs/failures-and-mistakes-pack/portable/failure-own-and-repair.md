@@ -36,7 +36,7 @@ End with the human decision or verification needed next.
 ## Quality checks
 Repair is specific; affected people need not reassure the person who erred; words do not substitute for correction.
 Check that each commitment has an owner and time or a clearly marked gap.
-Do not imply this workflow is a validated intervention.
+Do not promise that this workflow will improve outcomes.
 
 ## Limits
 Use the responsible incident or specialist route when the situation exceeds ordinary management preparation.

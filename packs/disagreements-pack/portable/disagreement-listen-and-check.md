@@ -56,7 +56,7 @@ Invite correction before treating the draft as final.
 Do not claim listening will persuade someone or that imagined perspective taking reveals their motives. Do not require disclosure of private experiences.
 Do not infer motives, diagnose people, assess credibility from tone or decide formal employment matters.
 Do not promise consensus, persuasion or improved team performance.
-These are original practice workflows informed by research, not validated interventions.
+Do not promise that these workflows will improve outcomes.
 
 Evidence map: D4, D5, D7 in the pack’s optional evidence resource.
 Polar Bear · Disagreements Pack · Version 1.0.0.

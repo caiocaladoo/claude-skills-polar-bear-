@@ -2,15 +2,9 @@
 
 Research checked 3 October 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill applies a named method or a documented practice faithfully, attributes it to its originator through a public source, and states where it breaks. It claims that the order of the pack and the "When to run it" lines come from what people building AI features say they struggle with.
-
-It does not claim that using these skills makes an AI feature accurate, safe, compliant, cheaper or successful. No source below tested these skills. Most sources are guidance, documentation or originator descriptions of a method, not studies of its effect. This is a practice resource, not a validated intervention. Where a source is a survey, a single author's case or vendor documentation that changes with each release, its row says so. Nothing in the pack is legal advice: legal, privacy and regulatory points are framed as questions for a qualified adviser. The usage and pricing skill produces an estimate to test on a small sample, not pricing advice.
-
-## How the struggles scan was done
-
-The pack reuses a scan collected on 26 and 27 September 2026 (176 pain statements from two product management communities on Reddit, LinkedIn posts from the previous three months and question-shaped Google search terms, grouped into 14 struggles), a matching scan for project roles, and a combined ranking refreshed on 3 October 2026. On 3 October we added a web pass aimed at AI features: Hacker News threads, practitioner newsletters, survey reports, security press and the Claude platform release notes. Reddit could not be reached in that pass. Each statement was paraphrased in under 20 words, no usernames were stored, and the result was grouped into 11 pack struggles. The largest were "the demo is mistaken for the product", "quality is judged by vibes and nobody owns evals", "silent regressions after a prompt or model change", "cost per task blows up" and "leaders expect one accuracy number". Limits: the new pass leans to engineers and to people who write about AI work rather than first-person venting; security press is not a product voice; some figures in circulation come from vendors or aggregators and were not used. "Statements" and "sources" are different units. Counts show emphasis in what we collected, not how common a struggle is across the profession. The struggles set the order of the pack and the wording of its "When" lines; they did not remove any method.
 
 ## Sources
 

@@ -2,15 +2,9 @@
 
 Research checked 27 September 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 It claims that each skill follows a method described in public guidance or by an institution, attributed below, and that the order and the "when to run it" lines come from what HR practitioners say they struggle with.
-
-It does not claim that using these skills improves any outcome: fewer claims, better retention, fairer pay or anything else. It does not give legal advice. Employment law differs by country, state and province and changes often; several sources below changed during 2025 and 2026. Every legal point in the pack is marked for a qualified adviser. This is a practice resource, not a validated intervention.
-
-## How the struggles scan was done
-
-We collected public posts and questions from HR practitioners and employees in September 2026: top posts of the past year and in-community searches from two HR forums on Reddit (one for practitioners, one where employees ask HR questions), LinkedIn posts from the past three months, and question-shaped Google searches with US volumes. From 823 raw items we kept 191 pain statements, paraphrased each one in under 20 words and grouped them into 14 struggles. No usernames were stored. Limits: the Reddit sample leans to US posters and to venting; a share of the LinkedIn items came from sellers describing the problem they sell against; some search terms were chosen with skill candidates in mind, which adds statements to those struggles. The counts show emphasis in what we pulled, not how common a problem is across the profession.
 
 ## Sources
 

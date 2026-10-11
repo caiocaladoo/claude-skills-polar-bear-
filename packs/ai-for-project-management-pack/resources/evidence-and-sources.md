@@ -2,15 +2,9 @@
 
 Research checked 27 September 2026.
 
-## What this pack claims, and what it does not
+## What this pack claims
 
 The pack claims that each skill follows a method described in a public source (government project delivery guidance, an originator's guide or paper, or an institution's practitioner library), and that the skills were chosen from what project, delivery and programme managers say they struggle with.
-
-It does not claim that using these skills makes projects succeed, finish sooner or cost less. None of the sources below tested these skills. Several are guidance or originator descriptions of a method, not evidence that the method works. Where a source is a survey or an observational study, it shows an association, not a cause. This is a practice resource, not a validated intervention.
-
-## How the struggles scan was done
-
-On 27 September 2026 we collected public posts and search questions from three places: the main project management community on Reddit plus two smaller agile and scrum communities (top posts of the past year and searches for scope creep, status reports, stakeholders, deadlines, RAID logs and estimates), LinkedIn posts from the last three months that mention project, delivery or programme managers, and question-shaped Google searches in the US. Of about 600 raw items, 189 carried a real struggle; each was paraphrased in under 20 words, with no usernames kept, and grouped into 15 struggles. Limits: Reddit leans to venting and to people new to the job, the agile communities lean to scrum masters and coaches, LinkedIn leans to leaders, consultants and vendors, and relevance search is not a random sample. The counts show emphasis in what we pulled, not prevalence across the profession.
 
 ## Sources
 

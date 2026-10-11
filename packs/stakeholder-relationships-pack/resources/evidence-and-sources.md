@@ -1,6 +1,6 @@
 # Evidence and sources
 
-Research checked 10 September 2026. This is a focused research synthesis, not an exhaustive systematic review. The ten workflows are original practice designs; none has been tested as an AI intervention. Academic citations do not imply endorsement.
+Research checked 10 September 2026. This is a focused research synthesis, not an exhaustive systematic review. The ten workflows are original practice designs; none has been tested as an AI intervention.
 
 ## What the evidence supports
 Trust concerns differ, coordination needs shared information and workable structures, and relationship work has costs. Asking someone for their perspective can add information that imagination alone does not. Repair depends on the harm, the response and the history; no script guarantees forgiveness. These propositions inform practical drafts, not diagnoses of a stakeholder.
