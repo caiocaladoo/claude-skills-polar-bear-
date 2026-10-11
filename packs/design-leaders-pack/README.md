@@ -157,9 +157,7 @@ Need a portfolio piece for leadership work?       -> Leadership Case Study
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from the artifacts senior designers and design leaders produce week to week and from a scan of what they say they struggle with: stakeholders and politics, opinion beating evidence, proving impact, unclear senior growth and the move from IC to lead. Each method is attributed to its originator through a public source: Nielsen Norman Group articles, the Design Council, GOV.UK, Atlassian, W3C, the US Office of Personnel Management, the Center for Creative Leadership, research papers and practitioner originator pages. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

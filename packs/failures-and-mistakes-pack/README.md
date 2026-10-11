@@ -40,6 +40,6 @@ For an Agent Skills-compatible tool, copy selected folders under `skills/` into 
 ## Human judgment
 AI prepares drafts. It does not adjudicate fault, guarantee confidentiality, diagnose people, determine formal consequences, or execute incident actions. Use authorized human routes for safety, security, regulated, or formal employment concerns. Do not upload unnecessary client or employee records.
 
-The pack is research-informed, not an evaluated intervention. Containment and repair can be urgent; learning must not delay them. A report completed is not evidence that a failure has been prevented.
+Containment and repair can be urgent; learning must not delay them. A report completed is not evidence that a failure has been prevented.
 
 Version 1.0.0 · 10 September 2026 · Prepared for review before publication.

@@ -153,9 +153,7 @@ Need to decide keep, fix or remove?           -> Post-Launch Review
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from the methods product people search for and from a scan of what product managers and product owners say they struggle with. Each method is attributed to its originator through a public source. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

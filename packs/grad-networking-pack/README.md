@@ -153,9 +153,7 @@ Need to keep track without a spreadsheet mess? -> Networking Log
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from the artifacts graduates are told to prepare by UK careers guidance and from a scan of what final-year students and new graduates say they struggle with when networking. Each method is attributed through a public source: Prospects and TARGETjobs guidance, UK university careers services, LinkedIn's own help and user agreement, the UK Information Commissioner's Office, a research paper on dormant ties and an originator post on double opt-in introductions. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

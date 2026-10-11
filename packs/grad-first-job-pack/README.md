@@ -155,9 +155,7 @@ Need to know people beyond your team?                   -> Internal Network Plan
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from what new starters actually produce in their first 90 days and from a scan of what graduates and new starters say they struggle with, including unclear AI rules at work. Each method is attributed to its originator through a public source: UK guidance from Acas, gov.uk, the ICO and the NCSC, Anthropic's privacy centre and AI Fluency framework, university careers and reflection toolkits, the Center for Creative Leadership, research papers and originator pages. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

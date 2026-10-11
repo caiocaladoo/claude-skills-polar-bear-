@@ -155,9 +155,7 @@ Need to practise a case exercise?                -> Assessment Centre Case Pract
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from the artifacts business graduates produce in their first role and in applications, from employer surveys on how entry-level work is changing, and from what graduates say they struggle with. Each method is attributed to its originator through a public source: the AI Fluency framework, Claude's documentation, HM Treasury, the CIPD, Strategyzer, the Government Analysis Function, the FAST Standard, UK careers services and university guidance. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

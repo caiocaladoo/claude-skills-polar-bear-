@@ -156,7 +156,7 @@ Need compliance training that changes choices?    -> Compliance Training
 
 ## Where it comes from
 
-This pack is research-informed. The methods come from their originators' public pages, institution guides and peer-reviewed papers on retrieval, spacing, transfer, behaviour modelling and cognitive load; the struggles come from a scan of what L&D people say about their work. Sources, their limits and which skill uses each are in `resources/evidence-and-sources.md`. Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

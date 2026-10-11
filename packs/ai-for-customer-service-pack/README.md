@@ -161,7 +161,7 @@ Need clear rules for AI on the team?             -> AI Use Policy
 
 ## Where it comes from
 
-The pack is research-informed: a scan of what support agents, leads and heads of support say they struggle with, plus public methods and guidance from standards bodies, regulators, research papers and the originators of each method. Sources and their limits are in `resources/evidence-and-sources.md`. Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

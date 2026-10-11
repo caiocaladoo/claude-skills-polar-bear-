@@ -149,7 +149,7 @@ Need to bring the profile up to date?            -> Monthly Profile Refresh
 
 ## Where it comes from
 
-The pack is research-informed: LinkedIn's own help pages and policies, UK careers guidance, an AI fluency course for students, published reflection and planning methods, and a scan of what students and graduates say they struggle with on LinkedIn. Sources, limits and the source-to-skill map are in `resources/evidence-and-sources.md`. Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

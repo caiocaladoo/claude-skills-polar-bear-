@@ -155,9 +155,7 @@ Need to practise the interview out loud?          -> Marketing Interview Questio
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from the tasks listed in UK graduate and junior marketing job ads (reporting on performance, social media, web and SEO copy, email, assets, campaign support), from what marketing graduates say they struggle with, and from surveys of marketing leaders on AI and early careers. Each method is attributed to its originator through a public source: the Advertising Standards Authority and the Competition and Markets Authority, Google's Analytics Help and Search Central, Nielsen Norman Group, the Clayton Christensen Institute, CIPD, the IPA, Anthropic's documentation and AI Fluency course, W3C, and UK careers guidance. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

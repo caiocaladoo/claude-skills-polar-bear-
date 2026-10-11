@@ -43,6 +43,4 @@ Start with **Map the Relationship** when the problem is unclear. Use **Repair a 
 ## Judgment stays human
 The skills do not assess people’s character, manipulate stakeholders, send messages, or decide formal complaints. A relationship can become workable without becoming friendly. Harm or power abuse may require a safe independent route, not a joint conversation.
 
-The workflows are original practice designs informed by academic research, not validated interventions. Evidence is strongest for general trust, justice and coordination mechanisms; transfer to a particular agency or client relationship needs testing.
-
 Version 1.0.0 · 10 September 2026 · Review draft · [Polar Bear](https://meet-polar-bear.com)

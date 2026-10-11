@@ -49,6 +49,4 @@ The skills draft, organize and challenge. They do not send messages, cancel meet
 
 This pack focuses on allocating your own work. Identifying delegation as an option does not replace a separate human agreement about ownership, support and the other person’s capacity.
 
-The workflows are original practice designs informed by academic research; the pack itself has not been tested as an intervention. Research includes modest average effects, observational confounds and limited transfer from laboratory tasks. See the evidence notes before using research claims in a workshop.
-
 Version 1.0.0 · 10 September 2026 · Review edition · [Polar Bear](https://meet-polar-bear.com)

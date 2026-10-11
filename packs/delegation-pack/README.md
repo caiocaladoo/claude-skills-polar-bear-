@@ -50,6 +50,4 @@ Example: “Use delegation-authority-map. My account lead will run a client work
 
 Autonomy can help, and it can create strain when responsibility exceeds capacity or authority. These skills make those conditions discussable. They draft work agreements; they do not assign tasks, judge employees, send messages, or replace workplace policy. Emergency and reserved decisions stay with the appropriate human decision maker.
 
-The research supports design choices, with considerable observational and context-specific evidence. This pack itself is not a validated intervention and promises no measured performance gain.
-
 Version 1.0.0 · Review draft · 10 September 2026 · [Polar Bear](https://meet-polar-bear.com)

@@ -160,7 +160,7 @@ Need to answer an objection honestly?         -> Objection Response
 
 ## Where it comes from
 
-This guide is research-informed. It draws on public surveys of firms that sell expertise, peer-reviewed research on network ties, public guidance, and the originators' own pages for each named method. The sources, what each one supports and its limits are in `resources/evidence-and-sources.md`. Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

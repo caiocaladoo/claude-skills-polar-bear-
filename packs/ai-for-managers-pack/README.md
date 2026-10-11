@@ -160,9 +160,7 @@ Every skill in this pack:
 
 ## Where it comes from
 
-This pack is research-informed. It draws on public guidance and research on feedback, coaching, delegation, workload, psychological safety, decisions and development, and on a scan of what managers say they struggle with. The sources, what each one supports and its limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

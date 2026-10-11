@@ -158,7 +158,7 @@ Need a handover that sticks?                     -> Project Handover
 
 ## Where it comes from
 
-The pack is research-informed. Each skill names the public source of its method (project delivery guidance, originator guides, institution pages and papers), and the full list, with what each source does and does not support, is in `resources/evidence-and-sources.md`. Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

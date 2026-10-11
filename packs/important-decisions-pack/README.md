@@ -47,7 +47,7 @@ Turn an unclear choice into real alternatives, visible trade-offs, honest uncert
 
 ## Practical limits
 
-These workflows are original practice tools, not an experimentally validated intervention. Research on targeted decision exercises does not establish that a short AI prompt improves real organizational outcomes. The assistant cannot know your business from a thin description, determine another person’s motives, or produce reliable probabilities without evidence. It does not make employment selections, send messages, spend money, or replace qualified advice for regulated decisions.
+The assistant cannot know your business from a thin description, determine another person’s motives, or produce reliable probabilities without evidence. It does not make employment selections, send messages, spend money, or replace qualified advice for regulated decisions.
 
 A useful decision record can show both a defensible choice with a bad outcome and weak reasoning that happened to succeed. Review both the process and the result.
 

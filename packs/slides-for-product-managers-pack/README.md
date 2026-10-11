@@ -150,9 +150,7 @@ Need a version people read without you?               -> Pre-Read Slidedoc
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from the decks product people make every week, month and quarter, and from a scan of what product and project people say they struggle with when the work turns into slides. Each method is attributed to its originator through a public source, and each Claude Slides feature the skills use was checked on an official Anthropic page. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

@@ -188,9 +188,7 @@ Need it shorter and less like AI?                -> Plain Language Edit
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from the documents product people write week by week, the methods behind them, and a scan of what product managers say they struggle with, including complaints about long, generic AI-written documents. Each method is attributed to its originator through a public source. Claude Docs, Claude for Word and Claude in Google Docs features were checked against Anthropic's own pages; beta features can change. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

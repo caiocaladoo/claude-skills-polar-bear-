@@ -157,9 +157,7 @@ Need tags people can search by?                    -> Research Tagging Taxonomy
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from the artifacts a user research study produces and from a scan of what designers and researchers say they struggle with: research squeezed for time, findings ignored, synthetic users, participant operations and repositories nobody searches. Each method is attributed to its originator through a public source: the GOV.UK Service Manual, Nielsen Norman Group articles, the UK Information Commissioner's Office, the W3C Web Accessibility Initiative, Pew Research Center methods pages, Google's People + AI Guidebook, Microsoft's guidelines for human-AI interaction, the originators' own pages and two 2026 preprints on synthetic participants. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

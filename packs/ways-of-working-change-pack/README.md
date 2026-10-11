@@ -42,6 +42,4 @@ For an assistant supporting Agent Skills, use selected folders from `skills/` ac
 ## Human judgment
 People determine what work should change, hear concerns and make decisions. AI helps organize and challenge the plan. Use minimal, sanitized information. Outputs are drafts; no skill sends messages, monitors employees or changes systems. Mandatory or formal employment changes need the responsible human process.
 
-Research supports parts of the design, with much intervention evidence coming from healthcare. Transfer to agency work is a reasoned application to test locally. This pack is an original practice resource, not a validated intervention or a promise of successful change.
-
 Version 1.0.0 · 10 September 2026 · Polar Bear

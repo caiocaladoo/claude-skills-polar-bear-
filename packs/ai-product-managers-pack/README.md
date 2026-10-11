@@ -165,9 +165,7 @@ Need leaders to see errors by severity?          -> AI Exec Brief
 
 ## Where it comes from
 
-The pack is research-informed. The roster comes from the artifacts people building AI features search for and from a scan of what product managers say they struggle with when the product contains a model. Each method is attributed to its originator through a public source: Anthropic's documentation and engineering posts, OWASP, NIST, Google's People + AI Guidebook and SRE books, Microsoft's human-AI interaction guidelines, and research papers. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

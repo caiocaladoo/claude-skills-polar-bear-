@@ -150,7 +150,7 @@ Need to judge the month fairly?         -> Monthly LinkedIn Review
 
 ## Where it comes from
 
-This pack is research-informed. Each skill uses a method with a public source (LinkedIn Help and policies, the LinkedIn B2B Institute, NN/G, the Christensen Institute, The OpEd Project and others), listed in `resources/evidence-and-sources.md`. Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

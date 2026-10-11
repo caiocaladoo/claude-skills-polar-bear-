@@ -63,7 +63,7 @@ All six skills load at once. Claude picks the right one from what you describe, 
 
 ## Research and judgment
 
-The pack is informed by the user-supplied Harvard Business Review article about AI and psychological safety and by foundational research on team learning. See the evidence notes for the sources and the distinction between findings, observations, and our design choices. The pack itself is not a validated intervention or a psychological safety assessment.
+The sources behind the pack are in the evidence notes. The pack is not a psychological safety assessment.
 
 AI-generated objections are hypotheses to check with evidence and people. Using AI for writing does not establish fear. Rehearsal cannot tell you how another person will react. Workplace tools may retain identities and prompts; the pack does not promise anonymity.
 

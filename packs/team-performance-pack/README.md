@@ -42,7 +42,7 @@ For an Agent Skills-compatible assistant, copy the selected folder from `skills/
 - [Reusable templates](templates/team-workbook.md): charter, retro, handoff, meeting and experiment blanks.
 - `PROJECT-INSTRUCTIONS.md`, plugin manifest and existing Polar Bear license.
 
-AI prepares drafts; people facilitate, test facts and decide. Do not upload sensitive personnel or client records to a shared project. This pack is an original practice resource informed by research, not a validated performance intervention.
+AI prepares drafts; people facilitate, test facts and decide. Do not upload sensitive personnel or client records to a shared project.
 
 Version 1.0.0 · 10 September 2026 · Review draft · [Polar Bear](https://meet-polar-bear.com)
 

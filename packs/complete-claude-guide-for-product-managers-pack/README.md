@@ -180,9 +180,7 @@ Need a quarter plan that is not a feature list?  -> Plan the Quarter
 
 ## Where it comes from
 
-The guide is research-informed. Its eight stages follow public product lifecycle and team-ritual sources, its "When to run it" lines come from a scan of what product managers and product owners say they struggle with, and each method is attributed to its originator through a public source. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

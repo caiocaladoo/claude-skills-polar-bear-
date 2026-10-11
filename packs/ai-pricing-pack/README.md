@@ -150,7 +150,7 @@ Need a regular look at your pricing?                   -> Quarterly Pricing Revi
 
 ## Where it comes from
 
-The pack is research-informed: methods are attributed to their originators through public pages, and the struggles behind each skill come from what people who sell their expertise say about pricing under AI pressure. Sources, what they support and their limits are in `resources/evidence-and-sources.md`. Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

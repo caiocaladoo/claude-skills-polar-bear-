@@ -159,7 +159,7 @@ Need to learn from a win or a loss?           -> Win/Loss Review
 
 ## Where it comes from
 
-The pack is research-informed: named methods are attributed to their originators through public pages, and the struggles behind each skill come from a scan of what founders and consultants say about discovery, proposals and AI pressure. The sources, their limits and the design choices are in `resources/evidence-and-sources.md`. Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

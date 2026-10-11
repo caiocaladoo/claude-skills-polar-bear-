@@ -161,9 +161,7 @@ Need probation reviews on time?                     -> Probation Review
 
 ## Where it comes from
 
-This pack is research-informed. The methods come from public guidance and institution pages (Acas, GOV.UK, the EHRC, the ICO, the US Department of Labor, the Job Accommodation Network, the CIPD, the SHRM Foundation and others), and the order of the skills comes from a scan of what HR practitioners say they struggle with. Sources, limits and design choices are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

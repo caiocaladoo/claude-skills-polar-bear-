@@ -74,9 +74,5 @@ Product instructions checked 6 September 2026 against [OpenAI's Projects documen
 These skills prepare drafts. They do not send messages, keep employee dossiers, assess mental health, rate people, choose who loses a job, or decide whether a formal employment action is lawful. Use your approved workplace policies and qualified local support for formal employment matters. Sensitive concerns require the appropriate safe human route.
 
 ## Where it comes from
-The pack brings together individual leadership practice and workplace design, with research and public guidance gathered using Firecrawl. The workflows help leaders prepare clearer conversations, offer practical support, and address the conditions behind recurring problems. Cited sources do not imply endorsement.
 
-This is a practice resource, not a validated intervention. See [evidence and sources](resources/evidence-and-sources.md) for the distinction between research findings, practitioner ideas, and our design choices.
-
-Version 1.0.0 · 6 September 2026 · [Polar Bear](https://meet-polar-bear.com)
-
+The sources behind each method are in `resources/evidence-and-sources.md`.

@@ -158,9 +158,7 @@ Need interviewers who stop improvising?         -> Interviewer Training
 
 ## Where it comes from
 
-The pack is research-informed. It draws on public selection guidance, peer-reviewed interview and selection research, employment and data protection rules, agency codes of conduct, and a scan of what recruiters and candidates say they struggle with. Sources, limits and the source-to-skill map are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

@@ -153,9 +153,7 @@ Need to know if the network is working?          -> Monthly Network Review
 
 ## Where it comes from
 
-The pack is research-informed. Its order follows a networking method described generically in the pack, opened by the struggle people who sell their own expertise name most: work that depends on a few people sending it, with nothing in place when they stop. Each named method is attributed to its originator through a public source (the double opt-in introduction, dormant ties, weak ties, the after-action review, research on how introductions happen, LinkedIn's own help pages). Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 

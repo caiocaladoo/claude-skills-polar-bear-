@@ -43,6 +43,6 @@ Find the friction in normal work: confusing handoffs, avoidable waiting, inacces
 - Individual and combined portable prompts, project instructions, and plugin manifest.
 - [License](LICENSE.md): Polar Bear internal/client use; not for resale.
 
-This is a practice resource, not a validated intervention. Evidence for work redesign is uneven and context-dependent. The pack does not guarantee engagement, wellbeing, productivity, or retention gains. Humans handle concerns, protect confidentiality, and make decisions.
+Humans handle concerns, protect confidentiality, and make decisions.
 
 Version 1.0.0 · Review edition · 10 September 2026 · [Polar Bear](https://meet-polar-bear.com)

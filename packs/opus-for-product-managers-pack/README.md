@@ -204,9 +204,7 @@ Where to start:
 
 ## Where it comes from
 
-The pack is research-informed. The phases and the "When to run it" lines come from what product managers, product owners and heads of product say they struggle with. Each method is attributed to its originator through a public source, and every Claude feature named here was checked on an official Anthropic page. Sources and their limits are in `resources/evidence-and-sources.md`.
-
-Cited sources do not imply endorsement. This is a practice resource, not a validated intervention.
+The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 
