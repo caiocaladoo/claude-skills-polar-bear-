@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "account-executives-pack",
+  "version": "1.0.0",
+  "description": "Claude for Account Executives: 32 Claude skills for working named accounts, from account research to win/loss review, in eight stages: know the account with a research brief, a stakeholder map and an account plan; find a true reason to call with a buying signals brief and a talk track; prepare and run the meeting with a call plan and discovery questions; write it up the same day in call notes and a recap email; propose with a brief, the proposal and a quote check; negotiate and close with a negotiation plan and a mutual action plan; run the pipeline and forecast on written evidence; review the deal with MEDDPICC and a win/loss review. For account executives, key account managers and the sales and business development leaders who run them. Claude prepares from public sources and your own notes and you have the conversation; it never invents a contact, a signal, a number or a customer quote, never rates a buyer or a seller, and never contacts anyone for you.",
+  "author": {
+    "name": "Polar Bear",
+    "url": "https://meet-polar-bear.com"
+  },
+  "homepage": "https://meet-polar-bear.com/skills/account-executives-pack",
+  "repository": "https://github.com/polar-bear-org/claude-skills",
+  "license": "LicenseRef-PolarBear-Internal-Use",
+  "keywords": [
+    "account-executives",
+    "account-research",
+    "stakeholder-map",
+    "account-plan",
+    "buying-signals",
+    "discovery-questions",
+    "spin-selling",
+    "objection-handling",
+    "sales-proposal",
+    "negotiation-plan",
+    "mutual-action-plan",
+    "pipeline-review",
+    "sales-forecast",
+    "meddpicc"
+  ]
+}

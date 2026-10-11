@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "complete-guide-ld-pack",
+  "version": "1.0.0",
+  "description": "The Complete Claude Guide for L&D: 40 Claude skills for the whole L&D job, in eight stages: diagnose the need with the request triage, the performance gap and the action map; work with the experts through the interview, the task breakdown and the review plan; design the learning with objectives, an evaluation plan, a design document and a curriculum map; build and test scenarios, a storyboard, a knowledge check, the check of an AI draft and a learner walkthrough; run the room with a session plan, slides, a facilitator guide and a pilot; carry it into work with a job aid, spaced practice and a manager briefing; measure what changed with a feedback form, an ROI estimate and the one-page report; and lead L&D through the year plan and the business case. For L&D managers and specialists, instructional designers, trainers and facilitators, and L&D leaders. Claude drafts and checks, people decide: nothing a learner does in training is used to grade, rank or build a case against them.",
+  "author": {
+    "name": "Polar Bear",
+    "url": "https://meet-polar-bear.com"
+  },
+  "homepage": "https://meet-polar-bear.com/skills/complete-guide-ld-pack",
+  "repository": "https://github.com/polar-bear-org/claude-skills",
+  "license": "LicenseRef-PolarBear-Internal-Use",
+  "keywords": [
+    "learning-and-development",
+    "instructional-design",
+    "training-needs-analysis",
+    "performance-consulting",
+    "action-mapping",
+    "learning-objectives",
+    "training-evaluation",
+    "kirkpatrick-model",
+    "elearning-storyboard",
+    "facilitator-guide",
+    "train-the-trainer",
+    "70-20-10",
+    "training-roi",
+    "compliance-training"
+  ]
+}

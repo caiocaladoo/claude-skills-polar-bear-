@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "product-interviews-pack",
+  "version": "1.0.0",
+  "description": "Claude Guide for Product Interviews: 32 Claude skills for preparing product interviews from the job ad to the offer, in eight stages: read the role with a target role brief, a job ad breakdown and an interview loop map; tell your story with a career evidence inventory, a story bank and resume bullets; prepare the cases for product sense, metrics, prioritisation and execution, and app critique; prepare the conversations with behavioural answers, a portfolio or project walkthrough and a mock interview; show how you work with AI with an AI use plan, a fluency answer and a work sample; get in through people you already know; run each process with a take-home plan, round debriefs and a tracker; then decide with an offer comparison and negotiation prep. For product managers, product owners and product designers with years of shipped work. Claude helps you prepare and practise from work you really did; it never invents a role, a result or a number, and it stays out of the live interview.",
+  "author": {
+    "name": "Polar Bear",
+    "url": "https://meet-polar-bear.com"
+  },
+  "homepage": "https://meet-polar-bear.com/skills/product-interviews-pack",
+  "repository": "https://github.com/polar-bear-org/claude-skills",
+  "license": "LicenseRef-PolarBear-Internal-Use",
+  "keywords": [
+    "product-interviews",
+    "product-manager-interview",
+    "product-designer-interview",
+    "interview-preparation",
+    "job-search",
+    "product-sense",
+    "metrics-case",
+    "app-critique",
+    "behavioural-interview",
+    "star-method",
+    "mock-interview",
+    "ai-fluency",
+    "offer-comparison",
+    "offer-negotiation"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "product-strategy-pack",
+  "version": "1.0.0",
+  "description": "Claude Guide for Product Strategy: 32 Claude skills for one product strategy cycle in eight stages: diagnose with the strategic question, a product health read, an issue tree and a hypothesis board; read the market and the customer with competitors, segments by need, an opportunity solution tree and a market size; choose with options that differ in kind, a decision matrix, the bets and the not-doing list; stress-test with scenarios, a red team review and a pre-mortem; put numbers on it with a business case, a north star metric and strategy KPIs; build the Now-Next-Later roadmap and quarterly OKRs; tell it in the strategy document, the one page, the deck and the board memo; then review it each quarter. For product managers and product leaders who own a strategy or a roadmap, and founders and fractional product people who write one for a client. Claude structures the thinking and drafts the documents; a named person makes the choices, and every figure names its source or is marked as an assumption.",
+  "author": {
+    "name": "Polar Bear",
+    "url": "https://meet-polar-bear.com"
+  },
+  "homepage": "https://meet-polar-bear.com/skills/product-strategy-pack",
+  "repository": "https://github.com/polar-bear-org/claude-skills",
+  "license": "LicenseRef-PolarBear-Internal-Use",
+  "keywords": [
+    "product-strategy",
+    "product-roadmap",
+    "now-next-later-roadmap",
+    "strategic-options",
+    "decision-matrix",
+    "strategic-bets",
+    "opportunity-solution-tree",
+    "market-sizing",
+    "lean-canvas",
+    "pre-mortem",
+    "business-case",
+    "north-star-metric",
+    "okrs",
+    "board-memo"
+  ]
+}

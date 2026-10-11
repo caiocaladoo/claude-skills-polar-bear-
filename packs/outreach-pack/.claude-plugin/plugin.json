@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "outreach-pack",
+  "version": "1.0.0",
+  "description": "Claude Guide for Outreach: 32 Claude skills for opening conversations with people you do not yet know, following one outreach run in eight stages: decide who to reach with an ideal client profile, a target account list and a warm path check; research the company with a sourced fact list and a research brief; research the person with a contact shortlist and an identity check; find the reason to write with a trigger event scan; write it yourself from talking points and a cold email outline; check and send in small runs with a message checklist and a run of ten plan; go from reply to meeting with reply triage, first call prep and a call recap; then review what worked with an outreach log and a review of your own counts. For founders, independents and sellers. Claude researches and prepares; you choose the people, write every word and press send.",
+  "author": {
+    "name": "Polar Bear",
+    "url": "https://meet-polar-bear.com"
+  },
+  "homepage": "https://meet-polar-bear.com/skills/outreach-pack",
+  "repository": "https://github.com/polar-bear-org/claude-skills",
+  "license": "LicenseRef-PolarBear-Internal-Use",
+  "keywords": [
+    "outreach",
+    "cold-email",
+    "prospecting",
+    "ideal-client-profile",
+    "target-account-list",
+    "warm-introductions",
+    "company-research",
+    "prospect-research",
+    "trigger-events",
+    "talking-points",
+    "cold-call",
+    "follow-up",
+    "first-call-prep",
+    "outreach-review"
+  ]
+}

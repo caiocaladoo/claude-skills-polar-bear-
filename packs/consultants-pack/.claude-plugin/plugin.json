@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "consultants-pack",
+  "version": "1.0.0",
+  "description": "Claude for Consultants · Team in Claude: 39 Claude skills for winning and shaping client work when the client has AI too, from their brief to the signed scope, as eight desks in order: Intake reads the client's brief, qualifies the opportunity and records the bid or no-bid decision; Discovery prepares the call, keeps the notes and sends the recap email; Problem writes the problem statement, the issue tree and the hypothesis test plan; Strategy builds options and the recommendation memo; Pricing shapes good-better-best options, fees and a MoSCoW scope; Proposal writes the consulting proposal, the AI use statement and the statement of work; the Client room prepares the walk-through deck, the AI objection answer and the negotiation plan; Follow-through covers follow-up emails, the mutual action plan and the win/loss review. For independent consultants and partners in advisory practices. Claude structures, drafts and checks; it never invents a reference, a result, a number or a client quote, and you run the conversation, make the recommendation and send everything yourself.",
+  "author": {
+    "name": "Polar Bear",
+    "url": "https://meet-polar-bear.com"
+  },
+  "homepage": "https://meet-polar-bear.com/skills/consultants-pack",
+  "repository": "https://github.com/polar-bear-org/claude-skills",
+  "license": "LicenseRef-PolarBear-Internal-Use",
+  "keywords": [
+    "consulting",
+    "consulting-proposal",
+    "discovery-call",
+    "client-brief",
+    "bid-no-bid",
+    "meddic",
+    "spin-questions",
+    "issue-tree",
+    "recommendation-memo",
+    "fee-structure",
+    "moscow-scope",
+    "statement-of-work",
+    "ai-objection",
+    "negotiation-plan"
+  ]
+}

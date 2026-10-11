@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "instructional-designers-pack",
+  "version": "1.0.0",
+  "description": "Claude for Instructional Designers: 32 Claude skills for building one course from the request to the release, in eight stages: scope the course with the brief, the learner analysis, an action mapping session and an estimate the sponsor signs; get the content from experts with the interview script, the source triage and the review plan; design it with measurable objectives, the design document, the course map and the assessment blueprint; write the branching scenarios, the storyboard, video scripts, questions and job aids; build a practice activity, slides, a short series or a live session moved on screen; check accuracy, whether it teaches, accessibility, your own run-through, the expert round and a learner pilot; ship with a sign-off record and a release note and read the data; then keep your own practice in order. For instructional designers, learning experience designers, e-learning developers and the L&D person who builds courses alone. Claude drafts and checks; you decide what the learner needs, and a named person signs it off.",
+  "author": {
+    "name": "Polar Bear",
+    "url": "https://meet-polar-bear.com"
+  },
+  "homepage": "https://meet-polar-bear.com/skills/instructional-designers-pack",
+  "repository": "https://github.com/polar-bear-org/claude-skills",
+  "license": "LicenseRef-PolarBear-Internal-Use",
+  "keywords": [
+    "instructional-design",
+    "e-learning",
+    "course-design",
+    "learning-experience-design",
+    "action-mapping",
+    "learning-objectives",
+    "storyboard",
+    "branching-scenario",
+    "sme-interview",
+    "assessment-blueprint",
+    "knowledge-check",
+    "accessibility-check",
+    "learner-pilot",
+    "job-aid"
+  ]
+}

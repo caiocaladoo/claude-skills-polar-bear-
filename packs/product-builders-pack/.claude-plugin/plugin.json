@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "product-builders-pack",
+  "version": "1.0.0",
+  "description": "Claude for Product Builders: 32 Claude skills for taking one idea from a question to a prototype real users can try, and on to a build, change or stop decision, in eight stages: frame it with a problem frame, an idea one-pager and a prototype test card with a dated pass line; spec it with a prototype brief, a screen-by-screen user flow and a prototype spec; build a clickable prototype in Claude Design; make one flow really work in Claude Code; check it is safe to show with a secrets and keys check, a personal data check, an access and sharing check and a pre-share sign-off; test it with five real target users; hand it to engineering with everything faked written down; then get a decision from a named person. For product managers and product designers who want to build a prototype themselves, and founders shaping a first product. Claude builds the prototype, real users test it and engineers own what ships.",
+  "author": {
+    "name": "Polar Bear",
+    "url": "https://meet-polar-bear.com"
+  },
+  "homepage": "https://meet-polar-bear.com/skills/product-builders-pack",
+  "repository": "https://github.com/polar-bear-org/claude-skills",
+  "license": "LicenseRef-PolarBear-Internal-Use",
+  "keywords": [
+    "product-prototyping",
+    "clickable-prototype",
+    "claude-design",
+    "claude-code",
+    "product-management",
+    "product-design",
+    "prototype-spec",
+    "user-flow",
+    "test-card",
+    "usability-testing",
+    "heuristic-review",
+    "engineering-handover",
+    "secrets-check",
+    "decision-memo"
+  ]
+}

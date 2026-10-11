@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "training-impact-pack",
+  "version": "1.0.0",
+  "description": "Claude Guide for Training Impact: 30 Claude skills for proving what a training programme changed, from the request to the decision about what comes next, in seven stages: question the request with a request brief, sponsor discovery questions and a performance problem diagnosis; agree what proof looks like with a critical behaviours map, a success measures agreement and a baseline plan; collect the evidence with two surveys, an observation checklist, an interview guide and a data request; read it honestly in a before-and-after results table and a contribution analysis; tell the sponsor with success cases, a return as a range and a one-pager; report to the business with a metrics set, a quarterly report and an overclaim check; then feed it back through a review meeting, a decision record and a business case. For L&D managers, L&D specialists and L&D leaders. Claude plans the evaluation and drafts the report from your data; it never invents a result, a benchmark or a quote, and a named person stands behind every number.",
+  "author": {
+    "name": "Polar Bear",
+    "url": "https://meet-polar-bear.com"
+  },
+  "homepage": "https://meet-polar-bear.com/skills/training-impact-pack",
+  "repository": "https://github.com/polar-bear-org/claude-skills",
+  "license": "LicenseRef-PolarBear-Internal-Use",
+  "keywords": [
+    "training-impact",
+    "training-evaluation",
+    "learning-and-development",
+    "kirkpatrick-model",
+    "training-roi",
+    "success-case-method",
+    "contribution-analysis",
+    "performance-diagnosis",
+    "training-needs-assessment",
+    "post-training-survey",
+    "ld-metrics",
+    "ld-reporting",
+    "training-business-case"
+  ]
+}
