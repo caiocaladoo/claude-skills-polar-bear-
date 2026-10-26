@@ -20,7 +20,7 @@ Frame it -> Design it -> Prepare the room -> Run it -> Make it stick -> Review a
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install trainers-pack@polar-bear-skills
+/plugin install trainers-pack@90n-skills
 ```
 
 ### In Claude.ai

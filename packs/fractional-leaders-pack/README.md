@@ -20,7 +20,7 @@ Position the role -> Shape and price the engagement -> The first 30 days -> Run 
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install fractional-leaders-pack@polar-bear-skills
+/plugin install fractional-leaders-pack@90n-skills
 ```
 
 ### In Claude.ai

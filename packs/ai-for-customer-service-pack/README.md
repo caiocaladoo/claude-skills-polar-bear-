@@ -20,7 +20,7 @@ Hard Conversations -> Workload and Staffing -> Roles, Metrics and Coaching -> Es
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ai-for-customer-service-pack@polar-bear-skills
+/plugin install ai-for-customer-service-pack@90n-skills
 ```
 
 ### In Claude.ai

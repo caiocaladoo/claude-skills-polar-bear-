@@ -94,7 +94,7 @@ Copy `packs/_template/.claude-plugin/plugin.json` into it and fill it in.
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install hiring-pack@polar-bear-skills
+/plugin install hiring-pack@90n-skills
 ```
 ````
 
@@ -258,8 +258,8 @@ The real installer's own schema check.
 ```bash
 export CLAUDE_CONFIG_DIR=/tmp/plugin-test && mkdir -p "$CLAUDE_CONFIG_DIR"
 claude plugin marketplace add polar-bear-org/claude-skills
-claude plugin install hiring-pack@polar-bear-skills
-claude plugin details hiring-pack@polar-bear-skills   # every skill listed? token cost sane?
+claude plugin install hiring-pack@90n-skills
+claude plugin details hiring-pack@90n-skills   # every skill listed? token cost sane?
 rm -rf /tmp/plugin-test
 ```
 
@@ -277,7 +277,7 @@ git push
 
 No PR process, no CI — this repository runs no workflows of its own. `./scripts/validate.sh` passing is the bar. `main` is what users install from, so `./scripts/validate.sh` passing is the bar.
 
-Users on an older version get the update with `/plugin marketplace update polar-bear-skills`, and new users get it immediately. There is no rollback other than another commit, which is why sections 7 and 8 come first.
+Users on an older version get the update with `/plugin marketplace update 90n-skills`, and new users get it immediately. There is no rollback other than another commit, which is why sections 7 and 8 come first.
 
 ---
 

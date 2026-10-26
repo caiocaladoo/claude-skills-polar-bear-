@@ -20,7 +20,7 @@ Know your numbers -> Decide what AI changes -> Productise an offer -> Price on v
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ai-pricing-pack@polar-bear-skills
+/plugin install ai-pricing-pack@90n-skills
 ```
 
 ### In Claude.ai

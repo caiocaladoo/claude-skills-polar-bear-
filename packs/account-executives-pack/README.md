@@ -20,7 +20,7 @@ Know the account -> Find the reason to call -> Prepare and run the meeting -> Wr
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install account-executives-pack@polar-bear-skills
+/plugin install account-executives-pack@90n-skills
 ```
 
 ### In Claude.ai

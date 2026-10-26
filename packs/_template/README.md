@@ -14,7 +14,7 @@ The pack covers <the arc, step by step, so the reader sees it is a workflow and 
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install PACK-NAME@polar-bear-skills
+/plugin install PACK-NAME@90n-skills
 ```
 
 **Claude.ai** — upload each zip from the `install/` folder via **Settings → Customize → Skills → Upload skill**. Turn on **Settings → Capabilities → Code execution and file creation** first, and add the `resources/` files to your Project as knowledge.

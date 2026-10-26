@@ -20,7 +20,7 @@ Start Every Deck -> Decks for Leaders -> Updates for Everyone -> Team Decks -> D
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install slides-for-product-managers-pack@polar-bear-skills
+/plugin install slides-for-product-managers-pack@90n-skills
 ```
 
 ### In Claude.ai

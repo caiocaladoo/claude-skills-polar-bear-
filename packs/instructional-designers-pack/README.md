@@ -20,7 +20,7 @@ Scope the course -> Get the content from experts -> Design it -> Write it -> Bui
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install instructional-designers-pack@polar-bear-skills
+/plugin install instructional-designers-pack@90n-skills
 ```
 
 ### In Claude.ai

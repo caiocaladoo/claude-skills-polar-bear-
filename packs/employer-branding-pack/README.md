@@ -12,10 +12,10 @@ The pack runs one loop: listen to the people who already work here, distill what
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install employer-branding-pack@polar-bear-skills
+/plugin install employer-branding-pack@90n-skills
 ```
 
-All twelve skills load at once. Claude picks the right one from what you type ("we're hiring a developer, draft the post"), or you call one by name ("run evidence-interview-designer"). Update later with `/plugin marketplace update polar-bear-skills`.
+All twelve skills load at once. Claude picks the right one from what you type ("we're hiring a developer, draft the post"), or you call one by name ("run evidence-interview-designer"). Update later with `/plugin marketplace update 90n-skills`.
 
 ### In Claude.ai (web, desktop, mobile)
 

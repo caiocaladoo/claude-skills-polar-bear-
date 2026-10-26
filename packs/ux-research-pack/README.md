@@ -20,7 +20,7 @@ Plan the study -> Recruit and consent -> Interview and test guides -> Run and ca
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ux-research-pack@polar-bear-skills
+/plugin install ux-research-pack@90n-skills
 ```
 
 ### In Claude.ai

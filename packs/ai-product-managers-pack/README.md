@@ -20,7 +20,7 @@ Decide if AI fits -> Spec it -> Brief the model and the agent -> Build the evals
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ai-product-managers-pack@polar-bear-skills
+/plugin install ai-product-managers-pack@90n-skills
 ```
 
 ### In Claude.ai

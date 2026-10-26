@@ -20,7 +20,7 @@ Start the Project -> Stop Scope Creep -> Estimate and Schedule -> Catch Risks Ea
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ai-for-project-management-pack@polar-bear-skills
+/plugin install ai-for-project-management-pack@90n-skills
 ```
 
 ### In Claude.ai

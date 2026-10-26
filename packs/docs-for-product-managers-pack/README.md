@@ -20,7 +20,7 @@ Set up once -> Discover -> Shape the vision -> Define -> Decide -> Align -> Repo
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install docs-for-product-managers-pack@polar-bear-skills
+/plugin install docs-for-product-managers-pack@90n-skills
 ```
 
 ### In Claude.ai

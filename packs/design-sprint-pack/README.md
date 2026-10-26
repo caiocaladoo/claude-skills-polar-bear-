@@ -14,10 +14,10 @@ Everything the week needs is in this pack, including the room craft. Nothing her
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install design-sprint-pack@polar-bear-skills
+/plugin install design-sprint-pack@90n-skills
 ```
 
-All thirteen skills load at once. Claude picks the right one from what you type ("a client asked us for a design sprint, thoughts?"), or you call one by name ("run sprint-qualifier"). Update later with `/plugin marketplace update polar-bear-skills`.
+All thirteen skills load at once. Claude picks the right one from what you type ("a client asked us for a design sprint, thoughts?"), or you call one by name ("run sprint-qualifier"). Update later with `/plugin marketplace update 90n-skills`.
 
 ### In Claude.ai (web, desktop, mobile)
 

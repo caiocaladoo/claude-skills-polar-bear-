@@ -5,7 +5,7 @@
 All packs with guides: https://90n.ai/resources
 This file on the website: https://90n.ai/llms.txt
 
-Install in Claude Code: `/plugin marketplace add polar-bear-org/claude-skills`, then `/plugin install <pack-name>@polar-bear-skills`.
+Install in Claude Code: `/plugin marketplace add polar-bear-org/claude-skills`, then `/plugin install <pack-name>@90n-skills`.
 Install on claude.ai: upload the per-skill zips from a pack's `install/` folder via Settings → Customize → Skills → Upload skill.
 Install manually: copy `packs/<pack>/skills/*` into `~/.claude/skills/` or a project's `.claude/skills/`.
 

@@ -12,10 +12,10 @@ The pack runs the whole arc: charter the program, design gates that ask question
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install innovation-pack@polar-bear-skills
+/plugin install innovation-pack@90n-skills
 ```
 
-All twelve skills load at once. Claude picks the right one from what you type ("how do we test this without building it"), or you call one by name ("run program-charter-writer"). Update later with `/plugin marketplace update polar-bear-skills`.
+All twelve skills load at once. Claude picks the right one from what you type ("how do we test this without building it"), or you call one by name ("run program-charter-writer"). Update later with `/plugin marketplace update 90n-skills`.
 
 ### In Claude.ai (web, desktop, mobile)
 

@@ -20,7 +20,7 @@ Frame the problem -> Explore and decide -> Design with context -> Prototype -> C
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install product-designers-pack@polar-bear-skills
+/plugin install product-designers-pack@90n-skills
 ```
 
 ### In Claude.ai

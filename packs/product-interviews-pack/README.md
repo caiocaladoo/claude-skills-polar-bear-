@@ -20,7 +20,7 @@ Read the role -> Tell your story -> Prepare the cases -> Prepare the conversatio
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install product-interviews-pack@polar-bear-skills
+/plugin install product-interviews-pack@90n-skills
 ```
 
 ### In Claude.ai

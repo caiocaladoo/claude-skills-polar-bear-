@@ -20,7 +20,7 @@ Intake desk -> Discovery desk -> Problem desk -> Strategy desk -> Pricing desk -
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install consultants-pack@polar-bear-skills
+/plugin install consultants-pack@90n-skills
 ```
 
 ### In Claude.ai

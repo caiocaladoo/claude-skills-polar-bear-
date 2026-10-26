@@ -20,7 +20,7 @@ Set direction -> Discover -> Decide -> Define -> Deliver -> Launch -> Prove -> R
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install complete-claude-guide-for-product-managers-pack@polar-bear-skills
+/plugin install complete-claude-guide-for-product-managers-pack@90n-skills
 ```
 
 ### In Claude.ai

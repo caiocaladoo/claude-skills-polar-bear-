@@ -20,7 +20,7 @@ Question the request -> Agree what proof looks like -> Collect the evidence -> R
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install training-impact-pack@polar-bear-skills
+/plugin install training-impact-pack@90n-skills
 ```
 
 ### In Claude.ai

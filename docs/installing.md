@@ -13,7 +13,7 @@ Add this repository as a marketplace once:
 Then install any pack by name:
 
 ```
-/plugin install workshop-pack@polar-bear-skills
+/plugin install workshop-pack@90n-skills
 ```
 
 Useful follow-ups:
@@ -21,8 +21,8 @@ Useful follow-ups:
 | Command | What it does |
 |---------|--------------|
 | `/plugin` | Opens the plugin browser: see, enable, disable, uninstall |
-| `/plugin marketplace update polar-bear-skills` | Pulls the latest version of every pack |
-| `/plugin marketplace remove polar-bear-skills` | Removes the marketplace |
+| `/plugin marketplace update 90n-skills` | Pulls the latest version of every pack |
+| `/plugin marketplace remove 90n-skills` | Removes the marketplace |
 
 Once installed, skills load on demand. Claude reads each skill's `description` and picks the right one when you describe the task; you can also call one by name ("run agenda-designer").
 
@@ -31,11 +31,11 @@ Team-wide install: commit a `.claude/settings.json` in your repository so everyo
 ```json
 {
   "extraKnownMarketplaces": {
-    "polar-bear-skills": {
+    "90n-skills": {
       "source": { "source": "github", "repo": "polar-bear-org/claude-skills" }
     }
   },
-  "enabledPlugins": { "workshop-pack@polar-bear-skills": true }
+  "enabledPlugins": { "workshop-pack@90n-skills": true }
 }
 ```
 

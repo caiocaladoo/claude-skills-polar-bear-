@@ -20,7 +20,7 @@ Diagnose -> Market and customer -> Choose -> Stress-test -> Numbers -> Roadmap -
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install product-strategy-pack@polar-bear-skills
+/plugin install product-strategy-pack@90n-skills
 ```
 
 ### In Claude.ai

@@ -30,7 +30,7 @@ How the phases hand over:
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install opus-for-product-managers-pack@polar-bear-skills
+/plugin install opus-for-product-managers-pack@90n-skills
 ```
 
 ### In Claude.ai

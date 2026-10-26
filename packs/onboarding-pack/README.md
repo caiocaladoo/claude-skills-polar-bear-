@@ -14,10 +14,10 @@ The pack covers the whole journey: the 10-day pre-boarding plan, the internal em
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install onboarding-pack@polar-bear-skills
+/plugin install onboarding-pack@90n-skills
 ```
 
-All twelve skills load at once. Claude picks the right one from what you type ("someone just accepted our offer"), or you call one by name ("run preboarding-planner"). Update later with `/plugin marketplace update polar-bear-skills`.
+All twelve skills load at once. Claude picks the right one from what you type ("someone just accepted our offer"), or you call one by name ("run preboarding-planner"). Update later with `/plugin marketplace update 90n-skills`.
 
 ### In Claude.ai (web, desktop, mobile)
 

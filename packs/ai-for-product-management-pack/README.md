@@ -20,7 +20,7 @@ Prioritise and say no -> Set direction -> Discover -> Define -> Decide and align
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ai-for-product-management-pack@polar-bear-skills
+/plugin install ai-for-product-management-pack@90n-skills
 ```
 
 ### In Claude.ai

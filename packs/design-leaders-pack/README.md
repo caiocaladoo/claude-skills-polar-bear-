@@ -20,7 +20,7 @@ Frame the problem -> Explain the decision -> Persuade the room -> Run critique -
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install design-leaders-pack@polar-bear-skills
+/plugin install design-leaders-pack@90n-skills
 ```
 
 ### In Claude.ai

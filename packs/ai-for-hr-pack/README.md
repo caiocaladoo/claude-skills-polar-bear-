@@ -20,7 +20,7 @@ Run the HR desk -> Complaints and investigations -> Performance and discipline -
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ai-for-hr-pack@polar-bear-skills
+/plugin install ai-for-hr-pack@90n-skills
 ```
 
 ### In Claude.ai

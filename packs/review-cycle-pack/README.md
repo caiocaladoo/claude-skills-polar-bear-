@@ -26,10 +26,10 @@ review-cycle-pack/
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install review-cycle-pack@polar-bear-skills
+/plugin install review-cycle-pack@90n-skills
 ```
 
-All eleven skills load at once, and Claude picks the one that matches what you type ("help me prepare Maria's review"), or you call one by name ("run cycle-setup"). Update later with `/plugin marketplace update polar-bear-skills`.
+All eleven skills load at once, and Claude picks the one that matches what you type ("help me prepare Maria's review"), or you call one by name ("run cycle-setup"). Update later with `/plugin marketplace update 90n-skills`.
 
 ### In Claude.ai (web, desktop, mobile)
 

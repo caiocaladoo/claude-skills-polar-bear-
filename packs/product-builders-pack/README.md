@@ -20,7 +20,7 @@ Frame it -> Spec it -> Prototype it -> Make it work -> Check it is safe to show 
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install product-builders-pack@polar-bear-skills
+/plugin install product-builders-pack@90n-skills
 ```
 
 ### In Claude.ai

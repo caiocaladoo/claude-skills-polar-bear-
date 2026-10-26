@@ -1,5 +1,5 @@
 {
-  "name": "polar-bear-skills",
+  "name": "90n-skills",
   "title": "Claude Skills — themed skill packs for Claude Code and Claude.ai",
   "description": "A marketplace of themed Claude Skill (Agent Skill) packs. Each pack bundles SKILL.md skills and shared reference files around one job to be done.",
   "repository": "https://github.com/polar-bear-org/claude-skills",
@@ -8,7 +8,7 @@
   "install": {
     "claudeCode": [
       "/plugin marketplace add polar-bear-org/claude-skills",
-      "/plugin install <pack>@polar-bear-skills"
+      "/plugin install <pack>@90n-skills"
     ],
     "claudeAi": "Settings → Customize → Skills → Upload skill, using the zips in each pack's install/ folder",
     "manual": "Copy packs/<pack>/skills/* into ~/.claude/skills/ or .claude/skills/"

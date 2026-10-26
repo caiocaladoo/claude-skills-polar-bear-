@@ -12,10 +12,10 @@ Map how your team actually works today, then write down the things that were onl
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install designops-pack@polar-bear-skills
+/plugin install designops-pack@90n-skills
 ```
 
-All twelve skills load at once. Claude picks the right one from what you type ("our critiques are not working"), or you call one by name ("run team-ops-mapper"). Update later with `/plugin marketplace update polar-bear-skills`.
+All twelve skills load at once. Claude picks the right one from what you type ("our critiques are not working"), or you call one by name ("run team-ops-mapper"). Update later with `/plugin marketplace update 90n-skills`.
 
 ### In Claude.ai (web, desktop, mobile)
 

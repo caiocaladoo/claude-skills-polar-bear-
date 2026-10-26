@@ -14,10 +14,10 @@ The pack covers the whole arc: framing the challenge, preparing the research, ma
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install design-thinking-pack@polar-bear-skills
+/plugin install design-thinking-pack@90n-skills
 ```
 
-All 33 skills load at once. Claude picks the right one from what you type ("help me turn this brief into a real design challenge"), or you call one by name ("run design-challenge-framer"). Update later with `/plugin marketplace update polar-bear-skills`.
+All 33 skills load at once. Claude picks the right one from what you type ("help me turn this brief into a real design challenge"), or you call one by name ("run design-challenge-framer"). Update later with `/plugin marketplace update 90n-skills`.
 
 ### In Claude.ai (web, desktop, mobile)
 

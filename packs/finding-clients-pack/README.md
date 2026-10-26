@@ -20,7 +20,7 @@ Pipeline -> Past clients and referrals -> Network and introductions -> Positioni
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install finding-clients-pack@polar-bear-skills
+/plugin install finding-clients-pack@90n-skills
 ```
 
 ### In Claude.ai

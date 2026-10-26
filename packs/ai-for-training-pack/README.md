@@ -20,7 +20,7 @@ Find the real need -> Get it out of the experts -> Design the programme -> Build
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ai-for-training-pack@polar-bear-skills
+/plugin install ai-for-training-pack@90n-skills
 ```
 
 ### In Claude.ai

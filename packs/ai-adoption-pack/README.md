@@ -20,7 +20,7 @@ Find where it helps -> Start small -> Teach it -> Support managers -> Make it sa
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ai-adoption-pack@polar-bear-skills
+/plugin install ai-adoption-pack@90n-skills
 ```
 
 ### In Claude.ai

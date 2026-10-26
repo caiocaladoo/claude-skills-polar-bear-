@@ -20,7 +20,7 @@ Diagnose the need -> Work with the experts -> Design the learning -> Build and t
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install complete-guide-ld-pack@polar-bear-skills
+/plugin install complete-guide-ld-pack@90n-skills
 ```
 
 ### In Claude.ai

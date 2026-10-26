@@ -20,7 +20,7 @@ Decide who to reach -> Research the company -> Research the person -> Find the r
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install outreach-pack@polar-bear-skills
+/plugin install outreach-pack@90n-skills
 ```
 
 ### In Claude.ai

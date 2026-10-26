@@ -14,10 +14,10 @@ The pack covers the whole arc: framing the intention, designing the agenda, prep
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install workshop-pack@polar-bear-skills
+/plugin install workshop-pack@90n-skills
 ```
 
-All seven skills load at once. Claude picks the right one from what you type ("help me structure a 3-hour session on pricing"), or you call one by name ("run intention-framer"). Update later with `/plugin marketplace update polar-bear-skills`.
+All seven skills load at once. Claude picks the right one from what you type ("help me structure a 3-hour session on pricing"), or you call one by name ("run intention-framer"). Update later with `/plugin marketplace update 90n-skills`.
 
 ### In Claude.ai (web, desktop, mobile)
 

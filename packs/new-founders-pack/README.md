@@ -20,7 +20,7 @@ Decide what you sell -> Package and price it -> Tell people -> Start with people
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install new-founders-pack@polar-bear-skills
+/plugin install new-founders-pack@90n-skills
 ```
 
 ### In Claude.ai

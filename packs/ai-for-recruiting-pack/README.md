@@ -20,7 +20,7 @@ Brief the role -> Keep candidates in the loop -> Attract -> Source and reach out
 
 ```
 /plugin marketplace add polar-bear-org/claude-skills
-/plugin install ai-for-recruiting-pack@polar-bear-skills
+/plugin install ai-for-recruiting-pack@90n-skills
 ```
 
 ### In Claude.ai
