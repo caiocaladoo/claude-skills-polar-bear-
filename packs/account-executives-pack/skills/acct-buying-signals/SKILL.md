@@ -1,6 +1,6 @@
 ---
 name: acct-buying-signals
-description: Builds a buying signals brief for one named account or a short list, with dated public events, a link for each, what each might mean marked as an inference, the question it lets you ask and the signals looked for and not found. Use for "run acct-buying-signals", "buying signals", "trigger events for this account", "why now for this account", "what changed at this customer", "find a reason to call this account", "account news scan", "sales intelligence on my accounts", part of the Claude for Account Executives Pack by Polar Bear.
+description: Builds a buying signals brief for one named account or a short list, with dated public events, a link for each, what each might mean marked as an inference, the question it lets you ask and the signals looked for and not found. Use for "run acct-buying-signals", "buying signals", "trigger events for this account", "why now for this account", "what changed at this customer", "find a reason to call this account", "account news scan", "sales intelligence on my accounts", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Buying Signals Brief
@@ -65,4 +65,4 @@ Run acct-call-list (Weekly Call List) to choose the 10 to 20 contacts these sign
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

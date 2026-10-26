@@ -1,6 +1,6 @@
 ---
 name: acct-discovery-questions
-description: Builds discovery call questions for one account in SPIN order, with a coverage grid to complete after the call and the two or three things you must learn. Use for "run acct-discovery-questions", "discovery call questions", "discovery questions", "SPIN questions", "questions to ask a prospect", "prepare my discovery call", "what should I ask in discovery", "implication questions", part of the Claude for Account Executives Pack by Polar Bear.
+description: Builds discovery call questions for one account in SPIN order, with a coverage grid to complete after the call and the two or three things you must learn. Use for "run acct-discovery-questions", "discovery call questions", "discovery questions", "SPIN questions", "questions to ask a prospect", "prepare my discovery call", "what should I ask in discovery", "implication questions", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Discovery Call Questions
@@ -71,4 +71,4 @@ Run acct-cost-of-inaction (Cost of Inaction) to lay out what the customer told y
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

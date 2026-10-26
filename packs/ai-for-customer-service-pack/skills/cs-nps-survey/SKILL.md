@@ -1,6 +1,6 @@
 ---
 name: cs-nps-survey
-description: Plans a relationship NPS survey with its follow-up question and turns the results into causes support can and cannot move, producing the survey plan, a close-the-loop rule where a person contacts detractors, and a cause table. Use for "run cs-nps-survey", "NPS survey", "net promoter score", "what do customers think of us overall", "how to calculate NPS", "NPS follow-up question", "close the loop with detractors", "our NPS dropped", part of the AI for Customer Service Pack by Polar Bear.
+description: Plans a relationship NPS survey with its follow-up question and turns the results into causes support can and cannot move, producing the survey plan, a close-the-loop rule where a person contacts detractors, and a cause table. Use for "run cs-nps-survey", "NPS survey", "net promoter score", "what do customers think of us overall", "how to calculate NPS", "NPS follow-up question", "close the loop with detractors", "our NPS dropped", part of the AI for Customer Service Pack by 90n.
 ---
 
 # NPS Survey
@@ -69,4 +69,4 @@ Run cs-customer-journey-map (Customer Journey Map) to trace where in the relatio
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

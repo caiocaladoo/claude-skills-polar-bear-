@@ -1,6 +1,6 @@
 ---
 name: acct-pipeline-review
-description: Prepares your pipeline review with each deal placed at the stage its evidence supports, the exit criterion written, the gaps per deal, the deals with no movement, one action per deal or "take out" and the three deals to push this week. Use for "run acct-pipeline-review", "pipeline review", "review my pipeline", "clean up my pipeline", "pipeline inspection", "which deals should I take out", "qualify my open deals", "prepare my pipeline call", part of the Claude for Account Executives Pack by Polar Bear.
+description: Prepares your pipeline review with each deal placed at the stage its evidence supports, the exit criterion written, the gaps per deal, the deals with no movement, one action per deal or "take out" and the three deals to push this week. Use for "run acct-pipeline-review", "pipeline review", "review my pipeline", "clean up my pipeline", "pipeline inspection", "which deals should I take out", "qualify my open deals", "prepare my pipeline call", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Pipeline Review
@@ -71,4 +71,4 @@ Run acct-sales-forecast (Sales Forecast) to place these deals in commit, best ca
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

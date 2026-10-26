@@ -1,6 +1,6 @@
 ---
 name: ldg-plan-the-pilot
-description: Plans a pilot run of a training programme before rollout, producing the questions the pilot must answer, a pass line written in advance, the pilot group by role and working conditions, an observation sheet, the debrief, a change list and a launch, fix or stop call. Use for "run ldg-plan-the-pilot", "training pilot", "pilot program", "pilot test a training", "pilot session", "test run before rollout", "beta test the course", "what should a pilot measure", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Plans a pilot run of a training programme before rollout, producing the questions the pilot must answer, a pass line written in advance, the pilot group by role and working conditions, an observation sheet, the debrief, a change list and a launch, fix or stop call. Use for "run ldg-plan-the-pilot", "training pilot", "pilot program", "pilot test a training", "pilot session", "test run before rollout", "beta test the course", "what should a pilot measure", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Plan the Pilot
@@ -71,4 +71,4 @@ Run ldg-train-the-trainers (Train the Trainers) once the pilot's changes are in,
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

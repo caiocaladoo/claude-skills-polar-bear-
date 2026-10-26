@@ -1,6 +1,6 @@
 ---
 name: ld-manager-follow-up-kit
-description: Gives managers what they need to support learning around one programme, producing before and after conversation guides, the first on-the-job task, check-in dates and a barrier log. Use for "run ld-manager-follow-up-kit", "manager follow-up after training", "manager support for training", "post-training conversation", "training transfer", "manager conversation guide", "how managers reinforce training", "barriers to applying training", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Gives managers what they need to support learning around one programme, producing before and after conversation guides, the first on-the-job task, check-in dates and a barrier log. Use for "run ld-manager-follow-up-kit", "manager follow-up after training", "manager support for training", "post-training conversation", "training transfer", "manager conversation guide", "how managers reinforce training", "barriers to applying training", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # Manager Follow-Up Kit
@@ -68,4 +68,4 @@ Run ld-onboarding-training-plan (Onboarding Training Plan) to build the same sup
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

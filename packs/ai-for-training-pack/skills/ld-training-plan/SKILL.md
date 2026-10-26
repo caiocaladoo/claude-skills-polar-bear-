@@ -1,6 +1,6 @@
 ---
 name: ld-training-plan
-description: Builds the year's L&D priorities on one page, producing programmes ranked against business goals, a capacity and budget check, a quarterly calendar and a not-this-year list. Use for "run ld-training-plan", "annual training plan", "training calendar", "L&D plan for next year", "too many training requests", "prioritise training requests", "learning plan tied to business goals", "what we will not build this year", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Builds the year's L&D priorities on one page, producing programmes ranked against business goals, a capacity and budget check, a quarterly calendar and a not-this-year list. Use for "run ld-training-plan", "annual training plan", "training calendar", "L&D plan for next year", "too many training requests", "prioritise training requests", "learning plan tied to business goals", "what we will not build this year", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # Training Plan
@@ -66,4 +66,4 @@ Run ld-addie-project-plan (ADDIE Project Plan) to plan the first programme on th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

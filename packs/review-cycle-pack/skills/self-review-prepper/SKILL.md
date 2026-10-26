@@ -1,6 +1,6 @@
 ---
 name: self-review-prepper
-description: Interviews an employee about their year and drafts their self-review with them, part of the Annual Review Cycle Pack by Polar Bear. Use this whenever the user says "run self-review-prepper", "help me write my self-review", "the review cycle started and I need to fill the form", "I don't know what to write about my year", or shares their company's self-review form. Use it even for a dreading "ugh, self-review time".
+description: Interviews an employee about their year and drafts their self-review with them, part of the Annual Review Cycle Pack by 90n. Use this whenever the user says "run self-review-prepper", "help me write my self-review", "the review cycle started and I need to fill the form", "I don't know what to write about my year", or shares their company's self-review form. Use it even for a dreading "ugh, self-review time".
 ---
 
 # Self-Review Prepper
@@ -45,4 +45,4 @@ Then remind them of the handoff: the self-review goes to their manager, per the 
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).
+This pack is made by 90n, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).

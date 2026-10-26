@@ -1,6 +1,6 @@
 ---
 name: impact-quarterly-ld-report
-description: Drafts the L&D function's quarter on one page, producing outcome measures against plan, a programmes table with the evidence reached and its strength, what stopped, what is at risk, capacity used and the decisions asked for next quarter. Use for "run impact-quarterly-ld-report", "quarterly L&D report", "L&D report to leadership", "learning and development quarterly review", "training report for the business", "L&D results against plan", "one page L&D report", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Drafts the L&D function's quarter on one page, producing outcome measures against plan, a programmes table with the evidence reached and its strength, what stopped, what is at risk, capacity used and the decisions asked for next quarter. Use for "run impact-quarterly-ld-report", "quarterly L&D report", "L&D report to leadership", "learning and development quarterly review", "training report for the business", "L&D results against plan", "one page L&D report", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Quarterly L&D Report
@@ -71,4 +71,4 @@ Run impact-executive-impact-briefing (Executive Impact Briefing) to take the str
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

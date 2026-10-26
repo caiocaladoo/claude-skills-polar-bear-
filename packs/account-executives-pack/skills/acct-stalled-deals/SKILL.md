@@ -1,6 +1,6 @@
 ---
 name: acct-stalled-deals
-description: Reviews the stalled deals in your pipeline, with the last trace per deal, a hypothesis on the silence marked as one, a true reason to write or the decision to close the file, drafts for a small run and the pipeline updates to approve. Use for "run acct-stalled-deals", "stalled deals", "stuck deals", "deals that went quiet", "re-engage dormant opportunities", "customers who stopped replying", "clean out dead deals", "close the loop on old deals", part of the Claude for Account Executives Pack by Polar Bear.
+description: Reviews the stalled deals in your pipeline, with the last trace per deal, a hypothesis on the silence marked as one, a true reason to write or the decision to close the file, drafts for a small run and the pipeline updates to approve. Use for "run acct-stalled-deals", "stalled deals", "stuck deals", "deals that went quiet", "re-engage dormant opportunities", "customers who stopped replying", "clean out dead deals", "close the loop on old deals", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Stalled Deals Review
@@ -66,4 +66,4 @@ Run acct-weekly-sales-plan (Weekly Sales Plan) to give the calls and messages yo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

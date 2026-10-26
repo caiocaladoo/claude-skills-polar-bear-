@@ -1,6 +1,6 @@
 ---
 name: adopt-local-adaptation-review
-description: Reviews one team's variation on the agreed way of using AI and drafts a versioned adaptation note with what changed and why, the safeguard it must keep, a bounded test with a rollback, and the owner's decision. Use for "run adopt-local-adaptation-review", "local adaptation review", "teams are changing the AI process", "is this workaround OK", "a team skipped the AI output check", "adaptation or workaround", "review a team's variation on our AI process", "should everyone adopt this team's change", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Reviews one team's variation on the agreed way of using AI and drafts a versioned adaptation note with what changed and why, the safeguard it must keep, a bounded test with a rollback, and the owner's decision. Use for "run adopt-local-adaptation-review", "local adaptation review", "teams are changing the AI process", "is this workaround OK", "a team skipped the AI output check", "adaptation or workaround", "review a team's variation on our AI process", "should everyone adopt this team's change", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 # Local Adaptation Review
 ## When To Use
@@ -72,4 +72,4 @@ Test on [work] from [date] to [date]. Looked at: [what, from which source]. Roll
 Run adopt-ai-rollout-decision (AI Rollout Decision) to carry what teams learned into the decision to expand.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

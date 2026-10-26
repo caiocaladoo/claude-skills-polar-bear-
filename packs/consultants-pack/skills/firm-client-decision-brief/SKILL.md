@@ -1,6 +1,6 @@
 ---
 name: firm-client-decision-brief
-description: Builds a neutral one-page decision brief your client contact owns and can use inside their company, with the decision framed around their outcome, every way to proceed including doing nothing and doing it in house with their own AI, consequences on their criteria in their figures, what would make each option the right one and the open facts with whom to ask, recommending nothing. Use for "run firm-client-decision-brief", "help my contact make the case internally", "neutral decision brief for the client", "one page for their leadership meeting", "my sponsor has to convince the board", "options including doing nothing", "a fair comparison they can forward", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Builds a neutral one-page decision brief your client contact owns and can use inside their company, with the decision framed around their outcome, every way to proceed including doing nothing and doing it in house with their own AI, consequences on their criteria in their figures, what would make each option the right one and the open facts with whom to ask, recommending nothing. Use for "run firm-client-decision-brief", "help my contact make the case internally", "neutral decision brief for the client", "one page for their leadership meeting", "my sponsor has to convince the board", "options including doing nothing", "a fair comparison they can forward", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Client Decision Brief
@@ -65,4 +65,4 @@ Run firm-mutual-action-plan (Mutual Action Plan) to map the steps from their yes
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

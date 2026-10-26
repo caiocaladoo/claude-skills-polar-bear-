@@ -1,6 +1,6 @@
 ---
 name: interview-debriefer
-description: Turns one interview into structured notes within 24 hours, part of the Design Thinking Pack by Polar Bear. Use this whenever the user says "run interview-debriefer", "debrief this interview", "structure my interview notes", "here's the transcript from today's call", or an interview just ended and the notes are a wall of raw text. Use it even for "I just got off a user call".
+description: Turns one interview into structured notes within 24 hours, part of the Design Thinking Pack by 90n. Use this whenever the user says "run interview-debriefer", "debrief this interview", "structure my interview notes", "here's the transcript from today's call", or an interview just ended and the notes are a wall of raw text. Use it even for "I just got off a user call".
 ---
 
 # Interview Debriefer
@@ -26,4 +26,4 @@ Raw words stay raw. I never sharpen a quote to make it more quotable, merge two 
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

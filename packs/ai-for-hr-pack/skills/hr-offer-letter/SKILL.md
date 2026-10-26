@@ -1,6 +1,6 @@
 ---
 name: hr-offer-letter
-description: Drafts an Offer Letter from terms a named person approved, with a clause list for adviser review and a check against what the contract says. Use for "run hr-offer-letter", "write an offer letter", "offer letter template", "draft the job offer", "offer has to go tonight", "check the offer against the contract", "offer letter clauses", "employment offer", part of the AI for HR Pack by Polar Bear.
+description: Drafts an Offer Letter from terms a named person approved, with a clause list for adviser review and a check against what the contract says. Use for "run hr-offer-letter", "write an offer letter", "offer letter template", "draft the job offer", "offer has to go tonight", "check the offer against the contract", "offer letter clauses", "employment offer", part of the AI for HR Pack by 90n.
 ---
 
 # Offer Letter
@@ -69,4 +69,4 @@ Run hr-onboarding-checklist (Onboarding Checklist) once the offer is accepted.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

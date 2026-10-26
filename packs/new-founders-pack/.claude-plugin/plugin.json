@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "Claude Guide for New Founders: 31 Claude skills for the first months of a one-person practice, from your last job to your first clients, in seven stages: decide what you sell with a career proof inventory, an ideal client profile and a positioning statement; package and price it with a runway plan, a floor rate and one productized offer; tell people with a voice guide, your LinkedIn profile, an announcement and a one-page offer; start with people who know you through a former employer terms check and a warm network map; reach out and talk with reconnect points, introduction asks and a discovery call guide; win the first client with a short proposal, price conversation prep and an onboarding note; then keep going with a weekly selling hour. For new founders of one-person practices: consultants, coaches, advisers and trainers. Claude prepares from your real career, your own contacts and your own numbers, never from a former employer’s files; you choose who to talk to, write and send it yourself.",
   "author": {
-    "name": "Polar Bear",
-    "url": "https://meet-polar-bear.com"
+    "name": "90n",
+    "url": "https://90n.ai"
   },
-  "homepage": "https://meet-polar-bear.com/skills/new-founders-pack",
+  "homepage": "https://90n.ai/resources/new-founders-pack",
   "repository": "https://github.com/polar-bear-org/claude-skills",
   "license": "LicenseRef-PolarBear-Internal-Use",
   "keywords": [

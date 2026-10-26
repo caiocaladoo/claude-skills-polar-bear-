@@ -1,6 +1,6 @@
 ---
 name: price-ai-discount-response
-description: Prepares your answer to a client who wants a discount because you use AI, with what the request really asks, what changed in the work, four honest options, the trades on offer and a reply draft you send or say. Use for "run price-ai-discount-response", "the client wants money off because I use AI", "AI discount request", "they say AI should make it cheaper", "should I lower my fee because of AI", "reply to a discount request", "the client wants a share of my AI savings", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Prepares your answer to a client who wants a discount because you use AI, with what the request really asks, what changed in the work, four honest options, the trades on offer and a reply draft you send or say. Use for "run price-ai-discount-response", "the client wants money off because I use AI", "AI discount request", "they say AI should make it cheaper", "should I lower my fee because of AI", "reply to a discount request", "the client wants a share of my AI savings", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # AI Discount Response
@@ -71,4 +71,4 @@ Run price-ai-brief-review (AI-Written Brief Review) for the next pressure point,
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

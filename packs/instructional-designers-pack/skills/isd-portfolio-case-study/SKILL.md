@@ -1,6 +1,6 @@
 ---
 name: isd-portfolio-case-study
-description: Drafts a portfolio case study for one course, with a confidentiality check first, the problem, your decisions and why, what the checks found and changed, and an honest split of what Claude drafted and what you did. Use for "run isd-portfolio-case-study", "write a case study for my portfolio", "my portfolio is just screenshots", "show my design decisions", "how do I show work under NDA", "write up this course project", "portfolio piece for an instructional design role", "how do I say I used AI on this", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Drafts a portfolio case study for one course, with a confidentiality check first, the problem, your decisions and why, what the checks found and changed, and an honest split of what Claude drafted and what you did. Use for "run isd-portfolio-case-study", "write a case study for my portfolio", "my portfolio is just screenshots", "show my design decisions", "how do I show work under NDA", "write up this course project", "portfolio piece for an instructional design role", "how do I say I used AI on this", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Portfolio Case Study
@@ -70,4 +70,4 @@ Run isd-course-brief (Course Brief) to start right when the next request arrives
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -2,7 +2,7 @@
 
 **7 Claude Skills for workshops worth the room.** For facilitators, consultants, and founders who run sessions where something has to actually get decided, invented, or moved.
 
-**Guide and download:** [meet-polar-bear.com/skills/workshop-pack](https://meet-polar-bear.com/skills/workshop-pack)
+**Guide and download:** [90n.ai/resources/workshop-pack](https://90n.ai/resources/workshop-pack)
 
 The pack covers the whole arc: framing the intention, designing the agenda, prepping the room, running from a real run sheet, capturing what the room produced, turning it into synthesis within 48 hours, and learning from every session. Claude designs and captures. Humans facilitate. No skill here runs the room or replaces the craft of standing in front of people; it takes everything around that craft off your plate.
 
@@ -65,7 +65,7 @@ It will ask what the workshop is for, and it won't let you off with "alignment".
 
 ## About the makers
 
-Made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people). Built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. This pack is the free, self-serve version of how we work. If your team has outgrown it, message Pauline ([linkedin.com/in/paulinebertry](https://www.linkedin.com/in/paulinebertry/)).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline ([linkedin.com/in/paulinebertry](https://www.linkedin.com/in/paulinebertry/)).
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: pdes-heart-metrics-plan
-description: Builds a HEART Metrics Plan with the two or three dimensions that matter, a goal, signal and metric for each, today's baseline or "baseline needed", the data owner, instrumentation asks and guardrails. Use for "run pdes-heart-metrics-plan", "HEART framework", "goals signals metrics", "what does design success look like", "UX metrics for this feature", "how do we measure this redesign", "agree success metrics with my PM", "design success metrics", part of the Claude for Product Designers Pack by Polar Bear.
+description: Builds a HEART Metrics Plan with the two or three dimensions that matter, a goal, signal and metric for each, today's baseline or "baseline needed", the data owner, instrumentation asks and guardrails. Use for "run pdes-heart-metrics-plan", "HEART framework", "goals signals metrics", "what does design success look like", "UX metrics for this feature", "how do we measure this redesign", "agree success metrics with my PM", "design success metrics", part of the Claude for Product Designers Pack by 90n.
 ---
 
 # HEART Metrics Plan
@@ -68,4 +68,4 @@ Run pdes-design-principles (Design Principles) to write what this product choose
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

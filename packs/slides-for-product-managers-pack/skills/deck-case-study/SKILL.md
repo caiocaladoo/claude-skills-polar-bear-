@@ -1,6 +1,6 @@
 ---
 name: deck-case-study
-description: Builds Case Study Slides in Claude Slides as a single slide or a five-slide version, with the change in the title, results with base and period, an approved quote and a permission check. Use for "run deck-case-study", "case study slides", "customer case slide", "customer story deck", "proof slide for sales", "turn this customer win into slides", "a case slide with real numbers", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Builds Case Study Slides in Claude Slides as a single slide or a five-slide version, with the change in the title, results with base and period, an approved quote and a permission check. Use for "run deck-case-study", "case study slides", "customer case slide", "customer story deck", "proof slide for sales", "turn this customer win into slides", "a case slide with real numbers", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Customer Case Study Slides
@@ -68,4 +68,4 @@ Run deck-sales-demo (Sales Demo Deck) to use this case as the proof slide for on
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

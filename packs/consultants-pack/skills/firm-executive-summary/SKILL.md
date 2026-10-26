@@ -1,6 +1,6 @@
 ---
 name: firm-executive-summary
-description: Writes a one-page proposal executive summary for the signer who was not on the call, with the decision asked and the date first, their situation, the complication, the question, the recommended option with its reasons and every option in one line with what it leaves out. Use for "run firm-executive-summary", "write the executive summary", "one page for the person who signs", "summarise my proposal for their CEO", "the decision maker never met me", "exec summary of this proposal", "short version for the budget holder", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Writes a one-page proposal executive summary for the signer who was not on the call, with the decision asked and the date first, their situation, the complication, the question, the recommended option with its reasons and every option in one line with what it leaves out. Use for "run firm-executive-summary", "write the executive summary", "one page for the person who signs", "summarise my proposal for their CEO", "the decision maker never met me", "exec summary of this proposal", "short version for the budget holder", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Proposal Executive Summary
@@ -66,4 +66,4 @@ Run firm-ai-objection-answer (AI Objection Answer) to prepare for the objection 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

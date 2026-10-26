@@ -1,6 +1,6 @@
 ---
 name: hr-case-log
-description: Sets up an employee relations case log with stage, owner, next date and documents per case, the rules for what to record and what not to, and a monthly aggregate count for reporting. Use for "run hr-case-log", "employee relations case log", "ER case tracker", "how do I keep notes on HR cases", "what should I write down about a complaint", "track open grievances", "case management log for HR", part of the AI for HR Pack by Polar Bear.
+description: Sets up an employee relations case log with stage, owner, next date and documents per case, the rules for what to record and what not to, and a monthly aggregate count for reporting. Use for "run hr-case-log", "employee relations case log", "ER case tracker", "how do I keep notes on HR cases", "what should I write down about a complaint", "track open grievances", "case management log for HR", part of the AI for HR Pack by 90n.
 ---
 
 # Employee Relations Case Log
@@ -68,4 +68,4 @@ Run hr-dashboard (HR Dashboard) to report the monthly count to leaders.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

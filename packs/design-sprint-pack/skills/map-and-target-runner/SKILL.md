@@ -1,6 +1,6 @@
 ---
 name: map-and-target-runner
-description: Runs the sprint's first day end to end, from the goal check through the map and the expert interviews to the Decider's target choice, with Claude doing the capture so nobody is writing while listening, part of the Design Sprint Pack by Polar Bear. Use this whenever the user says "run map-and-target-runner", "run day one of the sprint", "build the sprint map", "capture the expert interviews", "pick the target moment", or when the sprint week has started and the room needs to agree on where to aim. Use it even for a vague ask like "what do we do on Monday".
+description: Runs the sprint's first day end to end, from the goal check through the map and the expert interviews to the Decider's target choice, with Claude doing the capture so nobody is writing while listening, part of the Design Sprint Pack by 90n. Use this whenever the user says "run map-and-target-runner", "run day one of the sprint", "build the sprint map", "capture the expert interviews", "pick the target moment", or when the sprint week has started and the room needs to agree on where to aim. Use it even for a vague ask like "what do we do on Monday".
 ---
 
 # Map and target runner
@@ -79,4 +79,4 @@ What I add is the interview capture, and this is a genuine change rather than a 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

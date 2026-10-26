@@ -1,6 +1,6 @@
 ---
 name: pmg-run-sprint-review
-description: Prepares a Sprint Review with the increment shown against the sprint goal, what meets the definition of done, feedback captured by role, proposed backlog changes and a short key-updates deck for stakeholders. Use for "run pmg-run-sprint-review", "sprint review", "prepare the sprint demo", "end of sprint review agenda", "key updates deck for stakeholders", "nobody outside the team comes to the demo", "leaders hear about progress too late", part of The Complete Claude Guide for Product Managers Pack by Polar Bear.
+description: Prepares a Sprint Review with the increment shown against the sprint goal, what meets the definition of done, feedback captured by role, proposed backlog changes and a short key-updates deck for stakeholders. Use for "run pmg-run-sprint-review", "sprint review", "prepare the sprint demo", "end of sprint review agenda", "key updates deck for stakeholders", "nobody outside the team comes to the demo", "leaders hear about progress too late", part of The Complete Claude Guide for Product Managers Pack by 90n.
 ---
 
 # Run the Sprint Review
@@ -63,4 +63,4 @@ Run pmg-cut-scope-with-moscow (Cut Scope with MoSCoW) when the review shows the 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

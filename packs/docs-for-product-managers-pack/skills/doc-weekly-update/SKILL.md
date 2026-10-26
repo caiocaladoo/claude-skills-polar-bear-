@@ -1,6 +1,6 @@
 ---
 name: doc-weekly-update
-description: Writes a Weekly Product Update under 250 words, with the decision or help needed at the top, what changed, risks with evidence and owners, what is next and links, drafted from your connected tools. Use for "run doc-weekly-update", "write my weekly update", "Friday status update", "weekly product update", "status report nobody reads", "turn this week's tickets into an update", "put the ask at the top", "stakeholder update", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Writes a Weekly Product Update under 250 words, with the decision or help needed at the top, what changed, risks with evidence and owners, what is next and links, drafted from your connected tools. Use for "run doc-weekly-update", "write my weekly update", "Friday status update", "weekly product update", "status report nobody reads", "turn this week's tickets into an update", "put the ask at the top", "stakeholder update", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Weekly Product Update
@@ -66,4 +66,4 @@ Run doc-metrics-review (Weekly Metrics Review) to explain what the numbers mean.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

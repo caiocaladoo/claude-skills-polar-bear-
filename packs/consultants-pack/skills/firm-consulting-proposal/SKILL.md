@@ -1,6 +1,6 @@
 ---
 name: firm-consulting-proposal
-description: Writes a short answer-first consulting proposal from your notes and files, with the recommended option and the decision asked with a date at the top, their problem in their words, outcomes, approach, the three options, proof, the AI use statement and the next step. Use for "run firm-consulting-proposal", "write the proposal", "turn my notes into a consulting proposal", "a proposal they can read in five minutes", "draft the proposal for this client", "proposal they can forward to the board", "answer first proposal", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Writes a short answer-first consulting proposal from your notes and files, with the recommended option and the decision asked with a date at the top, their problem in their words, outcomes, approach, the three options, proof, the AI use statement and the next step. Use for "run firm-consulting-proposal", "write the proposal", "turn my notes into a consulting proposal", "a proposal they can read in five minutes", "draft the proposal for this client", "proposal they can forward to the board", "answer first proposal", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Consulting Proposal
@@ -71,4 +71,4 @@ Run firm-win-themes (Win Themes) to sharpen what makes this proposal yours and n
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

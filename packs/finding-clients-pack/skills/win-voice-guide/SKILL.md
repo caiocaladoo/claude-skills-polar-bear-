@@ -1,6 +1,6 @@
 ---
 name: win-voice-guide
-description: Builds a Writing Voice Guide from 10 to 20 of your own sent emails and posts, with your openings, sentence length and the words you use and never use, an AI-tell checklist, and one real message shown before and after. Use for "run win-voice-guide", "make it sound like me", "my drafts sound like AI", "build my voice guide", "why does this sound so generic", "check this for AI tells", "write in my style", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Builds a Writing Voice Guide from 10 to 20 of your own sent emails and posts, with your openings, sentence length and the words you use and never use, an AI-tell checklist, and one real message shown before and after. Use for "run win-voice-guide", "make it sound like me", "my drafts sound like AI", "build my voice guide", "why does this sound so generic", "check this for AI tells", "write in my style", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Writing Voice Guide
@@ -69,4 +69,4 @@ Run win-warm-network-map (Warm Network Map) to decide who to write to.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

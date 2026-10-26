@@ -1,6 +1,6 @@
 ---
 name: fac-session-purpose-brief
-description: Drafts a one-page session purpose brief, a plain decide or inform statement and an honest verdict on whether this should be a session at all, with the alternatives. Use for "run fac-session-purpose-brief", "the client wants a workshop", "frame this workshop", "what is this session for", "should this be a workshop or an email", "workshop brief", "they asked for a training day", "help me scope this offsite", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Drafts a one-page session purpose brief, a plain decide or inform statement and an honest verdict on whether this should be a session at all, with the alternatives. Use for "run fac-session-purpose-brief", "the client wants a workshop", "frame this workshop", "what is this session for", "should this be a workshop or an email", "workshop brief", "they asked for a training day", "help me scope this offsite", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Session Purpose Brief
@@ -72,4 +72,4 @@ Run fac-sponsor-kickoff-questions (Sponsor Kickoff Questions) to test the brief 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

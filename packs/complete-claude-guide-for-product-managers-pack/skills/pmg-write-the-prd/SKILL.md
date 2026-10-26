@@ -1,6 +1,6 @@
 ---
 name: pmg-write-the-prd
-description: Drafts a Product Requirements Document with the problem and its evidence, goals, non-goals, numbered testable requirements, open questions with owners and success measures. Use for "run pmg-write-the-prd", "write a PRD", "PRD template", "spec for this feature", "turn my interview notes into a spec", "product requirements", "the team keeps reading the spec differently", "my AI PRD is too long", part of The Complete Claude Guide for Product Managers Pack by Polar Bear.
+description: Drafts a Product Requirements Document with the problem and its evidence, goals, non-goals, numbered testable requirements, open questions with owners and success measures. Use for "run pmg-write-the-prd", "write a PRD", "PRD template", "spec for this feature", "turn my interview notes into a spec", "product requirements", "the team keeps reading the spec differently", "my AI PRD is too long", part of The Complete Claude Guide for Product Managers Pack by 90n.
 ---
 
 # Write the PRD
@@ -68,4 +68,4 @@ Run pmg-spec-the-ai-feature (Spec the AI Feature) when any requirement depends o
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

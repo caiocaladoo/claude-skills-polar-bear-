@@ -1,6 +1,6 @@
 ---
 name: hr-policy-faq
-description: Drafts an HR Policy FAQ for HR to review, answering staff questions only from your approved handbook text with the clause quoted, saying "our policy does not cover this" when it does not, routing medical, legal and personal questions to a person, and keeping no record of who asked. Use for "run hr-policy-faq", "answer staff questions from our handbook", "what does our policy say", "handbook FAQ", "policy questions I keep answering", "is this covered by our handbook", "draft answers to employee questions", part of the AI for HR Pack by Polar Bear.
+description: Drafts an HR Policy FAQ for HR to review, answering staff questions only from your approved handbook text with the clause quoted, saying "our policy does not cover this" when it does not, routing medical, legal and personal questions to a person, and keeping no record of who asked. Use for "run hr-policy-faq", "answer staff questions from our handbook", "what does our policy say", "handbook FAQ", "policy questions I keep answering", "is this covered by our handbook", "draft answers to employee questions", part of the AI for HR Pack by 90n.
 ---
 
 # HR Policy FAQ
@@ -67,4 +67,4 @@ Run hr-policy (HR Policy) to write the policy for any gap the questions reveal.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

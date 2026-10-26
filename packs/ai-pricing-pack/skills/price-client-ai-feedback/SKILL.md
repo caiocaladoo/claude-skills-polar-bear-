@@ -1,6 +1,6 @@
 ---
 name: price-client-ai-feedback
-description: Sorts a client's chatbot review of your work against the agreed brief into points that are right, points that contradict the brief, points out of scope and points that are wrong, then drafts a calm reply and shows what the next round costs. Use for "run price-client-ai-feedback", "the client ran my work through a chatbot", "they say AI found problems in my report", "the client says I am doing a bad job", "triage this feedback", "is this feedback in scope", "how many revision rounds have we used", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Sorts a client's chatbot review of your work against the agreed brief into points that are right, points that contradict the brief, points out of scope and points that are wrong, then drafts a calm reply and shows what the next round costs. Use for "run price-client-ai-feedback", "the client ran my work through a chatbot", "they say AI found problems in my report", "the client says I am doing a bad job", "triage this feedback", "is this feedback in scope", "how many revision rounds have we used", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Client AI Feedback Triage
@@ -68,4 +68,4 @@ Run price-ai-disclosure-policy (AI Disclosure Policy) to set clear rules on AI i
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: recruit-ai-recruiting-policy
-description: Drafts a team policy for AI in hiring with allowed and banned uses, candidate notice text, human review steps and the questions to put to vendors and a qualified adviser. Use for "run recruit-ai-recruiting-policy", "AI recruiting policy", "can we use AI screening", "AI in hiring rules", "vendor promises AI screening", "candidate notice for AI", "EU AI Act recruitment", "bias audit questions", part of the AI for Recruiting Pack by Polar Bear.
+description: Drafts a team policy for AI in hiring with allowed and banned uses, candidate notice text, human review steps and the questions to put to vendors and a qualified adviser. Use for "run recruit-ai-recruiting-policy", "AI recruiting policy", "can we use AI screening", "AI in hiring rules", "vendor promises AI screening", "candidate notice for AI", "EU AI Act recruitment", "bias audit questions", part of the AI for Recruiting Pack by 90n.
 ---
 
 # AI Recruiting Policy
@@ -70,4 +70,4 @@ Run recruit-interviewer-training (Interviewer Training) to set the same standard
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

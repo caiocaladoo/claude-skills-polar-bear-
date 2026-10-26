@@ -1,6 +1,6 @@
 ---
 name: team-deck-builder
-description: Builds the hiring manager's onboarding deck in four layers (company, function, team, person), reusable for every joiner, part of the Onboarding Pack by Polar Bear and Terry Mattheoyianni. Use this whenever the user says "run team-deck-builder", "build the onboarding deck", "what do I present to my new hire", "prepare the intro presentation for Maria", or a manager needs to explain the company, the team, and the role to someone starting. Use it even for "what should my new joiner's first briefing cover".
+description: Builds the hiring manager's onboarding deck in four layers (company, function, team, person), reusable for every joiner, part of the Onboarding Pack by 90n and Terry Mattheoyianni. Use this whenever the user says "run team-deck-builder", "build the onboarding deck", "what do I present to my new hire", "prepare the intro presentation for Maria", or a manager needs to explain the company, the team, and the role to someone starting. Use it even for "what should my new joiner's first briefing cover".
 ---
 
 # Team Deck Builder
@@ -54,4 +54,4 @@ The MVP is this pptx, presented by the manager in the first days, derived in min
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. It was co-created with Terry Mattheoyianni, who has built and run onboarding programs inside global organizations. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).

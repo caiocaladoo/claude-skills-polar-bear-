@@ -1,6 +1,6 @@
 ---
 name: aipm-prompt-regression-test
-description: Runs a Prompt Regression Test on a prompt, context or setting change, with a change note, the cases to re-run, before and after results per failure type and a ship or hold recommendation for a named person. Use for "run aipm-prompt-regression-test", "did this prompt change break anything", "regression test a prompt edit", "before and after eval for our prompt", "the fix broke another case", "check the new system prompt", "ship or hold this prompt", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Runs a Prompt Regression Test on a prompt, context or setting change, with a change note, the cases to re-run, before and after results per failure type and a ship or hold recommendation for a named person. Use for "run aipm-prompt-regression-test", "did this prompt change break anything", "regression test a prompt edit", "before and after eval for our prompt", "the fix broke another case", "check the new system prompt", "ship or hold this prompt", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # Prompt Regression Test
@@ -68,4 +68,4 @@ Run aipm-model-migration (Model Migration Plan) for when the change is the model
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

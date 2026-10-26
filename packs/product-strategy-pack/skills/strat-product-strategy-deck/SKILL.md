@@ -1,6 +1,6 @@
 ---
 name: strat-product-strategy-deck
-description: Builds a ghost deck with action titles that presents the product strategy in a room to win an endorsement, moving from what is to what could be, then the obstacle, the approach and what it rules out, the actions, what we will not do, how we will know and the endorsement asked, with a source on every claim slide. Use for "run strat-product-strategy-deck", "product strategy deck", "put the strategy on slides", "strategy slides for leadership", "present our strategy to the leadership team", "get the strategy endorsed", "ghost deck for the strategy", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Builds a ghost deck with action titles that presents the product strategy in a room to win an endorsement, moving from what is to what could be, then the obstacle, the approach and what it rules out, the actions, what we will not do, how we will know and the endorsement asked, with a source on every claim slide. Use for "run strat-product-strategy-deck", "product strategy deck", "put the strategy on slides", "strategy slides for leadership", "present our strategy to the leadership team", "get the strategy endorsed", "ghost deck for the strategy", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Product Strategy Deck
@@ -70,4 +70,4 @@ Run strat-roadmap-review-deck (Roadmap Review Deck) to report on the roadmap aga
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: proj-project-status-report
-description: Drafts a one-screen weekly project status report, with a subject line that carries the news, the asks at the top and a RAG rating backed by written definitions and evidence. Use for "run proj-project-status-report", "weekly status report", "project status update", "is my RAG colour honest", "status report nobody reads", "turn the RAID log into a status report", "executive status report", "watermelon status", part of the AI for Project Management Pack by Polar Bear.
+description: Drafts a one-screen weekly project status report, with a subject line that carries the news, the asks at the top and a RAG rating backed by written definitions and evidence. Use for "run proj-project-status-report", "weekly status report", "project status update", "is my RAG colour honest", "status report nobody reads", "turn the RAID log into a status report", "executive status report", "watermelon status", part of the AI for Project Management Pack by 90n.
 ---
 
 # Project Status Report
@@ -69,4 +69,4 @@ Run proj-burndown-chart (Burndown Chart) to put evidence behind next week's colo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

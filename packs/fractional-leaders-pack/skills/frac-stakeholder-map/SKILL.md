@@ -1,6 +1,6 @@
 ---
 name: frac-stakeholder-map
-description: Maps the people a fractional engagement depends on by their role in the work (decides, funds, uses, can block, advises), what each has said they need, what you depend on them for and they on you, last contact, and the gaps and unknowns turned into questions, with roles and stated needs only and no ratings. Use for "run frac-stakeholder-map", "stakeholder map for my client", "stakeholder mapping", "who do I need to know at this client", "I only know the CEO", "map who the work depends on", "who else should know why I am here", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Maps the people a fractional engagement depends on by their role in the work (decides, funds, uses, can block, advises), what each has said they need, what you depend on them for and they on you, last contact, and the gaps and unknowns turned into questions, with roles and stated needs only and no ratings. Use for "run frac-stakeholder-map", "stakeholder map for my client", "stakeholder mapping", "who do I need to know at this client", "I only know the CEO", "map who the work depends on", "who else should know why I am here", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Stakeholder Map
@@ -64,4 +64,4 @@ Run frac-first-30-days-diagnostic (First 30 Days Diagnostic) to turn those conve
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

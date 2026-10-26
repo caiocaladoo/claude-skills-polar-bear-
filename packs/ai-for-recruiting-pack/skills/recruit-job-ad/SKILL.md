@@ -1,6 +1,6 @@
 ---
 name: recruit-job-ad
-description: Writes the job advert people actually read, with a two-line hook, the real job including its hard parts, pay, location and work authorisation rules up front, how to apply and what happens next by when. Use for "run recruit-job-ad", "write a job ad", "job posting", "job advert for LinkedIn", "rewrite our job post", "people ignore no sponsorship in the ad", "realistic job preview", "job ad that attracts the right people", part of the AI for Recruiting Pack by Polar Bear.
+description: Writes the job advert people actually read, with a two-line hook, the real job including its hard parts, pay, location and work authorisation rules up front, how to apply and what happens next by when. Use for "run recruit-job-ad", "write a job ad", "job posting", "job advert for LinkedIn", "rewrite our job post", "people ignore no sponsorship in the ad", "realistic job preview", "job ad that attracts the right people", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Job Ad
@@ -71,4 +71,4 @@ Run recruit-employee-referral-program (Employee Referral Program) to put the sam
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

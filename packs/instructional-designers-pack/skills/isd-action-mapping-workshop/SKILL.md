@@ -1,6 +1,6 @@
 ---
 name: isd-action-mapping-workshop
-description: Prepares a one-hour action mapping session with the sponsor and one expert and tidies its result, with a timed run of show, the map from goal to minimum information, prepared replies to "but they need to know" and a cut list. Use for "run isd-action-mapping-workshop", "action mapping workshop", "action mapping session", "facilitate action mapping", "the sponsor's list is all things to know", "but they need to know", "what should people do, not know", "run of show for a design session", "cut list for the sponsor", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Prepares a one-hour action mapping session with the sponsor and one expert and tidies its result, with a timed run of show, the map from goal to minimum information, prepared replies to "but they need to know" and a cut list. Use for "run isd-action-mapping-workshop", "action mapping workshop", "action mapping session", "facilitate action mapping", "the sponsor's list is all things to know", "but they need to know", "what should people do, not know", "run of show for a design session", "cut list for the sponsor", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Action Mapping Workshop
@@ -71,4 +71,4 @@ Run isd-course-estimate (Course Estimate and Timeline) to size what the map call
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

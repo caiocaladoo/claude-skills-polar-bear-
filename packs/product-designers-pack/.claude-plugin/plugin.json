@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "Claude for Product Designers: 32 Claude skills for one piece of design work, from the request to the result, in eight stages: frame the problem with a problem framing brief, a user journey map and a HEART metrics plan; explore and decide with design principles, an options trade-off table, a rationale doc and a decision log; design with context through a design system rules file, a product context file, the user flow, the copy deck and every UI state; prototype around one question; critique against a quality bar, ten heuristics and an accessibility review; test with real users; hand off with a spec and a UX debt register; then show the impact in a review deck, a pushback brief, an impact write-up and a portfolio case study. For product designers, UX and UI designers, and designers who do their own research. Claude drafts, checks and explains; you make the design decisions, real users test the work, and nothing is presented as tested, accessible or ready to ship that was not.",
   "author": {
-    "name": "Polar Bear",
-    "url": "https://meet-polar-bear.com"
+    "name": "90n",
+    "url": "https://90n.ai"
   },
-  "homepage": "https://meet-polar-bear.com/skills/product-designers-pack",
+  "homepage": "https://90n.ai/resources/product-designers-pack",
   "repository": "https://github.com/polar-bear-org/claude-skills",
   "license": "LicenseRef-PolarBear-Internal-Use",
   "keywords": [

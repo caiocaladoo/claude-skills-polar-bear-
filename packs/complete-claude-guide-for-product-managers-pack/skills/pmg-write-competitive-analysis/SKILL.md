@@ -1,6 +1,6 @@
 ---
 name: pmg-write-competitive-analysis
-description: Writes a Competitive Landscape Brief with a sourced landscape table, win / loss themes from buyer interviews, where you differ and what not to copy. Use for "run pmg-write-competitive-analysis", "competitive analysis", "competitor landscape", "the competitor has it", "win loss analysis", "why did we lose that deal", "facts for the sales battlecard", "should we copy this feature", part of The Complete Claude Guide for Product Managers Pack by Polar Bear.
+description: Writes a Competitive Landscape Brief with a sourced landscape table, win / loss themes from buyer interviews, where you differ and what not to copy. Use for "run pmg-write-competitive-analysis", "competitive analysis", "competitor landscape", "the competitor has it", "win loss analysis", "why did we lose that deal", "facts for the sales battlecard", "should we copy this feature", part of The Complete Claude Guide for Product Managers Pack by 90n.
 ---
 
 # Write the Competitive Analysis
@@ -65,4 +65,4 @@ Run pmg-plan-go-to-market (Plan the Go-to-Market) to carry the differences into 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

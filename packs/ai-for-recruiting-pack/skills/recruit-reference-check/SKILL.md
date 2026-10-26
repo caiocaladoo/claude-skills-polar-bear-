@@ -1,6 +1,6 @@
 ---
 name: recruit-reference-check
-description: Builds a reference check guide with a consent step, questions tied to the scorecard criteria and the debrief's open questions, probes past polite answers, a never-ask list and a note template. Use for "run recruit-reference-check", "reference check questions", "questions to ask references", "references that tell me something", "reference call script", "what not to ask a referee", "take-up references for the finalist", part of the AI for Recruiting Pack by Polar Bear.
+description: Builds a reference check guide with a consent step, questions tied to the scorecard criteria and the debrief's open questions, probes past polite answers, a never-ask list and a note template. Use for "run recruit-reference-check", "reference check questions", "questions to ask references", "references that tell me something", "reference call script", "what not to ask a referee", "take-up references for the finalist", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Reference Check Questions
@@ -66,4 +66,4 @@ Run recruit-offer-letter (Offer Letter) to put the approved terms in writing onc
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

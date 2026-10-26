@@ -1,6 +1,6 @@
 ---
 name: hr-onboarding-checklist
-description: Builds an Onboarding Checklist from before day one to day 90 in four blocks (compliance, clarification, culture, connection), with an owner and date per item and the new starter's own copy. Use for "run hr-onboarding-checklist", "onboarding checklist", "new starter checklist", "new hire onboarding plan", "first 90 days", "onboarding is just paperwork", "day one checklist", "new employee onboarding", part of the AI for HR Pack by Polar Bear.
+description: Builds an Onboarding Checklist from before day one to day 90 in four blocks (compliance, clarification, culture, connection), with an owner and date per item and the new starter's own copy. Use for "run hr-onboarding-checklist", "onboarding checklist", "new starter checklist", "new hire onboarding plan", "first 90 days", "onboarding is just paperwork", "day one checklist", "new employee onboarding", part of the AI for HR Pack by 90n.
 ---
 
 # Onboarding Checklist
@@ -69,4 +69,4 @@ Run hr-probation-review (Probation Review) to set the review dates.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

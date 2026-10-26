@@ -1,6 +1,6 @@
 ---
 name: interview-guide-designer
-description: Designs interview guides that open people up, part of the Design Thinking Pack by Polar Bear. Use this whenever the user says "run interview-guide-designer", "write an interview guide", "what should we ask users", "prep my discovery interviews", "help me with questions for customer calls", or interviews are scheduled and the question list is a blank page. Use it even for "we're talking to some customers next week".
+description: Designs interview guides that open people up, part of the Design Thinking Pack by 90n. Use this whenever the user says "run interview-guide-designer", "write an interview guide", "what should we ask users", "prep my discovery interviews", "help me with questions for customer calls", or interviews are scheduled and the question list is a blank page. Use it even for "we're talking to some customers next week".
 ---
 
 # Interview Guide Designer
@@ -26,4 +26,4 @@ This guide exists so a human can sit with another human and listen. I don't simu
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

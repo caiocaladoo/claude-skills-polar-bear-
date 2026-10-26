@@ -1,6 +1,6 @@
 ---
 name: uxr-insight-statements
-description: Writes five to nine research insights in the "want X but do Y because Z" shape, each with quotes, participant ids, counts and confidence, causes marked unclear when the data does not show them, and confirmations listed apart. Use for "run uxr-insight-statements", "write the insights", "turn these themes into insights", "so what does the research mean", "insight statements", "the findings feel flat", "the room keeps saying so what", part of the UX Research with Claude Pack by Polar Bear.
+description: Writes five to nine research insights in the "want X but do Y because Z" shape, each with quotes, participant ids, counts and confidence, causes marked unclear when the data does not show them, and confirmations listed apart. Use for "run uxr-insight-statements", "write the insights", "turn these themes into insights", "so what does the research mean", "insight statements", "the findings feel flat", "the room keeps saying so what", part of the UX Research with Claude Pack by 90n.
 ---
 
 # Research Insight Statements
@@ -64,4 +64,4 @@ Run uxr-evidence-trace-audit (Evidence Trace Audit) to check every insight trace
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

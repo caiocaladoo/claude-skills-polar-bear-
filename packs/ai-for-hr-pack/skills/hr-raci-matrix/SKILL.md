@@ -1,6 +1,6 @@
 ---
 name: hr-raci-matrix
-description: Builds an HR RACI Matrix that shows who owns what across HR, managers, employees, payroll, legal and leaders, with "manager first" rules, an escalation line and a must-do list leadership signs. Use for "run hr-raci-matrix", "who owns what in HR", "managers send everything to HR", "HR RACI", "I am the whole HR department", "manager first rules", "HR responsibilities matrix", "stop HR absorbing everything", part of the AI for HR Pack by Polar Bear.
+description: Builds an HR RACI Matrix that shows who owns what across HR, managers, employees, payroll, legal and leaders, with "manager first" rules, an escalation line and a must-do list leadership signs. Use for "run hr-raci-matrix", "who owns what in HR", "managers send everything to HR", "HR RACI", "I am the whole HR department", "manager first rules", "HR responsibilities matrix", "stop HR absorbing everything", part of the AI for HR Pack by 90n.
 ---
 
 # HR RACI Matrix
@@ -70,4 +70,4 @@ Run hr-calendar (HR Calendar) to put the owned work on dates.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

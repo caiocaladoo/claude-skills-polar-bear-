@@ -1,6 +1,6 @@
 ---
 name: pmjob-tell-me-about-yourself
-description: Drafts your Tell Me About Yourself Answer as speaking notes, a ninety second version in present, past, future order built from three evidence rows, a twenty second version and two true sentences for why you are looking. Use for "run pmjob-tell-me-about-yourself", "tell me about yourself answer", "walk me through your background", "introduce myself in an interview", "why are you looking answer", "my intro is a spoken resume", "twenty second introduction for a panel", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Drafts your Tell Me About Yourself Answer as speaking notes, a ninety second version in present, past, future order built from three evidence rows, a twenty second version and two true sentences for why you are looking. Use for "run pmjob-tell-me-about-yourself", "tell me about yourself answer", "walk me through your background", "introduce myself in an interview", "why are you looking answer", "my intro is a spoken resume", "twenty second introduction for a panel", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Tell Me About Yourself
@@ -70,4 +70,4 @@ Run pmjob-resume-bullets (Product Resume Bullets) to put the same evidence on th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

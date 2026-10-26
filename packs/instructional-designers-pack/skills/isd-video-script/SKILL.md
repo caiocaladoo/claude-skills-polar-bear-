@@ -1,6 +1,6 @@
 ---
 name: isd-video-script
-description: Drafts a training video script in two columns (what is heard, what is seen) with a spoken-word rewrite, a shot or screen-capture list, and caption and transcript text planned at script stage. Use for "run isd-video-script", "write a training video script", "two-column script", "it sounds like a manual when read aloud", "script this screen recording", "rewrite this narration for the ear", "shot list for the demo", "captions and transcript for this video", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Drafts a training video script in two columns (what is heard, what is seen) with a spoken-word rewrite, a shot or screen-capture list, and caption and transcript text planned at script stage. Use for "run isd-video-script", "write a training video script", "two-column script", "it sounds like a manual when read aloud", "script this screen recording", "rewrite this narration for the ear", "shot list for the demo", "captions and transcript for this video", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Training Video Script
@@ -71,4 +71,4 @@ Run isd-knowledge-check-questions (Knowledge Check Questions) to write the check
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

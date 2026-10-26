@@ -1,6 +1,6 @@
 ---
 name: adopt-ai-basics-curriculum
-description: Builds a short AI basics path by role around four judgements, with a practice on real work in each unit, a list of what is left out and why, and a refresh date with an owner. Use for "run adopt-ai-basics-curriculum", "AI basics curriculum", "AI training curriculum for our teams", "what should AI training cover", "AI learning path by role", "AI literacy programme outline", "replace the tool tour", "AI training that does not go out of date", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Builds a short AI basics path by role around four judgements, with a practice on real work in each unit, a list of what is left out and why, and a refresh date with an owner. Use for "run adopt-ai-basics-curriculum", "AI basics curriculum", "AI training curriculum for our teams", "what should AI training cover", "AI learning path by role", "AI literacy programme outline", "replace the tool tour", "AI training that does not go out of date", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 # AI Basics Curriculum
 ## When To Use
@@ -71,4 +71,4 @@ Refresh date: [date] | Early trigger: [the tool changed, the rules changed] | Ow
 Run adopt-hands-on-session-plan (Hands-On AI Session Plan) to plan the first unit as a session where people touch the tool.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

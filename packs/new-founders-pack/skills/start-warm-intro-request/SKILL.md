@@ -1,6 +1,6 @@
 ---
 name: start-warm-intro-request
-description: Prepares a Warm Introduction Request through someone you know, with the path check, the ask to the connector with an easy no, a forwardable blurb they can send unchanged, the double opt-in steps, the thank-you and the close-the-loop note. Use for "run start-warm-intro-request", "ask for an introduction to someone", "can you introduce me to", "warm introduction email", "forwardable email", "double opt-in intro", "they said they would introduce me and it never happened", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Prepares a Warm Introduction Request through someone you know, with the path check, the ask to the connector with an easy no, a forwardable blurb they can send unchanged, the double opt-in steps, the thank-you and the close-the-loop note. Use for "run start-warm-intro-request", "ask for an introduction to someone", "can you introduce me to", "warm introduction email", "forwardable email", "double opt-in intro", "they said they would introduce me and it never happened", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # Warm Introduction Request
@@ -71,4 +71,4 @@ Run start-coffee-chat-prep (Coffee Chat Prep) once the introduction is made and 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

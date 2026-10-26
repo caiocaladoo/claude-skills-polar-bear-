@@ -1,6 +1,6 @@
 ---
 name: recruit-sourcing-strategy
-description: Plans the sourcing channel mix for one role across outbound, referrals, communities, past applicants, job boards and events, with free routes when you have no paid seat, weekly targets per channel and a list of what to stop. Use for "run recruit-sourcing-strategy", "sourcing strategy", "sourcing plan for this role", "inbound is unusable", "InMail replies have collapsed", "sourcing with no budget", "candidate rediscovery", "where should I source", part of the AI for Recruiting Pack by Polar Bear.
+description: Plans the sourcing channel mix for one role across outbound, referrals, communities, past applicants, job boards and events, with free routes when you have no paid seat, weekly targets per channel and a list of what to stop. Use for "run recruit-sourcing-strategy", "sourcing strategy", "sourcing plan for this role", "inbound is unusable", "InMail replies have collapsed", "sourcing with no budget", "candidate rediscovery", "where should I source", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Sourcing Strategy
@@ -69,4 +69,4 @@ Run recruit-recruiting-email-templates (Recruiting Email Templates) to write the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

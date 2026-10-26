@@ -1,6 +1,6 @@
 ---
 name: cs-chatbot-handoff-rules
-description: Writes the rules for when a support bot hands a customer to a person, producing a bot scope table, handoff triggers with a context packet and a loop test script. Use for "run cs-chatbot-handoff-rules", "bot handoff rules", "chatbot escalation to a human", "our bot loops customers", "customers cannot reach a person", "bot disclosure message", "doom loop test", "what should the bot never answer", part of the AI for Customer Service Pack by Polar Bear.
+description: Writes the rules for when a support bot hands a customer to a person, producing a bot scope table, handoff triggers with a context packet and a loop test script. Use for "run cs-chatbot-handoff-rules", "bot handoff rules", "chatbot escalation to a human", "our bot loops customers", "customers cannot reach a person", "bot disclosure message", "doom loop test", "what should the bot never answer", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Chatbot Handoff Rules
@@ -67,4 +67,4 @@ Run cs-self-service-deflection (Self-Service Deflection Plan) to measure what th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -18,7 +18,7 @@ cd claude-skills
 Commits in this repo are authored impersonally. Set that up in your clone before your first commit:
 
 ```bash
-git config user.name "Polar Bear"
+git config user.name "90n"
 git config user.email "polar-bear-org@users.noreply.github.com"
 ```
 
@@ -51,7 +51,7 @@ Naming: lowercase with hyphens, theme first — `workshop-pack`, `review-cycle-p
 
 **Add the shared files.** Anything several skills read goes in `resources/` or `templates/` — see [section 6](#6-resources-vs-templates).
 
-**Write the pack README.** The template has the skeleton. It is a landing page for a stranger who arrived from a search result: what the pack is, who it is for, install commands, a table of skills with concrete verbs, a table of the shared files, and what to run first. Directly under the H1 and its one-line intro, it carries the website-page line: `**Guide and download:** [meet-polar-bear.com/skills/<slug>](https://meet-polar-bear.com/skills/<slug>)`, with `<slug>` being the pack folder name. The template already has it.
+**Write the pack README.** The template has the skeleton. It is a landing page for a stranger who arrived from a search result: what the pack is, who it is for, install commands, a table of skills with concrete verbs, a table of the shared files, and what to run first. Directly under the H1 and its one-line intro, it carries the website-page line: `**Guide and download:** [90n.ai/resources/<slug>](https://90n.ai/resources/<slug>)`, with `<slug>` being the pack folder name. The template already has it.
 
 **Register, verify, publish** — [section 7](#7-register-the-pack) and [section 8](#8-verify-before-you-push).
 
@@ -148,7 +148,7 @@ A skill is a Markdown file with YAML frontmatter. Nothing else is required.
 ```markdown
 ---
 name: agenda-designer
-description: Designs a workshop agenda from an intention brief, part of the Workshop Pack by Polar Bear. Use this whenever the user says "run agenda-designer", "build the workshop agenda", "design the session", "what exercises should we run", or has an intention brief and needs the workshop's structure, exercises, and timing. Use it even for a quick "help me structure a 3-hour session on X".
+description: Designs a workshop agenda from an intention brief, part of the Workshop Pack by 90n. Use this whenever the user says "run agenda-designer", "build the workshop agenda", "design the session", "what exercises should we run", or has an intention brief and needs the workshop's structure, exercises, and timing. Use it even for a quick "help me structure a 3-hour session on X".
 ---
 
 # Agenda Designer
@@ -209,8 +209,8 @@ Four files outside the pack folder. Miss one and the pack works but nobody finds
   "source": "./packs/hiring-pack",
   "description": "…",
   "version": "1.0.0",
-  "author": { "name": "Polar Bear", "url": "https://meet-polar-bear.com" },
-  "homepage": "https://meet-polar-bear.com/skills/hiring-pack",
+  "author": { "name": "90n", "url": "https://90n.ai" },
+  "homepage": "https://90n.ai/resources/hiring-pack",
   "repository": "https://github.com/polar-bear-org/claude-skills",
   "license": "LicenseRef-PolarBear-Internal-Use",
   "category": "productivity",
@@ -218,7 +218,7 @@ Four files outside the pack folder. Miss one and the pack works but nobody finds
 }
 ```
 
-`homepage` is always the pack's page on the website, `https://meet-polar-bear.com/skills/<slug>`, not the GitHub folder, and `author.url` is `https://meet-polar-bear.com`. Use the same two values in the pack's own `plugin.json`.
+`homepage` is always the pack's page on the website, `https://90n.ai/resources/<slug>`, not the GitHub folder, and `author.url` is `https://90n.ai`. Use the same two values in the pack's own `plugin.json`.
 
 **`catalog.json`** — the pack, its `homepage` (the website page, next to `path`), its shared files, and every skill with its trigger phrases. This is the machine-readable index AI assistants read when someone asks "is there a skill for X".
 

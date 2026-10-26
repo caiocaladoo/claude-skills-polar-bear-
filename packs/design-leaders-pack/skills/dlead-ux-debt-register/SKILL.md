@@ -1,6 +1,6 @@
 ---
 name: dlead-ux-debt-register
-description: Builds a UX Debt Register with each issue's user impact, journey stage, frequency, evidence source and fix effort, a value against effort plot, the short list for next quarter and the issues knowingly left. Use for "run dlead-ux-debt-register", "UX debt", "design debt backlog", "prioritise UX fixes", "small UX issues never get fixed", "value vs effort", "design debt list", "which UX debt first", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Builds a UX Debt Register with each issue's user impact, journey stage, frequency, evidence source and fix effort, a value against effort plot, the short list for next quarter and the issues knowingly left. Use for "run dlead-ux-debt-register", "UX debt", "design debt backlog", "prioritise UX fixes", "small UX issues never get fixed", "value vs effort", "design debt list", "which UX debt first", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # UX Debt Register
@@ -69,4 +69,4 @@ Run dlead-design-investment-case (Design Investment Case) to argue for the time 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

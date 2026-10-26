@@ -1,6 +1,6 @@
 ---
 name: strat-strategy-kpis
-description: Defines the KPIs for a strategy as one block per bet and strategic action, each with the goal, the signal and the metric (event, filter, window), leading and lagging indicators, a baseline with its source, a target left for the owner, a guardrail, and the review date with the threshold that would make the owner change course. Use for "run strat-strategy-kpis", "KPIs for our strategy", "how will we know the strategy is working", "leading and lagging indicators", "set a guardrail metric", "what would make us change course", "measures for each bet", "strategy scorecard", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Defines the KPIs for a strategy as one block per bet and strategic action, each with the goal, the signal and the metric (event, filter, window), leading and lagging indicators, a baseline with its source, a target left for the owner, a guardrail, and the review date with the threshold that would make the owner change course. Use for "run strat-strategy-kpis", "KPIs for our strategy", "how will we know the strategy is working", "leading and lagging indicators", "set a guardrail metric", "what would make us change course", "measures for each bet", "strategy scorecard", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Strategy KPIs
@@ -68,4 +68,4 @@ Run strat-impact-map (Impact Map) to tie each roadmap item to the behaviour chan
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

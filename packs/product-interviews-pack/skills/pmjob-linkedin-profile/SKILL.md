@@ -1,6 +1,6 @@
 ---
 name: pmjob-linkedin-profile
-description: Checks and redrafts your LinkedIn profile from pasted text, giving a list of mismatches with your resume to fix first, a section check, three headline options, an About in your own voice and a claim map tying every claim to an evidence row. Use for "run pmjob-linkedin-profile", "fix my LinkedIn profile", "LinkedIn headline for a product manager", "write my About section", "my profile sounds like AI wrote it", "does my profile match my resume", "LinkedIn profile for a senior product designer", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Checks and redrafts your LinkedIn profile from pasted text, giving a list of mismatches with your resume to fix first, a section check, three headline options, an About in your own voice and a claim map tying every claim to an evidence row. Use for "run pmjob-linkedin-profile", "fix my LinkedIn profile", "LinkedIn headline for a product manager", "write my About section", "my profile sounds like AI wrote it", "does my profile match my resume", "LinkedIn profile for a senior product designer", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # LinkedIn Profile Rewrite
@@ -71,4 +71,4 @@ Run pmjob-product-sense-case (Product Sense Case) to start preparing the rounds.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

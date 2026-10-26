@@ -1,6 +1,6 @@
 ---
 name: adopt-ai-pilot-plan
-description: Drafts an AI pilot plan with the one question the pilot answers, a prediction written before the start, the measures it will read, and the stop, rollback and review rules. Use for "run adopt-ai-pilot-plan", "AI pilot plan", "design an AI pilot", "pilot before rolling out AI", "what should our AI pilot test", "stop rule for the AI pilot", "plan a small test of AI on real work", "our pilot proved nothing", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Drafts an AI pilot plan with the one question the pilot answers, a prediction written before the start, the measures it will read, and the stop, rollback and review rules. Use for "run adopt-ai-pilot-plan", "AI pilot plan", "design an AI pilot", "pilot before rolling out AI", "what should our AI pilot test", "stop rule for the AI pilot", "plan a small test of AI on real work", "our pilot proved nothing", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 # AI Pilot Plan
 ## When To Use
@@ -71,4 +71,4 @@ Support: [who helps, with what]. Check-ins: [dates]. Problems and surprises are 
 Run adopt-team-involvement-plan (Team Involvement Plan) to decide what the people in the pilot can still change.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

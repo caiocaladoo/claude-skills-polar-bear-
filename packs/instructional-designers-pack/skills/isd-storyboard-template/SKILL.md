@@ -1,6 +1,6 @@
 ---
 name: isd-storyboard-template
-description: Drafts an e-learning storyboard with one row per screen (objective, screen type, on-screen text, visual, narration, interaction, build note, alt text), a coverage table by objective and a cut list. Use for "run isd-storyboard-template", "storyboard this course", "e-learning storyboard template", "turn the expert's slides into screens", "write the build notes for the developer", "it is narration over bullet points", "alt text for every image", "screen by screen plan", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Drafts an e-learning storyboard with one row per screen (objective, screen type, on-screen text, visual, narration, interaction, build note, alt text), a coverage table by objective and a cut list. Use for "run isd-storyboard-template", "storyboard this course", "e-learning storyboard template", "turn the expert's slides into screens", "write the build notes for the developer", "it is narration over bullet points", "alt text for every image", "screen by screen plan", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # E-Learning Storyboard Template
@@ -71,4 +71,4 @@ Run isd-video-script (Training Video Script) for any screen that is a video.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

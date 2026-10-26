@@ -1,6 +1,6 @@
 ---
 name: adopt-ai-starting-point-survey
-description: Writes an anonymous AI starting point survey of 10 to 15 questions, with a minimum group size you set, a never-asked list and a team-level summary template. Use for "run adopt-ai-starting-point-survey", "AI starting point survey", "survey before AI training", "ask people where they are with AI", "anonymous AI survey", "why are people not using AI survey", "AI adoption baseline questions", "AI readiness survey", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Writes an anonymous AI starting point survey of 10 to 15 questions, with a minimum group size you set, a never-asked list and a team-level summary template. Use for "run adopt-ai-starting-point-survey", "AI starting point survey", "survey before AI training", "ask people where they are with AI", "anonymous AI survey", "why are people not using AI survey", "AI adoption baseline questions", "AI readiness survey", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # AI Starting Point Survey
@@ -71,4 +71,4 @@ Status: [first draft / approved by [name] on [date]] · Groups in scope: [roles 
 Run adopt-ai-use-case-map (AI Use Case Map) to turn "I do not see what I would use it for" into tasks per role.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

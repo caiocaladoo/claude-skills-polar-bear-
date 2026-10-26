@@ -1,6 +1,6 @@
 ---
 name: firm-discovery-recap-email
-description: Drafts a same-day recap email that plays the discovery call back in the client's words, with what matters most to them in their order, what you are unsure about, the next step with a date and an invitation to correct it, with no price and no pitch. Use for "run firm-discovery-recap-email", "write the recap after the call", "here is what I heard email", "play the call back to the client", "follow up after discovery", "show them I listened", "recap before I write the proposal", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Drafts a same-day recap email that plays the discovery call back in the client's words, with what matters most to them in their order, what you are unsure about, the next step with a date and an invitation to correct it, with no price and no pitch. Use for "run firm-discovery-recap-email", "write the recap after the call", "here is what I heard email", "play the call back to the client", "follow up after discovery", "show them I listened", "recap before I write the proposal", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Discovery Recap Email
@@ -67,4 +67,4 @@ Run firm-problem-statement (Problem Statement) to write the problem and the deci
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

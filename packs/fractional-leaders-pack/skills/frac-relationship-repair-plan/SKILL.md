@@ -1,6 +1,6 @@
 ---
 name: frac-relationship-repair-plan
-description: Prepares a repair plan after a missed commitment between a fractional leader and a peer, with facts against accounts against open questions, a short acknowledgment of the specific action and its effect, remedies within your authority, one prevention change with an owner, and a follow-up the other person can decline. Use for "run frac-relationship-repair-plan", "I missed a commitment to a colleague at my client", "repair a working relationship", "how do I apologise to a peer", "the work has gone cold with the finance lead", "they let me down and I need to raise it", "prepare a difficult conversation after a broken promise", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Prepares a repair plan after a missed commitment between a fractional leader and a peer, with facts against accounts against open questions, a short acknowledgment of the specific action and its effect, remedies within your authority, one prevention change with an owner, and a follow-up the other person can decline. Use for "run frac-relationship-repair-plan", "I missed a commitment to a colleague at my client", "repair a working relationship", "how do I apologise to a peer", "the work has gone cold with the finance lead", "they let me down and I need to raise it", "prepare a difficult conversation after a broken promise", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Relationship Repair Plan
@@ -68,4 +68,4 @@ Run frac-decision-brief (Decision Brief) if the cold spell hid a question the le
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: aipm-synthetic-test-data
-description: Generates synthetic test cases only for the gaps a real golden dataset cannot cover, each marked synthetic, checked by a person against real cases and reported apart from the headline score. Use for "run aipm-synthetic-test-data", "synthetic test data", "generate edge cases", "we do not have enough test cases", "test cases for rare inputs", "fake data for evals", "cover other languages in our evals", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Generates synthetic test cases only for the gaps a real golden dataset cannot cover, each marked synthetic, checked by a person against real cases and reported apart from the headline score. Use for "run aipm-synthetic-test-data", "synthetic test data", "generate edge cases", "we do not have enough test cases", "test cases for rare inputs", "fake data for evals", "cover other languages in our evals", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # Synthetic Test Data
@@ -64,4 +64,4 @@ Run aipm-eval-rubric (Eval Rubric) to write the check each case is graded by.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

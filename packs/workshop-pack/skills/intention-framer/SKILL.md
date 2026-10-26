@@ -1,6 +1,6 @@
 ---
 name: intention-framer
-description: Turns "we should run a workshop" into a real intention worth a room, part of the Workshop Pack by Polar Bear. Use this whenever the user says "run intention-framer", "I need to plan a workshop", "we're thinking about a team session", "help me frame this offsite", or mentions wanting to run any workshop, working session, or facilitated meeting. Use it even for a vague "the client wants a workshop" or "leadership wants an alignment session".
+description: Turns "we should run a workshop" into a real intention worth a room, part of the Workshop Pack by 90n. Use this whenever the user says "run intention-framer", "I need to plan a workshop", "we're thinking about a team session", "help me frame this offsite", or mentions wanting to run any workshop, working session, or facilitated meeting. Use it even for a vague "the client wants a workshop" or "leadership wants an alignment session".
 ---
 
 # Intention Framer
@@ -52,4 +52,4 @@ Close by pointing forward: "run agenda-designer" in this same chat, it builds di
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

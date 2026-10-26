@@ -1,6 +1,6 @@
 ---
 name: proj-resource-allocation-plan
-description: Builds a resource allocation plan for a project, with demand by role and skill per period against capacity, the overloaded and bottleneck roles, levelling options with their date impact, and the trade-off for the sponsor. Use for "run proj-resource-allocation-plan", "resource allocation plan", "capacity planning", "we have more work than people", "resource levelling", "show leadership we cannot do it all", "demand versus capacity", part of the AI for Project Management Pack by Polar Bear.
+description: Builds a resource allocation plan for a project, with demand by role and skill per period against capacity, the overloaded and bottleneck roles, levelling options with their date impact, and the trade-off for the sponsor. Use for "run proj-resource-allocation-plan", "resource allocation plan", "capacity planning", "we have more work than people", "resource levelling", "show leadership we cannot do it all", "demand versus capacity", part of the AI for Project Management Pack by 90n.
 ---
 
 # Resource Allocation Plan
@@ -67,4 +67,4 @@ Run proj-steering-committee-deck (Steering Committee Deck) to take the trade-off
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: reach-buying-situations-map
-description: Maps the moments that start a need for your work, each written as "when...", marked seen in your work or assumed, with the outside sign you could spot for each and the situations you leave alone. Use for "run reach-buying-situations-map", "buying situations map", "category entry points", "when do clients need me", "what makes someone need me now", "95-5 rule", "what signs should I look for", "why would they need me this month", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Maps the moments that start a need for your work, each written as "when...", marked seen in your work or assumed, with the outside sign you could spot for each and the situations you leave alone. Use for "run reach-buying-situations-map", "buying situations map", "category entry points", "when do clients need me", "what makes someone need me now", "95-5 rule", "what signs should I look for", "why would they need me this month", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # Buying Situations Map
@@ -65,4 +65,4 @@ Run reach-target-account-list (Target Account List) to check real organisations 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

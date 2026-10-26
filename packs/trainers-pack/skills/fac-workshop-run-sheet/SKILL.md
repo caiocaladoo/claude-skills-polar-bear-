@@ -1,6 +1,6 @@
 ---
 name: fac-workshop-run-sheet
-description: Builds the run sheet and kit list for a session with an agreed agenda, producing one table by clock time with owners, pivot sentences and a move if it wobbles, the two protected moments, a counted kit list and two short checklists. Use for "run fac-workshop-run-sheet", "run sheet", "workshop run sheet", "run of show for a workshop", "facilitation plan by the minute", "the workshop is Thursday help me get ready", "materials checklist for a workshop", "who does what on the day", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Builds the run sheet and kit list for a session with an agreed agenda, producing one table by clock time with owners, pivot sentences and a move if it wobbles, the two protected moments, a counted kit list and two short checklists. Use for "run fac-workshop-run-sheet", "run sheet", "workshop run sheet", "run of show for a workshop", "facilitation plan by the minute", "the workshop is Thursday help me get ready", "materials checklist for a workshop", "who does what on the day", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Workshop Run Sheet
@@ -71,4 +71,4 @@ Run fac-trainer-facilitator-guide (Trainer and Facilitator Guide) to hand the se
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: ldg-plan-the-group-work
-description: Designs the group activities of a training session, producing one activity card per practice block (purpose, structure, the invitation in the trainer's words, group sizes, minutes per step, how the output is collected), an opener built on the work, a virtual variant and a fallback for a quiet room. Use for "run ldg-plan-the-group-work", "group activities for training", "icebreakers for training", "breakout room activities", "workshop activities", "1-2-4-All", "engage a quiet group", "group discussion that works", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Designs the group activities of a training session, producing one activity card per practice block (purpose, structure, the invitation in the trainer's words, group sizes, minutes per step, how the output is collected), an opener built on the work, a virtual variant and a fallback for a quiet room. Use for "run ldg-plan-the-group-work", "group activities for training", "icebreakers for training", "breakout room activities", "workshop activities", "1-2-4-All", "engage a quiet group", "group discussion that works", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Plan the Group Work
@@ -70,4 +70,4 @@ Run ldg-build-the-training-slides (Build the Training Slides) to build the deck 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

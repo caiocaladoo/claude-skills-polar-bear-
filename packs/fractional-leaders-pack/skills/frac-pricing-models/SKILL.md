@@ -1,6 +1,6 @@
 ---
 name: frac-pricing-models
-description: Lays a day-based retainer, a scoped project, hourly billing, an outcome-linked fee, equity and a hybrid side by side for one fractional engagement, showing what the client pays for, who carries the overrun, what AI speed does to each, the overflow rule each needs and your pick with the reason, with no rate ever suggested. Use for "run frac-pricing-models", "how should I charge as a fractional executive", "what to charge when you go fractional", "retainer or day rate or hourly", "fractional executive pricing models", "should I take equity", "every faster week earns me less", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Lays a day-based retainer, a scoped project, hourly billing, an outcome-linked fee, equity and a hybrid side by side for one fractional engagement, showing what the client pays for, who carries the overrun, what AI speed does to each, the overflow rule each needs and your pick with the reason, with no rate ever suggested. Use for "run frac-pricing-models", "how should I charge as a fractional executive", "what to charge when you go fractional", "retainer or day rate or hourly", "fractional executive pricing models", "should I take equity", "every faster week earns me less", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Fractional Pricing Models
@@ -66,4 +66,4 @@ Run frac-price-conversation-prep (Retainer Conversation Prep) to prepare the fee
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

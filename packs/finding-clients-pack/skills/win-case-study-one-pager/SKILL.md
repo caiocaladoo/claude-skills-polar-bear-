@@ -1,6 +1,6 @@
 ---
 name: win-case-study-one-pager
-description: Writes a Case Study One-Pager from your source file, with the change in the title, before, what was done, results with base and period, the client's quote and a step for the reader, as a file in your colours. Use for "run win-case-study-one-pager", "make a one-pager for this case", "a leave-behind", "one page on that project", "the prospect wants something to forward", "have you done this before", "put this case on one page", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Writes a Case Study One-Pager from your source file, with the change in the title, before, what was done, results with base and period, the client's quote and a step for the reader, as a file in your colours. Use for "run win-case-study-one-pager", "make a one-pager for this case", "a leave-behind", "one page on that project", "the prospect wants something to forward", "have you done this before", "put this case on one page", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Case Study One-Pager
@@ -70,4 +70,4 @@ Run win-credentials-deck (Credentials Deck) to put your best cases in front of a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

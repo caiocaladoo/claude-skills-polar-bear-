@@ -1,6 +1,6 @@
 ---
 name: ldg-assess-the-training-needs
-description: Finds what a role or team lacks, producing needs by role and task with the evidence for each, a priority table on criteria the team sets and a "training cannot fix" list. Use for "run ldg-assess-the-training-needs", "training needs assessment", "training needs analysis", "learning needs analysis", "TNA", "what training does my team need", "skills gap by role", "stop the training wish list", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Finds what a role or team lacks, producing needs by role and task with the evidence for each, a priority table on criteria the team sets and a "training cannot fix" list. Use for "run ldg-assess-the-training-needs", "training needs assessment", "training needs analysis", "learning needs analysis", "TNA", "what training does my team need", "skills gap by role", "stop the training wish list", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Assess the Training Needs
@@ -69,4 +69,4 @@ Run ldg-map-the-actions (Map the Actions) to turn the top need into on-the-job a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

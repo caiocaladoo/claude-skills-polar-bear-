@@ -1,6 +1,6 @@
 ---
 name: adopt-shared-prompt-library
-description: Builds a shared prompt library with one entry format, the way entries are proposed, tested, updated and retired, where the library lives and its review rhythm. Use for "run adopt-shared-prompt-library", "shared prompt library", "team prompt library", "prompt library template", "organise our AI prompts", "nobody owns the prompts in the shared folder", "how to share prompts across the team", "clean up our prompt folder", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Builds a shared prompt library with one entry format, the way entries are proposed, tested, updated and retired, where the library lives and its review rhythm. Use for "run adopt-shared-prompt-library", "shared prompt library", "team prompt library", "prompt library template", "organise our AI prompts", "nobody owns the prompts in the shared folder", "how to share prompts across the team", "clean up our prompt folder", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 # Shared Prompt Library
 ## When To Use
@@ -72,4 +72,4 @@ Early review when: [the tool changed / the rules changed / an entry gave a wrong
 Run adopt-local-adaptation-review (Local Adaptation Review) to handle the variations teams make to the agreed way.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

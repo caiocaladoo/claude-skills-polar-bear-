@@ -1,6 +1,6 @@
 ---
 name: pm-opportunity-solution-tree
-description: Builds a one-page opportunity solution tree for one team's outcome, with opportunities drawn from interviews, a target opportunity, three solution ideas to compare and an assumption test for each. Use for "run pm-opportunity-solution-tree", "opportunity solution tree", "OST", "continuous discovery", "fit discovery between sprints", "which problem should we solve next", "connect interviews to the roadmap", part of the AI for Product Management Pack by Polar Bear.
+description: Builds a one-page opportunity solution tree for one team's outcome, with opportunities drawn from interviews, a target opportunity, three solution ideas to compare and an assumption test for each. Use for "run pm-opportunity-solution-tree", "opportunity solution tree", "OST", "continuous discovery", "fit discovery between sprints", "which problem should we solve next", "connect interviews to the roadmap", part of the AI for Product Management Pack by 90n.
 ---
 
 # Opportunity Solution Tree
@@ -69,4 +69,4 @@ Run pm-assumption-mapping (Assumption Mapping) to find the riskiest assumption.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

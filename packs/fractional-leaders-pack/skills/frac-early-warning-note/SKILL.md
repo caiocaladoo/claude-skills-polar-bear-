@@ -1,6 +1,6 @@
 ---
 name: frac-early-warning-note
-description: Drafts a short early warning for the week something turns in a fractional engagement, with what changed, the evidence, what is known against estimated against unknown, the implication for the plan, two or three options with their cost, and the decision or help asked and by when. Use for "run frac-early-warning-note", "a target will be missed", "how do I tell the CEO bad news", "write an early warning", "flag a risk before the monthly report", "SBAR note for my client", "the plan is slipping and I need a decision", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Drafts a short early warning for the week something turns in a fractional engagement, with what changed, the evidence, what is known against estimated against unknown, the implication for the plan, two or three options with their cost, and the decision or help asked and by when. Use for "run frac-early-warning-note", "a target will be missed", "how do I tell the CEO bad news", "write an early warning", "flag a risk before the monthly report", "SBAR note for my client", "the plan is slipping and I need a decision", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Early Warning Note
@@ -68,4 +68,4 @@ Run frac-team-interface-agreement (Team Interface Agreement) if the turn came fr
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

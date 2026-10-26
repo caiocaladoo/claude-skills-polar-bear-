@@ -1,6 +1,6 @@
 ---
 name: deck-all-hands
-description: Builds an All-Hands Deck in Claude Slides that says where we are in one line, what shipped and the customer behind one item, the honest metric including the bad one, decisions and their reasons, thanks by name never ranked, and Q&A prompts, with a talk track. Use for "run deck-all-hands", "all-hands slides", "company update deck", "town hall product section", "explain the why to the company", "product update for everyone", "all hands next week", "show what shipped and why", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Builds an All-Hands Deck in Claude Slides that says where we are in one line, what shipped and the customer behind one item, the honest metric including the bad one, decisions and their reasons, thanks by name never ranked, and Q&A prompts, with a talk track. Use for "run deck-all-hands", "all-hands slides", "company update deck", "town hall product section", "explain the why to the company", "product update for everyone", "all hands next week", "show what shipped and why", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # All-Hands Deck
@@ -70,4 +70,4 @@ Run deck-research-readout (Research Readout Deck) when a study should change wha
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

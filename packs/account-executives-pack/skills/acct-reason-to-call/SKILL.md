@@ -1,6 +1,6 @@
 ---
 name: acct-reason-to-call
-description: Proposes three possible reasons to contact one person, each checked for true and useful, with two or three points per reason, the stock openers to avoid and the reason you choose, without writing the message. Use for "run acct-reason-to-call", "reason to call", "reason to reach out", "what do I say to this contact", "get back in touch with a customer", "not just checking in", "why now for this person", "re-engage a contact", part of the Claude for Account Executives Pack by Polar Bear.
+description: Proposes three possible reasons to contact one person, each checked for true and useful, with two or three points per reason, the stock openers to avoid and the reason you choose, without writing the message. Use for "run acct-reason-to-call", "reason to call", "reason to reach out", "what do I say to this contact", "get back in touch with a customer", "not just checking in", "why now for this person", "re-engage a contact", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Reason to Call
@@ -70,4 +70,4 @@ Run acct-call-talk-track (Call Talk Track) to turn the reason you chose into key
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: proj-raid-log
-description: Runs the weekly RAID Log with the top risks from the register, assumptions with a test date, issues with owner and tolerance, dependencies with need-by dates, stale-entry flags and the weekly review agenda. Use for "run proj-raid-log", "RAID log", "update the RAID log", "RAID review", "risks assumptions issues dependencies", "issue log", "assumptions log", "flag stale RAID entries", part of the AI for Project Management Pack by Polar Bear.
+description: Runs the weekly RAID Log with the top risks from the register, assumptions with a test date, issues with owner and tolerance, dependencies with need-by dates, stale-entry flags and the weekly review agenda. Use for "run proj-raid-log", "RAID log", "update the RAID log", "RAID review", "risks assumptions issues dependencies", "issue log", "assumptions log", "flag stale RAID entries", part of the AI for Project Management Pack by 90n.
 ---
 
 # RAID Log
@@ -71,4 +71,4 @@ Run proj-project-status-report (Project Status Report), because the RAID Log fee
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

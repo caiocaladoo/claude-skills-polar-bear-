@@ -1,6 +1,6 @@
 ---
 name: adopt-champions-network
-description: Drafts a charter for a volunteer AI champions network with what a champion does and does not do, the time the organisation protects, how people join and leave, and the route back to the sponsor. Use for "run adopt-champions-network", "AI champions network", "AI champions charter", "set up AI champions", "what should an AI champion do", "our AI enthusiasts are doing this in their own time", "peer support for AI at work", "AI ambassadors programme", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Drafts a charter for a volunteer AI champions network with what a champion does and does not do, the time the organisation protects, how people join and leave, and the route back to the sponsor. Use for "run adopt-champions-network", "AI champions network", "AI champions charter", "set up AI champions", "what should an AI champion do", "our AI enthusiasts are doing this in their own time", "peer support for AI at work", "AI ambassadors programme", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # AI Champions Network
@@ -72,4 +72,4 @@ This network is never a ranking of who is good at AI, a reporting line on collea
 Run adopt-shared-prompt-library (Shared Prompt Library) to give the network a shared stock of practice to look after.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

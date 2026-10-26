@@ -1,6 +1,6 @@
 ---
 name: price-retainer-redesign
-description: Redesigns an hours-based retainer client by client, setting what the retainer buys against what the client values, the options (outcome retainer, capacity with an output floor, fixed-fee 90-day engagement, keep as is) and a conversation outline. Use for "run price-retainer-redesign", "my retainer is sold as hours", "AI made the hours shrink", "should I kill the retainer", "move a retainer to outcomes", "retainer redesign", "the client did the maths on AI hours", "change how a retainer is priced", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Redesigns an hours-based retainer client by client, setting what the retainer buys against what the client values, the options (outcome retainer, capacity with an output floor, fixed-fee 90-day engagement, keep as is) and a conversation outline. Use for "run price-retainer-redesign", "my retainer is sold as hours", "AI made the hours shrink", "should I kill the retainer", "move a retainer to outcomes", "retainer redesign", "the client did the maths on AI hours", "change how a retainer is priced", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Retainer Redesign
@@ -71,4 +71,4 @@ Run price-change-request (Scope Change Request) to hold the new scope once the r
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

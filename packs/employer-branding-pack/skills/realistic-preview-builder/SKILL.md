@@ -1,6 +1,6 @@
 ---
 name: realistic-preview-builder
-description: Builds a realistic job preview for one role from a conversation with the person doing the job today, as a written "a real week" piece and, if wanted, a short video script and shot list, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run realistic-preview-builder", "day in the life for this role", "realistic job preview", "show candidates what the job is really like", "a week in the life of our developers", or when candidates keep being surprised by the job in month two. Use it even for a vague "how do we make the role feel real to applicants".
+description: Builds a realistic job preview for one role from a conversation with the person doing the job today, as a written "a real week" piece and, if wanted, a short video script and shot list, part of the Employer Branding Pack by 90n. Use this whenever the user says "run realistic-preview-builder", "day in the life for this role", "realistic job preview", "show candidates what the job is really like", "a week in the life of our developers", or when candidates keep being surprised by the job in month two. Use it even for a vague "how do we make the role feel real to applicants".
 ---
 
 # Realistic preview builder
@@ -51,4 +51,4 @@ The extended version: I run the twelve questions, shape the week, write the scri
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

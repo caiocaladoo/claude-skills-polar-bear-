@@ -1,6 +1,6 @@
 ---
 name: ways-of-working-handbook-writer
-description: Compiles every standard and ritual a design team has written into one readable handbook and flags the gaps, part of the DesignOps Pack by Polar Bear. Use this whenever the user says "run ways-of-working-handbook-writer", "put our ways of working in one place", "write the design team handbook", "how we work document", "compile our standards", or when a lead has most of the standards and wants the whole thing readable by anyone. Use it even for a vague "can we have one doc for all of this".
+description: Compiles every standard and ritual a design team has written into one readable handbook and flags the gaps, part of the DesignOps Pack by 90n. Use this whenever the user says "run ways-of-working-handbook-writer", "put our ways of working in one place", "write the design team handbook", "how we work document", "compile our standards", or when a lead has most of the standards and wants the whole thing readable by anyone. Use it even for a vague "can we have one doc for all of this".
 ---
 
 # Ways of Working Handbook Writer
@@ -54,4 +54,4 @@ The extended version: I read every artifact, compile the spine, keep the rules a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

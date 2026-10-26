@@ -1,6 +1,6 @@
 ---
 name: pmc-draft-hypotheses
-description: Turns the issue tree into a Hypothesis Board with an answer-first guess per branch, what would prove it wrong, the evidence needed and the cheapest test, ranked by importance and evidence. Use for "run pmc-draft-hypotheses", "draft the hypotheses", "first-guess answer for each branch", "what evidence would kill this", "which three should we test first", "riskiest assumption", "discovery has no shape", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Turns the issue tree into a Hypothesis Board with an answer-first guess per branch, what would prove it wrong, the evidence needed and the cheapest test, ranked by importance and evidence. Use for "run pmc-draft-hypotheses", "draft the hypotheses", "first-guess answer for each branch", "what evidence would kill this", "which three should we test first", "riskiest assumption", "discovery has no shape", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Draft the Hypotheses
@@ -68,4 +68,4 @@ Run pmc-plan-the-discovery (Plan the Discovery) to schedule the tests.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

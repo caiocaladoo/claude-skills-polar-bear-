@@ -1,6 +1,6 @@
 ---
 name: brand-review-runner
-description: Runs the quarterly employer brand review that promotes or demotes every EVP claim on new evidence, separates "fix the words" from "fix the workplace", and lists what changes next quarter, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run brand-review-runner", "quarterly employer brand review", "is our careers page still true", "review the EVP", "what did we learn from this quarter's hires", or when a quarter has passed and the careers page has not moved while the firm has. Use it even for a vague "let's look at how hiring went".
+description: Runs the quarterly employer brand review that promotes or demotes every EVP claim on new evidence, separates "fix the words" from "fix the workplace", and lists what changes next quarter, part of the Employer Branding Pack by 90n. Use this whenever the user says "run brand-review-runner", "quarterly employer brand review", "is our careers page still true", "review the EVP", "what did we learn from this quarter's hires", or when a quarter has passed and the careers page has not moved while the firm has. Use it even for a vague "let's look at how hiring went".
 ---
 
 # Brand review runner
@@ -56,4 +56,4 @@ The extended version: I read every file, count the flags across joiners, track t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: impact-training-follow-up-survey
-description: Drafts the short survey sent some weeks after a programme, producing three to five items on what people used and what happened, open questions on what helped and what got in the way, a volunteer question for interviews, a send plan and a group-level summary template. Use for "run impact-training-follow-up-survey", "training follow-up survey", "did anyone use the training", "level 3 survey", "survey a month after the course", "training application survey", "behaviour change survey", "find people to interview after training", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Drafts the short survey sent some weeks after a programme, producing three to five items on what people used and what happened, open questions on what helped and what got in the way, a volunteer question for interviews, a send plan and a group-level summary template. Use for "run impact-training-follow-up-survey", "training follow-up survey", "did anyone use the training", "level 3 survey", "survey a month after the course", "training application survey", "behaviour change survey", "find people to interview after training", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Training Follow-Up Survey
@@ -70,4 +70,4 @@ Run impact-behaviour-observation-checklist (Behaviour Observation Checklist) to 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

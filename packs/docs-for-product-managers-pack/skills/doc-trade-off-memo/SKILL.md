@@ -1,6 +1,6 @@
 ---
 name: doc-trade-off-memo
-description: Writes a Trade-off Memo that sets one incoming request against the work it would displace, with the cost of delay of each, a recommendation and the costed no reply ready for you to send. Use for "run doc-trade-off-memo", "why we are not building it", "help me say no to this request", "what would this push out", "cost of delay for this ask", "write the costed no", "the CEO wants this feature this quarter", "defend the roadmap against this request", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Writes a Trade-off Memo that sets one incoming request against the work it would displace, with the cost of delay of each, a recommendation and the costed no reply ready for you to send. Use for "run doc-trade-off-memo", "why we are not building it", "help me say no to this request", "what would this push out", "cost of delay for this ask", "write the costed no", "the CEO wants this feature this quarter", "defend the roadmap against this request", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Trade-off Memo
@@ -71,4 +71,4 @@ Run doc-decision-memo (Decision Memo) to get the call made and signed.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: isd-course-data-review
-description: Reads your LMS export by question and in aggregate to produce an item table showing which questions most people miss and which wrong option draws them, a drop-off view by screen, comment themes, and a ranked fix list for the course with what the data cannot tell you. Use for "run isd-course-data-review", "analyse my LMS export", "which quiz questions do people get wrong", "item analysis for my course", "where do learners drop off", "completion is high but what did they learn", "what should I fix in the next version", "summarise the course feedback comments", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Reads your LMS export by question and in aggregate to produce an item table showing which questions most people miss and which wrong option draws them, a drop-off view by screen, comment themes, and a ranked fix list for the course with what the data cannot tell you. Use for "run isd-course-data-review", "analyse my LMS export", "which quiz questions do people get wrong", "item analysis for my course", "where do learners drop off", "completion is high but what did they learn", "what should I fix in the next version", "summarise the course feedback comments", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Course Data Review
@@ -71,4 +71,4 @@ Run isd-course-project-setup (Course Project Setup) to set up the next version's
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

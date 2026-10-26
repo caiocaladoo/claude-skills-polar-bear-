@@ -1,6 +1,6 @@
 ---
 name: reach-grammar-check
-description: Fixes grammar, spelling and punctuation only, with every change listed before and after with the rule, fixes that could change your meaning asked as questions, and your wording, tone and length left alone. Use for "run reach-grammar-check", "grammar check", "check my grammar", "fix typos only", "proofread without rewriting", "spelling check", "do not change my words", "clean up my message", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Fixes grammar, spelling and punctuation only, with every change listed before and after with the rule, fixes that could change your meaning asked as questions, and your wording, tone and length left alone. Use for "run reach-grammar-check", "grammar check", "check my grammar", "fix typos only", "proofread without rewriting", "spelling check", "do not change my words", "clean up my message", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # Grammar Check
@@ -65,4 +65,4 @@ Run reach-outreach-rules-check (Outreach Rules Check) to see which rules questio
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

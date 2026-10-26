@@ -1,6 +1,6 @@
 ---
 name: firm-ai-use-statement
-description: Writes a plain AI use statement for one engagement, showing task by task where AI does the work, where it assists and where people work alone, who checks and signs off, what client data goes into which tool and what never does, what the client gains and what you will not use AI for. Use for "run firm-ai-use-statement", "should I tell clients I use AI", "AI use statement for my proposal", "how I use AI section", "the client asked what was written by AI", "AI disclosure for this engagement", "explain my AI use to a client", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Writes a plain AI use statement for one engagement, showing task by task where AI does the work, where it assists and where people work alone, who checks and signs off, what client data goes into which tool and what never does, what the client gains and what you will not use AI for. Use for "run firm-ai-use-statement", "should I tell clients I use AI", "AI use statement for my proposal", "how I use AI section", "the client asked what was written by AI", "AI disclosure for this engagement", "explain my AI use to a client", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # AI Use Statement
@@ -68,4 +68,4 @@ Run firm-statement-of-work (Statement of Work) to turn the agreed scope into a d
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

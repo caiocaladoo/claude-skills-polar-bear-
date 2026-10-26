@@ -1,6 +1,6 @@
 ---
 name: strat-decision-matrix
-description: Builds a Decision Matrix with criteria and weights agreed and dated before any score, pass or fail gates, a plain consequence table per option, scores with one line of evidence and a confidence mark, and a weight sensitivity check. Use for "run strat-decision-matrix", "weighted decision matrix", "compare the options on criteria we agree first", "agree the weights before we score", "who gains and who bears the cost", "would the leader change if this weight doubled", "is it too close to call", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Builds a Decision Matrix with criteria and weights agreed and dated before any score, pass or fail gates, a plain consequence table per option, scores with one line of evidence and a confidence mark, and a weight sensitivity check. Use for "run strat-decision-matrix", "weighted decision matrix", "compare the options on criteria we agree first", "agree the weights before we score", "who gains and who bears the cost", "would the leader change if this weight doubled", "is it too close to call", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Decision Matrix
@@ -71,4 +71,4 @@ Run strat-strategic-bets (Strategic Bets) to write, for the option the owner cho
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

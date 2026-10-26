@@ -1,6 +1,6 @@
 ---
 name: frac-positioning-statement
-description: Writes a positioning statement for a fractional or interim executive, with what the company could do instead and what each alternative does well, your capabilities with proof, who cares most, one line a contact can repeat and the proof still needed. Use for "run frac-positioning-statement", "nobody can explain what I do", "what is a fractional leader", "positioning statement for my fractional practice", "why me and not a full-time hire", "one line about what I do", "why a fractional seat and not AI", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Writes a positioning statement for a fractional or interim executive, with what the company could do instead and what each alternative does well, your capabilities with proof, who cares most, one line a contact can repeat and the proof still needed. Use for "run frac-positioning-statement", "nobody can explain what I do", "what is a fractional leader", "positioning statement for my fractional practice", "why me and not a full-time hire", "one line about what I do", "why a fractional seat and not AI", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Fractional Positioning Statement
@@ -68,4 +68,4 @@ Run frac-fractional-or-full-time (Fractional or Full-Time Brief) to give one CEO
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

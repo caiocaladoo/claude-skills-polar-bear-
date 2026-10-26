@@ -1,6 +1,6 @@
 ---
 name: dlead-stakeholder-interview-guide
-description: Writes a Stakeholder Interview Guide with interview goals, a semi-structured guide on success, priorities, history and process, probes and a note template, then once real notes are pasted a summary in each person's own words and a gaps table. Use for "run dlead-stakeholder-interview-guide", "stakeholder interview questions", "what does the VP mean by make it simpler", "kickoff interviews with stakeholders", "stakeholder interview guide", "questions to ask stakeholders before a redesign", "summarise my stakeholder interviews", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Writes a Stakeholder Interview Guide with interview goals, a semi-structured guide on success, priorities, history and process, probes and a note template, then once real notes are pasted a summary in each person's own words and a gaps table. Use for "run dlead-stakeholder-interview-guide", "stakeholder interview questions", "what does the VP mean by make it simpler", "kickoff interviews with stakeholders", "stakeholder interview guide", "questions to ask stakeholders before a redesign", "summarise my stakeholder interviews", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Stakeholder Interview Guide
@@ -71,4 +71,4 @@ Run dlead-problem-framing-brief (Problem Framing Brief) to turn what you heard i
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

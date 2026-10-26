@@ -31,4 +31,4 @@ Honest, not visionary.)*
 *Before this file leaves the founder's hands, one check: this goes to everyone
 on the team. Is there anything here you would not want an employee to read?*
 
-*Part of the Annual Review Cycle Pack by Polar Bear · meet-polar-bear.com*
+*Part of the Annual Review Cycle Pack by 90n · 90n.ai*

@@ -1,6 +1,6 @@
 ---
 name: reach-contact-shortlist
-description: Builds a contact shortlist for one organisation, with the roles that live with the problem, the people publicly named in those roles with name, role and source only, the one or two you choose to write to and the warm path for each. Use for "run reach-contact-shortlist", "contact shortlist", "who should I contact at this company", "find the right person", "who would care about this", "who is the decision maker", "which role do I write to", "who to email at this company", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Builds a contact shortlist for one organisation, with the roles that live with the problem, the people publicly named in those roles with name, role and source only, the one or two you choose to write to and the warm path for each. Use for "run reach-contact-shortlist", "contact shortlist", "who should I contact at this company", "find the right person", "who would care about this", "who is the decision maker", "which role do I write to", "who to email at this company", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # Contact Shortlist
@@ -65,4 +65,4 @@ Run reach-identity-check (Identity Check) to confirm the research will be about 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

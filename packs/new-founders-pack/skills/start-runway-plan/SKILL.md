@@ -1,6 +1,6 @@
 ---
 name: start-runway-plan
-description: Builds a First-Year Runway Plan from your own records, with monthly personal and business costs, the money available, months of runway, the income you need by which month, set-aside lines you fill and three scenarios with decision dates you choose. Use for "run start-runway-plan", "how long can I last without a salary", "how much money do I need to go out on my own", "work out my runway", "when do I need my first invoice paid", "first year budget for my practice", "plan my money for year one", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Builds a First-Year Runway Plan from your own records, with monthly personal and business costs, the money available, months of runway, the income you need by which month, set-aside lines you fill and three scenarios with decision dates you choose. Use for "run start-runway-plan", "how long can I last without a salary", "how much money do I need to go out on my own", "work out my runway", "when do I need my first invoice paid", "first year budget for my practice", "plan my money for year one", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # First-Year Runway Plan
@@ -70,4 +70,4 @@ Run start-floor-rate (Floor Rate Calculator) to turn the monthly cost into the l
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

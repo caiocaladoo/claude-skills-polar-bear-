@@ -1,6 +1,6 @@
 ---
 name: firm-bid-no-bid
-description: Runs a go or no-go gate on an RFP or shortlist invitation, with your criteria written before the facts, pass or fail criteria first, the fact and source against each, a shortlist check, the cost of pursuit in your own hours, a decision record and a warm no-bid reply to edit. Use for "run firm-bid-no-bid", "should I answer this RFP", "bid or no bid", "go or no-go on this tender", "am I just the comparison quote", "I am on a shortlist and do not know why", "is this worth a week of my evenings", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Runs a go or no-go gate on an RFP or shortlist invitation, with your criteria written before the facts, pass or fail criteria first, the fact and source against each, a shortlist check, the cost of pursuit in your own hours, a decision record and a warm no-bid reply to edit. Use for "run firm-bid-no-bid", "should I answer this RFP", "bid or no bid", "go or no-go on this tender", "am I just the comparison quote", "I am on a shortlist and do not know why", "is this worth a week of my evenings", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Bid/No-Bid Decision
@@ -67,4 +67,4 @@ Run firm-pre-call-brief (Pre-Call Research Brief) to prepare a point of view for
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

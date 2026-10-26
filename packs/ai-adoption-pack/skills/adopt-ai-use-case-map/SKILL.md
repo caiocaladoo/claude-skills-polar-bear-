@@ -1,6 +1,6 @@
 ---
 name: adopt-ai-use-case-map
-description: Builds an AI use case map, role by role, showing the recurring tasks, where AI helps and where it does not, what is off limits, who checks the output, and the first three use cases to try. Use for "run adopt-ai-use-case-map", "AI use case map", "where does AI help in this role", "I do not see what I would use it for", "AI use cases by role", "map tasks for AI", "first AI use cases to try", "what can my team use AI for", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Builds an AI use case map, role by role, showing the recurring tasks, where AI helps and where it does not, what is off limits, who checks the output, and the first three use cases to try. Use for "run adopt-ai-use-case-map", "AI use case map", "where does AI help in this role", "I do not see what I would use it for", "AI use cases by role", "map tasks for AI", "first AI use cases to try", "what can my team use AI for", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # AI Use Case Map
@@ -71,4 +71,4 @@ Run adopt-barrier-diagnosis (AI Adoption Barrier Diagnosis) to find out why a ma
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -78,7 +78,7 @@ Described generically, with no originator, because the only sources found were b
 
 ## Deliberate design choices
 
-These are Polar Bear's own choices and are not findings of any source above.
+These are 90n's own choices and are not findings of any source above.
 
 - **The red line.** Claude structures, drafts and checks; it never invents a reference, a result, a number or a client quote, and you run the conversation, make the recommendation and send everything yourself. The sources describe methods; the division of work between Claude and the consultant is ours.
 - **A team of desks, not a cast of characters.** The eight groups are presented as desks behind one consultant. No skill has a name, a persona or a voice of its own.

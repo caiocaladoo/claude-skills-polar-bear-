@@ -1,6 +1,6 @@
 ---
 name: doc-release-notes
-description: Writes Release Notes for customers grouped Added, Changed, Fixed and Removed with the benefit first, plus an internal version for support with ticket links and known issues. Use for "run doc-release-notes", "release notes", "write the changelog", "what's new post", "turn these tickets into release notes", "a changelog nobody reads", "notes for this release", "internal release notes for support", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Writes Release Notes for customers grouped Added, Changed, Fixed and Removed with the benefit first, plus an internal version for support with ticket links and known issues. Use for "run doc-release-notes", "release notes", "write the changelog", "what's new post", "turn these tickets into release notes", "a changelog nobody reads", "notes for this release", "internal release notes for support", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Release Notes
@@ -67,4 +67,4 @@ Run doc-sunset-notice (Feature Sunset Notice) for anything being removed.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

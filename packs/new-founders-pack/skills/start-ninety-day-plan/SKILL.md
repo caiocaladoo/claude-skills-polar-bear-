@@ -1,6 +1,6 @@
 ---
 name: start-ninety-day-plan
-description: Builds a 90-Day Practice Plan with one goal worked back from your own numbers, a warm-first channel mix, 2 or 3 weekly actions you control, checkpoints at 30, 60 and 90 days, a stop list and a scoreboard. Use for "run start-ninety-day-plan", "90 day plan for my new business", "I have never had to sell", "where will my first clients come from", "business development plan for a new consultant", "what should I do every week to find clients", "plan my first quarter on my own", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Builds a 90-Day Practice Plan with one goal worked back from your own numbers, a warm-first channel mix, 2 or 3 weekly actions you control, checkpoints at 30, 60 and 90 days, a stop list and a scoreboard. Use for "run start-ninety-day-plan", "90 day plan for my new business", "I have never had to sell", "where will my first clients come from", "business development plan for a new consultant", "what should I do every week to find clients", "plan my first quarter on my own", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # 90-Day Practice Plan
@@ -71,4 +71,4 @@ Run start-weekly-selling-hour (Weekly Selling Hour) to turn the plan into a fixe
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

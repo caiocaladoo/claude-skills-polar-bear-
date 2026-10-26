@@ -1,6 +1,6 @@
 ---
 name: ldg-plan-the-reviews
-description: Drafts a review plan to agree before the build, with who reviews what at each of four gates, one named decider, rounds and dates, a feedback log and a change rule for late requests. Use for "run ldg-plan-the-reviews", "SME review process", "the revisions never end", "too many reviewers", "conflicting feedback", "review and sign-off plan", "scope creep on the course", "who signs off the course", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Drafts a review plan to agree before the build, with who reviews what at each of four gates, one named decider, rounds and dates, a feedback log and a change rule for late requests. Use for "run ldg-plan-the-reviews", "SME review process", "the revisions never end", "too many reviewers", "conflicting feedback", "review and sign-off plan", "scope creep on the course", "who signs off the course", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Plan the Reviews
@@ -71,4 +71,4 @@ Run ldg-write-the-objectives (Write the Objectives), since the first thing revie
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

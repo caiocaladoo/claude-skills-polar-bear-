@@ -1,6 +1,6 @@
 ---
 name: firm-ai-objection-answer
-description: Prepares an honest answer to "why can't AI do this?", with the client's words and the question behind them, the engagement split into tasks AI can do well, tasks AI helps a person do and tasks that need a person and why, what you say in order, and an option where the client does part with their own AI. Use for "run firm-ai-objection-answer", "the client says AI could do this", "why can't AI just do it", "what am I paying you for when I have Claude", "answer the AI objection", "justify my fee against AI", "prepare me for the AI question", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Prepares an honest answer to "why can't AI do this?", with the client's words and the question behind them, the engagement split into tasks AI can do well, tasks AI helps a person do and tasks that need a person and why, what you say in order, and an option where the client does part with their own AI. Use for "run firm-ai-objection-answer", "the client says AI could do this", "why can't AI just do it", "what am I paying you for when I have Claude", "answer the AI objection", "justify my fee against AI", "prepare me for the AI question", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # AI Objection Answer
@@ -66,4 +66,4 @@ Run firm-quote-comparison (Like-for-Like Quote Comparison) to prepare for the sa
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

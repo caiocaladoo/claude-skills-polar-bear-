@@ -1,6 +1,6 @@
 ---
 name: fac-70-20-10-programme-plan
-description: Turns one existing session into a programme, producing the real assignments at work that force the skill, the coaching and peer pairs tied to each assignment and the live sessions placed just before the work that uses them. Use for "run fac-70-20-10-programme-plan", "70 20 10 model", "turn a course into a programme", "learning on the job", "stretch assignments", "two days will not do it", "blended programme plan", "peer coaching pairs", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Turns one existing session into a programme, producing the real assignments at work that force the skill, the coaching and peer pairs tied to each assignment and the live sessions placed just before the work that uses them. Use for "run fac-70-20-10-programme-plan", "70 20 10 model", "turn a course into a programme", "learning on the job", "stretch assignments", "two days will not do it", "blended programme plan", "peer coaching pairs", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # 70-20-10 Programme Plan
@@ -72,4 +72,4 @@ Run fac-train-the-trainer-handover (Train-the-Trainer Handover) to prepare other
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

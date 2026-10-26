@@ -1,6 +1,6 @@
 ---
 name: strat-board-memo
-description: Writes the product section of the board papers in one or two pages read ahead, with the questions for the board first as real forks, progress against plan, the few metrics that matter with base, period and source, the roadmap as horizons with confidence instead of dates, and risks with the response and an owner by role. Use for "run strat-board-memo", "board memo for product", "product section of the board papers", "board pre-read", "the chief executive needs the product update by Friday", "questions for the board", "roadmap for the board without dates", "cut the dashboard down for the board", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Writes the product section of the board papers in one or two pages read ahead, with the questions for the board first as real forks, progress against plan, the few metrics that matter with base, period and source, the roadmap as horizons with confidence instead of dates, and risks with the response and an owner by role. Use for "run strat-board-memo", "board memo for product", "product section of the board papers", "board pre-read", "the chief executive needs the product update by Friday", "questions for the board", "roadmap for the board without dates", "cut the dashboard down for the board", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Board Memo
@@ -71,4 +71,4 @@ Run strat-decision-record (Strategy Decision Record) to keep what was decided, a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

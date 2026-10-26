@@ -1,6 +1,6 @@
 ---
 name: firm-win-loss-review
-description: Reviews one engagement won or lost, covering what was supposed to happen, what happened, why (process, what could not be known then, the client's own change, chance), where it was really decided, the client's feedback in their words with permission, a sound call with a bad outcome kept, and each change as a concrete edit with an owner and a date, blameless. Use for "run firm-win-loss-review", "I lost the pitch", "why did I win this one", "review a lost proposal", "after action review of this pursuit", "what should I change next time", "post-mortem on this opportunity", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Reviews one engagement won or lost, covering what was supposed to happen, what happened, why (process, what could not be known then, the client's own change, chance), where it was really decided, the client's feedback in their words with permission, a sound call with a bad outcome kept, and each change as a concrete edit with an owner and a date, blameless. Use for "run firm-win-loss-review", "I lost the pitch", "why did I win this one", "review a lost proposal", "after action review of this pursuit", "what should I change next time", "post-mortem on this opportunity", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Win/Loss Review
@@ -71,4 +71,4 @@ Run firm-ai-brief-review (AI-Written Brief Review) to start the next engagement 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

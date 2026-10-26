@@ -1,6 +1,6 @@
 ---
 name: acct-stakeholder-map
-description: Maps the roles in one buying decision, with who holds each role or unknown, what each has said with date and source, the roles you have not met and the next contact per role. Use for "run acct-stakeholder-map", "stakeholder map", "map the buying committee", "who decides on this deal", "decision maker map", "I only talk to one person at this account", "who signs", "multithread this deal", part of the Claude for Account Executives Pack by Polar Bear.
+description: Maps the roles in one buying decision, with who holds each role or unknown, what each has said with date and source, the roles you have not met and the next contact per role. Use for "run acct-stakeholder-map", "stakeholder map", "map the buying committee", "who decides on this deal", "decision maker map", "I only talk to one person at this account", "who signs", "multithread this deal", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Stakeholder Map
@@ -71,4 +71,4 @@ Run acct-account-plan (Account Plan) to set objectives and dated actions on this
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

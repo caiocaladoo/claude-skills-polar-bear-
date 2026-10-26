@@ -1,6 +1,6 @@
 ---
 name: growth-navigator
-description: Helps an employee understand their growth matrix and find their aspiration, building a personal growth profile, part of the Annual Review Cycle Pack by Polar Bear. Use this whenever the user says "run growth-navigator", "what does the next level mean", "help me figure out where I want to grow", "am I ready for senior", "explain the growth matrix", or wants to think about their career direction at their company. Use it even for a vague "I feel a bit stuck lately".
+description: Helps an employee understand their growth matrix and find their aspiration, building a personal growth profile, part of the Annual Review Cycle Pack by 90n. Use this whenever the user says "run growth-navigator", "what does the next level mean", "help me figure out where I want to grow", "am I ready for senior", "explain the growth matrix", or wants to think about their career direction at their company. Use it even for a vague "I feel a bit stuck lately".
 ---
 
 # Growth Navigator
@@ -46,4 +46,4 @@ Walk the three circles, in this order, conversationally:
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).
+This pack is made by 90n, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).

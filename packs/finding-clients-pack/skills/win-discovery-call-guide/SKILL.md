@@ -1,6 +1,6 @@
 ---
 name: win-discovery-call-guide
-description: Writes a Discovery Call Guide for one prospect, with an agenda to agree at the start, situation, problem, implication and need-payoff questions written for them, room for the cost of doing nothing in their numbers, who else decides and the next step to ask for. Use for "run win-discovery-call-guide", "prep my discovery call", "what should I ask on the call", "SPIN questions for this prospect", "my discovery calls go nowhere", "help me run a first meeting", "build the case on the call", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Writes a Discovery Call Guide for one prospect, with an agenda to agree at the start, situation, problem, implication and need-payoff questions written for them, room for the cost of doing nothing in their numbers, who else decides and the next step to ask for. Use for "run win-discovery-call-guide", "prep my discovery call", "what should I ask on the call", "SPIN questions for this prospect", "my discovery calls go nowhere", "help me run a first meeting", "build the case on the call", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Discovery Call Guide
@@ -69,4 +69,4 @@ Run win-discovery-call-recap (Discovery Call Recap) to play the call back before
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: doc-brief
-description: Writes a six-line doc brief (purpose, reader, decision wanted, length budget, sources to use, what to leave out) that goes at the top of any document request. Use for "run doc-brief", "brief before I write", "who is this doc for", "how long should this doc be", "set up this doc", "brief for my PRD", "make this doc the right length", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Writes a six-line doc brief (purpose, reader, decision wanted, length budget, sources to use, what to leave out) that goes at the top of any document request. Use for "run doc-brief", "brief before I write", "who is this doc for", "how long should this doc be", "set up this doc", "brief for my PRD", "make this doc the right length", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Doc Brief
@@ -62,4 +62,4 @@ Run doc-interview-guide (Customer Interview Guide) to start discovery with the b
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

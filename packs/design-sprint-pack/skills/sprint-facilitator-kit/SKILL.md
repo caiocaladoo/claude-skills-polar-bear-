@@ -1,6 +1,6 @@
 ---
 name: sprint-facilitator-kit
-description: The room craft for running a sprint week, covering timeboxing, silent work, the people problems, energy across five days, and remote facilitation, part of the Design Sprint Pack by Polar Bear. Use this whenever the user says "run sprint-facilitator-kit", "how do I facilitate this", "someone keeps derailing the room", "the room has gone flat", "how do I run this remotely", "I have never facilitated a sprint", or when a sprint is about to start and the person running it wants the human mechanics rather than the agenda. Use it even for a vague ask like "any tips for keeping the room on track".
+description: The room craft for running a sprint week, covering timeboxing, silent work, the people problems, energy across five days, and remote facilitation, part of the Design Sprint Pack by 90n. Use this whenever the user says "run sprint-facilitator-kit", "how do I facilitate this", "someone keeps derailing the room", "the room has gone flat", "how do I run this remotely", "I have never facilitated a sprint", or when a sprint is about to start and the person running it wants the human mechanics rather than the agenda. Use it even for a vague ask like "any tips for keeping the room on track".
 ---
 
 # Sprint facilitator kit
@@ -97,4 +97,4 @@ What I add is the in-the-moment second opinion. Describe what just happened at t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

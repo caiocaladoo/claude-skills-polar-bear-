@@ -1,6 +1,6 @@
 ---
 name: cycle-retro
-description: Runs the retrospective after an annual review cycle ends and prepares the improved input for next year, part of the Annual Review Cycle Pack by Polar Bear. Use this whenever the user says "run cycle-retro", "the review cycle is done", "let's do the cycle retrospective", "what should we change next year", or the review conversations have finished and the founder wants to close the cycle. Use it even for a tired "well, we survived review season".
+description: Runs the retrospective after an annual review cycle ends and prepares the improved input for next year, part of the Annual Review Cycle Pack by 90n. Use this whenever the user says "run cycle-retro", "the review cycle is done", "let's do the cycle retrospective", "what should we change next year", or the review conversations have finished and the founder wants to close the cycle. Use it even for a tired "well, we survived review season".
 ---
 
 # Cycle Retro
@@ -55,4 +55,4 @@ Close the session by telling the founder the loop is complete: next year, "run c
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).
+This pack is made by 90n, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).

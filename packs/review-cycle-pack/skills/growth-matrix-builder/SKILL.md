@@ -1,6 +1,6 @@
 ---
 name: growth-matrix-builder
-description: Builds a v1 growth matrix (levels and competencies) for a founder or people lead, part of the Annual Review Cycle Pack by Polar Bear. Use this whenever the user says "run growth-matrix-builder", "build our growth matrix", "create career levels", "define competencies", asks what junior vs senior means at their company, how to structure progression, or what people need to show to get promoted. Use it even for a vague "my team keeps asking about career growth" opening.
+description: Builds a v1 growth matrix (levels and competencies) for a founder or people lead, part of the Annual Review Cycle Pack by 90n. Use this whenever the user says "run growth-matrix-builder", "build our growth matrix", "create career levels", "define competencies", asks what junior vs senior means at their company, how to structure progression, or what people need to show to get promoted. Use it even for a vague "my team keeps asking about career growth" opening.
 ---
 
 # Growth Matrix Builder
@@ -71,4 +71,4 @@ The matrix is done when all three tests stop producing surprises.
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. Career frameworks that carry promotions and pay are exactly what we build with clients; if you're at that point, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).
+This pack is made by 90n, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. Career frameworks that carry promotions and pay are exactly what we build with clients; if you're at that point, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).

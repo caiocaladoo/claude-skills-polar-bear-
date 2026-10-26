@@ -1,6 +1,6 @@
 ---
 name: uxr-recruitment-brief
-description: Writes a Participant Recruitment Brief with criteria in behaviour terms, who would waste a slot, quotas, channels with a named owner, a booking tracker with a no-show buffer and the fraud checks to run. Use for "run uxr-recruitment-brief", "recruitment brief", "who do we recruit", "nobody owns recruiting", "book participants for next week", "brief the recruitment agency", "no-shows keep killing the sessions", "find real users to test with", part of the UX Research with Claude Pack by Polar Bear.
+description: Writes a Participant Recruitment Brief with criteria in behaviour terms, who would waste a slot, quotas, channels with a named owner, a booking tracker with a no-show buffer and the fraud checks to run. Use for "run uxr-recruitment-brief", "recruitment brief", "who do we recruit", "nobody owns recruiting", "book participants for next week", "brief the recruitment agency", "no-shows keep killing the sessions", "find real users to test with", part of the UX Research with Claude Pack by 90n.
 ---
 
 # Participant Recruitment Brief
@@ -69,4 +69,4 @@ Run uxr-participant-screener (Participant Screener) to turn the criteria into qu
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

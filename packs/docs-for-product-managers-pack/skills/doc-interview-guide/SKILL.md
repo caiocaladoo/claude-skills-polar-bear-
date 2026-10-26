@@ -1,6 +1,6 @@
 ---
 name: doc-interview-guide
-description: Writes a customer interview guide that fits your slot, with research questions, a behaviour-based screener, story-based questions with probes and a note sheet. Use for "run doc-interview-guide", "customer interview guide", "interview questions for users", "prep my customer call", "discovery interview script", "what should I ask customers", "I get 30 minutes with a customer", "avoid leading questions", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Writes a customer interview guide that fits your slot, with research questions, a behaviour-based screener, story-based questions with probes and a note sheet. Use for "run doc-interview-guide", "customer interview guide", "interview questions for users", "prep my customer call", "discovery interview script", "what should I ask customers", "I get 30 minutes with a customer", "avoid leading questions", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Customer Interview Guide
@@ -71,4 +71,4 @@ Run doc-research-summary (User Research Summary) to turn the notes into findings
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

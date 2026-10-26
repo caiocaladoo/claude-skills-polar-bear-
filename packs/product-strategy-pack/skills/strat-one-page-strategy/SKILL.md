@@ -1,6 +1,6 @@
 ---
 name: strat-one-page-strategy
-description: Cuts a signed product strategy to one page for the teams who act on it, adding no new content, with the challenge and policy in one line, the actions, what we will not do, what it means for each team by role, a say-no test on three real requests and a repeat-from-memory test. Use for "run strat-one-page-strategy", "strategy on one page", "one page strategy for the teams", "nobody can repeat our strategy", "teams cannot say no with the strategy", "what does the strategy mean for my team", "test the strategy on real requests", "share the signed strategy with teams", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Cuts a signed product strategy to one page for the teams who act on it, adding no new content, with the challenge and policy in one line, the actions, what we will not do, what it means for each team by role, a say-no test on three real requests and a repeat-from-memory test. Use for "run strat-one-page-strategy", "strategy on one page", "one page strategy for the teams", "nobody can repeat our strategy", "teams cannot say no with the strategy", "what does the strategy mean for my team", "test the strategy on real requests", "share the signed strategy with teams", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # One-Page Strategy
@@ -69,4 +69,4 @@ Run strat-product-strategy-deck (Product Strategy Deck) to present the same stra
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

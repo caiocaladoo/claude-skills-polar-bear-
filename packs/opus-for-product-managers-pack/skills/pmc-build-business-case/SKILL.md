@@ -1,6 +1,6 @@
 ---
 name: pmc-build-business-case
-description: Builds a One-Page Business Case on why change, the best-value option against business as usual, how it is delivered and what it costs and returns, with confirmed figures kept apart from assumptions and a range for every return, as a Claude Doc with a backing spreadsheet. Use for "run pmc-build-business-case", "build a one-page business case for the integrations team", "separate what we know from what we assume", "what does finance need to see to say yes?", "ROI case", "justify the investment", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Builds a One-Page Business Case on why change, the best-value option against business as usual, how it is delivered and what it costs and returns, with confirmed figures kept apart from assumptions and a range for every return, as a Claude Doc with a backing spreadsheet. Use for "run pmc-build-business-case", "build a one-page business case for the integrations team", "separate what we know from what we assume", "what does finance need to see to say yes?", "ROI case", "justify the investment", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Build the Business Case
@@ -67,4 +67,4 @@ Run pmc-red-team-the-plan (Red-Team the Plan) to attack the case before finance 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

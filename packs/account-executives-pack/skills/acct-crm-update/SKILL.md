@@ -1,6 +1,6 @@
 ---
 name: acct-crm-update
-description: Prepares the CRM update from your call notes, with a before and after table per field, the source of each value, fields with no source left empty and a copy block or writes you approve one by one. Use for "run acct-crm-update", "CRM update", "update the CRM from my notes", "update this opportunity", "log this call in the CRM", "CRM hygiene", "fill in the CRM after my meeting", "stop typing things twice", part of the Claude for Account Executives Pack by Polar Bear.
+description: Prepares the CRM update from your call notes, with a before and after table per field, the source of each value, fields with no source left empty and a copy block or writes you approve one by one. Use for "run acct-crm-update", "CRM update", "update the CRM from my notes", "update this opportunity", "log this call in the CRM", "CRM hygiene", "fill in the CRM after my meeting", "stop typing things twice", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # CRM Update
@@ -69,4 +69,4 @@ Run acct-meeting-recap-email (Meeting Recap Email) to confirm to the customer wh
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

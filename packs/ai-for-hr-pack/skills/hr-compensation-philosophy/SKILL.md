@@ -1,6 +1,6 @@
 ---
 name: hr-compensation-philosophy
-description: Writes a one-page compensation philosophy covering market position, what pay rewards, how progression works, what is shared openly and with whom, review rhythm, and a trade-offs table for leaders to decide. Use for "run hr-compensation-philosophy", "write a compensation philosophy", "pay philosophy", "total rewards statement", "how should we pay people", "pay transparency policy", "stop pay deals case by case", part of the AI for HR Pack by Polar Bear.
+description: Writes a one-page compensation philosophy covering market position, what pay rewards, how progression works, what is shared openly and with whom, review rhythm, and a trade-offs table for leaders to decide. Use for "run hr-compensation-philosophy", "write a compensation philosophy", "pay philosophy", "total rewards statement", "how should we pay people", "pay transparency policy", "stop pay deals case by case", part of the AI for HR Pack by 90n.
 ---
 
 # Compensation Philosophy
@@ -68,4 +68,4 @@ Run hr-job-architecture (Job Architecture) if levels are not yet defined.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

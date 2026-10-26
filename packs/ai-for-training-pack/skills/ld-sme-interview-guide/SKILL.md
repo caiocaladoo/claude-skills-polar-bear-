@@ -1,6 +1,6 @@
 ---
 name: ld-sme-interview-guide
-description: Prepares an incident-based interview with a subject matter expert and structures the notes into decision points, a common-mistakes list, exceptions and scenario seeds. Use for "run ld-sme-interview-guide", "SME interview questions", "interview a subject matter expert", "get the know-how out of the expert", "the SME only gives me the standard process", "what questions do I ask the SME", "turn my SME notes into scenarios", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Prepares an incident-based interview with a subject matter expert and structures the notes into decision points, a common-mistakes list, exceptions and scenario seeds. Use for "run ld-sme-interview-guide", "SME interview questions", "interview a subject matter expert", "get the know-how out of the expert", "the SME only gives me the standard process", "what questions do I ask the SME", "turn my SME notes into scenarios", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # SME Interview Guide
@@ -70,4 +70,4 @@ Run ld-content-triage (Content Triage) to cut the existing material down to what
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

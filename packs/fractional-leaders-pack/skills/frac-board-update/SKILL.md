@@ -1,6 +1,6 @@
 ---
 name: frac-board-update
-description: Builds a one-page board update for a fractional leader in six fixed blocks (the number against the commitment, the arithmetic behind it, the main constraint, what moved, ranked risks with early signals and the decisions asked), with definitions footnoted and kept stable and an appendix, where the leader owns the numbers and the CEO owns the asks. Use for "run frac-board-update", "a few slides for the board", "board update template", "board report for my function", "one page for the board meeting", "prepare the board update for the CEO", "monthly board memo", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Builds a one-page board update for a fractional leader in six fixed blocks (the number against the commitment, the arithmetic behind it, the main constraint, what moved, ranked risks with early signals and the decisions asked), with definitions footnoted and kept stable and an appendix, where the leader owns the numbers and the CEO owns the asks. Use for "run frac-board-update", "a few slides for the board", "board update template", "board report for my function", "one page for the board meeting", "prepare the board update for the CEO", "monthly board memo", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Board Update
@@ -71,4 +71,4 @@ Run frac-early-warning-note (Early Warning Note) when a number on this page turn
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

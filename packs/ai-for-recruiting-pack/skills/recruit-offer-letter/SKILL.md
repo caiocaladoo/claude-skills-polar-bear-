@@ -1,6 +1,6 @@
 ---
 name: recruit-offer-letter
-description: Drafts an offer letter from terms a named person approved, with conditions, start date, an offer call script and a clause list for adviser review. Use for "run recruit-offer-letter", "draft the offer letter", "job offer letter", "offer call script", "the offer needs to go out today", "write up the approved terms", "what to say on the offer call", part of the AI for Recruiting Pack by Polar Bear.
+description: Drafts an offer letter from terms a named person approved, with conditions, start date, an offer call script and a clause list for adviser review. Use for "run recruit-offer-letter", "draft the offer letter", "job offer letter", "offer call script", "the offer needs to go out today", "write up the approved terms", "what to say on the offer call", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Offer Letter
@@ -70,4 +70,4 @@ Run recruit-counter-offer (Counter Offer Plan) to hold the accepted candidate th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

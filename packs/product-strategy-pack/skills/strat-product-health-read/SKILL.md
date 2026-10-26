@@ -1,6 +1,6 @@
 ---
 name: strat-product-health-read
-description: Builds a Product Health Read before a strategy cycle, with four lenses (usage, quality, revenue signals, feedback), a source, date range and query on every line, the change since last period with tracking changes flagged, and the list of what the data cannot tell. Use for "run strat-product-health-read", "health read of the product", "what is true about the product today", "check the numbers before planning", "is last quarter's deck still right", "what changed since last period", "what can the data not tell us", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Builds a Product Health Read before a strategy cycle, with four lenses (usage, quality, revenue signals, feedback), a source, date range and query on every line, the change since last period with tracking changes flagged, and the list of what the data cannot tell. Use for "run strat-product-health-read", "health read of the product", "what is true about the product today", "check the numbers before planning", "is last quarter's deck still right", "what changed since last period", "what can the data not tell us", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Product Health Read
@@ -68,4 +68,4 @@ Run strat-issue-tree (Issue Tree) to split the strategic question into parts the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

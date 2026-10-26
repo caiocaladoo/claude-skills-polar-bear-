@@ -1,6 +1,6 @@
 ---
 name: pmg-plan-the-sprint
-description: Builds a Sprint Plan with one sprint goal written as an outcome, capacity by role including bugs and debt, the items the team selected with its own estimates, a definition of done check and what was left out and why. Use for "run pmg-plan-the-sprint", "sprint planning", "plan the next sprint", "write a sprint goal", "what fits in this sprint", "we committed to too much again", "sprint capacity", "the sprint is filled to a promised date", part of The Complete Claude Guide for Product Managers Pack by Polar Bear.
+description: Builds a Sprint Plan with one sprint goal written as an outcome, capacity by role including bugs and debt, the items the team selected with its own estimates, a definition of done check and what was left out and why. Use for "run pmg-plan-the-sprint", "sprint planning", "plan the next sprint", "write a sprint goal", "what fits in this sprint", "we committed to too much again", "sprint capacity", "the sprint is filled to a promised date", part of The Complete Claude Guide for Product Managers Pack by 90n.
 ---
 
 # Plan the Sprint
@@ -67,4 +67,4 @@ Run pmg-run-sprint-review (Run the Sprint Review) to inspect the increment again
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: start-independence-announcement
-description: Prepares your Independence Announcement as points for a public post you write in your own words, covering what you now do, for whom, what a useful introduction looks like and one proof, with a shorter version for a direct message, a list of what not to claim and a grammar-only check of what you wrote. Use for "run start-independence-announcement", "announce my new business on LinkedIn", "tell people I have left my job", "I started my own practice post", "how do I announce I am on my own", "nobody knows I left", "I posted once and nothing happened", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Prepares your Independence Announcement as points for a public post you write in your own words, covering what you now do, for whom, what a useful introduction looks like and one proof, with a shorter version for a direct message, a list of what not to claim and a grammar-only check of what you wrote. Use for "run start-independence-announcement", "announce my new business on LinkedIn", "tell people I have left my job", "I started my own practice post", "how do I announce I am on my own", "nobody knows I left", "I posted once and nothing happened", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # Independence Announcement
@@ -70,4 +70,4 @@ Run start-one-page-offer (One-Page Offer) so you have something to send when a r
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

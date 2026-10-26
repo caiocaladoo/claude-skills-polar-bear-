@@ -1,6 +1,6 @@
 ---
 name: uxr-survey-design
-description: Designs a UX Survey Questionnaire with the decision it serves, one construct per neutrally worded question, scale choice and question order, screen-outs, a pilot, and a note on what the sample can and cannot say. Use for "run uxr-survey-design", "write a user survey", "UX survey questions", "quick survey for users", "check my survey for bias", "double-barrelled questions", "agree disagree scale", "survey questionnaire design", part of the UX Research with Claude Pack by Polar Bear.
+description: Designs a UX Survey Questionnaire with the decision it serves, one construct per neutrally worded question, scale choice and question order, screen-outs, a pilot, and a note on what the sample can and cannot say. Use for "run uxr-survey-design", "write a user survey", "UX survey questions", "quick survey for users", "check my survey for bias", "double-barrelled questions", "agree disagree scale", "survey questionnaire design", part of the UX Research with Claude Pack by 90n.
 ---
 
 # UX Survey Design
@@ -69,4 +69,4 @@ Run uxr-survey-analysis (Survey Results Analysis) to analyse the responses hones
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

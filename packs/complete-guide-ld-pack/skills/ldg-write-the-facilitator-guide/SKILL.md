@@ -1,6 +1,6 @@
 ---
 name: ldg-write-the-facilitator-guide
-description: Writes a guide another trainer can run a session from, producing the purpose, cue and key points per segment, questions with what a good answer sounds like, activity set-ups word for word, timing flex that never cuts practice and four what-if notes. Use for "run ldg-write-the-facilitator-guide", "facilitator guide", "trainer guide", "leader guide", "facilitator notes", "another trainer will deliver my session", "instructor guide template", "what if the room goes silent", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Writes a guide another trainer can run a session from, producing the purpose, cue and key points per segment, questions with what a good answer sounds like, activity set-ups word for word, timing flex that never cuts practice and four what-if notes. Use for "run ldg-write-the-facilitator-guide", "facilitator guide", "trainer guide", "leader guide", "facilitator notes", "another trainer will deliver my session", "instructor guide template", "what if the room goes silent", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 # Write the Facilitator Guide
 ## When To Use
@@ -71,4 +71,4 @@ Run ldg-plan-the-pilot (Plan the Pilot) to test the whole session with a group b
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

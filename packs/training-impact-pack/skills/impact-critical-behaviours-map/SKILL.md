@@ -1,6 +1,6 @@
 ---
 name: impact-critical-behaviours-map
-description: Maps a sponsor's goal to the few observable actions on the job that would move it, producing one measurable goal in the sponsor's words, a behaviours table with the cause and the fix for each, and a proof table showing how each behaviour would be seen at work. Use for "run impact-critical-behaviours-map", "action mapping", "critical behaviours", "critical behaviors for this training", "what should people do differently", "they need to understand X", "from know to do", "observable behaviours", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Maps a sponsor's goal to the few observable actions on the job that would move it, producing one measurable goal in the sponsor's words, a behaviours table with the cause and the fix for each, and a proof table showing how each behaviour would be seen at work. Use for "run impact-critical-behaviours-map", "action mapping", "critical behaviours", "critical behaviors for this training", "what should people do differently", "they need to understand X", "from know to do", "observable behaviours", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Critical Behaviours Map
@@ -70,4 +70,4 @@ Run impact-success-measures-agreement (Success Measures Agreement) to turn the g
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

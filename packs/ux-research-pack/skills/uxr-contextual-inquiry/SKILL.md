@@ -1,6 +1,6 @@
 ---
 name: uxr-contextual-inquiry
-description: Plans a contextual inquiry visit with where and when to observe, the apprentice stance and session parts, a what-to-watch list, a field note grid, site permissions and a same-day debrief per visit. Use for "run uxr-contextual-inquiry", "plan a field visit", "shadow users at work", "contextual inquiry plan", "watch them do the work", "what users say vs what they do", "site visit plan", "observation note grid", part of the UX Research with Claude Pack by Polar Bear.
+description: Plans a contextual inquiry visit with where and when to observe, the apprentice stance and session parts, a what-to-watch list, a field note grid, site permissions and a same-day debrief per visit. Use for "run uxr-contextual-inquiry", "plan a field visit", "shadow users at work", "contextual inquiry plan", "watch them do the work", "what users say vs what they do", "site visit plan", "observation note grid", part of the UX Research with Claude Pack by 90n.
 ---
 
 # Contextual Inquiry Plan
@@ -69,4 +69,4 @@ Run uxr-thematic-analysis (Thematic Analysis) to code the visit notes across par
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

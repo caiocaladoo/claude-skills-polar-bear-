@@ -1,6 +1,6 @@
 ---
 name: pmjob-company-research
-description: Writes a Company Research Brief with what the product does and for whom from the company's own pages, your notes from using it, dated news with sources, how it makes money as far as public pages say, product and design team signals and three questions a website cannot answer. Use for "run pmjob-company-research", "research this company before my interview", "what does this company actually do", "how do they make money", "recent news about this employer", "what should I know before the hiring manager call", "help me structure my notes on their product", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Writes a Company Research Brief with what the product does and for whom from the company's own pages, your notes from using it, dated news with sources, how it makes money as far as public pages say, product and design team signals and three questions a website cannot answer. Use for "run pmjob-company-research", "research this company before my interview", "what does this company actually do", "how do they make money", "recent news about this employer", "what should I know before the hiring manager call", "help me structure my notes on their product", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Company Research Brief
@@ -72,4 +72,4 @@ Run pmjob-interviewer-research (Interviewer Research Notes) to prepare for the p
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

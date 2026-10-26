@@ -1,6 +1,6 @@
 ---
 name: fac-trainer-facilitator-guide
-description: Writes the guide a colleague delivers your session from, producing for each segment its purpose and cue to start, key points as prompts, questions with what a good answer sounds like, activity setup word for word and what to cut if late. Use for "run fac-trainer-facilitator-guide", "facilitator guide", "trainer guide", "leader guide for a workshop", "instructor guide", "trainer notes for this session", "someone else is delivering my session", "all they have is my slides", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Writes the guide a colleague delivers your session from, producing for each segment its purpose and cue to start, key points as prompts, questions with what a good answer sounds like, activity setup word for word and what to cut if late. Use for "run fac-trainer-facilitator-guide", "facilitator guide", "trainer guide", "leader guide for a workshop", "instructor guide", "trainer notes for this session", "someone else is delivering my session", "all they have is my slides", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Trainer and Facilitator Guide
@@ -72,4 +72,4 @@ Run fac-training-slide-outline (Training Slide Outline) to make the slides serve
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

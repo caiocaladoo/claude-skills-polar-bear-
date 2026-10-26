@@ -40,4 +40,4 @@ be wrong not to know.)*
 
 ---
 
-*Part of the Annual Review Cycle Pack by Polar Bear · meet-polar-bear.com*
+*Part of the Annual Review Cycle Pack by 90n · 90n.ai*

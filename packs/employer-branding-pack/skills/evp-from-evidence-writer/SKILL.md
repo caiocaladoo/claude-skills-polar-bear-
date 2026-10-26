@@ -1,6 +1,6 @@
 ---
 name: evp-from-evidence-writer
-description: Writes the employer value proposition as Give and Get pairs from the evidence base, each claim tagged with its evidence strength, plus the list of what the firm will not claim, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run evp-from-evidence-writer", "write our EVP", "employee value proposition", "what's our employer brand promise", "why should someone work here", or when someone needs the one page every job ad and careers page will be checked against. Use it even for a vague "we need to define our culture for hiring".
+description: Writes the employer value proposition as Give and Get pairs from the evidence base, each claim tagged with its evidence strength, plus the list of what the firm will not claim, part of the Employer Branding Pack by 90n. Use this whenever the user says "run evp-from-evidence-writer", "write our EVP", "employee value proposition", "what's our employer brand promise", "why should someone work here", or when someone needs the one page every job ad and careers page will be checked against. Use it even for a vague "we need to define our culture for hiring".
 ---
 
 # EVP from evidence writer
@@ -60,4 +60,4 @@ The extended version: I maintain versions, tags, and the not-claimable list acro
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

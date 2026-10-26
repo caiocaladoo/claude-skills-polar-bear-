@@ -1,6 +1,6 @@
 ---
 name: dlead-design-pushback-brief
-description: Builds a Design Pushback Brief with the request in its own words, the user and business risk backed by real evidence, two alternatives that meet the goal, what you will and will not do, an escalation route and how the disagreement is recorded if the call goes the other way. Use for "run dlead-design-pushback-brief", "push back on a stakeholder", "asked to ship a dark pattern", "say no to a design request", "this will hurt users", "rushed AI feature", "disagree and commit", "escalate a design concern", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Builds a Design Pushback Brief with the request in its own words, the user and business risk backed by real evidence, two alternatives that meet the goal, what you will and will not do, an escalation route and how the disagreement is recorded if the call goes the other way. Use for "run dlead-design-pushback-brief", "push back on a stakeholder", "asked to ship a dark pattern", "say no to a design request", "this will hurt users", "rushed AI feature", "disagree and commit", "escalate a design concern", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Design Pushback Brief
@@ -70,4 +70,4 @@ Run dlead-design-quality-bar (Design Quality Bar) to write the bar so the next a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

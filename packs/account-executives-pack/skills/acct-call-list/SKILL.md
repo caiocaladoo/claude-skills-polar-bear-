@@ -1,6 +1,6 @@
 ---
 name: acct-call-list
-description: Builds a weekly call list of 10 to 20 contacts in accounts you already own, each with the account, the job role, the signal or history behind the call and its source, the accounts left off and a check of the calling and email rules that apply. Use for "run acct-call-list", "call list", "who should I call this week", "weekly call list", "build my call block", "target list from my accounts", "which accounts to call first", "prospecting inside my accounts", part of the Claude for Account Executives Pack by Polar Bear.
+description: Builds a weekly call list of 10 to 20 contacts in accounts you already own, each with the account, the job role, the signal or history behind the call and its source, the accounts left off and a check of the calling and email rules that apply. Use for "run acct-call-list", "call list", "who should I call this week", "weekly call list", "build my call block", "target list from my accounts", "which accounts to call first", "prospecting inside my accounts", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Weekly Call List
@@ -67,4 +67,4 @@ Run acct-reason-to-call (Reason to Call) to work out, person by person, what is 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

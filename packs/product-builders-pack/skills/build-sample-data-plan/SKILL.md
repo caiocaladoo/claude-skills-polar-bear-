@@ -1,6 +1,6 @@
 ---
 name: build-sample-data-plan
-description: Plans the invented data a prototype runs on as a Sample Data Plan with every field it needs, an invented value for each one, the cases to cover (empty, long, odd characters, large volume), the places real data is tempting and why it stays out, and who approves any exception. Use for "run build-sample-data-plan", "can I paste a customer export into the prototype", "make the demo look real without real data", "what fake data do I need", "generate sample data for my prototype", "which edge cases should my data cover", "who has to approve using real data", part of the Claude for Product Builders Pack by Polar Bear.
+description: Plans the invented data a prototype runs on as a Sample Data Plan with every field it needs, an invented value for each one, the cases to cover (empty, long, odd characters, large volume), the places real data is tempting and why it stays out, and who approves any exception. Use for "run build-sample-data-plan", "can I paste a customer export into the prototype", "make the demo look real without real data", "what fake data do I need", "generate sample data for my prototype", "which edge cases should my data cover", "who has to approve using real data", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Sample Data Plan
@@ -70,4 +70,4 @@ Run build-connector-plan (Connector Plan) if the prototype still seems to need l
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

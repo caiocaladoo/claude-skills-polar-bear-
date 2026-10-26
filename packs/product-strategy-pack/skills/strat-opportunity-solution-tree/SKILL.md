@@ -1,6 +1,6 @@
 ---
 name: strat-opportunity-solution-tree
-description: Builds an Opportunity Solution Tree with one outcome, opportunities that each cite an interview, a target opportunity with its evidence, three ideas with the riskiest assumption and the result that would sink each, and the slots still marked "needs an interview". Use for "run strat-opportunity-solution-tree", "opportunity solution tree", "which opportunity do we go after", "tie our customer claims to interviews", "map our assumptions", "riskiest assumption", "what did customers really tell us", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Builds an Opportunity Solution Tree with one outcome, opportunities that each cite an interview, a target opportunity with its evidence, three ideas with the riskiest assumption and the result that would sink each, and the slots still marked "needs an interview". Use for "run strat-opportunity-solution-tree", "opportunity solution tree", "which opportunity do we go after", "tie our customer claims to interviews", "map our assumptions", "riskiest assumption", "what did customers really tell us", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Opportunity Solution Tree
@@ -70,4 +70,4 @@ Run strat-market-sizing (Market Sizing (TAM, SAM, SOM)) to size the space behind
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

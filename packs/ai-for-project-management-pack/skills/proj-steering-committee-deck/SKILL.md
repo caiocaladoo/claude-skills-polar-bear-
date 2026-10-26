@@ -1,6 +1,6 @@
 ---
 name: proj-steering-committee-deck
-description: Builds a steering committee deck that puts the decisions needed first, then delivery confidence with its reasons, milestones against forecast, top risks and changes for approval, and draft resolutions for the minutes. Use for "run proj-steering-committee-deck", "steering committee deck", "steerco deck", "project board pack", "slides for the steering meeting", "get the board to decide", "governance meeting deck", "steering group update", part of the AI for Project Management Pack by Polar Bear.
+description: Builds a steering committee deck that puts the decisions needed first, then delivery confidence with its reasons, milestones against forecast, top risks and changes for approval, and draft resolutions for the minutes. Use for "run proj-steering-committee-deck", "steering committee deck", "steerco deck", "project board pack", "slides for the steering meeting", "get the board to decide", "governance meeting deck", "steering group update", part of the AI for Project Management Pack by 90n.
 ---
 
 # Steering Committee Deck
@@ -71,4 +71,4 @@ Run proj-decision-log (Decision Log) to record what the board decided.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

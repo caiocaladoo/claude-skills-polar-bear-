@@ -1,6 +1,6 @@
 ---
 name: frac-renewal-review
-description: Prepares the renewal review of a fractional engagement, with results against the charter and their evidence, days used against days agreed, the strategic against reactive split, what the client says they value in their own words, your own "would I sign this again" check, the options (continue, grow, shrink to advisory, convert to a full-time hire, end), and the decision and its date. Use for "run frac-renewal-review", "prepare my renewal review", "the contract is about to roll over", "quarterly business review for a fractional role", "should I renew this client", "stay scale or sunset", "day 90 review with the CEO", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Prepares the renewal review of a fractional engagement, with results against the charter and their evidence, days used against days agreed, the strategic against reactive split, what the client says they value in their own words, your own "would I sign this again" check, the options (continue, grow, shrink to advisory, convert to a full-time hire, end), and the decision and its date. Use for "run frac-renewal-review", "prepare my renewal review", "the contract is about to roll over", "quarterly business review for a fractional role", "should I renew this client", "stay scale or sunset", "day 90 review with the CEO", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Renewal Review
@@ -70,4 +70,4 @@ Run frac-scope-change-request (Scope Change Request) for each ask the review sho
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

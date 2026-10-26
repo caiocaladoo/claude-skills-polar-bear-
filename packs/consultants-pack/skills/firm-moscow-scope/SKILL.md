@@ -1,6 +1,6 @@
 ---
 name: firm-moscow-scope
-description: Sorts every item from the brief and the call into must, should, could or won't for this engagement, with the won't list written out with reasons, the effort split on your own estimates, what moves if budget or time changes, and items the client could do well with their own AI named as such. Use for "run firm-moscow-scope", "MoSCoW this scope", "the brief asks for everything", "what fits inside this fee", "cut the scope to the budget", "write the won't list", "must should could won't for this engagement", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Sorts every item from the brief and the call into must, should, could or won't for this engagement, with the won't list written out with reasons, the effort split on your own estimates, what moves if budget or time changes, and items the client could do well with their own AI named as such. Use for "run firm-moscow-scope", "MoSCoW this scope", "the brief asks for everything", "what fits inside this fee", "cut the scope to the budget", "write the won't list", "must should could won't for this engagement", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # MoSCoW Scope
@@ -68,4 +68,4 @@ Run firm-consulting-proposal (Consulting Proposal) to write the proposal around 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

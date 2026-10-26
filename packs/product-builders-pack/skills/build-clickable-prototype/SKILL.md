@@ -1,6 +1,6 @@
 ---
 name: build-clickable-prototype
-description: Builds a clickable prototype in Claude Design screen by screen from your spec, with two or three structurally different layouts, every screen in its empty, error and loading state, sample content, a visible prototype label and a build record. Use for "run build-clickable-prototype", "build a clickable prototype", "prototype this spec in Claude Design", "turn my spec into screens", "give me layout options", "show the empty and error states", "something a user can click through", part of the Claude for Product Builders Pack by Polar Bear.
+description: Builds a clickable prototype in Claude Design screen by screen from your spec, with two or three structurally different layouts, every screen in its empty, error and loading state, sample content, a visible prototype label and a build record. Use for "run build-clickable-prototype", "build a clickable prototype", "prototype this spec in Claude Design", "turn my spec into screens", "give me layout options", "show the empty and error states", "something a user can click through", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Clickable Prototype
@@ -70,4 +70,4 @@ Run build-heuristic-review (Prototype Heuristic Review) to find the obvious prob
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

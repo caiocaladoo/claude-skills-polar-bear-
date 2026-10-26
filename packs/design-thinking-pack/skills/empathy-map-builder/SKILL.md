@@ -1,6 +1,6 @@
 ---
 name: empathy-map-builder
-description: Builds empathy maps from real research data, part of the Design Thinking Pack by Polar Bear. Use this whenever the user says "run empathy-map-builder", "make an empathy map", "map what users say and feel", "what's going on in our users' heads", or research exists and the team wants the says/thinks/does/feels view of a segment. Use it even for "help the team feel what the research found".
+description: Builds empathy maps from real research data, part of the Design Thinking Pack by 90n. Use this whenever the user says "run empathy-map-builder", "make an empathy map", "map what users say and feel", "what's going on in our users' heads", or research exists and the team wants the says/thinks/does/feels view of a segment. Use it even for "help the team feel what the research found".
 ---
 
 # Empathy Map Builder
@@ -25,4 +25,4 @@ The map holds only what real research supports, with inference labeled as infere
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

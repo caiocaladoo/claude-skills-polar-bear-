@@ -1,6 +1,6 @@
 ---
 name: cs-de-escalation-playbook
-description: Builds a de-escalation playbook with phone and chat steps, phrases to use and avoid, the "I want your manager" path and a handoff note so the customer does not repeat themselves. Use for "run cs-de-escalation-playbook", "how to handle angry customers", "how to deal with difficult customers", "what to say to an angry customer", "customer wants to speak to a manager", "calm down an upset caller", "de-escalation phrases", part of the AI for Customer Service Pack by Polar Bear.
+description: Builds a de-escalation playbook with phone and chat steps, phrases to use and avoid, the "I want your manager" path and a handoff note so the customer does not repeat themselves. Use for "run cs-de-escalation-playbook", "how to handle angry customers", "how to deal with difficult customers", "what to say to an angry customer", "customer wants to speak to a manager", "calm down an upset caller", "de-escalation phrases", part of the AI for Customer Service Pack by 90n.
 ---
 
 # De-escalation Playbook
@@ -68,4 +68,4 @@ Run cs-service-recovery-plan (Service Recovery Plan) when the anger is justified
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

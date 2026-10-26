@@ -1,6 +1,6 @@
 ---
 name: ldg-map-the-actions
-description: Maps a course request from one business goal to what people must do, producing the measurable goal, the observable actions with why they are not happening, practice and minimum information per action, and a cut list for the expert's material (must-do, must-know, look-up, cut) with a reason and a parking place per cut. Use for "run ldg-map-the-actions", "action mapping", "action map", "from know to do", "cut this content down", "the SME sent a huge slide deck", "need to know versus nice to know", "content bloat", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Maps a course request from one business goal to what people must do, producing the measurable goal, the observable actions with why they are not happening, practice and minimum information per action, and a cut list for the expert's material (must-do, must-know, look-up, cut) with a reason and a parking place per cut. Use for "run ldg-map-the-actions", "action mapping", "action map", "from know to do", "cut this content down", "the SME sent a huge slide deck", "need to know versus nice to know", "content bloat", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Map the Actions
@@ -69,4 +69,4 @@ Run ldg-interview-the-expert (Interview the Expert) to get the real decisions an
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

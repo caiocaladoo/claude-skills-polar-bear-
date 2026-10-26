@@ -1,6 +1,6 @@
 ---
 name: pdes-design-rationale-doc
-description: Writes a Design Rationale Doc with the decision in one line, the options considered and why each lost, the principles applied, every claim linked to real evidence or marked as a gap, the trade-offs accepted, two or three pre-mortem risks and the signal that would reopen it. Use for "run pdes-design-rationale-doc", "write up why we chose this design", "why is it like this", "I keep explaining the design again", "design rationale", "document this design decision", "it felt right is not an answer", "rationale for the review", part of the Claude for Product Designers Pack by Polar Bear.
+description: Writes a Design Rationale Doc with the decision in one line, the options considered and why each lost, the principles applied, every claim linked to real evidence or marked as a gap, the trade-offs accepted, two or three pre-mortem risks and the signal that would reopen it. Use for "run pdes-design-rationale-doc", "write up why we chose this design", "why is it like this", "I keep explaining the design again", "design rationale", "document this design decision", "it felt right is not an answer", "rationale for the review", part of the Claude for Product Designers Pack by 90n.
 ---
 
 # Design Rationale Doc
@@ -70,4 +70,4 @@ Run pdes-design-decision-log (Design Decision Log) to file the decision where it
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

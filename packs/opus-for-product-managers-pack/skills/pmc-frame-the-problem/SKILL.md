@@ -1,6 +1,6 @@
 ---
 name: pmc-frame-the-problem
-description: Turns a vague ask into a Problem Frame with one testable question, the decision it feeds and its owner, scope in and out, success criteria, constraints and a deadline. Use for "run pmc-frame-the-problem", "frame the problem", "turn fix onboarding into one question", "what decision is this for", "who owns this decision", "what is out of scope", "a leader asked for an AI strategy", "write a how might we", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Turns a vague ask into a Problem Frame with one testable question, the decision it feeds and its owner, scope in and out, success criteria, constraints and a deadline. Use for "run pmc-frame-the-problem", "frame the problem", "turn fix onboarding into one question", "what decision is this for", "who owns this decision", "what is out of scope", "a leader asked for an AI strategy", "write a how might we", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Frame the Problem
@@ -68,4 +68,4 @@ Run pmc-read-product-health (Read the Product's Health) to ground the question i
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

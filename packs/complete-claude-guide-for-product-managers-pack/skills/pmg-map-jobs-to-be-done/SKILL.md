@@ -1,6 +1,6 @@
 ---
 name: pmg-map-jobs-to-be-done
-description: Maps the job behind a request or a set of interview needs, with solution-free job statements, the circumstances that trigger them, the forces for and against switching, and the alternatives customers use today. Use for "run pmg-map-jobs-to-be-done", "jobs to be done", "JTBD map", "what job is the customer hiring this for", "why do they want this feature", "switching forces", "what are customers using instead", part of The Complete Claude Guide for Product Managers Pack by Polar Bear.
+description: Maps the job behind a request or a set of interview needs, with solution-free job statements, the circumstances that trigger them, the forces for and against switching, and the alternatives customers use today. Use for "run pmg-map-jobs-to-be-done", "jobs to be done", "JTBD map", "what job is the customer hiring this for", "why do they want this feature", "switching forces", "what are customers using instead", part of The Complete Claude Guide for Product Managers Pack by 90n.
 ---
 
 # Map the Jobs to Be Done
@@ -65,4 +65,4 @@ Run pmg-fill-value-proposition-canvas (Fill the Value Proposition Canvas) to mat
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

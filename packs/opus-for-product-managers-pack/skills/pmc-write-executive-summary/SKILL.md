@@ -1,6 +1,6 @@
 ---
 name: pmc-write-executive-summary
-description: Condenses any finished piece of work into a one-page executive summary in Claude Docs, with the point in one line, three supporting points with numbers and sources, and the ask and the risk. Use for "run pmc-write-executive-summary", "turn this doc into a one-page exec summary", "say the point in one sentence", "the exec never reads past page one", "write the summary for leadership", "what will the CFO look for first", "make this readable in two minutes", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Condenses any finished piece of work into a one-page executive summary in Claude Docs, with the point in one line, three supporting points with numbers and sources, and the ask and the risk. Use for "run pmc-write-executive-summary", "turn this doc into a one-page exec summary", "say the point in one sentence", "the exec never reads past page one", "write the summary for leadership", "what will the CFO look for first", "make this readable in two minutes", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Write the Executive Summary
@@ -65,4 +65,4 @@ Run pmc-write-leadership-memo (Write the Leadership Memo) when a big call needs 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

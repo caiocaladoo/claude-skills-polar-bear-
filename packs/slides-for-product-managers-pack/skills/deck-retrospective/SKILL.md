@@ -1,6 +1,6 @@
 ---
 name: deck-retrospective
-description: Drafts a sprint retrospective deck in Claude Slides that opens with the Prime Directive and last retro's actions, runs one chosen format (Start Stop Continue, Sailboat or 4Ls) on anonymous input grouped into themes, and closes on one to three experiments with an owner and a date. Use for "run deck-retrospective", "retro deck", "retrospective slides", "plan our retro", "our retros repeat the same complaints", "retro format ideas", "retro actions that stick", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Drafts a sprint retrospective deck in Claude Slides that opens with the Prime Directive and last retro's actions, runs one chosen format (Start Stop Continue, Sailboat or 4Ls) on anonymous input grouped into themes, and closes on one to three experiments with an owner and a date. Use for "run deck-retrospective", "retro deck", "retrospective slides", "plan our retro", "our retros repeat the same complaints", "retro format ideas", "retro actions that stick", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Sprint Retrospective Deck
@@ -68,4 +68,4 @@ Run deck-working-agreement (Working Agreement Deck) to turn a friction that keep
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

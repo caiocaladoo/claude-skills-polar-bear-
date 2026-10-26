@@ -1,6 +1,6 @@
 ---
 name: strat-product-roadmap
-description: Builds a now, next, later roadmap with items restated as problems and linked to a strategy action, ordered by cost of delay over duration, placed by horizon with a confidence note, dated commitments flagged with who made them, a "not on the roadmap" list and a one-screen executive cut. Use for "run strat-product-roadmap", "build our product roadmap", "now next later roadmap", "roadmap without dates", "every date becomes a promise", "order the roadmap by cost of delay", "what changed on the roadmap", "executive version of the roadmap", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Builds a now, next, later roadmap with items restated as problems and linked to a strategy action, ordered by cost of delay over duration, placed by horizon with a confidence note, dated commitments flagged with who made them, a "not on the roadmap" list and a one-screen executive cut. Use for "run strat-product-roadmap", "build our product roadmap", "now next later roadmap", "roadmap without dates", "every date becomes a promise", "order the roadmap by cost of delay", "what changed on the roadmap", "executive version of the roadmap", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Product Roadmap (Now, Next, Later)
@@ -71,4 +71,4 @@ Run strat-quarterly-okrs (Quarterly OKRs) to set the quarter's measures for the 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "Claude for Fractional Leaders: 31 Claude skills for running a fractional engagement from the first retainer to the renewal, and several of them at once, in seven stages: position the role and answer the full-time and AI questions; shape and price the seat with engagement options, pricing models and a statement of work; spend the first 30 days on the charter, the diagnostic and the 90-day plan; run the week across clients with a capacity plan and one log per client; report results to the CEO and the board; settle how the team works on your off days and record decisions; then review the renewal, price scope changes and hand over. For fractional and interim executives, and senior independents moving to that model. Claude prepares the diagnostic, the plan and the update from what you give it; it never invents a finding, a number or a client quote, never moves one client’s information into another client’s work, and never speaks to the client or the board for you.",
   "author": {
-    "name": "Polar Bear",
-    "url": "https://meet-polar-bear.com"
+    "name": "90n",
+    "url": "https://90n.ai"
   },
-  "homepage": "https://meet-polar-bear.com/skills/fractional-leaders-pack",
+  "homepage": "https://90n.ai/resources/fractional-leaders-pack",
   "repository": "https://github.com/polar-bear-org/claude-skills",
   "license": "LicenseRef-PolarBear-Internal-Use",
   "keywords": [

@@ -1,6 +1,6 @@
 ---
 name: run-sheet-builder
-description: Builds the facilitators pack for a workshop: the segment-by-segment run sheet, exercise worksheets and canvases, the room and tools plan, and everything the facilitation team needs, part of the Workshop Pack by Polar Bear. Use this whenever the user says "run run-sheet-builder", "build the run sheet", "make the facilitator pack", "prepare the workshop materials", or the agenda is agreed and the session needs to become runnable. Use it even for "the workshop is Thursday, help me get ready".
+description: Builds the facilitators pack for a workshop: the segment-by-segment run sheet, exercise worksheets and canvases, the room and tools plan, and everything the facilitation team needs, part of the Workshop Pack by 90n. Use this whenever the user says "run run-sheet-builder", "build the run sheet", "make the facilitator pack", "prepare the workshop materials", or the agenda is agreed and the session needs to become runnable. Use it even for "the workshop is Thursday, help me get ready".
 ---
 
 # Run Sheet Builder
@@ -57,4 +57,4 @@ Save the pack as **runsheet-[workshop-slug].md** (run sheet + room and tools pla
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

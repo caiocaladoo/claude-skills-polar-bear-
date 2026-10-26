@@ -1,6 +1,6 @@
 ---
 name: price-increase-letter
-description: Drafts a short, plain price increase letter for each client with the new price, the date, the notice period, what they keep getting, one honest line on how you work now with AI, and an offer to talk, in your voice for you to send. Use for "run price-increase-letter", "write my price increase email", "how do I tell a client my rates are going up", "price increase letter", "rate increase notice", "letter to clients about new fees", "word my fee increase", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Drafts a short, plain price increase letter for each client with the new price, the date, the notice period, what they keep getting, one honest line on how you work now with AI, and an offer to talk, in your voice for you to send. Use for "run price-increase-letter", "write my price increase email", "how do I tell a client my rates are going up", "price increase letter", "rate increase notice", "letter to clients about new fees", "word my fee increase", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Price Increase Letter
@@ -70,4 +70,4 @@ Run price-pricing-review (Quarterly Pricing Review) to check the effect of the i
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: ld-compliance-training
-description: Plans a compliance programme that changes choices on the job, producing the few decisions that matter per rule, scenario checks with feedback, a refresh cadence and a record-use statement, with legal points marked "check with a qualified adviser". Use for "run ld-compliance-training", "compliance training plan", "mandatory training", "annual compliance refresh", "compliance quiz", "make compliance training less boring", "harassment prevention training", "compliance records", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Plans a compliance programme that changes choices on the job, producing the few decisions that matter per rule, scenario checks with feedback, a refresh cadence and a record-use statement, with legal points marked "check with a qualified adviser". Use for "run ld-compliance-training", "compliance training plan", "mandatory training", "annual compliance refresh", "compliance quiz", "make compliance training less boring", "harassment prevention training", "compliance records", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # Compliance Training
@@ -70,4 +70,4 @@ Run ld-training-request-intake (Training Request Intake) to handle the next requ
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

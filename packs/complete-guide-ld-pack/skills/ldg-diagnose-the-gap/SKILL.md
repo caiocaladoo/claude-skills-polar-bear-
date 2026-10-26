@@ -1,6 +1,6 @@
 ---
 name: ldg-diagnose-the-gap
-description: Diagnoses one performance problem before anything is built, producing desired versus actual by task, a cause table that separates skill and knowledge from information, tools, incentives and process, an option per cause and a recommendation that can say "no training". Use for "run ldg-diagnose-the-gap", "performance gap analysis", "performance consulting", "is it a training problem", "root cause of a performance problem", "cause analysis", "why are people not doing it", "training did not fix it", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Diagnoses one performance problem before anything is built, producing desired versus actual by task, a cause table that separates skill and knowledge from information, tools, incentives and process, an option per cause and a recommendation that can say "no training". Use for "run ldg-diagnose-the-gap", "performance gap analysis", "performance consulting", "is it a training problem", "root cause of a performance problem", "cause analysis", "why are people not doing it", "training did not fix it", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Diagnose the Performance Gap
@@ -69,4 +69,4 @@ Run ldg-prepare-the-sponsor-conversation (Prepare the Sponsor Conversation) to t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

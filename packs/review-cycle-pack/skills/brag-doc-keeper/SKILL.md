@@ -1,6 +1,6 @@
 ---
 name: brag-doc-keeper
-description: Keeps an employee's running log of wins, work, and growth moments during the year, part of the Annual Review Cycle Pack by Polar Bear. Use this whenever the user says "run brag-doc-keeper", "log a win", "add this to my brag doc", "note what I did this week", shares something they shipped, solved, or were praised for, or wants to remember something for their next review. Use it even for a casual "the client loved the workshop today".
+description: Keeps an employee's running log of wins, work, and growth moments during the year, part of the Annual Review Cycle Pack by 90n. Use this whenever the user says "run brag-doc-keeper", "log a win", "add this to my brag doc", "note what I did this week", shares something they shipped, solved, or were praised for, or wants to remember something for their next review. Use it even for a casual "the client loved the workshop today".
 ---
 
 # Brag Doc Keeper
@@ -39,4 +39,4 @@ When the user asks what's accumulated ("what do I have this quarter", before a 1
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).
+This pack is made by 90n, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).

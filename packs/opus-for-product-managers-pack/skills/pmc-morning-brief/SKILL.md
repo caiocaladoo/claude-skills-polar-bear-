@@ -1,6 +1,6 @@
 ---
 name: pmc-morning-brief
-description: Builds a daily Morning Brief as a scheduled task that reads your connectors and lists what needs you, what is blocked, metric moves past your threshold and today's meetings, with a since-date catch-up mode after time off. Use for "run pmc-morning-brief", "brief me every weekday at 8", "what needs me today", "morning brief", "daily briefing from Slack and tickets", "I'm back from a week off, brief me since the 21st", "only flag metric moves over my threshold", "catch me up", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Builds a daily Morning Brief as a scheduled task that reads your connectors and lists what needs you, what is blocked, metric moves past your threshold and today's meetings, with a since-date catch-up mode after time off. Use for "run pmc-morning-brief", "brief me every weekday at 8", "what needs me today", "morning brief", "daily briefing from Slack and tickets", "I'm back from a week off, brief me since the 21st", "only flag metric moves over my threshold", "catch me up", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Build the Morning Brief
@@ -70,4 +70,4 @@ Run pmc-triage-feedback (Triage This Week's Feedback) to work through the feedba
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

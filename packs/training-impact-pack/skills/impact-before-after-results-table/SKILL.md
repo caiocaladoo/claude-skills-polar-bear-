@@ -1,6 +1,6 @@
 ---
 name: impact-before-after-results-table
-description: Builds one table of what changed for a training programme from your own exports, producing each agreed measure before and after with its group size, the absolute and relative change beside any comparison, and a source and a voucher for every figure. Use for "run impact-before-after-results-table", "before and after training results", "training results table", "pre and post training data", "did the numbers change after training", "compare before and after the programme", "analyse my training data export", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Builds one table of what changed for a training programme from your own exports, producing each agreed measure before and after with its group size, the absolute and relative change beside any comparison, and a source and a voucher for every figure. Use for "run impact-before-after-results-table", "before and after training results", "training results table", "pre and post training data", "did the numbers change after training", "compare before and after the programme", "analyse my training data export", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Before-and-After Results Table
@@ -70,4 +70,4 @@ Run impact-open-comment-themes (Open Comment Themes) to read what people wrote b
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

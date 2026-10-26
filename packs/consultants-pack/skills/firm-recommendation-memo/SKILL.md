@@ -1,6 +1,6 @@
 ---
 name: firm-recommendation-memo
-description: Writes your recommendation on the client's decision as a one-page memo, answer first, with the decision it answers and who decides, the options rejected and why, the costs accepted, the evidence and assumptions as known on the date, what would change it, conditions before action, first steps with owners and a review date, marked proposed until the client's decider decides. Use for "run firm-recommendation-memo", "write my recommendation", "put my advice on one page", "recommendation memo for the client", "what do I actually advise", "answer first memo", "record why I recommend this option", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Writes your recommendation on the client's decision as a one-page memo, answer first, with the decision it answers and who decides, the options rejected and why, the costs accepted, the evidence and assumptions as known on the date, what would change it, conditions before action, first steps with owners and a review date, marked proposed until the client's decider decides. Use for "run firm-recommendation-memo", "write my recommendation", "put my advice on one page", "recommendation memo for the client", "what do I actually advise", "answer first memo", "record why I recommend this option", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Recommendation Memo
@@ -70,4 +70,4 @@ Run firm-good-better-best-options (Good-Better-Best Options) to turn the recomme
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-risk-register
-description: Builds an AI Risk Register with each risk worded as cause, event and effect, mapped to the NIST Map, Measure and Manage functions, with an owner, an early-warning trigger, a response and the regulatory questions passed on to legal. Use for "run aipm-ai-risk-register", "AI risk register", "NIST AI RMF risks", "legal and security want our AI risks", "turn these worries into risks", "risk log for an AI feature", "who owns each AI risk", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Builds an AI Risk Register with each risk worded as cause, event and effect, mapped to the NIST Map, Measure and Manage functions, with an owner, an early-warning trigger, a response and the regulatory questions passed on to legal. Use for "run aipm-ai-risk-register", "AI risk register", "NIST AI RMF risks", "legal and security want our AI risks", "turn these worries into risks", "risk log for an AI feature", "who owns each AI risk", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Risk Register
@@ -63,4 +63,4 @@ Run aipm-legal-questions (Questions for Legal) to take the open legal points to 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

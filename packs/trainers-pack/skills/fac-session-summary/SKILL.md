@@ -1,6 +1,6 @@
 ---
 name: fac-session-summary
-description: Turns a session's capture into the record of the day, with a five-line headline against the brief, decisions and owners in the words used, and themes shown with the items under them. Use for "run fac-session-summary", "workshop summary", "write up the workshop", "session notes and decisions", "what did the workshop decide", "workshop output report", "the session was yesterday and I need to send something today", "summary of the offsite", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Turns a session's capture into the record of the day, with a five-line headline against the brief, decisions and owners in the words used, and themes shown with the items under them. Use for "run fac-session-summary", "workshop summary", "write up the workshop", "session notes and decisions", "what did the workshop decide", "workshop output report", "the session was yesterday and I need to send something today", "summary of the offsite", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Session Summary and Decisions
@@ -69,4 +69,4 @@ Run fac-follow-up-sequence (Post-Session Follow-Up Sequence) to get the summary 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-prd
-description: Drafts an AI PRD with the problem and its evidence, the inputs the model sees, the outputs, a three-line behavior summary, failure handling and fallbacks, data needs, a release bar with blank targets and open questions with owners. Use for "run aipm-ai-prd", "write a PRD for an AI feature", "AI feature spec", "spec for our copilot", "PRD template for an LLM feature", "nobody can test this spec", "turn the prototype into a spec", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Drafts an AI PRD with the problem and its evidence, the inputs the model sees, the outputs, a three-line behavior summary, failure handling and fallbacks, data needs, a release bar with blank targets and open questions with owners. Use for "run aipm-ai-prd", "write a PRD for an AI feature", "AI feature spec", "spec for our copilot", "PRD template for an LLM feature", "nobody can test this spec", "turn the prototype into a spec", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI PRD
@@ -70,4 +70,4 @@ Run aipm-ai-success-criteria (AI Success Criteria) to turn the release bar into 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

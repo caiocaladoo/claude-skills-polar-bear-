@@ -1,6 +1,6 @@
 ---
 name: pmg-write-weekly-update
-description: Drafts a one-screen weekly product update with the bottom line and asks first, what shipped, what is at risk with an owner, decisions needed by date, and one cut each for leaders, sales and support, and the team. Use for "run pmg-write-weekly-update", "write my weekly update", "weekly product update", "status update nobody reads", "Friday update", "stakeholder update", "update for leadership", "turn these tickets into an update", part of The Complete Claude Guide for Product Managers Pack by Polar Bear.
+description: Drafts a one-screen weekly product update with the bottom line and asks first, what shipped, what is at risk with an owner, decisions needed by date, and one cut each for leaders, sales and support, and the team. Use for "run pmg-write-weekly-update", "write my weekly update", "weekly product update", "status update nobody reads", "Friday update", "stakeholder update", "update for leadership", "turn these tickets into an update", part of The Complete Claude Guide for Product Managers Pack by 90n.
 ---
 
 # Write the Weekly Update
@@ -70,4 +70,4 @@ Run pmg-run-the-retro (Run the Retro) to fix how the team works, not only report
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

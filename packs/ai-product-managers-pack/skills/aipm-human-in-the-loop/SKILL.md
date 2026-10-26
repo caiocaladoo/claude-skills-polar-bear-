@@ -1,6 +1,6 @@
 ---
 name: aipm-human-in-the-loop
-description: Designs Human-in-the-Loop for an AI feature or agent, naming which steps a person approves, edits or takes over, the trigger for each (uncertainty, risk, amount, user request), the handoff message and context passed, a response time staff can actually meet and what is logged. Use for "run aipm-human-in-the-loop", "where should a human approve", "human in the loop design", "AI handoff to a person", "approval step for the agent", "escalation to a human", "when should the bot hand off", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Designs Human-in-the-Loop for an AI feature or agent, naming which steps a person approves, edits or takes over, the trigger for each (uncertainty, risk, amount, user request), the handoff message and context passed, a response time staff can actually meet and what is logged. Use for "run aipm-human-in-the-loop", "where should a human approve", "human in the loop design", "AI handoff to a person", "approval step for the agent", "escalation to a human", "when should the bot hand off", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # Human-in-the-Loop Design
@@ -67,4 +67,4 @@ Run aipm-data-privacy-brief (AI Data Privacy Brief) to map what data flows throu
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

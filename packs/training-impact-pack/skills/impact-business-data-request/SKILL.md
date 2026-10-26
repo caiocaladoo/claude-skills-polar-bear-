@@ -1,6 +1,6 @@
 ---
 name: impact-business-data-request
-description: Drafts the request for group-level business figures held by another team, producing a figures table per agreed measure (definition, unit, period, group), a short data dictionary, the message to the data owner and a log of what was received and who vouches for it. Use for "run impact-business-data-request", "business data request", "ask for data to evaluate training", "request kpi data from another team", "data request to a data owner", "training impact data", "get the before and after figures", "data dictionary for training measures", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Drafts the request for group-level business figures held by another team, producing a figures table per agreed measure (definition, unit, period, group), a short data dictionary, the message to the data owner and a log of what was received and who vouches for it. Use for "run impact-business-data-request", "business data request", "ask for data to evaluate training", "request kpi data from another team", "data request to a data owner", "training impact data", "get the before and after figures", "data dictionary for training measures", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Business Data Request
@@ -69,4 +69,4 @@ Run impact-before-after-results-table (Before-and-After Results Table) to put th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

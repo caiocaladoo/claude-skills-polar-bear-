@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-model-selection
-description: Builds an AI Model Selection Plan with a side-by-side test plan on 20 to 50 real inputs, a quality, latency and cost table per model tier, a pick per task with the evidence row behind it and a re-check date. Use for "run aipm-ai-model-selection", "which model tier should we use", "justify the model choice", "compare models side by side", "cheaper model or stronger model", "model bake-off", "model cost per task", "pick a model for each step", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Builds an AI Model Selection Plan with a side-by-side test plan on 20 to 50 real inputs, a quality, latency and cost table per model tier, a pick per task with the evidence row behind it and a re-check date. Use for "run aipm-ai-model-selection", "which model tier should we use", "justify the model choice", "compare models side by side", "cheaper model or stronger model", "model bake-off", "model cost per task", "pick a model for each step", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Model Selection
@@ -63,4 +63,4 @@ Run aipm-ai-prototype-brief (AI Prototype Brief) to test the chosen setup agains
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

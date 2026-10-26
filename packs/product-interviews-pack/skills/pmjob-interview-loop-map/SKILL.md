@@ -1,6 +1,6 @@
 ---
 name: pmjob-interview-loop-map
-description: Maps your interview loop into an Interview Loop Map with every round, its date, length, interviewer, format and what it assesses, what the recruiter said about AI use at each stage, the prep skill and stories assigned to each round and the questions still to ask the recruiter. Use for "run pmjob-interview-loop-map", "map my interview loop", "what does each round test", "six rounds are booked", "which story for which round", "what should I ask the recruiter about the process", "plan my prep for the onsite", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Maps your interview loop into an Interview Loop Map with every round, its date, length, interviewer, format and what it assesses, what the recruiter said about AI use at each stage, the prep skill and stories assigned to each round and the questions still to ask the recruiter. Use for "run pmjob-interview-loop-map", "map my interview loop", "what does each round test", "six rounds are booked", "which story for which round", "what should I ask the recruiter about the process", "plan my prep for the onsite", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Interview Loop Map
@@ -70,4 +70,4 @@ Run pmjob-experience-inventory (Career Evidence Inventory) to build the evidence
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

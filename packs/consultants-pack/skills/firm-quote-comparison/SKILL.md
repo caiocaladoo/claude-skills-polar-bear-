@@ -1,6 +1,6 @@
 ---
 name: firm-quote-comparison
-description: Puts your scope and a cheaper quote into the same line items, with "not stated" wherever either is silent, the risk the client carries per missing line, the gaps in your own quote, neutral questions the client could ask either firm and your options, facts only and the rival never disparaged. Use for "run firm-quote-comparison", "the client has a much cheaper quote", "compare my quote with theirs", "is their quote the same scope as mine", "I am being undercut by an AI-first firm", "level these two bids", "they quoted a fraction of my fee", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Puts your scope and a cheaper quote into the same line items, with "not stated" wherever either is silent, the risk the client carries per missing line, the gaps in your own quote, neutral questions the client could ask either firm and your options, facts only and the rival never disparaged. Use for "run firm-quote-comparison", "the client has a much cheaper quote", "compare my quote with theirs", "is their quote the same scope as mine", "I am being undercut by an AI-first firm", "level these two bids", "they quoted a fraction of my fee", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Like-for-Like Quote Comparison
@@ -67,4 +67,4 @@ Run firm-objection-handling (Objection Handling Map) to prepare for the objectio
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

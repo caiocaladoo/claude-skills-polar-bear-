@@ -1,6 +1,6 @@
 ---
 name: careers-page-writer
-description: Writes the careers page from the EVP, with the hard parts said plainly, who should not apply, how hiring really works, pay policy, and only quotes people have approved, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run careers-page-writer", "write our careers page", "rewrite the join us page", "our work with us page is bad", "what should be on a careers page", or when someone is about to open a role and the page candidates will land on is a stock photo and three adjectives. Use it even for a vague "we need something for people who want to work here".
+description: Writes the careers page from the EVP, with the hard parts said plainly, who should not apply, how hiring really works, pay policy, and only quotes people have approved, part of the Employer Branding Pack by 90n. Use this whenever the user says "run careers-page-writer", "write our careers page", "rewrite the join us page", "our work with us page is bad", "what should be on a careers page", or when someone is about to open a role and the page candidates will land on is a stock photo and three adjectives. Use it even for a vague "we need something for people who want to work here".
 ---
 
 # Careers page writer
@@ -58,4 +58,4 @@ The extended version: I write the full page, the claim ledger, per-language vers
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

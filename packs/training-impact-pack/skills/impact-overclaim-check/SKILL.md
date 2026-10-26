@@ -1,6 +1,6 @@
 ---
 name: impact-overclaim-check
-description: Checks a draft training report claim by claim before it is sent, producing a numbered list of every claim with the checks it fails, its strength and a verdict, a rewrite for each weak claim and a list of what must come out. Use for "run impact-overclaim-check", "check my training report before I send it", "am I overclaiming", "can I say the training caused this", "review my impact report", "fact check L&D report", "is this claim supported", "sanity check training results", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Checks a draft training report claim by claim before it is sent, producing a numbered list of every claim with the checks it fails, its strength and a verdict, a rewrite for each weak claim and a list of what must come out. Use for "run impact-overclaim-check", "check my training report before I send it", "am I overclaiming", "can I say the training caused this", "review my impact report", "fact check L&D report", "is this claim supported", "sanity check training results", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Overclaim Check
@@ -70,4 +70,4 @@ Run impact-evidence-review-meeting (Evidence Review Meeting) to take the checked
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

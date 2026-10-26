@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-success-criteria
-description: Writes AI Success Criteria for a model feature, one specific and measurable criterion per dimension (task fidelity, consistency, tone, privacy, context use, latency, cost), with today's baseline, a target left blank for a named person and how each will be measured. Use for "run aipm-ai-success-criteria", "define success criteria for our AI feature", "what does good mean for this model", "make it good is not a spec", "acceptance criteria for an LLM", "release bar for the assistant", "how do we measure AI quality", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Writes AI Success Criteria for a model feature, one specific and measurable criterion per dimension (task fidelity, consistency, tone, privacy, context use, latency, cost), with today's baseline, a target left blank for a named person and how each will be measured. Use for "run aipm-ai-success-criteria", "define success criteria for our AI feature", "what does good mean for this model", "make it good is not a spec", "acceptance criteria for an LLM", "release bar for the assistant", "how do we measure AI quality", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Success Criteria
@@ -63,4 +63,4 @@ Run aipm-behavior-contract (AI Behavior Contract) to turn the criteria into must
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

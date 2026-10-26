@@ -1,6 +1,6 @@
 ---
 name: pmc-generate-options
-description: Generates an Option Set of three to five options that differ in kind, with do nothing as option zero, the bet each one makes and what each gives up. Use for "run pmc-generate-options", "give me four genuinely different ways to fix churn in month two", "add the do-nothing option and what it costs", "which option did we not consider?", "widen the options", "we only have one idea", "alternatives to the CEO's plan", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Generates an Option Set of three to five options that differ in kind, with do nothing as option zero, the bet each one makes and what each gives up. Use for "run pmc-generate-options", "give me four genuinely different ways to fix churn in month two", "add the do-nothing option and what it costs", "which option did we not consider?", "widen the options", "we only have one idea", "alternatives to the CEO's plan", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Generate Distinct Options
@@ -62,4 +62,4 @@ Run pmc-model-scenarios (Model the Scenarios) to see how each option plays out u
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

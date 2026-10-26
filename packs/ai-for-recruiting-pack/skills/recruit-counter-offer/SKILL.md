@@ -1,6 +1,6 @@
 ---
 name: recruit-counter-offer
-description: Builds a counter offer plan for one candidate, with questions to ask before the offer, resignation conversation prep, honest answers when the current employer counters, and a keep-warm plan from notice period to day one. Use for "run recruit-counter-offer", "my candidate got a counter offer", "counter offer from current employer", "prepare the candidate to resign", "keep warm through the notice period", "stop accepted candidates dropping out", "what to say when they counter", part of the AI for Recruiting Pack by Polar Bear.
+description: Builds a counter offer plan for one candidate, with questions to ask before the offer, resignation conversation prep, honest answers when the current employer counters, and a keep-warm plan from notice period to day one. Use for "run recruit-counter-offer", "my candidate got a counter offer", "counter offer from current employer", "prepare the candidate to resign", "keep warm through the notice period", "stop accepted candidates dropping out", "what to say when they counter", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Counter Offer Plan
@@ -69,4 +69,4 @@ Run recruit-recruiting-metrics (Recruiting Metrics) to see where offers are lost
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: strat-not-doing-list
-description: Drafts a Not-Doing List that tests each live request, segment and pet project against the chosen strategy and writes the "we will not" lines with the reason, what saying no costs, who hears it, the short answer to give and the condition that would reopen it. Use for "run strat-not-doing-list", "everything is still a priority", "what will we not do", "draft the not-doing list", "test these requests against the strategy", "how do I say no to this request", "what would reopen this", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Drafts a Not-Doing List that tests each live request, segment and pet project against the chosen strategy and writes the "we will not" lines with the reason, what saying no costs, who hears it, the short answer to give and the condition that would reopen it. Use for "run strat-not-doing-list", "everything is still a priority", "what will we not do", "draft the not-doing list", "test these requests against the strategy", "how do I say no to this request", "what would reopen this", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Not-Doing List
@@ -67,4 +67,4 @@ Run strat-scenario-planning (Scenario Planning Model) to see how the chosen opti
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

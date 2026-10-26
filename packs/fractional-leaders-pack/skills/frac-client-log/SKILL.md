@@ -1,6 +1,6 @@
 ---
 name: frac-client-log
-description: Keeps one running log per client for a fractional leader, with decisions, commitments made and received, open asks, scope asks as they arrive and days used, plus a "where we left off" page that reloads the context before each session, with one client per workspace and never mixed. Use for "run frac-client-log", "start a client log", "where did we leave off with this client", "what did I promise whom", "log this week's decisions and commitments", "reload my context for this client", "per-client notebook", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Keeps one running log per client for a fractional leader, with decisions, commitments made and received, open asks, scope asks as they arrive and days used, plus a "where we left off" page that reloads the context before each session, with one client per workspace and never mixed. Use for "run frac-client-log", "start a client log", "where did we leave off with this client", "what did I promise whom", "log this week's decisions and commitments", "reload my context for this client", "per-client notebook", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Client Log
@@ -69,4 +69,4 @@ Run frac-weekly-review (Weekly Review Across Clients) to compare, for your eyes 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

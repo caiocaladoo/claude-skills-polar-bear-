@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "Claude Guide for AI Adoption: 32 Claude skills for getting a team to use AI well, from the first pilot to the habit, in seven stages: find where it helps with the adoption brief, an anonymous starting point survey, a use case map and a barrier diagnosis; start small with a pilot that has a stop rule and a capacity check; teach it with a basics curriculum built on judgement, hands-on sessions, an output check and a job aid; support managers with a manager kit and a team agreement; make it safe to question with the rules in plain language and a concern response log; measure what changed with measures agreed before the pilot and an evidence review; then sustain it with a champions network, the rollout decision and a quarterly habit review. For L&D and enablement people, change leads and independent consultants who run AI adoption work. Claude prepares the plan, the sessions and the evidence; a named person makes every call, and nobody's use of AI is tracked.",
   "author": {
-    "name": "Polar Bear",
-    "url": "https://meet-polar-bear.com"
+    "name": "90n",
+    "url": "https://90n.ai"
   },
-  "homepage": "https://meet-polar-bear.com/skills/ai-adoption-pack",
+  "homepage": "https://90n.ai/resources/ai-adoption-pack",
   "repository": "https://github.com/polar-bear-org/claude-skills",
   "license": "LicenseRef-PolarBear-Internal-Use",
   "keywords": [

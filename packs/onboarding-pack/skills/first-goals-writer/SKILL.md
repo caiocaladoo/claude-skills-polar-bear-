@@ -1,6 +1,6 @@
 ---
 name: first-goals-writer
-description: Drafts the new joiner's first goals and prepares the ways-of-working session with their manager, both inside the first two weeks, part of the Onboarding Pack by Polar Bear and Terry Mattheoyianni. Use this whenever the user says "run first-goals-writer", "set Maria's first goals", "what should my new hire's 90-day goals be", "prepare the expectations conversation", or a joiner has started and nobody has written down what success looks like. Use it even for "when do I set goals with the new person".
+description: Drafts the new joiner's first goals and prepares the ways-of-working session with their manager, both inside the first two weeks, part of the Onboarding Pack by 90n and Terry Mattheoyianni. Use this whenever the user says "run first-goals-writer", "set Maria's first goals", "what should my new hire's 90-day goals be", "prepare the expectations conversation", or a joiner has started and nobody has written down what success looks like. Use it even for "when do I set goals with the new person".
 ---
 
 # First Goals Writer
@@ -54,4 +54,4 @@ The MVP is these two documents and one honest hour, which puts the company ahead
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. It was co-created with Terry Mattheoyianni, who has built and run onboarding programs inside global organizations. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).

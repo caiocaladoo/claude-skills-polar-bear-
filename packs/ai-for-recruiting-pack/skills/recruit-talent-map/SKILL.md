@@ -1,6 +1,6 @@
 ---
 name: recruit-talent-map
-description: Builds a talent map at company and team level, naming the target companies and teams where the profile works, adjacent titles, feeder fields and a pool size estimate from public information, with no files on individuals. Use for "run recruit-talent-map", "talent mapping", "talent map for this role", "where do these people work", "target company list", "market map for a search", "the manager wants our exact industry", "how big is the talent pool", part of the AI for Recruiting Pack by Polar Bear.
+description: Builds a talent map at company and team level, naming the target companies and teams where the profile works, adjacent titles, feeder fields and a pool size estimate from public information, with no files on individuals. Use for "run recruit-talent-map", "talent mapping", "talent map for this role", "where do these people work", "target company list", "market map for a search", "the manager wants our exact industry", "how big is the talent pool", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Talent Mapping
@@ -67,4 +67,4 @@ Run recruit-sourcing-strategy (Sourcing Strategy) to choose channels that reach 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

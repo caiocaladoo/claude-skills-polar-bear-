@@ -1,6 +1,6 @@
 ---
 name: aipm-model-migration
-description: Writes a Model Migration Plan for moving off a model with a retirement date, with the deadline from the deprecation notice, breaking changes to check, an eval rerun per failure type, the cost difference, behaviour diffs to read and a rollout with fallback. Use for "run aipm-model-migration", "our model is being retired", "deprecation notice for our model", "migrate to the replacement model", "model upgrade plan", "re-test before the retirement date", "what breaks when we switch models", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Writes a Model Migration Plan for moving off a model with a retirement date, with the deadline from the deprecation notice, breaking changes to check, an eval rerun per failure type, the cost difference, behaviour diffs to read and a rollout with fallback. Use for "run aipm-model-migration", "our model is being retired", "deprecation notice for our model", "migrate to the replacement model", "model upgrade plan", "re-test before the retirement date", "what breaks when we switch models", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # Model Migration Plan
@@ -68,4 +68,4 @@ Run aipm-ai-incident-response (AI Incident Response Plan) so a plan exists if th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

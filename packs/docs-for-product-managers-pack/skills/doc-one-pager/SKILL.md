@@ -1,6 +1,6 @@
 ---
 name: doc-one-pager
-description: Writes a Pitch One-Pager with the problem, the appetite, a rough proposed approach, rabbit holes, no-gos and open questions, on one page for a named decider. Use for "run doc-one-pager", "write a one-pager", "pitch this bet", "shape up pitch", "I need a yes before the spec", "appetite and no-gos", "one page for leadership", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Writes a Pitch One-Pager with the problem, the appetite, a rough proposed approach, rabbit holes, no-gos and open questions, on one page for a named decider. Use for "run doc-one-pager", "write a one-pager", "pitch this bet", "shape up pitch", "I need a yes before the spec", "appetite and no-gos", "one page for leadership", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Product One-Pager
@@ -68,4 +68,4 @@ Run doc-prd (PRD (Product Requirements Document)) to write the full spec once th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

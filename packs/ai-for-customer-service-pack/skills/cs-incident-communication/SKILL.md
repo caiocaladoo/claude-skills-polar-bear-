@@ -1,6 +1,6 @@
 ---
 name: cs-incident-communication
-description: Writes an incident communication plan for an outage, with a first notice, an update cadence that always gives the next-update time, no-ETA wording, an all-clear, a blameless closing note and an agent brief. Use for "run cs-incident-communication", "incident communication plan", "outage update to customers", "status page update", "what to tell customers with no ETA", "agent brief during an outage", "incident closing note", part of the AI for Customer Service Pack by Polar Bear.
+description: Writes an incident communication plan for an outage, with a first notice, an update cadence that always gives the next-update time, no-ETA wording, an all-clear, a blameless closing note and an agent brief. Use for "run cs-incident-communication", "incident communication plan", "outage update to customers", "status page update", "what to tell customers with no ETA", "agent brief during an outage", "incident closing note", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Incident Communication Plan
@@ -68,4 +68,4 @@ Run cs-five-whys (5 Whys Root Cause Analysis) to find why the incident happened 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

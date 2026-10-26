@@ -1,6 +1,6 @@
 ---
 name: strat-scenario-planning
-description: Builds a scenario model with base, upside and downside for each option on the two or three drivers that separate them, the one assumption that flips the choice and early signals with thresholds the owner sets, as an editable spreadsheet. Use for "run strat-scenario-planning", "scenario planning for our product strategy", "model base, upside and downside for the leading option", "which assumption flips the choice?", "replace the single forecast line", "what early signal tells us we are in the downside?", "stress-test the chosen option against the others", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Builds a scenario model with base, upside and downside for each option on the two or three drivers that separate them, the one assumption that flips the choice and early signals with thresholds the owner sets, as an editable spreadsheet. Use for "run strat-scenario-planning", "scenario planning for our product strategy", "model base, upside and downside for the leading option", "which assumption flips the choice?", "replace the single forecast line", "what early signal tells us we are in the downside?", "stress-test the chosen option against the others", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Scenario Planning Model
@@ -68,4 +68,4 @@ Run strat-red-team-review (Red Team Review) to have the leading option argued ag
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

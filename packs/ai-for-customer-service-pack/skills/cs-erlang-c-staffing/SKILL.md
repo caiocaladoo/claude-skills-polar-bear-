@@ -1,6 +1,6 @@
 ---
 name: cs-erlang-c-staffing
-description: Builds an Erlang C staffing plan for a support team, with a volume forecast by interval, agents needed at a target service level, occupancy and shrinkage, workload maths for email and chat, and a one-page case for more hands. Use for "run cs-erlang-c-staffing", "how many agents do we need", "Erlang C calculation", "staffing case for leadership", "support capacity plan", "tickets doubled and we need to hire", "forecast support headcount", part of the AI for Customer Service Pack by Polar Bear.
+description: Builds an Erlang C staffing plan for a support team, with a volume forecast by interval, agents needed at a target service level, occupancy and shrinkage, workload maths for email and chat, and a one-page case for more hands. Use for "run cs-erlang-c-staffing", "how many agents do we need", "Erlang C calculation", "staffing case for leadership", "support capacity plan", "tickets doubled and we need to hire", "forecast support headcount", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Erlang C Staffing Plan
@@ -69,4 +69,4 @@ Run cs-backlog-recovery-plan (Backlog Recovery Plan) to clear the queue while th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: firm-outside-view-check
-description: Tests the forecast behind a recommendation against comparable completed cases, with the forecast stated precisely, the cases you can actually name and the rule for including them, their range of outcomes, why this case might differ and the evidence for it, your revised estimate and the one missing fact most likely to change it. Use for "run firm-outside-view-check", "is my timeline realistic", "check the outside view", "reference class for this estimate", "how long did similar work really take", "am I being optimistic about this client", "sanity check my forecast", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Tests the forecast behind a recommendation against comparable completed cases, with the forecast stated precisely, the cases you can actually name and the rule for including them, their range of outcomes, why this case might differ and the evidence for it, your revised estimate and the one missing fact most likely to change it. Use for "run firm-outside-view-check", "is my timeline realistic", "check the outside view", "reference class for this estimate", "how long did similar work really take", "am I being optimistic about this client", "sanity check my forecast", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Outside View Check
@@ -70,4 +70,4 @@ Run firm-recommendation-premortem (Recommendation Pre-Mortem) to try to break th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

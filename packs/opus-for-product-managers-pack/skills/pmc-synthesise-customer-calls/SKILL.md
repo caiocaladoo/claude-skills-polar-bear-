@@ -1,6 +1,6 @@
 ---
 name: pmc-synthesise-customer-calls
-description: Synthesises recorded customer calls, pulled through a read-only meeting-notes or research connector, into a Call Synthesis with themes stated as claims, exact quotes linked to each call, contradictions, counts by segment and questions for the next calls. Use for "run pmc-synthesise-customer-calls", "synthesise these calls", "what did customers say about reporting", "themes from our interviews", "show the quotes behind each theme", "where do segments disagree", "turn transcripts into evidence", "twelve calls and a spec due", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Synthesises recorded customer calls, pulled through a read-only meeting-notes or research connector, into a Call Synthesis with themes stated as claims, exact quotes linked to each call, contradictions, counts by segment and questions for the next calls. Use for "run pmc-synthesise-customer-calls", "synthesise these calls", "what did customers say about reporting", "themes from our interviews", "show the quotes behind each theme", "where do segments disagree", "turn transcripts into evidence", "twelve calls and a spec due", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Synthesise Customer Calls
@@ -69,4 +69,4 @@ Run pmc-map-the-competitors (Map the Competitors) to set what customers said aga
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: uxr-incentive-plan
-description: Drafts a Participant Incentive Plan with the incentive per study type and every amount left blank for the budget owner, payment method and timing, rules for no-show and early exit, questions for finance on tax and gift rules and invite wording. Use for "run uxr-incentive-plan", "participant incentives", "how do we pay research participants", "thank-you for user interviews", "are research incentives taxable", "no-show payment rule", "incentive wording for the invite", part of the UX Research with Claude Pack by Polar Bear.
+description: Drafts a Participant Incentive Plan with the incentive per study type and every amount left blank for the budget owner, payment method and timing, rules for no-show and early exit, questions for finance on tax and gift rules and invite wording. Use for "run uxr-incentive-plan", "participant incentives", "how do we pay research participants", "thank-you for user interviews", "are research incentives taxable", "no-show payment rule", "incentive wording for the invite", part of the UX Research with Claude Pack by 90n.
 ---
 
 # Participant Incentive Plan
@@ -70,4 +70,4 @@ Run uxr-participant-database (Participant Database Plan) to keep the people who 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

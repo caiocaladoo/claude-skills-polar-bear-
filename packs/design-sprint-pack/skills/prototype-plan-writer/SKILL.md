@@ -1,6 +1,6 @@
 ---
 name: prototype-plan-writer
-description: Plans and staffs the build day, decides what is real and what is facade, writes the prototype's content, and forces the trial run, part of the Design Sprint Pack by Polar Bear. Use this whenever the user says "run prototype-plan-writer", "plan the prototype", "who builds what tomorrow", "what tool should we prototype in", "write the prototype copy", or when the storyboard is done and something has to exist by tomorrow evening. Use it even for a vague ask like "how do we build this in a day".
+description: Plans and staffs the build day, decides what is real and what is facade, writes the prototype's content, and forces the trial run, part of the Design Sprint Pack by 90n. Use this whenever the user says "run prototype-plan-writer", "plan the prototype", "who builds what tomorrow", "what tool should we prototype in", "write the prototype copy", or when the storyboard is done and something has to exist by tomorrow evening. Use it even for a vague ask like "how do we build this in a day".
 ---
 
 # Prototype plan writer
@@ -83,4 +83,4 @@ What I add is the writing, and on a build day that is not marginal. The words ar
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

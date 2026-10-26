@@ -1,6 +1,6 @@
 ---
 name: firm-win-themes
-description: Writes two or three win themes for one proposal, each joining a need the client stated, something true of you and proof you hold, with the AI-shortlist test on each, the claims without proof listed and where each theme lands in the proposal. Use for "run firm-win-themes", "why me for this client", "write the win themes", "I sound like every other consultant", "discriminators for this proposal", "stand out on an AI-made shortlist", "what is actually different about my offer", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Writes two or three win themes for one proposal, each joining a need the client stated, something true of you and proof you hold, with the AI-shortlist test on each, the claims without proof listed and where each theme lands in the proposal. Use for "run firm-win-themes", "why me for this client", "write the win themes", "I sound like every other consultant", "discriminators for this proposal", "stand out on an AI-made shortlist", "what is actually different about my offer", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Win Themes
@@ -66,4 +66,4 @@ Run firm-case-study-paragraph (Case Study Paragraph) to write up the proof each 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: dlead-heart-metrics-plan
-description: Builds a HEART Metrics Plan with goals, signals and metrics for the HEART dimensions that matter, today's baseline or a gap flag, the data owner per metric and what PM and design agree to watch. Use for "run dlead-heart-metrics-plan", "HEART framework", "goals signals metrics", "what does design success look like", "UX metrics for this project", "agree metrics with PM", "how do we measure this redesign", "design success metrics", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Builds a HEART Metrics Plan with goals, signals and metrics for the HEART dimensions that matter, today's baseline or a gap flag, the data owner per metric and what PM and design agree to watch. Use for "run dlead-heart-metrics-plan", "HEART framework", "goals signals metrics", "what does design success look like", "UX metrics for this project", "agree metrics with PM", "how do we measure this redesign", "design success metrics", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # HEART Metrics Plan
@@ -68,4 +68,4 @@ Run dlead-design-impact-writeup (Design Impact Write-Up) to report against these
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: portfolio-mapper
-description: Maps every live innovation initiative on ambition (core, adjacent, transformational) and stage, compares the mix against the program charter, and names where the portfolio is crowded and where it is empty, part of the Innovation Pack by Polar Bear. Use this whenever the user says "run portfolio-mapper", "map our innovation portfolio", "are we too concentrated", "what are we not betting on", "portfolio review", or before a new challenge round when the firm needs to know what kind of bet it is missing. Use it even for "list everything we are working on that is not client work".
+description: Maps every live innovation initiative on ambition (core, adjacent, transformational) and stage, compares the mix against the program charter, and names where the portfolio is crowded and where it is empty, part of the Innovation Pack by 90n. Use this whenever the user says "run portfolio-mapper", "map our innovation portfolio", "are we too concentrated", "what are we not betting on", "portfolio review", or before a new challenge round when the firm needs to know what kind of bet it is missing. Use it even for "list everything we are working on that is not client work".
 ---
 
 # Portfolio Mapper
@@ -53,4 +53,4 @@ Extended version: I read the ledger and the decision files, place every initiati
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

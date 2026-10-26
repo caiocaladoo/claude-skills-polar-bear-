@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-use-case-canvas
-description: Fills an AI Use Case Canvas for one decision or task, with the canvas fields, a simpler-fix check, a data check and a verdict a named person decides. Use for "run aipm-ai-use-case-canvas", "AI canvas", "do we even need AI for this", "leadership wants an AI feature", "is this a good AI use case", "AI use case template", "should this be rules or a model", "which decision does the AI improve", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Fills an AI Use Case Canvas for one decision or task, with the canvas fields, a simpler-fix check, a data check and a verdict a named person decides. Use for "run aipm-ai-use-case-canvas", "AI canvas", "do we even need AI for this", "leadership wants an AI feature", "is this a good AI use case", "AI use case template", "should this be rules or a model", "which decision does the AI improve", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Use Case Canvas
@@ -71,4 +71,4 @@ Run aipm-ai-failure-modes (AI Failure Modes Map) to cost the mistakes the judgme
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: start-client-onboarding-note
-description: Prepares a First Client Onboarding Note, with a welcome in your own words, what happens in the first two weeks, what you need from them and by when, how and how often you will be in touch, how invoicing works and the first date in the calendar. Use for "run start-client-onboarding-note", "client onboarding", "my first client said yes now what", "kickoff note for a new client", "welcome email for a client", "how do I start an engagement", "first two weeks with a client", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Prepares a First Client Onboarding Note, with a welcome in your own words, what happens in the first two weeks, what you need from them and by when, how and how often you will be in touch, how invoicing works and the first date in the calendar. Use for "run start-client-onboarding-note", "client onboarding", "my first client said yes now what", "kickoff note for a new client", "welcome email for a client", "how do I start an engagement", "first two weeks with a client", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # First Client Onboarding Note
@@ -71,4 +71,4 @@ Run start-ninety-day-plan (90-Day Practice Plan) now, before delivery takes all 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

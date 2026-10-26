@@ -1,6 +1,6 @@
 ---
 name: pmjob-target-company-list
-description: Builds a Target Company List of ten to twenty companies against your brief, each with a sourced reason it fits, the open role or "none posted", who you already know there or one step away, and a dropped list with reasons. Use for "run pmjob-target-company-list", "which companies should I target", "my list is five famous names", "build my company list", "where do I know someone", "companies that fit my criteria", "find less well-known companies hiring product people", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Builds a Target Company List of ten to twenty companies against your brief, each with a sourced reason it fits, the open role or "none posted", who you already know there or one step away, and a dropped list with reasons. Use for "run pmjob-target-company-list", "which companies should I target", "my list is five famous names", "build my company list", "where do I know someone", "companies that fit my criteria", "find less well-known companies hiring product people", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Target Company List
@@ -65,4 +65,4 @@ Run pmjob-reason-to-write (Reason to Write) to get back in touch with the people
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

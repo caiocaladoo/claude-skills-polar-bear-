@@ -1,6 +1,6 @@
 ---
 name: doc-decision-log
-description: Keeps a Decision Log as a dated table of short records with context, options considered, decision, decider, status, consequences and a link to the memo or notes, superseding old entries instead of editing them. Use for "run doc-decision-log", "log this decision", "decision log", "why did we decide this", "we already decided this", "decisions keep getting reopened", "decision history for the team", "supersede an old decision", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Keeps a Decision Log as a dated table of short records with context, options considered, decision, decider, status, consequences and a link to the memo or notes, superseding old entries instead of editing them. Use for "run doc-decision-log", "log this decision", "decision log", "why did we decide this", "we already decided this", "decisions keep getting reopened", "decision history for the team", "supersede an old decision", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Decision Log
@@ -66,4 +66,4 @@ Run doc-team-charter (Team Charter) to set who decides what.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

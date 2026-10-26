@@ -1,6 +1,6 @@
 ---
 name: win-pipeline-review
-description: Reviews every open deal against stages defined by what the buyer did, giving each a last buyer action and a dated next step, naming stale deals, the gap to your 90-day goal and three actions for this week. Use for "run win-pipeline-review", "pipeline review", "review my pipeline", "which deals are really moving", "my pipeline looks full but nothing closes", "stale deals", "how far am I from my goal", "clean up my deals", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Reviews every open deal against stages defined by what the buyer did, giving each a last buyer action and a dated next step, naming stale deals, the gap to your 90-day goal and three actions for this week. Use for "run win-pipeline-review", "pipeline review", "review my pipeline", "which deals are really moving", "my pipeline looks full but nothing closes", "stale deals", "how far am I from my goal", "clean up my deals", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Pipeline Review
@@ -70,4 +70,4 @@ Run win-win-loss-review (Win/Loss Review) to learn from the deals that just clos
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

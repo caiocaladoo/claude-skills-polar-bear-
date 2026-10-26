@@ -1,6 +1,6 @@
 ---
 name: acct-call-notes
-description: Writes up sales call notes from your typed or dictated notes, readable on a phone, with what the customer said in their words, weak signals, commitments on both sides, the dated next step and what is missing. Use for "run acct-call-notes", "call notes", "sales call notes", "meeting notes from my customer call", "write up my call", "call summary", "clean up my notes", "notes after a customer meeting", part of the Claude for Account Executives Pack by Polar Bear.
+description: Writes up sales call notes from your typed or dictated notes, readable on a phone, with what the customer said in their words, weak signals, commitments on both sides, the dated next step and what is missing. Use for "run acct-call-notes", "call notes", "sales call notes", "meeting notes from my customer call", "write up my call", "call summary", "clean up my notes", "notes after a customer meeting", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Sales Call Notes
@@ -71,4 +71,4 @@ Run acct-crm-update (CRM Update) to carry these notes into your CRM without typi
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

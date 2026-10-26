@@ -1,6 +1,6 @@
 ---
 name: firm-trade-off-table
-description: Compares the client's options in a consequence table, with criteria in the client's observable terms, musts kept apart from preferences, consequences per option with a source or a range, who bears each cost, dominated options removed and the value judgments left visible, with no weighted score unless you ask for one and own the weights. Use for "run firm-trade-off-table", "compare these options for the client", "trade-off table", "consequence table", "compare without a made-up score", "which option loses on everything", "who bears the cost of each option", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Compares the client's options in a consequence table, with criteria in the client's observable terms, musts kept apart from preferences, consequences per option with a source or a range, who bears each cost, dominated options removed and the value judgments left visible, with no weighted score unless you ask for one and own the weights. Use for "run firm-trade-off-table", "compare these options for the client", "trade-off table", "consequence table", "compare without a made-up score", "which option loses on everything", "who bears the cost of each option", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Trade-Off Table
@@ -67,4 +67,4 @@ Run firm-outside-view-check (Outside View Check) to test the forecast behind the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

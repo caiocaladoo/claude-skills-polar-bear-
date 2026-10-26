@@ -1,6 +1,6 @@
 ---
 name: pmc-set-up-claude-code
-description: Sets up Claude Code for a product manager with a product folder, a short CLAUDE.md from the context file, read-only settings agreed with an engineer, and a Feature Behaviour Explainer with file references. Use for "run pmc-set-up-claude-code", "set me up in Claude Code with read-only access", "how does the refund rule work in the code", "which edge cases does the import handle", "what does the feature really do", "CLAUDE.md for a PM", "read the repo for me", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Sets up Claude Code for a product manager with a product folder, a short CLAUDE.md from the context file, read-only settings agreed with an engineer, and a Feature Behaviour Explainer with file references. Use for "run pmc-set-up-claude-code", "set me up in Claude Code with read-only access", "how does the refund rule work in the code", "which edge cases does the import handle", "what does the feature really do", "CLAUDE.md for a PM", "read the repo for me", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Set Up Claude Code as a PM
@@ -67,4 +67,4 @@ Run pmc-define-the-kpis (Define the KPIs) to define success for what ships.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

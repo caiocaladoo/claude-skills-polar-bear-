@@ -1,6 +1,6 @@
 ---
 name: week-one-designer
-description: Designs the new joiner's first week: the pre-booked meetings, who they meet and why, and a day one that works, part of the Onboarding Pack by Polar Bear and Terry Mattheoyianni. Use this whenever the user says "run week-one-designer", "plan Maria's first week", "who should the new hire meet", "design day one", or a start date is close and the joiner's calendar is still empty. Use it even for "what does a good first week look like".
+description: Designs the new joiner's first week: the pre-booked meetings, who they meet and why, and a day one that works, part of the Onboarding Pack by 90n and Terry Mattheoyianni. Use this whenever the user says "run week-one-designer", "plan Maria's first week", "who should the new hire meet", "design day one", or a start date is close and the joiner's calendar is still empty. Use it even for "what does a good first week look like".
 ---
 
 # Week One Designer
@@ -53,4 +53,4 @@ The MVP is this design plus a human booking ten meetings, which is thirty minute
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. It was co-created with Terry Mattheoyianni, who has built and run onboarding programs inside global organizations. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).

@@ -1,6 +1,6 @@
 ---
 name: critique-session-preparer
-description: Prepares one specific design critique (brief, objectives, framing question, timebox) and afterwards turns the presenter's notes into next steps, part of the DesignOps Pack by Polar Bear. Use this whenever the user says "run critique-session-preparer", "prep my crit", "I'm presenting at critique Thursday", "write up the crit notes", "what should I ask the room", or when a designer has a session coming and the work needs a proper setup. Use it even for a vague "help me get feedback on this".
+description: Prepares one specific design critique (brief, objectives, framing question, timebox) and afterwards turns the presenter's notes into next steps, part of the DesignOps Pack by 90n. Use this whenever the user says "run critique-session-preparer", "prep my crit", "I'm presenting at critique Thursday", "write up the crit notes", "what should I ask the room", or when a designer has a session coming and the work needs a proper setup. Use it even for a vague "help me get feedback on this".
 ---
 
 # Critique Session Preparer
@@ -58,4 +58,4 @@ The extended version: I turn your answers into the brief and the framing sentenc
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: ldg-plan-the-year
-description: Plans the L&D year on one page, producing programmes ranked against business goals on criteria the team sets, a capacity and budget line drawn from your own days, a quarterly calendar and a visible not-this-year list with a cheaper move per item. Use for "run ldg-plan-the-year", "training plan", "annual training plan", "l&d strategy", "training calendar", "learning and development plan", "prioritise training requests", "what we will not build this year", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Plans the L&D year on one page, producing programmes ranked against business goals on criteria the team sets, a capacity and budget line drawn from your own days, a quarterly calendar and a visible not-this-year list with a cheaper move per item. Use for "run ldg-plan-the-year", "training plan", "annual training plan", "l&d strategy", "training calendar", "learning and development plan", "prioritise training requests", "what we will not build this year", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Plan the L&D Year
@@ -68,4 +68,4 @@ Run ldg-make-the-business-case (Make the Business Case) for the programme that n
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

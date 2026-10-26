@@ -1,6 +1,6 @@
 ---
 name: reach-reason-to-write
-description: Lays the reasons to write that serve the other person against what you know, with the fact each one rests on, a pitch-in-disguise test and one reason left for you to choose. Use for "run reach-reason-to-write", "reason to write", "why am I reaching out", "what do I say that is not a pitch", "a reason to contact them", "outreach angle", "how do I open without selling", "pick a reason to write", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Lays the reasons to write that serve the other person against what you know, with the fact each one rests on, a pitch-in-disguise test and one reason left for you to choose. Use for "run reach-reason-to-write", "reason to write", "why am I reaching out", "what do I say that is not a pitch", "a reason to contact them", "outreach angle", "how do I open without selling", "pick a reason to write", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # Reason to Write
@@ -66,4 +66,4 @@ Run reach-useful-material-match (Useful Material Match) to see whether anything 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

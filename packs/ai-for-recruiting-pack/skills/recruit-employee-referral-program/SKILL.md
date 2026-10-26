@@ -1,6 +1,6 @@
 ---
 name: recruit-employee-referral-program
-description: Designs an employee referral program for one role or team, with the ask to staff built from the scorecard, a guide to what makes a good referral, bonus rules as placeholders, the same assessment for referred people and a thank-you and update loop. Use for "run recruit-employee-referral-program", "employee referral program", "referral bonus rules", "ask staff for referrals", "referral email to employees", "how to get better referrals", "referral program policy", "warm introductions instead of inbound", part of the AI for Recruiting Pack by Polar Bear.
+description: Designs an employee referral program for one role or team, with the ask to staff built from the scorecard, a guide to what makes a good referral, bonus rules as placeholders, the same assessment for referred people and a thank-you and update loop. Use for "run recruit-employee-referral-program", "employee referral program", "referral bonus rules", "ask staff for referrals", "referral email to employees", "how to get better referrals", "referral program policy", "warm introductions instead of inbound", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Employee Referral Program
@@ -70,4 +70,4 @@ Run recruit-boolean-search (Boolean Search Strings) to reach the people no one o
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

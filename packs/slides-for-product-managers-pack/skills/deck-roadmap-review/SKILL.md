@@ -1,6 +1,6 @@
 ---
 name: deck-roadmap-review
-description: Builds a roadmap review deck in Claude Slides with a strategy recap, shipped versus said, Now Next Later by theme with confidence and committed or aspirational labels, the costed no list, the trade-offs since last review and the decision needed. Use for "run deck-roadmap-review", "roadmap review deck", "roadmap for leadership", "quarterly roadmap slides", "Now Next Later deck", "roadmap without dates", "explain what we said no to", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Builds a roadmap review deck in Claude Slides with a strategy recap, shipped versus said, Now Next Later by theme with confidence and committed or aspirational labels, the costed no list, the trade-offs since last review and the decision needed. Use for "run deck-roadmap-review", "roadmap review deck", "roadmap for leadership", "quarterly roadmap slides", "Now Next Later deck", "roadmap without dates", "explain what we said no to", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Roadmap Review Deck
@@ -68,4 +68,4 @@ Run deck-product-strategy (Product Strategy Deck) when the recap slide has no st
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

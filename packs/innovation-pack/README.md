@@ -2,7 +2,7 @@
 
 12 Claude skills for running an innovation program that tests real bets, kills most of them cheaply, and earns its next round of funding. For consultants, leads, and founders at 20 to 200 person creative and digital firms.
 
-**Guide and download:** [meet-polar-bear.com/skills/innovation-pack](https://meet-polar-bear.com/skills/innovation-pack)
+**Guide and download:** [90n.ai/resources/innovation-pack](https://90n.ai/resources/innovation-pack)
 
 The pack runs the whole arc: charter the program, design gates that ask questions instead of handing out scores, keep an innovation ledger, map the portfolio, frame challenges, run ideation sessions, plan the customer interviews, design and read experiments, prepare each gate review, write the case for continued investment, and close initiatives with dignity. One position holds it together: evidence comes from the market and decisions come from named humans. Claude designs the test and keeps the ledger, but it never simulates a customer, scores an idea, or makes the kill call.
 
@@ -56,7 +56,7 @@ The pack ends where the scaling decision is made: building, launching, and runni
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
 
 ---
 

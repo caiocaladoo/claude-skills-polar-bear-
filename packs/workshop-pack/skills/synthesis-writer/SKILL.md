@@ -1,6 +1,6 @@
 ---
 name: synthesis-writer
-description: Turns a workshop's capture into the synthesis and the participant follow-up, within 48 hours of the session, part of the Workshop Pack by Polar Bear. Use this whenever the user says "run synthesis-writer", "write the workshop synthesis", "send the follow-up to participants", "what did the workshop conclude", or the session happened and its outputs need to become documents. Use it even for a tired "the workshop was yesterday, I need to send something today".
+description: Turns a workshop's capture into the synthesis and the participant follow-up, within 48 hours of the session, part of the Workshop Pack by 90n. Use this whenever the user says "run synthesis-writer", "write the workshop synthesis", "send the follow-up to participants", "what did the workshop conclude", or the session happened and its outputs need to become documents. Use it even for a tired "the workshop was yesterday, I need to send something today".
 ---
 
 # Synthesis Writer
@@ -49,4 +49,4 @@ Save as **synthesis-[workshop-slug].md**. Where the workshop feeds a bigger deli
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

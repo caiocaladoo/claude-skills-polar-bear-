@@ -1,6 +1,6 @@
 ---
 name: pm-customer-interview-guide
-description: Writes a story-based customer interview guide timed to your slot, with screener lines, questions anchored in one past instance, probes, a consent note and a note-taking template. Use for "run pm-customer-interview-guide", "customer interview guide", "interview questions for users", "prep my customer call", "discovery interview script", "what should I ask customers", "30 minutes with a customer", "avoid leading questions", part of the AI for Product Management Pack by Polar Bear.
+description: Writes a story-based customer interview guide timed to your slot, with screener lines, questions anchored in one past instance, probes, a consent note and a note-taking template. Use for "run pm-customer-interview-guide", "customer interview guide", "interview questions for users", "prep my customer call", "discovery interview script", "what should I ask customers", "30 minutes with a customer", "avoid leading questions", part of the AI for Product Management Pack by 90n.
 ---
 
 # Customer Interview Guide
@@ -70,4 +70,4 @@ Run pm-interview-synthesis (Interview Synthesis) to turn the notes into needs.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

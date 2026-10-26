@@ -1,6 +1,6 @@
 ---
 name: cs-training-plan
-description: Builds a New Agent Training Plan with a first-weeks ramp built on practice, a shadow and reverse-shadow schedule, a go-solo checklist based on tasks, and a check that training changed the work. Use for "run cs-training-plan", "customer service training plan", "onboarding plan for support agents", "new hire ramp", "shadowing schedule", "support agent onboarding", "training that is not just slides", part of the AI for Customer Service Pack by Polar Bear.
+description: Builds a New Agent Training Plan with a first-weeks ramp built on practice, a shadow and reverse-shadow schedule, a go-solo checklist based on tasks, and a check that training changed the work. Use for "run cs-training-plan", "customer service training plan", "onboarding plan for support agents", "new hire ramp", "shadowing schedule", "support agent onboarding", "training that is not just slides", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Customer Service Training Plan
@@ -70,4 +70,4 @@ Run cs-role-play-scenarios (Customer Service Role Play) to fill the practice slo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

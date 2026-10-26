@@ -1,6 +1,6 @@
 ---
 name: deck-qbr
-description: Builds a quarterly business review deck in Claude Slides with the on-track headline, the asks first, commitments versus actuals, sourced metrics, one win story, misses and learning, RAG with written definitions and next quarter, plus a customer QBR variant. Use for "run deck-qbr", "QBR deck", "quarterly business review", "quarterly review slides", "customer QBR", "our status is green when it is not", "commitments vs actuals", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Builds a quarterly business review deck in Claude Slides with the on-track headline, the asks first, commitments versus actuals, sourced metrics, one win story, misses and learning, RAG with written definitions and next quarter, plus a customer QBR variant. Use for "run deck-qbr", "QBR deck", "quarterly business review", "quarterly review slides", "customer QBR", "our status is green when it is not", "commitments vs actuals", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Quarterly Business Review Deck
@@ -68,4 +68,4 @@ Run deck-business-case (Business Case Deck) when an ask needs funding.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

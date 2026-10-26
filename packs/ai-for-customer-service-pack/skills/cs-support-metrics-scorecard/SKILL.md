@@ -1,6 +1,6 @@
 ---
 name: cs-support-metrics-scorecard
-description: Builds a Support Metrics Scorecard with a metric set that separates closed from resolved, first contact resolution paired with reopen rate, an SLA clock owner per stage, and what each number cannot tell you. Use for "run cs-support-metrics-scorecard", "support KPIs", "customer service metrics", "first contact resolution", "reopen rate", "our metrics blame the wrong team", "monthly support report", part of the AI for Customer Service Pack by Polar Bear.
+description: Builds a Support Metrics Scorecard with a metric set that separates closed from resolved, first contact resolution paired with reopen rate, an SLA clock owner per stage, and what each number cannot tell you. Use for "run cs-support-metrics-scorecard", "support KPIs", "customer service metrics", "first contact resolution", "reopen rate", "our metrics blame the wrong team", "monthly support report", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Support Metrics Scorecard
@@ -70,4 +70,4 @@ Run cs-qa-scorecard (QA Scorecard) to look at reply quality, which volume number
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

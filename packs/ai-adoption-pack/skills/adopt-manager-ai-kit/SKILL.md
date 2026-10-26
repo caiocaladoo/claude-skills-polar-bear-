@@ -1,6 +1,6 @@
 ---
 name: adopt-manager-ai-kit
-description: Builds a one-page kit for each manager with what to say in the first team conversation, one piece of their own use to show, three questions for meetings that already exist, what to remove or protect, and what a manager never does. Use for "run adopt-manager-ai-kit", "manager AI kit", "what should managers say about AI", "managers never mention AI", "brief managers on the AI rollout", "manager talking points for AI", "how managers support AI use", "equip managers for AI adoption", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Builds a one-page kit for each manager with what to say in the first team conversation, one piece of their own use to show, three questions for meetings that already exist, what to remove or protect, and what a manager never does. Use for "run adopt-manager-ai-kit", "manager AI kit", "what should managers say about AI", "managers never mention AI", "brief managers on the AI rollout", "manager talking points for AI", "how managers support AI use", "equip managers for AI adoption", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # Manager AI Kit
@@ -71,4 +71,4 @@ Counts, compares or reports who uses AI. Sets a personal usage target. Raises AI
 Run adopt-team-ai-agreement (Team AI Agreement) to have the team agree what is fine instead of guessing.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

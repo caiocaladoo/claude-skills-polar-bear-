@@ -1,6 +1,6 @@
 ---
 name: hr-written-warning
-description: Drafts the Disciplinary Letters for one case (hearing invitation, written warning or outcome letter, appeal invitation and appeal outcome), each only from recorded facts and a decision a named person has made. Use for "run hr-written-warning", "written warning letter", "disciplinary hearing invitation", "outcome letter", "final written warning", "appeal outcome letter", "write someone up", "disciplinary action form", part of the AI for HR Pack by Polar Bear.
+description: Drafts the Disciplinary Letters for one case (hearing invitation, written warning or outcome letter, appeal invitation and appeal outcome), each only from recorded facts and a decision a named person has made. Use for "run hr-written-warning", "written warning letter", "disciplinary hearing invitation", "outcome letter", "final written warning", "appeal outcome letter", "write someone up", "disciplinary action form", part of the AI for HR Pack by 90n.
 ---
 
 # Written Warning
@@ -68,4 +68,4 @@ Run hr-termination-letter (Termination Letter) only if a named person later deci
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

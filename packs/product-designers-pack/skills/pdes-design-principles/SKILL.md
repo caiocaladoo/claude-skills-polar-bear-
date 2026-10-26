@@ -1,6 +1,6 @@
 ---
 name: pdes-design-principles
-description: Writes Design Principles for your product area with four to seven stands, what each one gives up, a "this, not that" pair from your own screens and a conflict check that says which principle wins where. Use for "run pdes-design-principles", "write design principles for my product", "every review is a taste argument", "our principles are platitudes", "sharpen our design principles", "this not that examples", "what does this product choose", "criteria for critique", part of the Claude for Product Designers Pack by Polar Bear.
+description: Writes Design Principles for your product area with four to seven stands, what each one gives up, a "this, not that" pair from your own screens and a conflict check that says which principle wins where. Use for "run pdes-design-principles", "write design principles for my product", "every review is a taste argument", "our principles are platitudes", "sharpen our design principles", "this not that examples", "what does this product choose", "criteria for critique", part of the Claude for Product Designers Pack by 90n.
 ---
 
 # Design Principles
@@ -69,4 +69,4 @@ Run pdes-design-options-tradeoffs (Design Options Trade-off Table) to use the pr
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: adopt-ai-habit-review
-description: Prepares a quarterly AI habit review with the original need, current evidence against the same definitions, what changed in the tool and the work, and what to keep, simplify, refresh or retire. Use for "run adopt-ai-habit-review", "AI habit review", "quarterly AI adoption review", "people went back to the old way", "is our AI rollout still working", "what should we retire from the AI programme", "refresh our AI training materials", "AI adoption six months later", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Prepares a quarterly AI habit review with the original need, current evidence against the same definitions, what changed in the tool and the work, and what to keep, simplify, refresh or retire. Use for "run adopt-ai-habit-review", "AI habit review", "quarterly AI adoption review", "people went back to the old way", "is our AI rollout still working", "what should we retire from the AI programme", "refresh our AI training materials", "AI adoption six months later", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 # AI Habit Review
 ## When To Use
@@ -72,4 +72,4 @@ Still in use after [period]: [where yes, where not, at team level]. What this do
 Run adopt-ai-adoption-brief (AI Adoption Brief) to write the brief for the next change when the review shows the need has moved.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

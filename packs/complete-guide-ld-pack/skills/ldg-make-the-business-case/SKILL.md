@@ -1,6 +1,6 @@
 ---
 name: ldg-make-the-business-case
-description: Drafts a one-page business case for one learning programme in five parts (why change, options including doing nothing and the non-training fix, build, buy or partner route, cost and affordability, delivery and measurement), with an assumptions table of low and high values and owners and a note on what would change the answer. Use for "run ldg-make-the-business-case", "business case for training", "training budget request", "justify training budget", "build or buy training", "funding for a learning programme", "the numbers are guesses", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Drafts a one-page business case for one learning programme in five parts (why change, options including doing nothing and the non-training fix, build, buy or partner route, cost and affordability, delivery and measurement), with an assumptions table of low and high values and owners and a note on what would change the answer. Use for "run ldg-make-the-business-case", "business case for training", "training budget request", "justify training budget", "build or buy training", "funding for a learning programme", "the numbers are guesses", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Make the Business Case
@@ -71,4 +71,4 @@ Run ldg-brief-the-vendor (Brief the Vendor) when the route is to buy or to partn
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: peer-claims-mapper
-description: Maps the claims on peer firms' careers pages and job ads into table stakes versus rare and specific, so your employer brand avoids the noise everyone makes, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run peer-claims-mapper", "what do other agencies say on their careers pages", "how do we stand out from other studios", "competitor employer branding", "everyone says great culture", or when someone wants to write a careers page and has not looked at what candidates will read right before it. Use it even for a vague "what are our competitors doing for hiring".
+description: Maps the claims on peer firms' careers pages and job ads into table stakes versus rare and specific, so your employer brand avoids the noise everyone makes, part of the Employer Branding Pack by 90n. Use this whenever the user says "run peer-claims-mapper", "what do other agencies say on their careers pages", "how do we stand out from other studios", "competitor employer branding", "everyone says great culture", or when someone wants to write a careers page and has not looked at what candidates will read right before it. Use it even for a vague "what are our competitors doing for hiring".
 ---
 
 # Peer claims mapper
@@ -50,4 +50,4 @@ The extended version: I keep a claim table across all peers, sort the piles, and
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

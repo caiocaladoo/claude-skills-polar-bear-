@@ -1,6 +1,6 @@
 ---
 name: price-ai-savings-decision
-description: Decides, per service, what happens to the time AI saves you, with the measured saving, three choices (pass it on, keep it as margin, reinvest it) and the line you will say to clients. Use for "run price-ai-savings-decision", "should I pass AI savings on to clients", "keep the AI saving as margin", "do I lower my fees because AI is faster", "what do I do with the time AI saves", "AI made me faster, now what about price", "set my policy on AI savings", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Decides, per service, what happens to the time AI saves you, with the measured saving, three choices (pass it on, keep it as margin, reinvest it) and the line you will say to clients. Use for "run price-ai-savings-decision", "should I pass AI savings on to clients", "keep the AI saving as margin", "do I lower my fees because AI is faster", "what do I do with the time AI saves", "AI made me faster, now what about price", "set my policy on AI savings", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # AI Savings Decision
@@ -69,4 +69,4 @@ Run price-full-price-list (Full-Price Work List) to name what still earns full p
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

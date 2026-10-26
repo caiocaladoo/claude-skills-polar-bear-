@@ -1,6 +1,6 @@
 ---
 name: pmc-sequence-the-roadmap
-description: Sequences approved work into a now, next, later board with a confidence note per item, an order set by cost of delay divided by duration, a "not on the roadmap" list with reasons and a one-screen exec cut. Use for "run pmc-sequence-the-roadmap", "sequence these initiatives into now, next, later", "order them by cost of delay", "write the not on the roadmap list", "everything is priority one", "roadmap without dates", "exec version of the roadmap", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Sequences approved work into a now, next, later board with a confidence note per item, an order set by cost of delay divided by duration, a "not on the roadmap" list with reasons and a one-screen exec cut. Use for "run pmc-sequence-the-roadmap", "sequence these initiatives into now, next, later", "order them by cost of delay", "write the not on the roadmap list", "everything is priority one", "roadmap without dates", "exec version of the roadmap", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Sequence the Roadmap
@@ -71,4 +71,4 @@ Run pmc-write-spec-in-claude-docs (Write the Spec in Claude Docs) to spec the fi
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: cs-ticket-taxonomy
-description: Builds a reason-based ticket tag tree from your tickets, producing the two-level taxonomy with definitions and examples, a one-page tagging guide and a retire list for dead tags. Use for "run cs-ticket-taxonomy", "ticket taxonomy", "ticket tags", "contact reason codes", "our tags are a mess", "nobody tags tickets", "what are customers contacting us about", "clean up helpdesk tags", part of the AI for Customer Service Pack by Polar Bear.
+description: Builds a reason-based ticket tag tree from your tickets, producing the two-level taxonomy with definitions and examples, a one-page tagging guide and a retire list for dead tags. Use for "run cs-ticket-taxonomy", "ticket taxonomy", "ticket tags", "contact reason codes", "our tags are a mess", "nobody tags tickets", "what are customers contacting us about", "clean up helpdesk tags", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Ticket Taxonomy
@@ -67,4 +67,4 @@ Run cs-five-whys (5 Whys Root Cause Analysis) to dig into the top reasons the ne
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

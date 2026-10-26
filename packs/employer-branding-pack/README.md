@@ -2,7 +2,7 @@
 
 12 Claude skills for an employer brand your first week does not disprove. For consultants, leads, and founders at 20 to 200 person creative and digital firms.
 
-**Guide and download:** [meet-polar-bear.com/skills/employer-branding-pack](https://meet-polar-bear.com/skills/employer-branding-pack)
+**Guide and download:** [90n.ai/resources/employer-branding-pack](https://90n.ai/resources/employer-branding-pack)
 
 The pack runs one loop: listen to the people who already work here, distill what they say into a promise you can keep, tell it on a careers page and in job ads that help the wrong people not apply, then test the promise against a joiner's first weeks and correct whatever broke. Every claim about working here needs a living witness: a current colleague said it or a founder signs it, AI never invents the witness, and nobody is quoted who hasn't approved the quote.
 
@@ -62,7 +62,7 @@ It does not source, screen, or interview candidates, negotiate offers, or benchm
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
 
 ---
 

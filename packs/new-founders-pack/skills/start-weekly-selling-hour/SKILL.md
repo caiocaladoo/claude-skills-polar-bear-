@@ -1,6 +1,6 @@
 ---
 name: start-weekly-selling-hour
-description: Runs a fixed Weekly Selling Hour, listing follow-ups due, warm signals from your inbox with dates, three people to reconnect with, one proof to share, the one conversation to book and a log line. Use for "run start-weekly-selling-hour", "my weekly selling slot", "selling stops when I am busy", "what should I do to find clients this week", "who do I follow up with", "weekly business development hour", "keep finding work while delivering", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Runs a fixed Weekly Selling Hour, listing follow-ups due, warm signals from your inbox with dates, three people to reconnect with, one proof to share, the one conversation to book and a log line. Use for "run start-weekly-selling-hour", "my weekly selling slot", "selling stops when I am busy", "what should I do to find clients this week", "who do I follow up with", "weekly business development hour", "keep finding work while delivering", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # Weekly Selling Hour
@@ -71,4 +71,4 @@ Run start-conversation-log (Conversation Log) to record what this week's convers
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

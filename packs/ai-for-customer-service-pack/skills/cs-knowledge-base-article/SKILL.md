@@ -1,6 +1,6 @@
 ---
 name: cs-knowledge-base-article
-description: Turns a solved ticket into a knowledge base article (issue in the customer's words, environment, resolution, cause), with an article state, a gap list from failed searches and a review cadence. Use for "run cs-knowledge-base-article", "write a help article from this ticket", "knowledge base article", "KCS article", "document this fix", "our answers are buried", "internal wiki page for support", part of the AI for Customer Service Pack by Polar Bear.
+description: Turns a solved ticket into a knowledge base article (issue in the customer's words, environment, resolution, cause), with an article state, a gap list from failed searches and a review cadence. Use for "run cs-knowledge-base-article", "write a help article from this ticket", "knowledge base article", "KCS article", "document this fix", "our answers are buried", "internal wiki page for support", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Knowledge Base Article
@@ -71,4 +71,4 @@ Run cs-customer-service-policy (Customer Service Policy) to align articles with 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

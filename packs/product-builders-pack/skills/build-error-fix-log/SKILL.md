@@ -1,6 +1,6 @@
 ---
 name: build-error-fix-log
-description: Keeps an Error Fix Log for one error in a prototype, with the error in plain words, what you did just before it, the fewest steps that bring it back, one change per attempt with its result, when to rewind to a save point and the line where you stop and ask an engineer. Use for "run build-error-fix-log", "it broke and the message means nothing to me", "what does this error mean", "every fix breaks something else", "help me reproduce this error", "should I rewind", "when do I stop and ask an engineer", part of the Claude for Product Builders Pack by Polar Bear.
+description: Keeps an Error Fix Log for one error in a prototype, with the error in plain words, what you did just before it, the fewest steps that bring it back, one change per attempt with its result, when to rewind to a save point and the line where you stop and ask an engineer. Use for "run build-error-fix-log", "it broke and the message means nothing to me", "what does this error mean", "every fix breaks something else", "help me reproduce this error", "should I rewind", "when do I stop and ask an engineer", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Error Fix Log
@@ -70,4 +70,4 @@ Run build-sample-data-plan (Sample Data Plan) before any data goes into the work
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

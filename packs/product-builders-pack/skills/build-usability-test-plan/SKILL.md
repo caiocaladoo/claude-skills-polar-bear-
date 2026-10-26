@@ -1,6 +1,6 @@
 ---
 name: build-usability-test-plan
-description: Writes a Five-User Usability Test Plan with test goals tied to the belief on your test card, task scenarios that do not give the path away, success criteria set before any session, a word-for-word moderator script with the think-aloud ask and neutral prompts, an observer note grid and a pilot. Use for "run build-usability-test-plan", "write a usability test script", "I have never moderated a session", "tasks for my prototype test", "what do I say in a user test", "think aloud script", "how do I test my prototype with users", "my script asks if they like it", part of the Claude for Product Builders Pack by Polar Bear.
+description: Writes a Five-User Usability Test Plan with test goals tied to the belief on your test card, task scenarios that do not give the path away, success criteria set before any session, a word-for-word moderator script with the think-aloud ask and neutral prompts, an observer note grid and a pilot. Use for "run build-usability-test-plan", "write a usability test script", "I have never moderated a session", "tasks for my prototype test", "what do I say in a user test", "think aloud script", "how do I test my prototype with users", "my script asks if they like it", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Five-User Usability Test Plan
@@ -69,4 +69,4 @@ Run build-usability-findings (Usability Test Findings) to read what the sessions
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

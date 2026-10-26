@@ -1,6 +1,6 @@
 ---
 name: ld-training-evaluation-form
-description: Writes a Training Evaluation Form with performance-focused questions on relevance, confidence to apply and after-training support, open prompts on barriers, and an aggregate summary template that rates the programme, never the trainer. Use for "run ld-training-evaluation-form", "better smile sheet", "end of course survey", "training feedback form", "post-training evaluation questions", "level 1 evaluation form", "our survey says everyone loved it", "course evaluation questionnaire", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Writes a Training Evaluation Form with performance-focused questions on relevance, confidence to apply and after-training support, open prompts on barriers, and an aggregate summary template that rates the programme, never the trainer. Use for "run ld-training-evaluation-form", "better smile sheet", "end of course survey", "training feedback form", "post-training evaluation questions", "level 1 evaluation form", "our survey says everyone loved it", "course evaluation questionnaire", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # Training Evaluation Form
@@ -69,4 +69,4 @@ Run ld-success-case-study (Success Case Study) for evidence of use the form cann
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

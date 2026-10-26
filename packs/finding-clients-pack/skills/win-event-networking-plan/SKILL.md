@@ -1,6 +1,6 @@
 ---
 name: win-event-networking-plan
-description: Builds an Event Networking Plan with events chosen against your brief, a few people to look for from public speaker and attendee lists, one useful thing to bring to each conversation, follow-up notes written by you within days, and a contact log. Use for "run win-event-networking-plan", "plan for this conference", "which events should I go to", "prepare for a networking event", "follow up after an event", "I collect cards and nothing happens", "event contact log", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Builds an Event Networking Plan with events chosen against your brief, a few people to look for from public speaker and attendee lists, one useful thing to bring to each conversation, follow-up notes written by you within days, and a contact log. Use for "run win-event-networking-plan", "plan for this conference", "which events should I go to", "prepare for a networking event", "follow up after an event", "I collect cards and nothing happens", "event contact log", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Event Networking Plan
@@ -68,4 +68,4 @@ Run win-ideal-client-profile (Ideal Client Profile) to be clear about who you ar
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

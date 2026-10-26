@@ -1,6 +1,6 @@
 ---
 name: firm-problem-statement
-description: Writes the client's problem as a point of view in their words (who, needs, because) together with the decision it serves (the question, who decides, by when, what is fixed, what can be reversed), success in their measures, impact in their figures, constraints, out of scope, one How Might We question and the rival test. Use for "run firm-problem-statement", "write the problem statement", "what is their real problem", "which decision is this work for", "my proposals describe me not them", "frame the client's problem", "how might we question for this client", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Writes the client's problem as a point of view in their words (who, needs, because) together with the decision it serves (the question, who decides, by when, what is fixed, what can be reversed), success in their measures, impact in their figures, constraints, out of scope, one How Might We question and the rival test. Use for "run firm-problem-statement", "write the problem statement", "what is their real problem", "which decision is this work for", "my proposals describe me not them", "frame the client's problem", "how might we question for this client", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Problem Statement
@@ -68,4 +68,4 @@ Run firm-issue-tree (Issue Tree) to split the question into parts and see which 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

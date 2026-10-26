@@ -1,6 +1,6 @@
 ---
 name: system-governance-designer
-description: Designs design-system governance sized for a small team (ownership, how changes are proposed and decided, versioning, deprecation, contribution path, decision-record format), part of the DesignOps Pack by Polar Bear. Use this whenever the user says "run system-governance-designer", "who decides on the design system", "our system keeps drifting", "design system governance", "people keep detaching components", or when nobody can say how a change gets into the library. Use it even for a vague "our design system is a mess".
+description: Designs design-system governance sized for a small team (ownership, how changes are proposed and decided, versioning, deprecation, contribution path, decision-record format), part of the DesignOps Pack by 90n. Use this whenever the user says "run system-governance-designer", "who decides on the design system", "our system keeps drifting", "design system governance", "people keep detaching components", or when nobody can say how a change gets into the library. Use it even for a vague "our design system is a mess".
 ---
 
 # System Governance Designer
@@ -64,4 +64,4 @@ The extended version: I read the ops map, ask the four questions, choose the mod
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

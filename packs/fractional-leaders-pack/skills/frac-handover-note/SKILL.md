@@ -1,6 +1,6 @@
 ---
 name: frac-handover-note
-description: Writes the handover note at the end of a fractional engagement, with what was built and where it lives, the decision log, open work with owners, relationships handed over by name and role, what the next owner should not change yet and why, access to remove and when, a 30 to 90 day timeline, the terms of any later advice, and a brief of the role if a full-time hire follows. Use for "run frac-handover-note", "write my handover note", "handover plan for the end of my engagement", "the engagement ends next month", "knowledge transfer before I leave", "hand over to the full-time hire", "exit checklist for a fractional role", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Writes the handover note at the end of a fractional engagement, with what was built and where it lives, the decision log, open work with owners, relationships handed over by name and role, what the next owner should not change yet and why, access to remove and when, a 30 to 90 day timeline, the terms of any later advice, and a brief of the role if a full-time hire follows. Use for "run frac-handover-note", "write my handover note", "handover plan for the end of my engagement", "the engagement ends next month", "knowledge transfer before I leave", "hand over to the full-time hire", "exit checklist for a fractional role", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Handover Note
@@ -70,4 +70,4 @@ Run frac-positioning-statement (Fractional Positioning Statement) to add what th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: aipm-llm-judge
-description: Writes an LLM-as-a-judge prompt for one failure type and the check that proves it, a labelled agreement set, agreement with human labels on a held-out split, and bias checks for position, length and self-preference. Use for "run aipm-llm-judge", "LLM as a judge", "judge prompt", "automate our eval grading", "can we trust the LLM grader", "model-graded evals", "validate our judge against humans", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Writes an LLM-as-a-judge prompt for one failure type and the check that proves it, a labelled agreement set, agreement with human labels on a held-out split, and bias checks for position, length and self-preference. Use for "run aipm-llm-judge", "LLM as a judge", "judge prompt", "automate our eval grading", "can we trust the LLM grader", "model-graded evals", "validate our judge against humans", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # LLM-as-a-Judge Prompt
@@ -69,4 +69,4 @@ Run aipm-eval-plan (AI Eval Plan) to put the validated judges into suites.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

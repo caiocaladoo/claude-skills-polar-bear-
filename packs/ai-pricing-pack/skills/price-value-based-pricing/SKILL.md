@@ -1,6 +1,6 @@
 ---
 name: price-value-based-pricing
-description: Builds a value-based pricing worksheet from the client's stated value drivers, showing the value range in their numbers, your internal cost floor, the gap between them and the price you set with a one-line reason. Use for "run price-value-based-pricing", "price this on value", "move from hours to value", "what should I charge for this outcome", "value price worksheet", "is my price defensible", "price above my day rate", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Builds a value-based pricing worksheet from the client's stated value drivers, showing the value range in their numbers, your internal cost floor, the gap between them and the price you set with a one-line reason. Use for "run price-value-based-pricing", "price this on value", "move from hours to value", "what should I charge for this outcome", "value price worksheet", "is my price defensible", "price above my day rate", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Value-Based Pricing Worksheet
@@ -70,4 +70,4 @@ Run price-outcome-based-pricing (Outcome-Based Pricing Plan) when the client wan
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

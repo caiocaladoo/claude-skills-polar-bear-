@@ -1,6 +1,6 @@
 ---
 name: frac-sponsor-change-plan
-description: Builds a plan for a change of sponsor in a fractional engagement, with who is leaving and when, the introduction to ask for, a handover call agenda, what the new sponsor has said about their goals (or "unknown", turned into questions), the other relationships to build so the role does not hang on one person, and the revised plan for the next 90 days. Use for "run frac-sponsor-change-plan", "my sponsor is leaving", "the person who hired me is leaving", "executive sponsor change", "new CEO at my client", "the engagement depends on one person", "who else knows why I am here", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Builds a plan for a change of sponsor in a fractional engagement, with who is leaving and when, the introduction to ask for, a handover call agenda, what the new sponsor has said about their goals (or "unknown", turned into questions), the other relationships to build so the role does not hang on one person, and the revised plan for the next 90 days. Use for "run frac-sponsor-change-plan", "my sponsor is leaving", "the person who hired me is leaving", "executive sponsor change", "new CEO at my client", "the engagement depends on one person", "who else knows why I am here", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Sponsor Change Plan
@@ -68,4 +68,4 @@ Run frac-renewal-review (Renewal Review) to put results and options in front of 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: build-first-working-version
-description: Plans the first working version of a prototype as a First Working Version Build Plan with the one flow that must really work end to end, the parts that stay faked and labelled, small build steps each with a check you can see on screen, a save point after every working step and a stop rule. Use for "run build-first-working-version", "Claude built forty files and I cannot tell what works", "make one flow really work", "split the build into small steps", "what should stay faked", "when do I stop building", "turn my design into a working prototype", part of the Claude for Product Builders Pack by Polar Bear.
+description: Plans the first working version of a prototype as a First Working Version Build Plan with the one flow that must really work end to end, the parts that stay faked and labelled, small build steps each with a check you can see on screen, a save point after every working step and a stop rule. Use for "run build-first-working-version", "Claude built forty files and I cannot tell what works", "make one flow really work", "split the build into small steps", "what should stay faked", "when do I stop building", "turn my design into a working prototype", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # First Working Version
@@ -67,4 +67,4 @@ Run build-error-fix-log (Error Fix Log) for the first step that breaks.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

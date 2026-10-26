@@ -1,6 +1,6 @@
 ---
 name: impact-training-baseline-plan
-description: Plans the capture of before figures ahead of a training launch, producing a row per agreed measure showing where the figure lives, its period and group, a comparison table (comparison group, trend line, forecast or none), a list of gaps with the cheapest way to close each, and a list of what cannot be claimed later. Use for "run impact-training-baseline-plan", "training baseline", "baseline before training", "before and after training data", "pre-training measurement", "comparison group for training", "what do we measure before launch", "capture where things stand today", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Plans the capture of before figures ahead of a training launch, producing a row per agreed measure showing where the figure lives, its period and group, a comparison table (comparison group, trend line, forecast or none), a list of gaps with the cheapest way to close each, and a list of what cannot be claimed later. Use for "run impact-training-baseline-plan", "training baseline", "baseline before training", "before and after training data", "pre-training measurement", "comparison group for training", "what do we measure before launch", "capture where things stand today", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Training Baseline Plan
@@ -71,4 +71,4 @@ Run impact-kirkpatrick-data-plan (Kirkpatrick Data Collection Plan) to schedule 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

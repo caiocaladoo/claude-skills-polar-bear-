@@ -1,6 +1,6 @@
 ---
 name: win-discovery-call-recap
-description: Writes a Discovery Call Recap from your notes or transcript, with the problem and its cost in the client's words, what they want to be different, the decision process, open questions and the agreed next step, as a short email you edit and send. Use for "run win-discovery-call-recap", "recap my discovery call", "write up the call", "play back what the client said", "follow-up email after the call", "summarise this transcript before the proposal", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Writes a Discovery Call Recap from your notes or transcript, with the problem and its cost in the client's words, what they want to be different, the decision process, open questions and the agreed next step, as a short email you edit and send. Use for "run win-discovery-call-recap", "recap my discovery call", "write up the call", "play back what the client said", "follow-up email after the call", "summarise this transcript before the proposal", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Discovery Call Recap
@@ -66,4 +66,4 @@ Run win-bid-no-bid (Bid/No-Bid Decision) to decide whether a proposal is worth w
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

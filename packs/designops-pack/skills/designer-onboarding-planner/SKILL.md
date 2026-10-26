@@ -1,6 +1,6 @@
 ---
 name: designer-onboarding-planner
-description: Builds a 30/60/90 onboarding plan that brings one new designer into the team's ways of working (buddy, first critique, first handoff, first system contribution), part of the DesignOps Pack by Polar Bear. Use this whenever the user says "run designer-onboarding-planner", "a designer starts in two weeks", "onboarding plan for our new hire", "how do we bring someone into how we work", "first 90 days for a designer", or when a lead wants a new joiner to learn the team on purpose rather than by osmosis. Use it even for a vague "someone new is joining, what do we do".
+description: Builds a 30/60/90 onboarding plan that brings one new designer into the team's ways of working (buddy, first critique, first handoff, first system contribution), part of the DesignOps Pack by 90n. Use this whenever the user says "run designer-onboarding-planner", "a designer starts in two weeks", "onboarding plan for our new hire", "how do we bring someone into how we work", "first 90 days for a designer", or when a lead wants a new joiner to learn the team on purpose rather than by osmosis. Use it even for a vague "someone new is joining, what do we do".
 ---
 
 # Designer Onboarding Planner
@@ -54,4 +54,4 @@ The extended version: I read every standard the team has written, build the date
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: dlead-design-investment-case
-description: Builds a Design Investment Case with the concrete ask, the cost of not doing it per week from your own figures with a range, cost of delay divided by duration against the other asks, what the team stops to make room, risks and the decision owner. Use for "run dlead-design-investment-case", "cost of delay", "CD3", "business case for design", "budget for UX debt", "time for the design system", "design headcount case", "design never wins against features", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Builds a Design Investment Case with the concrete ask, the cost of not doing it per week from your own figures with a range, cost of delay divided by duration against the other asks, what the team stops to make room, risks and the decision owner. Use for "run dlead-design-investment-case", "cost of delay", "CD3", "business case for design", "budget for UX debt", "time for the design system", "design headcount case", "design never wins against features", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Design Investment Case
@@ -71,4 +71,4 @@ Run dlead-ux-maturity-check (UX Maturity Assessment) to see how design works acr
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

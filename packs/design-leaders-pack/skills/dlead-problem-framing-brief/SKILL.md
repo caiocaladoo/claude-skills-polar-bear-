@@ -1,6 +1,6 @@
 ---
 name: dlead-problem-framing-brief
-description: Writes a Problem Framing Brief with the problem statement and the outcome sought, evidence on hand and missing, constraints and what is not being solved, and "we believe" hypotheses sorted by risk and value, ending in the question the decision owner answers. Use for "run dlead-problem-framing-brief", "problem framing", "problem statement for this feature", "what problem does this solve", "we were handed a feature", "hypothesis statement", "lean UX hypothesis", "define phase brief", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Writes a Problem Framing Brief with the problem statement and the outcome sought, evidence on hand and missing, constraints and what is not being solved, and "we believe" hypotheses sorted by risk and value, ending in the question the decision owner answers. Use for "run dlead-problem-framing-brief", "problem framing", "problem statement for this feature", "what problem does this solve", "we were handed a feature", "hypothesis statement", "lean UX hypothesis", "define phase brief", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Problem Framing Brief
@@ -70,4 +70,4 @@ Run dlead-design-strategy-one-pager (Design Strategy One-Pager) to place this pr
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

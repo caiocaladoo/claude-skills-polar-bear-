@@ -1,6 +1,6 @@
 ---
 name: frac-ai-objection-answer
-description: Prepares an honest answer when a CEO says AI now covers part of your seat, with their exact words, what is true in them, the interest behind them, what the seat gives that their own AI does not with proof from the engagement, an offer to show how you work with AI, and a spoken and a written reply in your voice. Use for "run frac-ai-objection-answer", "now that AI does half of this", "do we still need two days a week", "the client says AI can do it", "answer the AI objection", "the CEO thinks a chatbot can replace my days", "how do I defend my seat against AI", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Prepares an honest answer when a CEO says AI now covers part of your seat, with their exact words, what is true in them, the interest behind them, what the seat gives that their own AI does not with proof from the engagement, an offer to show how you work with AI, and a spoken and a written reply in your voice. Use for "run frac-ai-objection-answer", "now that AI does half of this", "do we still need two days a week", "the client says AI can do it", "answer the AI objection", "the CEO thinks a chatbot can replace my days", "how do I defend my seat against AI", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # AI Objection Answer
@@ -69,4 +69,4 @@ Run frac-discovery-questions (Engagement Discovery Questions) to prepare the nex
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: aipm-usage-and-pricing-test
-description: Runs an AI Usage and Pricing Test that measures calls, tokens and retries per task on a small set of real tasks, estimates monthly usage at light, normal and heavy use and tests price options against those estimates, as an estimate to test and never pricing advice. Use for "run aipm-usage-and-pricing-test", "what will this feature cost to run", "estimate AI usage before launch", "seat or usage pricing for AI", "credits pricing test", "how many tokens per task", "heavy users and flat pricing", "price options for an AI feature", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Runs an AI Usage and Pricing Test that measures calls, tokens and retries per task on a small set of real tasks, estimates monthly usage at light, normal and heavy use and tests price options against those estimates, as an estimate to test and never pricing advice. Use for "run aipm-usage-and-pricing-test", "what will this feature cost to run", "estimate AI usage before launch", "seat or usage pricing for AI", "credits pricing test", "how many tokens per task", "heavy users and flat pricing", "price options for an AI feature", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Usage and Pricing Test
@@ -70,4 +70,4 @@ Run aipm-feature-card (AI Feature Card) to document what the feature does and co
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

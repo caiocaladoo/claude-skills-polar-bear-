@@ -1,6 +1,6 @@
 ---
 name: critique-ritual-designer
-description: Designs a design team's critique ritual (cadence, format, roles, rules for givers and receivers, objectives, failure modes), part of the DesignOps Pack by Polar Bear. Use this whenever the user says "run critique-ritual-designer", "design our crit", "our critiques are not working", "set up design critique", "feedback culture for the design team", or when crit is a calendar slot people dread or skip. Use it even for a vague "how do we give each other better feedback".
+description: Designs a design team's critique ritual (cadence, format, roles, rules for givers and receivers, objectives, failure modes), part of the DesignOps Pack by 90n. Use this whenever the user says "run critique-ritual-designer", "design our crit", "our critiques are not working", "set up design critique", "feedback culture for the design team", or when crit is a calendar slot people dread or skip. Use it even for a vague "how do we give each other better feedback".
 ---
 
 # Critique Ritual Designer
@@ -66,4 +66,4 @@ The extended version: I read your ops map, walk through the four questions, choo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

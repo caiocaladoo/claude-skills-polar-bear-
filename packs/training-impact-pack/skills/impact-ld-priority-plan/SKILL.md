@@ -1,6 +1,6 @@
 ---
 name: impact-ld-priority-plan
-description: Ranks next period's programmes on criteria you set, producing a scored ranking with the reason for each score, a capacity line, a stop list with the evidence behind each stop and a not-now list sponsors can see. Use for "run impact-ld-priority-plan", "training plan", "L&D plan for next year", "prioritise training requests", "too many training requests", "which programmes to stop", "L&D priorities", "what we will not run next year", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Ranks next period's programmes on criteria you set, producing a scored ranking with the reason for each score, a capacity line, a stop list with the evidence behind each stop and a not-now list sponsors can see. Use for "run impact-ld-priority-plan", "training plan", "L&D plan for next year", "prioritise training requests", "too many training requests", "which programmes to stop", "L&D priorities", "what we will not run next year", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # L&D Priority Plan
@@ -69,4 +69,4 @@ Run impact-training-business-case (Training Business Case) to ask for the budget
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

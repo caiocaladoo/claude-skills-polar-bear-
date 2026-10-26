@@ -1,6 +1,6 @@
 ---
 name: impact-non-training-options
-description: Sets out what could fix a performance gap when the cause is not a skill gap, producing the decision framed in one line with its owner and deadline, three to five real options per cause with the cost and owner of each, and a one-page memo the sponsor can say yes to. Use for "run impact-non-training-options", "alternatives to training", "training is not the answer", "job aid instead of a course", "non-training options", "what to offer instead of a course", "options memo for a sponsor", "say no to a training request", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Sets out what could fix a performance gap when the cause is not a skill gap, producing the decision framed in one line with its owner and deadline, three to five real options per cause with the cost and owner of each, and a one-page memo the sponsor can say yes to. Use for "run impact-non-training-options", "alternatives to training", "training is not the answer", "job aid instead of a course", "non-training options", "what to offer instead of a course", "options memo for a sponsor", "say no to a training request", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Non-Training Options
@@ -70,4 +70,4 @@ Run impact-critical-behaviours-map (Critical Behaviours Map) to say what people 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

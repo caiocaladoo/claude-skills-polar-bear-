@@ -1,6 +1,6 @@
 ---
 name: acct-negotiation-plan
-description: Prepares a negotiation plan with your target and the limit your leadership approved, your best alternative and the buyer's supposed one, the possible zone of agreement marked as an estimate, the interests behind stated positions and the questions to ask. Use for "run acct-negotiation-plan", "negotiation plan", "negotiation prep", "the buyer wants a discount", "prepare my price negotiation", "what is my walk-away", "BATNA", "procurement is pushing on price", part of the Claude for Account Executives Pack by Polar Bear.
+description: Prepares a negotiation plan with your target and the limit your leadership approved, your best alternative and the buyer's supposed one, the possible zone of agreement marked as an estimate, the interests behind stated positions and the questions to ask. Use for "run acct-negotiation-plan", "negotiation plan", "negotiation prep", "the buyer wants a discount", "prepare my price negotiation", "what is my walk-away", "BATNA", "procurement is pushing on price", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Negotiation Plan
@@ -70,4 +70,4 @@ Run acct-concession-plan (Concession Plan) to decide what to trade, against what
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

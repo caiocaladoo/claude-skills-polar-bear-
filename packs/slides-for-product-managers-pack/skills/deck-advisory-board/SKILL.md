@@ -1,6 +1,6 @@
 ---
 name: deck-advisory-board
-description: Drafts an Advisory Board Session Deck in Claude Slides that closes the loop on last session, frames two or three product forks as options with trade-offs, and adds a concept to react to, exercise prompts and when members hear back. Use for "run deck-advisory-board", "customer advisory board deck", "CAB deck", "CAB session slides", "advisory board agenda", "our CAB became a sales pitch", "slides for the customer council", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Drafts an Advisory Board Session Deck in Claude Slides that closes the loop on last session, frames two or three product forks as options with trade-offs, and adds a concept to react to, exercise prompts and when members hear back. Use for "run deck-advisory-board", "customer advisory board deck", "CAB deck", "CAB session slides", "advisory board agenda", "our CAB became a sales pitch", "slides for the customer council", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Customer Advisory Board Deck
@@ -67,4 +67,4 @@ Run deck-conference-talk (Conference Talk Deck) to share what you learned in pub
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

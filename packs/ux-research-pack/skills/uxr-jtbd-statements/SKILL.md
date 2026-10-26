@@ -1,6 +1,6 @@
 ---
 name: uxr-jtbd-statements
-description: Writes Jobs to Be Done Statements from real interviews, with each job's situation, motivation and outcome, job stories in the "When, I want to, so I can" shape, and the switching forces seen in sessions, every job tied to quotes and counts. Use for "run uxr-jtbd-statements", "jobs to be done", "write job stories", "what job are people hiring this for", "JTBD from interviews", "what progress are users trying to make", "push and pull forces", part of the UX Research with Claude Pack by Polar Bear.
+description: Writes Jobs to Be Done Statements from real interviews, with each job's situation, motivation and outcome, job stories in the "When, I want to, so I can" shape, and the switching forces seen in sessions, every job tied to quotes and counts. Use for "run uxr-jtbd-statements", "jobs to be done", "write job stories", "what job are people hiring this for", "JTBD from interviews", "what progress are users trying to make", "push and pull forces", part of the UX Research with Claude Pack by 90n.
 ---
 
 # Jobs to Be Done Statements
@@ -65,4 +65,4 @@ Run uxr-opportunity-tree (Opportunity Solution Tree) to choose which opportunity
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

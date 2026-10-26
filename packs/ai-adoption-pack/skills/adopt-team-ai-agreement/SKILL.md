@@ -1,6 +1,6 @@
 ---
 name: adopt-team-ai-agreement
-description: Drafts a session guide and a starting team AI agreement with agreed uses per task, a never-put-in list that starts from the organisation's rules, what checking means per type of work, whose name is on the work and a review date, for the team to write together. Use for "run adopt-team-ai-agreement", "team AI agreement", "team rules for using AI", "AI working agreement", "what is fine to use AI for", "what can we put into AI tools", "help teams agree how they use AI", "some people use AI for everything and some refuse", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Drafts a session guide and a starting team AI agreement with agreed uses per task, a never-put-in list that starts from the organisation's rules, what checking means per type of work, whose name is on the work and a review date, for the team to write together. Use for "run adopt-team-ai-agreement", "team AI agreement", "team rules for using AI", "AI working agreement", "what is fine to use AI for", "what can we put into AI tools", "help teams agree how they use AI", "some people use AI for everything and some refuse", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 # Team AI Agreement
 ## When To Use
@@ -71,4 +71,4 @@ Usage target, as given: [target or "none"]. Discussed as a team, never tracked p
 Run adopt-manager-follow-up (Manager Follow-Up Guide) to back up each session with what the manager does before and after.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -42,7 +42,7 @@ Four methods are described generically, with no originator named, because no pub
 
 ## Deliberate design choices
 
-These are Polar Bear's choices, not findings from the sources.
+These are 90n's choices, not findings from the sources.
 
 - **The red line.** "Claude builds the prototype, real users test it and engineers own what ships: a prototype is never called production, and nothing holding real customer data or a live key is shared until a named person has checked it." The GOV.UK guidance points the same way; the pack is stricter. "Ship the prototype" is never an option on any decision line.
 - **The order.** Eight stages in a fixed order, with the pass line written before the prototype exists, is our arrangement. No source prescribes it.

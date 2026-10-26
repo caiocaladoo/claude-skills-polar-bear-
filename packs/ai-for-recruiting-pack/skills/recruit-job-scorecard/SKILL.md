@@ -1,6 +1,6 @@
 ---
 name: recruit-job-scorecard
-description: Turns an agreed brief into a job scorecard with first-year outcomes, 4 to 6 job-related criteria with what evidence of each looks like, a must-have versus trainable split, and the stage where each criterion is assessed. Use for "run recruit-job-scorecard", "job scorecard", "role scorecard", "define the role", "two jobs in one title", "what does senior mean here", "hiring criteria for this role", "success profile", part of the AI for Recruiting Pack by Polar Bear.
+description: Turns an agreed brief into a job scorecard with first-year outcomes, 4 to 6 job-related criteria with what evidence of each looks like, a must-have versus trainable split, and the stage where each criterion is assessed. Use for "run recruit-job-scorecard", "job scorecard", "role scorecard", "define the role", "two jobs in one title", "what does senior mean here", "hiring criteria for this role", "success profile", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Job Scorecard
@@ -65,4 +65,4 @@ Run recruit-salary-range (Salary Range Brief) to price the job before it is adve
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

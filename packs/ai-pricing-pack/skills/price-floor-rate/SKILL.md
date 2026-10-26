@@ -1,6 +1,6 @@
 ---
 name: price-floor-rate
-description: Calculates your floor rate from your own records, with the fully loaded monthly cost, your real billable days after non-billable time, and the floor per day and per hour below which a job loses you money, kept internal and never shown to a client. Use for "run price-floor-rate", "what is my minimum day rate", "what is the lowest I can quote", "work out my break-even rate", "how much do I need to charge per day", "am I undercharging", "cost floor before I quote", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Calculates your floor rate from your own records, with the fully loaded monthly cost, your real billable days after non-billable time, and the floor per day and per hour below which a job loses you money, kept internal and never shown to a client. Use for "run price-floor-rate", "what is my minimum day rate", "what is the lowest I can quote", "work out my break-even rate", "how much do I need to charge per day", "am I undercharging", "cost floor before I quote", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Floor Rate Calculator
@@ -70,4 +70,4 @@ Run price-client-profitability (Client Profitability Map) to see which clients p
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

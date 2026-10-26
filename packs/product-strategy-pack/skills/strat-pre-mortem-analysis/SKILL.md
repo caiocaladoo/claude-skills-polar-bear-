@@ -1,6 +1,6 @@
 ---
 name: strat-pre-mortem-analysis
-description: Runs a pre-mortem on a product strategy before you commit and returns failure defined at a date, failure stories gathered independently and clustered, each marked hypothetical with its evidence or none, plus early signal, prevention, contingency with trigger, owner by role and residual risk. Use for "run strat-pre-mortem-analysis", "pre-mortem on our product strategy", "it is a year from now and the strategy failed, why?", "how could this fail before we commit?", "premortem template", "what early signals should we watch?", "run a pre-mortem with my team", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Runs a pre-mortem on a product strategy before you commit and returns failure defined at a date, failure stories gathered independently and clustered, each marked hypothetical with its evidence or none, plus early signal, prevention, contingency with trigger, owner by role and residual risk. Use for "run strat-pre-mortem-analysis", "pre-mortem on our product strategy", "it is a year from now and the strategy failed, why?", "how could this fail before we commit?", "premortem template", "what early signals should we watch?", "run a pre-mortem with my team", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Pre-Mortem Analysis
@@ -68,4 +68,4 @@ Run strat-recommendation-memo (Recommendation Memo) to write the call and the as
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

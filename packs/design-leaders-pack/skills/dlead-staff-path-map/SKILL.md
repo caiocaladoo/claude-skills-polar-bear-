@@ -1,6 +1,6 @@
 ---
 name: dlead-staff-path-map
-description: Builds a Staff Designer Path Map with the IC and manager paths side by side, four staff archetypes adapted here for design, which one fits your work, the gap to your own ladder and the conversation to have with your manager. Use for "run dlead-staff-path-map", "what does staff designer mean", "IC or manager path", "I don't want to manage", "staff designer archetypes", "principal designer path", "senior designer what next", "career ladder for designers", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Builds a Staff Designer Path Map with the IC and manager paths side by side, four staff archetypes adapted here for design, which one fits your work, the gap to your own ladder and the conversation to have with your manager. Use for "run dlead-staff-path-map", "what does staff designer mean", "IC or manager path", "I don't want to manage", "staff designer archetypes", "principal designer path", "senior designer what next", "career ladder for designers", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Staff Designer Path Map
@@ -67,4 +67,4 @@ Run dlead-brag-document (Brag Document) to start logging evidence for the path y
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

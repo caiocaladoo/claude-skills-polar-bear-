@@ -1,6 +1,6 @@
 ---
 name: uxr-usability-findings
-description: Turns usability test sessions into findings with per task completion with and without help, what people did against what they said, a rainbow sheet of observations, issues rated by severity and clips to pull. Use for "run uxr-usability-findings", "synthesise the usability tests", "usability test report", "rate these usability issues", "severity ratings", "rainbow spreadsheet", "the tests went well, I think", "did the prototype pass", part of the UX Research with Claude Pack by Polar Bear.
+description: Turns usability test sessions into findings with per task completion with and without help, what people did against what they said, a rainbow sheet of observations, issues rated by severity and clips to pull. Use for "run uxr-usability-findings", "synthesise the usability tests", "usability test report", "rate these usability issues", "severity ratings", "rainbow spreadsheet", "the tests went well, I think", "did the prototype pass", part of the UX Research with Claude Pack by 90n.
 ---
 
 # Usability Test Findings
@@ -68,4 +68,4 @@ Run uxr-insight-statements (Research Insight Statements) to say what the issues 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

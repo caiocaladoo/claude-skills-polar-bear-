@@ -1,6 +1,6 @@
 ---
 name: isd-style-guide
-description: Drafts a learning content style guide from your own best content, with voice and reading level, terms and banned terms, feedback wording, rules for examples, and a before and after pair for each rule. Use for "run isd-style-guide", "write a style guide for our courses", "our courses sound like three different organisations", "the AI drafts do not sound like us", "how should feedback be worded", "tone of voice for e-learning", "banned terms list", "make Claude write in our voice", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Drafts a learning content style guide from your own best content, with voice and reading level, terms and banned terms, feedback wording, rules for examples, and a before and after pair for each rule. Use for "run isd-style-guide", "write a style guide for our courses", "our courses sound like three different organisations", "the AI drafts do not sound like us", "how should feedback be worded", "tone of voice for e-learning", "banned terms list", "make Claude write in our voice", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Learning Content Style Guide
@@ -70,4 +70,4 @@ Run isd-portfolio-case-study (Portfolio Case Study) to write up the work behind 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

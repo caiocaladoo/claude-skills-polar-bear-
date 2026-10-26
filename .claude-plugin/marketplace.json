@@ -2,8 +2,8 @@
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
   "name": "polar-bear-skills",
   "owner": {
-    "name": "Polar Bear",
-    "url": "https://meet-polar-bear.com"
+    "name": "90n",
+    "url": "https://90n.ai"
   },
   "metadata": {
     "description": "Themed packs of Claude Skills (Agent Skills) for Claude Code and Claude.ai. Each pack is an installable plugin bundling SKILL.md skills and shared reference files around one job to be done.",
@@ -16,10 +16,10 @@
       "description": "7 Claude Skills for running workshops that produce decisions: intention framing, agenda design, pre-work emails, facilitator run sheet, live capture of post-it walls, 48-hour synthesis, and the facilitation retro.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/workshop-pack",
+      "homepage": "https://90n.ai/resources/workshop-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -42,10 +42,10 @@
       "description": "11 Claude Skills that run an annual performance review cycle without performance software: cycle planning, growth matrix, review forms, self-reviews, manager growth memos, 1:1 prep, and the end-of-cycle retro.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/review-cycle-pack",
+      "homepage": "https://90n.ai/resources/review-cycle-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -70,10 +70,10 @@
       "description": "33 Claude Skills that carry a design project from a fuzzy challenge to a tested, decision-ready concept: challenge framing, interview guides and screeners, transcript synthesis, personas and journeys, HMWs and concept cards, prototype and test plans, and the stakeholder playback.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/design-thinking-pack",
+      "homepage": "https://90n.ai/resources/design-thinking-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -98,10 +98,10 @@
       "description": "12 Claude Skills that carry a new hire from \"yes\" to day 90: the pre-boarding plan, the internal setup emails for IT and finance, the cultural brief, the welcome pack, the per-joiner checklist and dashboard, the team deck, the intro email, the first goals, the first week, and the joiner's own 90-day companion.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/onboarding-pack",
+      "homepage": "https://90n.ai/resources/onboarding-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -126,10 +126,10 @@
       "description": "13 Claude Skills for selling, running, and landing a design sprint: qualifying the ask, framing the challenge, casting the room, recruiting five testers, running map, target, sketch, decision, storyboard, prototype and Friday's interviews, and landing it on the Monday after.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/design-sprint-pack",
+      "homepage": "https://90n.ai/resources/design-sprint-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -154,10 +154,10 @@
       "description": "12 Claude Skills for making the invisible ops of a design team explicit and runnable: mapping how the team works today, then writing the critique ritual, the handoff standard, design-system governance, file conventions, request intake, the capacity plan, a new designer's onboarding, and the handbook that holds them all.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/designops-pack",
+      "homepage": "https://90n.ai/resources/designops-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -182,10 +182,10 @@
       "description": "12 Claude Skills for running an innovation program that tests real bets, kills most of them cheaply, and earns its next round of funding: chartering the program, designing gates that ask questions instead of handing out scores, keeping the innovation ledger, mapping the portfolio, framing challenges, running ideation, planning the discovery interviews, designing and reading experiments, preparing each gate review, writing the case for continued investment, and closing initiatives with dignity.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/innovation-pack",
+      "homepage": "https://90n.ai/resources/innovation-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -210,10 +210,10 @@
       "description": "12 Claude Skills for an employer brand a joiner's first week does not disprove: the listening round, the peer-claims map, the evidence base, the EVP as Give and Get pairs, the careers page, the job ad, the realistic preview, a colleague's own post, a quarter of hiring content, measures that work at six hires a year, the first-weeks promise check, and the quarterly review.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/employer-branding-pack",
+      "homepage": "https://90n.ai/resources/employer-branding-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -238,10 +238,10 @@
       "description": "32 skills for running a support desk, from the hard reply to the bot handoff: hard conversations, workload and staffing, roles, metrics and coaching, escalations and incidents, learning from tickets, answers and knowledge, service design, and AI and bots, safely.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ai-for-customer-service-pack",
+      "homepage": "https://90n.ai/resources/ai-for-customer-service-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -268,10 +268,10 @@
       "description": "32 skills for running HR as a clear, fair process, from complaints and investigations to leave, pay bands and the handbook: the HR desk, complaints and investigations, performance and discipline, leave and absence, pay and levels, policies and the handbook, stay and leave, and join.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ai-for-hr-pack",
+      "homepage": "https://90n.ai/resources/ai-for-hr-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -298,10 +298,10 @@
       "description": "31 skills for deciding what to build, what to drop and whether it worked: prioritising and saying no, setting direction, discovering what customers need, defining the work, deciding and aligning, launching, and measuring and learning.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ai-for-product-management-pack",
+      "homepage": "https://90n.ai/resources/ai-for-product-management-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -328,10 +328,10 @@
       "description": "31 skills for running a project from charter to clean handover: starting the project, stopping scope creep, estimating and scheduling, catching risks early, getting decisions made, running the delivery rhythm, reporting honestly, and closing well.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ai-for-project-management-pack",
+      "homepage": "https://90n.ai/resources/ai-for-project-management-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -358,10 +358,10 @@
       "description": "31 skills for recruiting from the intake meeting to the signed offer, in-house and on the agency desk: briefing the role, keeping candidates in the loop, attracting applicants, sourcing and reaching out, screening and interviewing on the same criteria for everyone, deciding and closing, the agency desk, and running the desk.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ai-for-recruiting-pack",
+      "homepage": "https://90n.ai/resources/ai-for-recruiting-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -388,10 +388,10 @@
       "description": "30 skills for L&D and corporate training, from the first training request to proof of what changed: finding the real need, getting it out of the experts, designing the programme, building the materials, delivering it live, making it stick, proving what changed, and running the L&D desk.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ai-for-training-pack",
+      "homepage": "https://90n.ai/resources/ai-for-training-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -418,10 +418,10 @@
       "description": "41 skills for the documents product people write, from the first brief to the post-launch review: setting up your voice and templates, discovering, shaping the vision, defining the work, deciding, aligning, reporting up, shipping and learning, running the team, and reviewing and editing. Each skill produces one finished document with a named reader and a length budget.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/docs-for-product-managers-pack",
+      "homepage": "https://90n.ai/resources/docs-for-product-managers-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -448,10 +448,10 @@
       "description": "36 skills for deciding if AI fits, testing it before launch and keeping it honest after: deciding if AI fits, speccing it as tests, briefing the model and the agent, building the evals from real outputs, shipping it safely, running and improving it, and its cost, price and explanation to leaders. Each skill is one named method or one artifact, with the inputs it needs, where it breaks and a fixed output template.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ai-product-managers-pack",
+      "homepage": "https://90n.ai/resources/ai-product-managers-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -478,10 +478,10 @@
       "description": "39 skills for running the whole product cycle with Claude, in seven phases that each hand a named artifact to the next: set Claude up and connect it, frame the question, discover the evidence, decide, build and ship, communicate the call and run the week. Each skill teaches one named, checkable method, with the inputs it needs, where it breaks, a fixed output template and the next skill to run.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/opus-for-product-managers-pack",
+      "homepage": "https://90n.ai/resources/opus-for-product-managers-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -508,10 +508,10 @@
       "description": "32 skills for every deck a product person makes, drafted in Claude Slides from your own sources, in six groups: start every deck (the deck context file and its metric dictionary, the slide design system, the deck brief naming the decider and the ask, the ghost deck of action titles, doc to deck, one master cut per audience), the decks for leaders, the updates for everyone, the team decks, the decks for customers and the market, and the passes that make a deck hold up. Each skill is one deck type or one deck method, with its inputs, where it breaks, a fixed output template, a finish line and the next skill to run.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/slides-for-product-managers-pack",
+      "homepage": "https://90n.ai/resources/slides-for-product-managers-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -538,10 +538,10 @@
       "description": "42 skills for the whole product job, stage by stage, from the vision to the weekly update, in eight stages: set direction, discover, decide, define, deliver, launch, prove, and run the product. Each skill is named as an action and keeps one framework inside, with the inputs it needs, where it breaks, a fixed output template, a finish line and the next skill to run.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/complete-claude-guide-for-product-managers-pack",
+      "homepage": "https://90n.ai/resources/complete-claude-guide-for-product-managers-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -568,10 +568,10 @@
       "description": "29 Claude Skills for pricing your expertise when your clients have AI too, from your own numbers to the price increase letter: the floor rate, the client profitability map, the AI activity map and cost ledger, the savings decision, the full-price work list and AI positioning, productised offers and their unit economics, value and outcome-based pricing, the three-option proposal, the price conversation, the AI discount request and the “AI could do this in 10 seconds” objection, the AI disclosure policy and statement of work, retainer redesign, scope changes, and the price increase plan, letter and quarterly review.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ai-pricing-pack",
+      "homepage": "https://90n.ai/resources/ai-pricing-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -598,10 +598,10 @@
       "description": "32 Claude skills to frame, explain, defend and prove design work, and to grow a team and a career, in seven steps: framing the problem with whoever holds the decision, explaining the decision so it stops being re-argued, preparing the room before the review and after it, running critique against a written bar, proving impact with metrics agreed up front, leading the team, and growing yourself. For senior, staff and principal designers who lead without reports, design leads, design managers and heads of design. Claude drafts the rationale, the deck and the write-up from your real work and real data: it never invents a metric, a user quote or a stakeholder's view, and it never rates a designer or a candidate.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/design-leaders-pack",
+      "homepage": "https://90n.ai/resources/design-leaders-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -628,10 +628,10 @@
       "description": "Claude Guide for Finding Clients: 32 Claude Skills to win clients, from your warm network to the signed proposal. Keep the pipeline full while you deliver with a 90-day plan, a weekly selling hour, a pipeline review and a win/loss review, go back to past clients, key accounts, referrals and referral partners, work your network with a voice guide, a warm network map, reconnect messages, introduction requests and an event plan, sharpen your ideal client profile, positioning, productized offer and AI use statement, write your proof as case studies and a credentials deck, open new accounts on a real public trigger, qualify with MEDDICC and run discovery, then write the proposal, price the options, build the deck, plan the follow-up and answer the objection. For founders and owners who sell their own expertise, independent consultants, fractional executives and partners who sell and deliver. Claude researches, prepares and drafts from your real work and real clients: you choose who to talk to, put it in your own words and send it yourself.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/finding-clients-pack",
+      "homepage": "https://90n.ai/resources/finding-clients-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -658,10 +658,10 @@
       "description": "32 Claude skills for planning, recruiting, running, synthesising and sharing user research, from the research plan to the repository, in seven stages: plan the study with what is already known, the assumptions that carry the risk, the research plan, and a check on any \"synthetic user\" answer offered instead of real people; recruit and consent real participants with a recruitment brief, a screener, an informed consent form, a data handling plan, an incentive plan and a participant database; write the guides for interviews, moderated and unmoderated usability tests, benchmarks, surveys and diary studies; run and capture sessions through contextual inquiry, accessible sessions, AI feature studies and same-day debriefs; synthesise with every quote kept through thematic analysis, usability findings, survey analysis, insight statements and an evidence trace audit; turn findings into a journey map, jobs to be done statements and an opportunity solution tree; then share and reuse them in a readout, an action tracker, repository entries and a tagging taxonomy. For designers who run their own research, UX researchers, and design leads who defend research time. Claude plans, organises and synthesises what real people said and did, with every insight traced to a quote or an observed session; it never invents a participant, a quote, a finding or a metric, and it never stands in for a user.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ux-research-pack",
+      "homepage": "https://90n.ai/resources/ux-research-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -688,10 +688,10 @@
       "description": "The Complete Claude Guide for L&D: 40 Claude skills for the whole L&D job, in eight stages: diagnose the need with the request triage, the performance gap and the action map; work with the experts through the interview, the task breakdown and the review plan; design the learning with objectives, an evaluation plan, a design document and a curriculum map; build and test scenarios, a storyboard, a knowledge check, the check of an AI draft and a learner walkthrough; run the room with a session plan, slides, a facilitator guide and a pilot; carry it into work with a job aid, spaced practice and a manager briefing; measure what changed with a feedback form, an ROI estimate and the one-page report; and lead L&D through the year plan and the business case. For L&D managers and specialists, instructional designers, trainers and facilitators, and L&D leaders. Claude drafts and checks, people decide: nothing a learner does in training is used to grade, rank or build a case against them.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/complete-guide-ld-pack",
+      "homepage": "https://90n.ai/resources/complete-guide-ld-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -718,10 +718,10 @@
       "description": "Claude for Instructional Designers: 32 Claude skills for building one course from the request to the release, in eight stages: scope the course with the brief, the learner analysis, an action mapping session and an estimate the sponsor signs; get the content from experts with the interview script, the source triage and the review plan; design it with measurable objectives, the design document, the course map and the assessment blueprint; write the branching scenarios, the storyboard, video scripts, questions and job aids; build a practice activity, slides, a short series or a live session moved on screen; check accuracy, whether it teaches, accessibility, your own run-through, the expert round and a learner pilot; ship with a sign-off record and a release note and read the data; then keep your own practice in order. For instructional designers, learning experience designers, e-learning developers and the L&D person who builds courses alone. Claude drafts and checks; you decide what the learner needs, and a named person signs it off.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/instructional-designers-pack",
+      "homepage": "https://90n.ai/resources/instructional-designers-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -748,10 +748,10 @@
       "description": "Claude for Trainers and Facilitators: 32 Claude skills for one session or programme, from the first brief to the follow-up weeks later, in seven stages: frame it with the purpose brief, the sponsor call and the participant survey; design the session plan, the agenda, the time budget, the activities, the role plays and the virtual version; prepare the invitation, the run sheet, the facilitator guide, the slides and the handout; run it with openers, agreements and consent, a difficult moments plan, debrief questions and the wall capture; make it stick with the action plan, the practice task, follow-up messages, spaced recall and two skills for managers; review it with the feedback form, the summary, the retro and the sponsor debrief; then the proposal, the programme and the handover. For corporate trainers, facilitators and independent consultants who run workshops. Claude prepares the session and the follow-up; you read the room and decide what happens in it, no participant is ever graded, ranked or profiled, and nothing is recorded without their consent.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/trainers-pack",
+      "homepage": "https://90n.ai/resources/trainers-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -778,10 +778,10 @@
       "description": "Claude Guide for Training Impact: 30 Claude skills for proving what a training programme changed, from the request to the decision about what comes next, in seven stages: question the request with a request brief, sponsor discovery questions and a performance problem diagnosis; agree what proof looks like with a critical behaviours map, a success measures agreement and a baseline plan; collect the evidence with two surveys, an observation checklist, an interview guide and a data request; read it honestly in a before-and-after results table and a contribution analysis; tell the sponsor with success cases, a return as a range and a one-pager; report to the business with a metrics set, a quarterly report and an overclaim check; then feed it back through a review meeting, a decision record and a business case. For L&D managers, L&D specialists and L&D leaders. Claude plans the evaluation and drafts the report from your data; it never invents a result, a benchmark or a quote, and a named person stands behind every number.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/training-impact-pack",
+      "homepage": "https://90n.ai/resources/training-impact-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -807,10 +807,10 @@
       "description": "Claude Guide for AI Adoption: 32 Claude skills for getting a team to use AI well, from the first pilot to the habit, in seven stages: find where it helps with the adoption brief, an anonymous starting point survey, a use case map and a barrier diagnosis; start small with a pilot that has a stop rule and a capacity check; teach it with a basics curriculum built on judgement, hands-on sessions, an output check and a job aid; support managers with a manager kit and a team agreement; make it safe to question with the rules in plain language and a concern response log; measure what changed with measures agreed before the pilot and an evidence review; then sustain it with a champions network, the rollout decision and a quarterly habit review. For L&D and enablement people, change leads and independent consultants who run AI adoption work. Claude prepares the plan, the sessions and the evidence; a named person makes every call, and nobody's use of AI is tracked.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/ai-adoption-pack",
+      "homepage": "https://90n.ai/resources/ai-adoption-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -836,10 +836,10 @@
       "description": "Claude Guide for New Founders: 31 Claude skills for the first months of a one-person practice, from your last job to your first clients, in seven stages: decide what you sell with a career proof inventory, an ideal client profile and a positioning statement; package and price it with a runway plan, a floor rate and one productized offer; tell people with a voice guide, your LinkedIn profile, an announcement and a one-page offer; start with people who know you through a former employer terms check and a warm network map; reach out and talk with reconnect points, introduction asks and a discovery call guide; win the first client with a short proposal, price conversation prep and an onboarding note; then keep going with a weekly selling hour. For new founders of one-person practices: consultants, coaches, advisers and trainers. Claude prepares from your real career, your own contacts and your own numbers, never from a former employer’s files; you choose who to talk to, write and send it yourself.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/new-founders-pack",
+      "homepage": "https://90n.ai/resources/new-founders-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -866,10 +866,10 @@
       "description": "Claude for Fractional Leaders: 31 Claude skills for running a fractional engagement from the first retainer to the renewal, and several of them at once, in seven stages: position the role and answer the full-time and AI questions; shape and price the seat with engagement options, pricing models and a statement of work; spend the first 30 days on the charter, the diagnostic and the 90-day plan; run the week across clients with a capacity plan and one log per client; report results to the CEO and the board; settle how the team works on your off days and record decisions; then review the renewal, price scope changes and hand over. For fractional and interim executives, and senior independents moving to that model. Claude prepares the diagnostic, the plan and the update from what you give it; it never invents a finding, a number or a client quote, never moves one client’s information into another client’s work, and never speaks to the client or the board for you.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/fractional-leaders-pack",
+      "homepage": "https://90n.ai/resources/fractional-leaders-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -896,10 +896,10 @@
       "description": "Claude Guide for Outreach: 32 Claude skills for opening conversations with people you do not yet know, following one outreach run in eight stages: decide who to reach with an ideal client profile, a target account list and a warm path check; research the company with a sourced fact list and a research brief; research the person with a contact shortlist and an identity check; find the reason to write with a trigger event scan; write it yourself from talking points and a cold email outline; check and send in small runs with a message checklist and a run of ten plan; go from reply to meeting with reply triage, first call prep and a call recap; then review what worked with an outreach log and a review of your own counts. For founders, independents and sellers. Claude researches and prepares; you choose the people, write every word and press send.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/outreach-pack",
+      "homepage": "https://90n.ai/resources/outreach-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -926,10 +926,10 @@
       "description": "Claude for Account Executives: 32 Claude skills for working named accounts, from account research to win/loss review, in eight stages: know the account with a research brief, a stakeholder map and an account plan; find a true reason to call with a buying signals brief and a talk track; prepare and run the meeting with a call plan and discovery questions; write it up the same day in call notes and a recap email; propose with a brief, the proposal and a quote check; negotiate and close with a negotiation plan and a mutual action plan; run the pipeline and forecast on written evidence; review the deal with MEDDPICC and a win/loss review. For account executives, key account managers and the sales and business development leaders who run them. Claude prepares from public sources and your own notes and you have the conversation; it never invents a contact, a signal, a number or a customer quote, never rates a buyer or a seller, and never contacts anyone for you.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/account-executives-pack",
+      "homepage": "https://90n.ai/resources/account-executives-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -956,10 +956,10 @@
       "description": "Claude for Consultants · Team in Claude: 39 Claude skills for winning and shaping client work when the client has AI too, from their brief to the signed scope, as eight desks in order: Intake reads the client's brief, qualifies the opportunity and records the bid or no-bid decision; Discovery prepares the call, keeps the notes and sends the recap email; Problem writes the problem statement, the issue tree and the hypothesis test plan; Strategy builds options and the recommendation memo; Pricing shapes good-better-best options, fees and a MoSCoW scope; Proposal writes the consulting proposal, the AI use statement and the statement of work; the Client room prepares the walk-through deck, the AI objection answer and the negotiation plan; Follow-through covers follow-up emails, the mutual action plan and the win/loss review. For independent consultants and partners in advisory practices. Claude structures, drafts and checks; it never invents a reference, a result, a number or a client quote, and you run the conversation, make the recommendation and send everything yourself.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/consultants-pack",
+      "homepage": "https://90n.ai/resources/consultants-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -986,10 +986,10 @@
       "description": "Claude for Product Builders: 32 Claude skills for taking one idea from a question to a prototype real users can try, and on to a build, change or stop decision, in eight stages: frame it with a problem frame, an idea one-pager and a prototype test card with a dated pass line; spec it with a prototype brief, a screen-by-screen user flow and a prototype spec; build a clickable prototype in Claude Design; make one flow really work in Claude Code; check it is safe to show with a secrets and keys check, a personal data check, an access and sharing check and a pre-share sign-off; test it with five real target users; hand it to engineering with everything faked written down; then get a decision from a named person. For product managers and product designers who want to build a prototype themselves, and founders shaping a first product. Claude builds the prototype, real users test it and engineers own what ships.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/product-builders-pack",
+      "homepage": "https://90n.ai/resources/product-builders-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -1016,10 +1016,10 @@
       "description": "Claude for Product Designers: 32 Claude skills for one piece of design work, from the request to the result, in eight stages: frame the problem with a problem framing brief, a user journey map and a HEART metrics plan; explore and decide with design principles, an options trade-off table, a rationale doc and a decision log; design with context through a design system rules file, a product context file, the user flow, the copy deck and every UI state; prototype around one question; critique against a quality bar, ten heuristics and an accessibility review; test with real users; hand off with a spec and a UX debt register; then show the impact in a review deck, a pushback brief, an impact write-up and a portfolio case study. For product designers, UX and UI designers, and designers who do their own research. Claude drafts, checks and explains; you make the design decisions, real users test the work, and nothing is presented as tested, accessible or ready to ship that was not.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/product-designers-pack",
+      "homepage": "https://90n.ai/resources/product-designers-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -1046,10 +1046,10 @@
       "description": "Claude Guide for Product Strategy: 32 Claude skills for one product strategy cycle in eight stages: diagnose with the strategic question, a product health read, an issue tree and a hypothesis board; read the market and the customer with competitors, segments by need, an opportunity solution tree and a market size; choose with options that differ in kind, a decision matrix, the bets and the not-doing list; stress-test with scenarios, a red team review and a pre-mortem; put numbers on it with a business case, a north star metric and strategy KPIs; build the Now-Next-Later roadmap and quarterly OKRs; tell it in the strategy document, the one page, the deck and the board memo; then review it each quarter. For product managers and product leaders who own a strategy or a roadmap, and founders and fractional product people who write one for a client. Claude structures the thinking and drafts the documents; a named person makes the choices, and every figure names its source or is marked as an assumption.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/product-strategy-pack",
+      "homepage": "https://90n.ai/resources/product-strategy-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",
@@ -1076,10 +1076,10 @@
       "description": "Claude Guide for Product Interviews: 32 Claude skills for preparing product interviews from the job ad to the offer, in eight stages: read the role with a target role brief, a job ad breakdown and an interview loop map; tell your story with a career evidence inventory, a story bank and resume bullets; prepare the cases for product sense, metrics, prioritisation and execution, and app critique; prepare the conversations with behavioural answers, a portfolio or project walkthrough and a mock interview; show how you work with AI with an AI use plan, a fluency answer and a work sample; get in through people you already know; run each process with a take-home plan, round debriefs and a tracker; then decide with an offer comparison and negotiation prep. For product managers, product owners and product designers with years of shipped work. Claude helps you prepare and practise from work you really did; it never invents a role, a result or a number, and it stays out of the live interview.",
       "version": "1.0.0",
       "author": {
-        "name": "Polar Bear",
-        "url": "https://meet-polar-bear.com"
+        "name": "90n",
+        "url": "https://90n.ai"
       },
-      "homepage": "https://meet-polar-bear.com/skills/product-interviews-pack",
+      "homepage": "https://90n.ai/resources/product-interviews-pack",
       "repository": "https://github.com/polar-bear-org/claude-skills",
       "license": "LicenseRef-PolarBear-Internal-Use",
       "category": "productivity",

@@ -1,6 +1,6 @@
 ---
 name: ldg-write-the-scenarios
-description: Writes decision scenarios built from real mistakes, with options that tempt, a consequence and feedback for every choice, a path map with no dead ends and a list of facts for the expert to confirm. Use for "run ldg-write-the-scenarios", "scenario based learning", "branching scenario", "write a scenario", "decision scenario", "practice not content", "turn the expert's incidents into practice", "they passed the course and still cannot make the call", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Writes decision scenarios built from real mistakes, with options that tempt, a consequence and feedback for every choice, a path map with no dead ends and a list of facts for the expert to confirm. Use for "run ldg-write-the-scenarios", "scenario based learning", "branching scenario", "write a scenario", "decision scenario", "practice not content", "turn the expert's incidents into practice", "they passed the course and still cannot make the call", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Write the Scenarios
@@ -70,4 +70,4 @@ Run ldg-storyboard-the-elearning (Storyboard the E-Learning) to put the scenario
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

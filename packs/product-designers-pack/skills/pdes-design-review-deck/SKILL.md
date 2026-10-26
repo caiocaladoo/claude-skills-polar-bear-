@@ -1,6 +1,6 @@
 ---
 name: pdes-design-review-deck
-description: Builds a Design Review Deck that puts the decision asked, your recommendation and the date on slide one, then the problem and outcome, the options and what the recommendation gives up, real evidence with gaps shown, the feedback in scope today and next steps with owners, in a short and a working version. Use for "run pdes-design-review-deck", "design review deck", "present my design to stakeholders", "stakeholder review presentation", "slides for design sign-off", "the room argues about colours", "bottom line up front deck", "short version of my design review", part of the Claude for Product Designers Pack by Polar Bear.
+description: Builds a Design Review Deck that puts the decision asked, your recommendation and the date on slide one, then the problem and outcome, the options and what the recommendation gives up, real evidence with gaps shown, the feedback in scope today and next steps with owners, in a short and a working version. Use for "run pdes-design-review-deck", "design review deck", "present my design to stakeholders", "stakeholder review presentation", "slides for design sign-off", "the room argues about colours", "bottom line up front deck", "short version of my design review", part of the Claude for Product Designers Pack by 90n.
 ---
 
 # Design Review Deck
@@ -69,4 +69,4 @@ Run pdes-stakeholder-feedback-log (Stakeholder Feedback Log) to capture what the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

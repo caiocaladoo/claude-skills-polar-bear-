@@ -1,6 +1,6 @@
 ---
 name: job-ad-writer
-description: Writes one job ad that attracts the right few instead of the many, with the real first 90 days, the give and the get for this role, who will dislike it, the pay range, and the process with dates, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run job-ad-writer", "write a job ad", "job description for a senior designer", "we're hiring a developer, draft the post", "rewrite this job posting", or when a role has just opened and someone is about to paste last year's ad with the title changed. Use it even for a vague "we need to hire someone, help".
+description: Writes one job ad that attracts the right few instead of the many, with the real first 90 days, the give and the get for this role, who will dislike it, the pay range, and the process with dates, part of the Employer Branding Pack by 90n. Use this whenever the user says "run job-ad-writer", "write a job ad", "job description for a senior designer", "we're hiring a developer, draft the post", "rewrite this job posting", or when a role has just opened and someone is about to paste last year's ad with the title changed. Use it even for a vague "we need to hire someone, help".
 ---
 
 # Job ad writer
@@ -58,4 +58,4 @@ The extended version: I write the full shape, hold it against the EVP, the peer 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

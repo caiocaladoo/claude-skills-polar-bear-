@@ -1,6 +1,6 @@
 ---
 name: dlead-design-hiring-loop
-description: Builds a Design Hiring Loop with competencies from the role's real work, loop stages, portfolio review prompts, a timeboxed exercise brief, the same questions for every candidate, a blank anchored form each interviewer fills alone and debrief rules. Use for "run dlead-design-hiring-loop", "design interview process", "structured interview for designers", "portfolio review questions", "design exercise brief", "interview scorecard template", "hiring a product designer", "debrief rules", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Builds a Design Hiring Loop with competencies from the role's real work, loop stages, portfolio review prompts, a timeboxed exercise brief, the same questions for every candidate, a blank anchored form each interviewer fills alone and debrief rules. Use for "run dlead-design-hiring-loop", "design interview process", "structured interview for designers", "portfolio review questions", "design exercise brief", "interview scorecard template", "hiring a product designer", "debrief rules", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Design Hiring Loop
@@ -71,4 +71,4 @@ Run dlead-designer-30-60-90 (Designer 30-60-90 Day Plan) to plan the new designe
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

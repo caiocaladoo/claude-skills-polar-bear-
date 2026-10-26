@@ -1,6 +1,6 @@
 ---
 name: initiative-sunset-writer
-description: Closes an innovation initiative well (the sunset memo, the harvest of reusable assets, the honest reasons, and the team message that separates the decision from the people), part of the Innovation Pack by Polar Bear. Use this whenever the user says "run initiative-sunset-writer", "we are stopping this project", "write the kill memo", "how do we close this down without demoralizing the team", "what do we keep from this", or when a gate decision says stop or park and nobody wants to be the one to write it up. Use it even for "this one is dead, help me wrap it".
+description: Closes an innovation initiative well (the sunset memo, the harvest of reusable assets, the honest reasons, and the team message that separates the decision from the people), part of the Innovation Pack by 90n. Use this whenever the user says "run initiative-sunset-writer", "we are stopping this project", "write the kill memo", "how do we close this down without demoralizing the team", "what do we keep from this", or when a gate decision says stop or park and nobody wants to be the one to write it up. Use it even for "this one is dead, help me wrap it".
 ---
 
 # Initiative Sunset Writer
@@ -57,4 +57,4 @@ Extended version: I draft the memo from the decision record and the results chai
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

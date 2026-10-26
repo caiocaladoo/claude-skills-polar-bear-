@@ -1,6 +1,6 @@
 ---
 name: isd-branching-scenario
-description: Drafts a branching scenario script a developer can build from, with numbered decision nodes, options taken from real mistakes with a consequence and feedback for each, and a path map of every route and ending. Use for "run isd-branching-scenario", "write a branching scenario", "script the decision nodes", "they pass every screen and freeze on the real call", "map every path and ending", "turn the expert's incidents into a scenario", "scenario script for the developer", "practice where a wrong choice has a consequence", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Drafts a branching scenario script a developer can build from, with numbered decision nodes, options taken from real mistakes with a consequence and feedback for each, and a path map of every route and ending. Use for "run isd-branching-scenario", "write a branching scenario", "script the decision nodes", "they pass every screen and freeze on the real call", "map every path and ending", "turn the expert's incidents into a scenario", "scenario script for the developer", "practice where a wrong choice has a consequence", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Branching Scenario Script
@@ -71,4 +71,4 @@ Run isd-storyboard-template (E-Learning Storyboard Template) to put the scenario
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

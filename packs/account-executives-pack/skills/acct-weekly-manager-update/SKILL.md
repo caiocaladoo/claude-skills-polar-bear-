@@ -1,6 +1,6 @@
 ---
 name: acct-weekly-manager-update
-description: Writes your weekly manager update from your call notes and CRM changes, opening with the decisions you need from your manager and by when, then the deals that moved and why, the market and competitor signals in your notes and the help you ask for. Use for "run acct-weekly-manager-update", "weekly update for my manager", "weekly sales update", "prepare my one-to-one", "weekly sales report", "what do I tell my manager this week", "one-to-one notes", part of the Claude for Account Executives Pack by Polar Bear.
+description: Writes your weekly manager update from your call notes and CRM changes, opening with the decisions you need from your manager and by when, then the deals that moved and why, the market and competitor signals in your notes and the help you ask for. Use for "run acct-weekly-manager-update", "weekly update for my manager", "weekly sales update", "prepare my one-to-one", "weekly sales report", "what do I tell my manager this week", "one-to-one notes", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Weekly Manager Update
@@ -69,4 +69,4 @@ Run acct-meddpicc-qualification (MEDDPICC Qualification) on the deal you most ne
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

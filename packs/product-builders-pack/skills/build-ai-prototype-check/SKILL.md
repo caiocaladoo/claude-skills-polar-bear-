@@ -1,6 +1,6 @@
 ---
 name: build-ai-prototype-check
-description: Checks where the inputs of an AI feature inside a prototype came from and writes an AI Prototype Input Check with every hand-picked input listed, a masked share of real cases drawn at random, runs per input, picked and random results reported apart and what one good run cannot show. Use for "run build-ai-prototype-check", "the AI part worked on my three examples", "is my AI demo cherry-picked", "test the AI feature on random inputs", "how many times should I run each input", "what does one good run prove", "check the AI feature before the demo", part of the Claude for Product Builders Pack by Polar Bear.
+description: Checks where the inputs of an AI feature inside a prototype came from and writes an AI Prototype Input Check with every hand-picked input listed, a masked share of real cases drawn at random, runs per input, picked and random results reported apart and what one good run cannot show. Use for "run build-ai-prototype-check", "the AI part worked on my three examples", "is my AI demo cherry-picked", "test the AI feature on random inputs", "how many times should I run each input", "what does one good run prove", "check the AI feature before the demo", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # AI Prototype Input Check
@@ -70,4 +70,4 @@ Run build-secrets-check (Secrets and Keys Check), since an AI feature usually me
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

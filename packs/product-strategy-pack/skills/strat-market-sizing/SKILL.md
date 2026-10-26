@@ -1,6 +1,6 @@
 ---
 name: strat-market-sizing
-description: Builds a TAM, SAM and SOM estimate from top-down and bottom-up sizing as low, base and high, with every input sourced or labelled assumption, the gap between the two methods shown and the share of the reachable market the plan needs. Use for "run strat-market-sizing", "market sizing", "TAM SAM SOM", "how big is this market", "bottom-up market size", "is this market big enough", "where does that number come from", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Builds a TAM, SAM and SOM estimate from top-down and bottom-up sizing as low, base and high, with every input sourced or labelled assumption, the gap between the two methods shown and the share of the reachable market the plan needs. Use for "run strat-market-sizing", "market sizing", "TAM SAM SOM", "how big is this market", "bottom-up market size", "is this market big enough", "where does that number come from", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Market Sizing (TAM, SAM, SOM)
@@ -67,4 +67,4 @@ Run strat-lean-canvas (Lean Canvas) to put the business logic of the sized bet o
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

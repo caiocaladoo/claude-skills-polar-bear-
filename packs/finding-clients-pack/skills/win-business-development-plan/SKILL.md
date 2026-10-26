@@ -1,6 +1,6 @@
 ---
 name: win-business-development-plan
-description: Builds a 90-day Business Development Plan from your own numbers, with one goal, a warm-first channel mix, 2 or 3 weekly actions you control and a stop list. Use for "run win-business-development-plan", "business development plan", "feast or famine", "where will the next client come from", "plan my selling for the quarter", "how many conversations do I need", "I have no pipeline after this project", "make a new business plan I can keep", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Builds a 90-day Business Development Plan from your own numbers, with one goal, a warm-first channel mix, 2 or 3 weekly actions you control and a stop list. Use for "run win-business-development-plan", "business development plan", "feast or famine", "where will the next client come from", "plan my selling for the quarter", "how many conversations do I need", "I have no pipeline after this project", "make a new business plan I can keep", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Business Development Plan
@@ -71,4 +71,4 @@ Run win-weekly-bd-hour (Weekly Business Development Hour) to turn the plan into 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

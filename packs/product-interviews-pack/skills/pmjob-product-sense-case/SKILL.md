@@ -1,6 +1,6 @@
 ---
 name: pmjob-product-sense-case
-description: Run a practice product sense case on an open product or design question and produce the written case, notes on your answer against a rubric you can see and a practice log line. Use for "run pmjob-product-sense-case", "practise a product sense question", "product design interview practice", "how would you improve this product", "design a product for this user", "my answers sound like a framework", "whiteboard exercise practice", "give me an open product question", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Run a practice product sense case on an open product or design question and produce the written case, notes on your answer against a rubric you can see and a practice log line. Use for "run pmjob-product-sense-case", "practise a product sense question", "product design interview practice", "how would you improve this product", "design a product for this user", "my answers sound like a framework", "whiteboard exercise practice", "give me an open product question", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Product Sense Case
@@ -68,4 +68,4 @@ Run pmjob-metrics-case (Metrics Case) to practise the analytical round.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

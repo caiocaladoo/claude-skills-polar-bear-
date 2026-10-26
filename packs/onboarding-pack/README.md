@@ -2,7 +2,7 @@
 
 12 Claude skills that carry a new hire from "yes" to day 90. For the founders, HR leads, and hiring managers who want a joiner's first weeks to feel designed, not improvised.
 
-**Guide and download:** [meet-polar-bear.com/skills/onboarding-pack](https://meet-polar-bear.com/skills/onboarding-pack)
+**Guide and download:** [90n.ai/resources/onboarding-pack](https://90n.ai/resources/onboarding-pack)
 
 The pack covers the whole journey: the 10-day pre-boarding plan, the internal emails that get IT and finance moving, the cultural brief, the welcome pack worth keeping, the checklist that catches what's falling through, the team deck, the intro email, the first goals, and the joiner's own first-90 companion. One rule runs through all of it: Claude prepares and keeps track, humans welcome. No skill replaces the manager's first conversation, the team's hello, or the lunch on day one; it makes sure nothing around those moments falls through the cracks.
 
@@ -83,7 +83,7 @@ It creates your Project, interviews you to fill in company-onboarding-context.md
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. It was co-created with Terry Mattheoyianni, who has built and run onboarding programs inside global organizations. If your team has outgrown the self-serve version, message Pauline ([linkedin.com/in/paulinebertry](https://www.linkedin.com/in/paulinebertry/)). For hands-on onboarding operations, talk to Terry ([linkedin.com/in/terrymattheoyianni](https://www.linkedin.com/in/terrymattheoyianni/)).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline ([linkedin.com/in/paulinebertry](https://www.linkedin.com/in/paulinebertry/)). For hands-on onboarding operations, talk to Terry ([linkedin.com/in/terrymattheoyianni](https://www.linkedin.com/in/terrymattheoyianni/)).
 
 ---
 

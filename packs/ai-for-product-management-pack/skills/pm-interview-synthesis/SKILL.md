@@ -1,6 +1,6 @@
 ---
 name: pm-interview-synthesis
-description: Turns real interview notes or transcripts into an affinity board, with need statements that cite their sources, contradictions between participants and the open questions to take back to customers. Use for "run pm-interview-synthesis", "synthesise these interviews", "affinity map my notes", "what did customers tell us", "turn transcripts into insights", "interview themes", "customer needs from interviews", "I have five transcripts and a PRD due", part of the AI for Product Management Pack by Polar Bear.
+description: Turns real interview notes or transcripts into an affinity board, with need statements that cite their sources, contradictions between participants and the open questions to take back to customers. Use for "run pm-interview-synthesis", "synthesise these interviews", "affinity map my notes", "what did customers tell us", "turn transcripts into insights", "interview themes", "customer needs from interviews", "I have five transcripts and a PRD due", part of the AI for Product Management Pack by 90n.
 ---
 
 # Interview Synthesis
@@ -71,4 +71,4 @@ Run pm-jobs-to-be-done (Jobs to Be Done) to write the job behind the strongest n
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

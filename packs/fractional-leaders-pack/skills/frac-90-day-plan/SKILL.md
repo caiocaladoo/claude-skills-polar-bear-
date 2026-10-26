@@ -1,6 +1,6 @@
 ---
 name: frac-90-day-plan
-description: Writes a 90-day plan for a fractional engagement with three objectives at most, each with a measure, its definition, today's baseline and day 30, 60 and 90 targets set by the CEO, a phased workplan with owners, what stops, the risks, the review dates and the decision due at day 90. Use for "run frac-90-day-plan", "write my 90-day plan", "30 60 90 day plan for a fractional executive", "month three is still discovery", "set objectives with baselines", "plan after the diagnostic", "what did I promise this client", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Writes a 90-day plan for a fractional engagement with three objectives at most, each with a measure, its definition, today's baseline and day 30, 60 and 90 targets set by the CEO, a phased workplan with owners, what stops, the risks, the review dates and the decision due at day 90. Use for "run frac-90-day-plan", "write my 90-day plan", "30 60 90 day plan for a fractional executive", "month three is still discovery", "set objectives with baselines", "plan after the diagnostic", "what did I promise this client", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # 90-Day Plan
@@ -70,4 +70,4 @@ Run frac-capacity-plan (Client Capacity Plan) to check that this plan fits besid
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

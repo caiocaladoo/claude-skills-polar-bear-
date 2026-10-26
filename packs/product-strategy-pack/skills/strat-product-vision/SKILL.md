@@ -1,6 +1,6 @@
 ---
 name: strat-product-vision
-description: Drafts a Product Vision Board with vision statement options and what each one rules out, a target group described by need, needs marked confirmed or assumed, and the assumed needs to check with customers. Use for "run strat-product-vision", "write our product vision", "vision statement options", "product vision board", "what are we building toward", "every option looks equally reasonable", "a vision that rules something out", "is our vision a slogan", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Drafts a Product Vision Board with vision statement options and what each one rules out, a target group described by need, needs marked confirmed or assumed, and the assumed needs to check with customers. Use for "run strat-product-vision", "write our product vision", "vision statement options", "product vision board", "what are we building toward", "every option looks equally reasonable", "a vision that rules something out", "is our vision a slogan", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Product Vision Board
@@ -68,4 +68,4 @@ Run strat-strategic-options (Strategic Options) to write the routes to this dest
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

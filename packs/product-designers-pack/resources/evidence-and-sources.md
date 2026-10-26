@@ -67,7 +67,7 @@ Nothing in the pack is legal advice: accessibility duties, consent, personal dat
 
 ## Deliberate design choices
 
-These are Polar Bear's own design decisions, not findings from the sources.
+These are 90n's own design decisions, not findings from the sources.
 
 - **The red line.** Claude drafts, checks and explains; you make the design decisions, real users test the work, and nothing is presented as tested, accessible or ready to ship that was not. The sources support the parts (tools cannot check all of accessibility, a heuristic pass cannot replace users, a prototype is for ideas and buy-in), and the single line is ours.
 - **A person's check before anything is shown.** The share check before a prototype leaves the team, the "cannot tell from a design" answer in the accessibility review, and Claude's critique pass labelled as a second opinion are our own design.

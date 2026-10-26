@@ -1,6 +1,6 @@
 ---
 name: innovation-challenge-framer
-description: Turns a strategy gap, a portfolio hole, or a client signal into an innovation challenge brief (the problem, who has it, the boundaries, what would make it worth doing, what is out), part of the Innovation Pack by Polar Bear. Use this whenever the user says "run innovation-challenge-framer", "write an innovation challenge", "frame this as a problem", "the partners want us to do something with X", "turn this client request into a brief", or when an ideation session is planned and nobody has written down what it is for. Use it even for "we should probably do something about AI".
+description: Turns a strategy gap, a portfolio hole, or a client signal into an innovation challenge brief (the problem, who has it, the boundaries, what would make it worth doing, what is out), part of the Innovation Pack by 90n. Use this whenever the user says "run innovation-challenge-framer", "write an innovation challenge", "frame this as a problem", "the partners want us to do something with X", "turn this client request into a brief", or when an ideation session is planned and nobody has written down what it is for. Use it even for "we should probably do something about AI".
 ---
 
 # Challenge Framer
@@ -61,4 +61,4 @@ Extended version: I draft the brief from your inputs and the portfolio map, hold
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

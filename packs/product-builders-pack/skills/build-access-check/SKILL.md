@@ -1,6 +1,6 @@
 ---
 name: build-access-check
-description: Record who can open a prototype link today and narrow it before testers arrive, producing the current sharing setting read off the screen, a list of what travels with the link, and an end date with the role who removes access. Use for "run build-access-check", "who can open my prototype link", "I pasted the link in a channel", "is my artifact public", "how do I share with testers only", "what sharing setting should I use", "when do I take the link down", part of the Claude for Product Builders Pack by Polar Bear.
+description: Record who can open a prototype link today and narrow it before testers arrive, producing the current sharing setting read off the screen, a list of what travels with the link, and an end date with the role who removes access. Use for "run build-access-check", "who can open my prototype link", "I pasted the link in a channel", "is my artifact public", "how do I share with testers only", "what sharing setting should I use", "when do I take the link down", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Access and Sharing Check
@@ -70,4 +70,4 @@ Run build-share-sign-off (Pre-Share Sign-Off) to put the three checks on one pag
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: build-personal-data-check
-description: Walk a prototype for real personal data before a link goes out, producing a list of every place data is shown, stored or sent, each item marked invented, masked or real, and a remove-or-approve record signed by role. Use for "run build-personal-data-check", "is there real customer data in my prototype", "check for personal data before I share", "real names on my demo screens", "what does shared storage keep", "can I show this export", "what will the session recordings hold", part of the Claude for Product Builders Pack by Polar Bear.
+description: Walk a prototype for real personal data before a link goes out, producing a list of every place data is shown, stored or sent, each item marked invented, masked or real, and a remove-or-approve record signed by role. Use for "run build-personal-data-check", "is there real customer data in my prototype", "check for personal data before I share", "real names on my demo screens", "what does shared storage keep", "can I show this export", "what will the session recordings hold", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Personal Data Check
@@ -69,4 +69,4 @@ Run build-access-check (Access and Sharing Check) to settle who can open the lin
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

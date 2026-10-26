@@ -1,6 +1,6 @@
 ---
 name: price-service-blueprint
-description: Maps one offer from the client's side, producing a Service Blueprint with frontstage and backstage lanes, every AI step and the role who checks and decides, the line of visibility, failure points, and a client-facing version. Use for "run price-service-blueprint", "service blueprint", "show the client what AI does", "map how my offer is delivered", "where does AI work in my process", "explain my AI use to a client", "frontstage backstage", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Maps one offer from the client's side, producing a Service Blueprint with frontstage and backstage lanes, every AI step and the role who checks and decides, the line of visibility, failure points, and a client-facing version. Use for "run price-service-blueprint", "service blueprint", "show the client what AI does", "map how my offer is delivered", "where does AI work in my process", "explain my AI use to a client", "frontstage backstage", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Service Blueprint
@@ -69,4 +69,4 @@ Run price-offer-unit-economics (Offer Unit Economics) to check the offer pays at
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

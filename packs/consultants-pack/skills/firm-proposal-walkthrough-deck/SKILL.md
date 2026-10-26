@@ -1,6 +1,6 @@
 ---
 name: firm-proposal-walkthrough-deck
-description: Plans a proposal walk-through deck of six to ten slides, with the client's problem first, a full-sentence headline per slide, options side by side on the same rows, the decision you need and by when, speaker notes with the question to ask and where to stop and listen, and a read version if it will be forwarded. Use for "run firm-proposal-walkthrough-deck", "turn my proposal into slides", "walk the client through the proposal", "deck for the proposal meeting", "speaker notes for my pitch", "slides they can forward afterwards", "build the proposal presentation", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Plans a proposal walk-through deck of six to ten slides, with the client's problem first, a full-sentence headline per slide, options side by side on the same rows, the decision you need and by when, speaker notes with the question to ask and where to stop and listen, and a read version if it will be forwarded. Use for "run firm-proposal-walkthrough-deck", "turn my proposal into slides", "walk the client through the proposal", "deck for the proposal meeting", "speaker notes for my pitch", "slides they can forward afterwards", "build the proposal presentation", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Proposal Walk-Through Deck
@@ -65,4 +65,4 @@ Run firm-executive-summary (Proposal Executive Summary) to write the page for th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

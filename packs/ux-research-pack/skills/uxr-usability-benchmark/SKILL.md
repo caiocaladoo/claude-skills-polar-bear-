@@ -1,6 +1,6 @@
 ---
 name: uxr-usability-benchmark
-description: Builds a Usability Benchmark Study with the same tasks each round, task success, time on task, SEQ and SUS defined before data, the baseline and comparison point, a sample note and a re-run date, with numbers only from sessions you ran. Use for "run uxr-usability-benchmark", "UX benchmark", "SUS score", "did the redesign make it better", "before and after usability metrics", "task success rate", "Single Ease Question", "how to score SUS", part of the UX Research with Claude Pack by Polar Bear.
+description: Builds a Usability Benchmark Study with the same tasks each round, task success, time on task, SEQ and SUS defined before data, the baseline and comparison point, a sample note and a re-run date, with numbers only from sessions you ran. Use for "run uxr-usability-benchmark", "UX benchmark", "SUS score", "did the redesign make it better", "before and after usability metrics", "task success rate", "Single Ease Question", "how to score SUS", part of the UX Research with Claude Pack by 90n.
 ---
 
 # Usability Benchmark Study
@@ -70,4 +70,4 @@ Run uxr-readout-deck (Research Readout Deck) to take the before and after to the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

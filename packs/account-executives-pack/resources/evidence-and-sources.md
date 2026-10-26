@@ -43,7 +43,7 @@ It claims that each skill follows a method sellers already use, taken from a pub
 
 ## Deliberate design choices
 
-These are Polar Bear's own choices, not findings from the sources.
+These are 90n's own choices, not findings from the sources.
 
 - The red line. Claude prepares from public sources and the seller's notes; the seller has the conversation, writes and sends. Nothing is sequenced, scheduled or sent.
 - Nothing rates people. The sources use the word "champion" for a person; here it is a role in the decision, tested by dated actions, and never a verdict. Tiers apply to accounts. Pipeline, forecast and deal review place deals by written evidence, and no skill reports on a seller's performance. Stakeholder ratings by power or influence and personality typologies of buyers were left out on purpose.

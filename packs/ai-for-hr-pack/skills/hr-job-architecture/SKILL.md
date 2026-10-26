@@ -1,6 +1,6 @@
 ---
 name: hr-job-architecture
-description: Builds a job architecture with job families, levels with written differences, title rules and a leveling guide that describes roles and never rates people. Use for "run hr-job-architecture", "build job levels", "job leveling guide", "create job families", "career levels framework", "fix our job titles", "why is this role at this level", part of the AI for HR Pack by Polar Bear.
+description: Builds a job architecture with job families, levels with written differences, title rules and a leveling guide that describes roles and never rates people. Use for "run hr-job-architecture", "build job levels", "job leveling guide", "create job families", "career levels framework", "fix our job titles", "why is this role at this level", part of the AI for HR Pack by 90n.
 ---
 
 # Job Architecture
@@ -68,4 +68,4 @@ Run hr-salary-bands (Salary Bands) to put pay on the levels.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

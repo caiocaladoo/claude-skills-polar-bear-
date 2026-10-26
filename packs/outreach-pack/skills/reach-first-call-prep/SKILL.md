@@ -1,6 +1,6 @@
 ---
 name: reach-first-call-prep
-description: Prepares one page for a first call, with why they agreed to talk, three open questions taken from your hypotheses, what you will listen for from your red flags, what you will not pitch, a short agenda to propose at the start and the next step you would ask for. Use for "run reach-first-call-prep", "first call prep", "prepare for a first call", "discovery call prep", "intro call questions", "they said yes to a call", "how do I not pitch on the first call", "first meeting agenda", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Prepares one page for a first call, with why they agreed to talk, three open questions taken from your hypotheses, what you will listen for from your red flags, what you will not pitch, a short agenda to propose at the start and the next step you would ask for. Use for "run reach-first-call-prep", "first call prep", "prepare for a first call", "discovery call prep", "intro call questions", "they said yes to a call", "how do I not pitch on the first call", "first meeting agenda", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # First Call Prep
@@ -71,4 +71,4 @@ Run reach-call-recap (Call Recap) straight after the call, while your notes are 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

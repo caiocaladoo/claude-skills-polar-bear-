@@ -1,6 +1,6 @@
 ---
 name: fac-virtual-session-redesign
-description: Rebuilds an in-room session plan for a video call, producing shorter blocks and breaks you set, an interaction for every block with the tool named, a breakout plan with a written task and a scribe, the producer role and a plan B for each tool. Use for "run fac-virtual-session-redesign", "virtual training", "move my workshop online", "virtual facilitation", "keep a virtual session engaging", "breakout room instructions", "cameras on or off", "people multitask on video calls", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Rebuilds an in-room session plan for a video call, producing shorter blocks and breaks you set, an interaction for every block with the tool named, a breakout plan with a written task and a scribe, the producer role and a plan B for each tool. Use for "run fac-virtual-session-redesign", "virtual training", "move my workshop online", "virtual facilitation", "keep a virtual session engaging", "breakout room instructions", "cameras on or off", "people multitask on video calls", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Virtual Session Redesign
@@ -72,4 +72,4 @@ Run fac-pre-work-invitation (Pre-Work and Invitation) to tell people what to exp
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

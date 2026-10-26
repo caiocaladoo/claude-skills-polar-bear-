@@ -2,7 +2,7 @@
 
 33 Claude skills for design thinking that ships. For the innovation, CX, and design consultants who carry a project from a fuzzy challenge to a tested, decision-ready concept.
 
-**Guide and download:** [meet-polar-bear.com/skills/design-thinking-pack](https://meet-polar-bear.com/skills/design-thinking-pack)
+**Guide and download:** [90n.ai/resources/design-thinking-pack](https://90n.ai/resources/design-thinking-pack)
 
 The pack covers the whole arc: framing the challenge, preparing the research, making sense of what real people told you, defining the problem, shaping the ideas, testing them with real users, and landing the whole thing in front of the people who decide. One rule runs through all of it: Claude prepares and synthesizes, humans meet the users. No skill here replaces a single conversation with a real customer; every persona, insight, and finding in this pack is built from research with real people, and the pack will tell you when it's time to go talk to them.
 
@@ -123,13 +123,13 @@ It will ask what you're actually trying to change for whom, and it won't accept 
 
 ## Related packs
 
-Ideation rooms and workshops live in the Workshop Pack: when a skill here says "take this into a session", that's the pack that runs the session. Both packs are on the Polar Bear site.
+Ideation rooms and workshops live in the Workshop Pack: when a skill here says "take this into a session", that's the pack that runs the session. Both packs are on [90n.ai](https://90n.ai/resources).
 
 ---
 
 ## About the makers
 
-Made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people). Built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. This pack is the free, self-serve version of how we work. If your team has outgrown it, message Pauline ([linkedin.com/in/paulinebertry](https://www.linkedin.com/in/paulinebertry/)).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline ([linkedin.com/in/paulinebertry](https://www.linkedin.com/in/paulinebertry/)).
 
 ---
 

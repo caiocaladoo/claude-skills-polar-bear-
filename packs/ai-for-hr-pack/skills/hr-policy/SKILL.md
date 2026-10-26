@@ -1,6 +1,6 @@
 ---
 name: hr-policy
-description: Writes one HR Policy at a time from your own facts, in plain language, with scope, owner, version and review date, a section on how managers apply it, and adviser questions for every clause with a legal effect. Use for "run hr-policy", "write an HR policy", "rewrite this policy in plain language", "draft our remote work policy", "policy nobody can administer", "policy template with owner and review date", "turn our rules into a policy", "HR policy draft for legal review", part of the AI for HR Pack by Polar Bear.
+description: Writes one HR Policy at a time from your own facts, in plain language, with scope, owner, version and review date, a section on how managers apply it, and adviser questions for every clause with a legal effect. Use for "run hr-policy", "write an HR policy", "rewrite this policy in plain language", "draft our remote work policy", "policy nobody can administer", "policy template with owner and review date", "turn our rules into a policy", "HR policy draft for legal review", part of the AI for HR Pack by 90n.
 ---
 
 # HR Policy
@@ -70,4 +70,4 @@ Run hr-employee-handbook (Employee Handbook) to add the approved policy to the h
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

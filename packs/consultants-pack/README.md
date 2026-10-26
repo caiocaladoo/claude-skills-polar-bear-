@@ -2,7 +2,7 @@
 
 39 Claude skills for winning and shaping client work when the client has AI too, from their brief to the signed scope. For independent consultants and partners in advisory practices.
 
-**Guide and download:** [meet-polar-bear.com/skills/consultants-pack](https://meet-polar-bear.com/skills/consultants-pack)
+**Guide and download:** [90n.ai/resources/consultants-pack](https://90n.ai/resources/consultants-pack)
 
 ## What this is
 
@@ -199,7 +199,7 @@ The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
 
 ---
 

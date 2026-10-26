@@ -1,6 +1,6 @@
 ---
 name: value-impact-matrix
-description: Prioritizes concepts on a calibrated 2x2 matrix, part of the Design Thinking Pack by Polar Bear. Use this whenever the user says "run value-impact-matrix", "prioritize these concepts", "which ideas first", "make the 2x2", or a set of concepts exists and the team must choose where effort goes. Use it even for "we can't do all of these".
+description: Prioritizes concepts on a calibrated 2x2 matrix, part of the Design Thinking Pack by 90n. Use this whenever the user says "run value-impact-matrix", "prioritize these concepts", "which ideas first", "make the 2x2", or a set of concepts exists and the team must choose where effort goes. Use it even for "we can't do all of these".
 ---
 
 # Value Impact Matrix
@@ -25,4 +25,4 @@ No placement without reasoning, and no top-left without the honesty check. The m
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

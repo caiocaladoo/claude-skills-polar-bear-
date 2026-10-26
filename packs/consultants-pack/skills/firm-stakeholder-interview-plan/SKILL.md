@@ -1,6 +1,6 @@
 ---
 name: firm-stakeholder-interview-plan
-description: Plans whom to hear about the client's problem by role and what each knows that others do not, with a neutral brief giving everyone the same facts, the same core questions asked separately before any group meeting, and a synthesis that keeps unique information apart from repeated opinion and records disagreements and missing voices. Use for "run firm-stakeholder-interview-plan", "plan the stakeholder interviews", "who should I talk to at the client", "everyone agreed after the boss spoke", "hear people separately before the workshop", "synthesise the interviews", "whose view am I missing", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Plans whom to hear about the client's problem by role and what each knows that others do not, with a neutral brief giving everyone the same facts, the same core questions asked separately before any group meeting, and a synthesis that keeps unique information apart from repeated opinion and records disagreements and missing voices. Use for "run firm-stakeholder-interview-plan", "plan the stakeholder interviews", "who should I talk to at the client", "everyone agreed after the boss spoke", "hear people separately before the workshop", "synthesise the interviews", "whose view am I missing", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Stakeholder Interview Plan
@@ -70,4 +70,4 @@ Run firm-strategic-options (Strategic Options) to lay out the real ways the clie
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

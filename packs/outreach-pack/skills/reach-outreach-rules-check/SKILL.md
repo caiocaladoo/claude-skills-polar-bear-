@@ -1,6 +1,6 @@
 ---
 name: reach-outreach-rules-check
-description: Lists the rules questions one message raises, with the channel, where the recipient is and what kind of address it is, the questions each official page raises, what is unknown and the questions to take to an adviser. Use for "run reach-outreach-rules-check", "outreach rules check", "is cold email legal", "CAN-SPAM", "cold email GDPR", "can I email this person", "anti-spam rules", "outreach compliance questions", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Lists the rules questions one message raises, with the channel, where the recipient is and what kind of address it is, the questions each official page raises, what is unknown and the questions to take to an adviser. Use for "run reach-outreach-rules-check", "outreach rules check", "is cold email legal", "CAN-SPAM", "cold email GDPR", "can I email this person", "anti-spam rules", "outreach compliance questions", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # Outreach Rules Check
@@ -71,4 +71,4 @@ Run reach-run-of-ten (Run of Ten Plan) to place this message in this week's smal
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

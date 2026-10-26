@@ -1,6 +1,6 @@
 ---
 name: adopt-manager-follow-up
-description: Prepares a manager's guide around one AI session or course, with the conversation before, the first real task after and the room made for it, the conversation after, check-ins inside existing meetings and a barrier log read in aggregate. Use for "run adopt-manager-follow-up", "manager follow-up after AI training", "what managers do after the AI session", "nobody used it after the training", "conversation before the AI course", "first task after AI training", "barriers to using AI after training", "make the AI training stick", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Prepares a manager's guide around one AI session or course, with the conversation before, the first real task after and the room made for it, the conversation after, check-ins inside existing meetings and a barrier log read in aggregate. Use for "run adopt-manager-follow-up", "manager follow-up after AI training", "what managers do after the AI session", "nobody used it after the training", "conversation before the AI course", "first task after AI training", "barriers to using AI after training", "make the AI training stick", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 # Manager Follow-Up Guide
 ## When To Use
@@ -71,4 +71,4 @@ Task: [real task, chosen by the person] | Window: [days] after the session | Roo
 Run adopt-freed-time-agreement (Freed Time Agreement) to decide together what happens to the time AI frees.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: ld-addie-project-plan
-description: Plans one training build from brief to launch, producing the phases with deliverables and owners, review gates, durations from your own past projects, SAM iterations where they fit and a scope line for the deadline. Use for "run ld-addie-project-plan", "ADDIE project plan", "instructional design project plan", "training project timeline", "e-learning development timeline", "SAM or ADDIE", "course due Monday", "plan a training build", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Plans one training build from brief to launch, producing the phases with deliverables and owners, review gates, durations from your own past projects, SAM iterations where they fit and a scope line for the deadline. Use for "run ld-addie-project-plan", "ADDIE project plan", "instructional design project plan", "training project timeline", "e-learning development timeline", "SAM or ADDIE", "course due Monday", "plan a training build", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # ADDIE Project Plan
@@ -69,4 +69,4 @@ Run ld-compliance-training (Compliance Training) when the plan includes mandator
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

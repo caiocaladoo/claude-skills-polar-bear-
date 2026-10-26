@@ -1,6 +1,6 @@
 ---
 name: pm-release-notes
-description: Writes Release Notes for customers grouped by change type, an internal version for support with known issues and workarounds, and a who-is-affected list. Use for "run pm-release-notes", "release notes", "write the changelog", "what's new post", "turn these tickets into release notes", "support heard about it from customers", "notes for this release", part of the AI for Product Management Pack by Polar Bear.
+description: Writes Release Notes for customers grouped by change type, an internal version for support with known issues and workarounds, and a who-is-affected list. Use for "run pm-release-notes", "release notes", "write the changelog", "what's new post", "turn these tickets into release notes", "support heard about it from customers", "notes for this release", part of the AI for Product Management Pack by 90n.
 ---
 
 # Release Notes
@@ -66,4 +66,4 @@ Run pm-success-metrics (Success Metrics) to check whether the change worked.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

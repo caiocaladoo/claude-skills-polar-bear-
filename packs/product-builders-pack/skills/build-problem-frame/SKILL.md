@@ -1,6 +1,6 @@
 ---
 name: build-problem-frame
-description: Writes a Problem Frame that turns an idea you are already attached to into one testable question with no feature inside it, the decision it feeds and its owner by role, scope in three lists, a "how might we" line and one alternative framing. Use for "run build-problem-frame", "frame the problem", "what question does my idea answer", "I have the screens in my head", "take the feature out of the question", "who decides on this idea", "what is out of scope", "write a how might we", part of the Claude for Product Builders Pack by Polar Bear.
+description: Writes a Problem Frame that turns an idea you are already attached to into one testable question with no feature inside it, the decision it feeds and its owner by role, scope in three lists, a "how might we" line and one alternative framing. Use for "run build-problem-frame", "frame the problem", "what question does my idea answer", "I have the screens in my head", "take the feature out of the question", "who decides on this idea", "what is out of scope", "write a how might we", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Problem Frame
@@ -68,4 +68,4 @@ Run build-idea-one-pager (Idea One-Pager) to turn the question into a one-page a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

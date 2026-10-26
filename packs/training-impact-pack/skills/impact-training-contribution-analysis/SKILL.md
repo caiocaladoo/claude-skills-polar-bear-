@@ -1,6 +1,6 @@
 ---
 name: impact-training-contribution-analysis
-description: Builds the argument for how far a training programme contributed to a result, producing the chain from programme to behaviour to result with the evidence for each link, the other explanations weighed for and against, and every claim marked shown, suggested or unknown. Use for "run impact-training-contribution-analysis", "contribution analysis", "how do we know it was the training", "isolate the effect of training", "did the training cause the result", "other explanations for the result", "training attribution", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Builds the argument for how far a training programme contributed to a result, producing the chain from programme to behaviour to result with the evidence for each link, the other explanations weighed for and against, and every claim marked shown, suggested or unknown. Use for "run impact-training-contribution-analysis", "contribution analysis", "how do we know it was the training", "isolate the effect of training", "did the training cause the result", "other explanations for the result", "training attribution", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Training Contribution Analysis
@@ -70,4 +70,4 @@ Run impact-success-case-write-up (Success Case Method Write-Up) to show how the 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

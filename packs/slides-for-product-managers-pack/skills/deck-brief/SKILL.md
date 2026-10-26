@@ -1,6 +1,6 @@
 ---
 name: deck-brief
-description: Writes a one-page deck brief before any slide exists, naming the audience and the decider, the one thing they must believe or decide, live or read cold, the time slot, known facts with sources, open assumptions and the ask with a date. Use for "run deck-brief", "brief for this deck", "I cannot get to the point", "what is my ask", "exec deck next week", "who decides in this meeting", "prep a deck for leadership", "my decks end with no ask", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Writes a one-page deck brief before any slide exists, naming the audience and the decider, the one thing they must believe or decide, live or read cold, the time slot, known facts with sources, open assumptions and the ask with a date. Use for "run deck-brief", "brief for this deck", "I cannot get to the point", "what is my ask", "exec deck next week", "who decides in this meeting", "prep a deck for leadership", "my decks end with no ask", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Deck Brief
@@ -71,4 +71,4 @@ Run deck-storyline (Ghost Deck Storyline) to turn the point into titles.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: deck-numbers-check
-description: Checks every figure in a drafted deck and returns a Numbers Register (each figure with slide, source, base, period and status), a mismatch list across slides and against the source doc, and the chart each figure needs, with unsourced figures marked draft. Use for "run deck-numbers-check", "check the numbers in this deck", "trace every figure", "do these numbers match", "is anything made up", "numbers before the board", "which chart for this figure", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Checks every figure in a drafted deck and returns a Numbers Register (each figure with slide, source, base, period and status), a mismatch list across slides and against the source doc, and the chart each figure needs, with unsourced figures marked draft. Use for "run deck-numbers-check", "check the numbers in this deck", "trace every figure", "do these numbers match", "is anything made up", "numbers before the board", "which chart for this figure", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Numbers Check
@@ -67,4 +67,4 @@ Run deck-build-in-template (Build in Your Design System) to lay the checked deck
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

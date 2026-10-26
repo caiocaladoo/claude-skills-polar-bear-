@@ -1,6 +1,6 @@
 ---
 name: pm-value-proposition-canvas
-description: Fills a Value Proposition Canvas with a customer profile (jobs, pains, gains), a value map, fit notes marked confirmed or unconfirmed, and one message line all teams use. Use for "run pm-value-proposition-canvas", "value proposition canvas", "value prop", "what is our message", "sales and marketing describe it differently", "pains and gains", "one line for the launch", part of the AI for Product Management Pack by Polar Bear.
+description: Fills a Value Proposition Canvas with a customer profile (jobs, pains, gains), a value map, fit notes marked confirmed or unconfirmed, and one message line all teams use. Use for "run pm-value-proposition-canvas", "value proposition canvas", "value prop", "what is our message", "sales and marketing describe it differently", "pains and gains", "one line for the launch", part of the AI for Product Management Pack by 90n.
 ---
 
 # Value Proposition Canvas
@@ -66,4 +66,4 @@ Run pm-go-to-market-plan (Go-to-Market Plan) to put the message into the launch.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

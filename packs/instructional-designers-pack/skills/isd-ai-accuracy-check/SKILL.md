@@ -1,6 +1,6 @@
 ---
 name: isd-ai-accuracy-check
-description: Traces every factual claim in a draft course to a source you approved, producing a claim trace with the supporting quote and its place, a flag list the expert decides line by line, and a real or fictional marking of every example and case. Use for "run isd-ai-accuracy-check", "where did these numbers come from", "check this AI-drafted storyboard against the sources", "flag what you cannot trace", "is this draft accurate", "the expert sent pages an AI wrote", "trace every claim to a source", "do not correct anything, just flag", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Traces every factual claim in a draft course to a source you approved, producing a claim trace with the supporting quote and its place, a flag list the expert decides line by line, and a real or fictional marking of every example and case. Use for "run isd-ai-accuracy-check", "where did these numbers come from", "check this AI-drafted storyboard against the sources", "flag what you cannot trace", "is this draft accurate", "the expert sent pages an AI wrote", "trace every claim to a source", "do not correct anything, just flag", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # AI Content Accuracy Check
@@ -69,4 +69,4 @@ Run isd-does-it-teach-review (Does It Teach Review) to see whether the accurate 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

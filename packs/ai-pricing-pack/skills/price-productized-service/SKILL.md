@@ -1,6 +1,6 @@
 ---
 name: price-productized-service
-description: Turns the service you deliver most often into one fixed offer, producing a Productized Service Sheet with the name, who it is for, the outcome, scope in and out, timeline, a fixed price checked against your own floor, and what triggers a change. Use for "run price-productized-service", "productise my service", "turn my project into a fixed offer", "stop custom quoting every job", "fixed price package", "make a standard offer", "price stops following the hours", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Turns the service you deliver most often into one fixed offer, producing a Productized Service Sheet with the name, who it is for, the outcome, scope in and out, timeline, a fixed price checked against your own floor, and what triggers a change. Use for "run price-productized-service", "productise my service", "turn my project into a fixed offer", "stop custom quoting every job", "fixed price package", "make a standard offer", "price stops following the hours", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Productized Service Sheet
@@ -71,4 +71,4 @@ Run price-service-blueprint (Service Blueprint) to show how the offer is deliver
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

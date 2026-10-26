@@ -1,6 +1,6 @@
 ---
 name: uxr-ai-feature-study
-description: Plans a user study of an AI feature with users' current mental model and expectations before first use, tasks on their own real inputs, planned wrong-answer scenarios with what users do next, trust and correction checks and a Wizard of Oz option. Use for "run uxr-ai-feature-study", "test the AI feature with users", "what happens when the AI is wrong", "Wizard of Oz test", "user trust in AI output", "mental model of the AI feature", "AI feature research plan", part of the UX Research with Claude Pack by Polar Bear.
+description: Plans a user study of an AI feature with users' current mental model and expectations before first use, tasks on their own real inputs, planned wrong-answer scenarios with what users do next, trust and correction checks and a Wizard of Oz option. Use for "run uxr-ai-feature-study", "test the AI feature with users", "what happens when the AI is wrong", "Wizard of Oz test", "user trust in AI output", "mental model of the AI feature", "AI feature research plan", part of the UX Research with Claude Pack by 90n.
 ---
 
 # AI Feature User Study
@@ -68,4 +68,4 @@ Run uxr-usability-findings (Usability Test Findings) to rate the issues the sess
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

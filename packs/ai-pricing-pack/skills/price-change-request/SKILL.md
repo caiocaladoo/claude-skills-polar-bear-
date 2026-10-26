@@ -1,6 +1,6 @@
 ---
 name: price-change-request
-description: Turns a client's "small" ask into a priced scope change request with the impact on time, cost and scope against the signed SOW, the options (accept and price, defer, swap, decline), the decider and date, and a change log entry. Use for "run price-change-request", "it's just one small change", "scope creep", "price this extra request", "write a change request", "is this in scope", "update the change log", "how do I say this costs extra", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Turns a client's "small" ask into a priced scope change request with the impact on time, cost and scope against the signed SOW, the options (accept and price, defer, swap, decline), the decider and date, and a change log entry. Use for "run price-change-request", "it's just one small change", "scope creep", "price this extra request", "write a change request", "is this in scope", "update the change log", "how do I say this costs extra", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Scope Change Request
@@ -71,4 +71,4 @@ Run price-increase-plan (Price Increase Plan) when the change log shows your pri
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

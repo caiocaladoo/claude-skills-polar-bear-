@@ -1,6 +1,6 @@
 ---
 name: aipm-legal-questions
-description: Prepares Questions for Legal, grouped by topic (data, disclosure, liability, output ownership, AI Act category, vendor terms, records), each with the facts legal needs attached and the decision it unblocks, and never answers a legal question. Use for "run aipm-legal-questions", "questions for legal", "prepare for the legal review", "what do I ask legal about our AI feature", "legal sign-off for AI", "what does legal need from me", "AI Act questions for our lawyer", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Prepares Questions for Legal, grouped by topic (data, disclosure, liability, output ownership, AI Act category, vendor terms, records), each with the facts legal needs attached and the decision it unblocks, and never answers a legal question. Use for "run aipm-legal-questions", "questions for legal", "prepare for the legal review", "what do I ask legal about our AI feature", "legal sign-off for AI", "what does legal need from me", "AI Act questions for our lawyer", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # Questions for Legal
@@ -63,4 +63,4 @@ Run aipm-ai-launch-checklist (AI Launch Checklist) to carry the answers into the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

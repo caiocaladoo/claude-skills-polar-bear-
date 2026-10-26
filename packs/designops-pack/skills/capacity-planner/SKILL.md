@@ -1,6 +1,6 @@
 ---
 name: capacity-planner
-description: Plans a design team's week, month, or quarter at team level (supply versus demand, what to defer, the wording for saying no), part of the DesignOps Pack by Polar Bear. Use this whenever the user says "run capacity-planner", "can we take this on", "the quarter looks impossible", "plan the team's capacity", "how much design work can we do", "we're overcommitted", or when a lead has to decide what moves before the team burns. Use it even for a vague "we have too much on".
+description: Plans a design team's week, month, or quarter at team level (supply versus demand, what to defer, the wording for saying no), part of the DesignOps Pack by 90n. Use this whenever the user says "run capacity-planner", "can we take this on", "the quarter looks impossible", "plan the team's capacity", "how much design work can we do", "we're overcommitted", or when a lead has to decide what moves before the team burns. Use it even for a vague "we have too much on".
 ---
 
 # Capacity Planner
@@ -58,4 +58,4 @@ The extended version: I read the intake log and the previous plan, build the sup
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: recruit-interview-debrief
-description: Runs an interview debrief that collects written scorecards before anyone speaks, walks the evidence criterion by criterion, and ends in a debrief record of the hiring manager's decision and reasons. Use for "run recruit-interview-debrief", "plan the debrief meeting", "the loudest voice keeps deciding", "the manager wants to see a few more", "write up the hiring decision", "debrief agenda for this panel", "interviewers disagree on this candidate", part of the AI for Recruiting Pack by Polar Bear.
+description: Runs an interview debrief that collects written scorecards before anyone speaks, walks the evidence criterion by criterion, and ends in a debrief record of the hiring manager's decision and reasons. Use for "run recruit-interview-debrief", "plan the debrief meeting", "the loudest voice keeps deciding", "the manager wants to see a few more", "write up the hiring decision", "debrief agenda for this panel", "interviewers disagree on this candidate", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Interview Debrief
@@ -68,4 +68,4 @@ Run recruit-reference-check (Reference Check Questions) to take the open questio
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

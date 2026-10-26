@@ -1,6 +1,6 @@
 ---
 name: price-ai-disclosure-policy
-description: Writes an AI Disclosure Policy with what you use AI for and what a person always does, client data rules by tool, when and how clients are told, the client's opt-out and the legal questions marked for an adviser. Use for "run price-ai-disclosure-policy", "should I tell clients I use AI", "AI disclosure policy", "AI use statement", "how do I disclose AI to clients", "what client data can go into AI tools", "client wants no AI on their work", "AI line for my website", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Writes an AI Disclosure Policy with what you use AI for and what a person always does, client data rules by tool, when and how clients are told, the client's opt-out and the legal questions marked for an adviser. Use for "run price-ai-disclosure-policy", "should I tell clients I use AI", "AI disclosure policy", "AI use statement", "how do I disclose AI to clients", "what client data can go into AI tools", "client wants no AI on their work", "AI line for my website", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # AI Disclosure Policy
@@ -71,4 +71,4 @@ Run price-statement-of-work (Statement of Work) to put the AI line in the contra
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: dlead-promotion-case
-description: Builds a Promotion Case with your ladder's criteria for the next level, evidence from your brag document mapped to each, scope, impact and influence stories, gaps and how you are closing them, who can speak to the work and a short version for your manager. Use for "run dlead-promotion-case", "promotion packet", "staff designer promotion", "promo case for lead designer", "show I work at the next level", "self-review for promotion", "map my work to the ladder", "principal designer promotion", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Builds a Promotion Case with your ladder's criteria for the next level, evidence from your brag document mapped to each, scope, impact and influence stories, gaps and how you are closing them, who can speak to the work and a short version for your manager. Use for "run dlead-promotion-case", "promotion packet", "staff designer promotion", "promo case for lead designer", "show I work at the next level", "self-review for promotion", "map my work to the ladder", "principal designer promotion", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Promotion Case
@@ -70,4 +70,4 @@ Run dlead-leadership-case-study (Leadership Case Study) to turn the strongest st
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

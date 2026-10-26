@@ -1,6 +1,6 @@
 ---
 name: reach-conversation-opener
-description: Prepares the first private note to someone who accepted your request, replied or commented, with the one reason to write, two or three points from the real exchange, an ask that matches how little you know each other and an easy way to decline. Use for "run reach-conversation-opener", "conversation opener", "they accepted my connection request", "first message after connecting", "what do I say after they accept", "start a conversation without pitching", "message after a comment", "first DM", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Prepares the first private note to someone who accepted your request, replied or commented, with the one reason to write, two or three points from the real exchange, an ask that matches how little you know each other and an easy way to decline. Use for "run reach-conversation-opener", "conversation opener", "they accepted my connection request", "first message after connecting", "what do I say after they accept", "start a conversation without pitching", "message after a comment", "first DM", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # Conversation Opener
@@ -64,4 +64,4 @@ Run reach-first-call-prep (First Call Prep) if the exchange leads to a first con
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

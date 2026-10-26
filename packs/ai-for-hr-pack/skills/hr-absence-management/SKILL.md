@@ -1,6 +1,6 @@
 ---
 name: hr-absence-management
-description: Writes an Absence Management Procedure with reporting and recording rules, a return-to-work meeting guide, and review points that open a conversation instead of an automatic warning, plus an adjustments check. Use for "run hr-absence-management", "absence management procedure", "sickness absence policy", "return to work meeting", "pattern of Monday sick days", "absence triggers", "how do I talk about someone's absences", part of the AI for HR Pack by Polar Bear.
+description: Writes an Absence Management Procedure with reporting and recording rules, a return-to-work meeting guide, and review points that open a conversation instead of an automatic warning, plus an adjustments check. Use for "run hr-absence-management", "absence management procedure", "sickness absence policy", "return to work meeting", "pattern of Monday sick days", "absence triggers", "how do I talk about someone's absences", part of the AI for HR Pack by 90n.
 ---
 
 # Absence Management
@@ -71,4 +71,4 @@ Run hr-case-log (Employee Relations Case Log) to record conversations and outcom
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

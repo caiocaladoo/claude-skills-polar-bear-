@@ -1,6 +1,6 @@
 ---
 name: acct-sales-forecast
-description: Builds your sales forecast with deals placed in commit, best case or pipeline by a rule you write, the proof cited per deal, totals from your CRM only, the changes since last week with a reason for each and what is missing to move a deal up. Use for "run acct-sales-forecast", "sales forecast", "forecast call prep", "what should I commit this quarter", "commit best case pipeline", "prepare my forecast for my manager", "forecast categories", "defend my number", part of the Claude for Account Executives Pack by Polar Bear.
+description: Builds your sales forecast with deals placed in commit, best case or pipeline by a rule you write, the proof cited per deal, totals from your CRM only, the changes since last week with a reason for each and what is missing to move a deal up. Use for "run acct-sales-forecast", "sales forecast", "forecast call prep", "what should I commit this quarter", "commit best case pipeline", "prepare my forecast for my manager", "forecast categories", "defend my number", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Sales Forecast
@@ -71,4 +71,4 @@ Run acct-stalled-deals (Stalled Deals Review) to deal with the deals that fell o
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

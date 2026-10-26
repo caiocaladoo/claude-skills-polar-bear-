@@ -1,6 +1,6 @@
 ---
 name: build-prototype-spec
-description: Writes the spec for one prototype, answer first, with problem and evidence, non-goals, numbered requirements that each carry one behaviour and a Given-When-Then check, open questions with an owner and a date, and a dated export kept as the record. Use for "run build-prototype-spec", "write the spec for my prototype", "put what we agreed in writing", "number the requirements", "write a pass or fail check for each requirement", "list the non-goals", "turn my flow into requirements", part of the Claude for Product Builders Pack by Polar Bear.
+description: Writes the spec for one prototype, answer first, with problem and evidence, non-goals, numbered requirements that each carry one behaviour and a Given-When-Then check, open questions with an owner and a date, and a dated export kept as the record. Use for "run build-prototype-spec", "write the spec for my prototype", "put what we agreed in writing", "number the requirements", "write a pass or fail check for each requirement", "list the non-goals", "turn my flow into requirements", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Prototype Spec
@@ -69,4 +69,4 @@ Run build-product-context-file (Product Context File) so Claude uses the product
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

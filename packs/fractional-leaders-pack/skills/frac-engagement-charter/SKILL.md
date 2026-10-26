@@ -1,6 +1,6 @@
 ---
 name: frac-engagement-charter
-description: Drafts the one working page a fractional leader agrees with the CEO, with the single primary outcome, the days and when they fall, decision rights in three lists (you decide, you recommend, stays with the CEO), response times and the urgent route, what you are not doing, review dates and the likely exit. Use for "run frac-engagement-charter", "write an engagement charter", "decision rights for a fractional role", "every decision still goes back to the founder", "rules of engagement with the CEO", "who decides what in my fractional seat", "set response times with my client", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Drafts the one working page a fractional leader agrees with the CEO, with the single primary outcome, the days and when they fall, decision rights in three lists (you decide, you recommend, stays with the CEO), response times and the urgent route, what you are not doing, review dates and the likely exit. Use for "run frac-engagement-charter", "write an engagement charter", "decision rights for a fractional role", "every decision still goes back to the founder", "rules of engagement with the CEO", "who decides what in my fractional seat", "set response times with my client", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Engagement Charter
@@ -69,4 +69,4 @@ Run frac-onboarding-checklist (Fractional Onboarding Checklist) to ask for the a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

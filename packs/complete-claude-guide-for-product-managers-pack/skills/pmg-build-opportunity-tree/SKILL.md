@@ -1,6 +1,6 @@
 ---
 name: pmg-build-opportunity-tree
-description: Builds an opportunity solution tree from one outcome and real interviews, with a target opportunity, three solution ideas, and the riskiest assumption per idea with a test type and the result that would sink it. Use for "run pmg-build-opportunity-tree", "opportunity solution tree", "continuous discovery", "which opportunity should we go after", "map our assumptions", "riskiest assumption", "discovery between sprints", part of The Complete Claude Guide for Product Managers Pack by Polar Bear.
+description: Builds an opportunity solution tree from one outcome and real interviews, with a target opportunity, three solution ideas, and the riskiest assumption per idea with a test type and the result that would sink it. Use for "run pmg-build-opportunity-tree", "opportunity solution tree", "continuous discovery", "which opportunity should we go after", "map our assumptions", "riskiest assumption", "discovery between sprints", part of The Complete Claude Guide for Product Managers Pack by 90n.
 ---
 
 # Build the Opportunity Solution Tree
@@ -69,4 +69,4 @@ Run pmg-triage-feature-requests (Triage the Feature Requests) to sort incoming r
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

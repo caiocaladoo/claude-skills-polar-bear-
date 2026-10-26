@@ -76,4 +76,4 @@ wording is what `review-prepper` enforces later.*
 *No numeric self-ratings. Numbers without calibration produce noise and anchor
 the conversation on the number instead of the work.*
 
-*Part of the Annual Review Cycle Pack by Polar Bear · meet-polar-bear.com*
+*Part of the Annual Review Cycle Pack by 90n · 90n.ai*

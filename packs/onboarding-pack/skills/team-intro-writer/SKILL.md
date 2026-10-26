@@ -1,6 +1,6 @@
 ---
 name: team-intro-writer
-description: Writes the email or message that introduces the new joiner to the whole team, photo included, approved by the joiner, part of the Onboarding Pack by Polar Bear and Terry Mattheoyianni. Use this whenever the user says "run team-intro-writer", "write the intro email for Maria", "announce the new hire to the team", "introduce our new designer", or the team needs to hear who's joining before or as the person walks in. Use it even for "how do I tell everyone she's starting Monday".
+description: Writes the email or message that introduces the new joiner to the whole team, photo included, approved by the joiner, part of the Onboarding Pack by 90n and Terry Mattheoyianni. Use this whenever the user says "run team-intro-writer", "write the intro email for Maria", "announce the new hire to the team", "introduce our new designer", or the team needs to hear who's joining before or as the person walks in. Use it even for "how do I tell everyone she's starting Monday".
 ---
 
 # Team Intro Writer
@@ -51,4 +51,4 @@ The MVP is this message, drafted in minutes, sent by the manager. The AI-extende
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. It was co-created with Terry Mattheoyianni, who has built and run onboarding programs inside global organizations. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).

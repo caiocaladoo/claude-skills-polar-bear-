@@ -1,6 +1,6 @@
 ---
 name: desk-research-digest
-description: Digests what's already known before new research spends anyone's time, part of the Design Thinking Pack by Polar Bear. Use this whenever the user says "run desk-research-digest", "what do we already know", "summarize the existing research", "pull together prior findings", or a discovery is starting and old reports, analytics, and support logs are sitting unread. Use it even for "I think someone studied this before".
+description: Digests what's already known before new research spends anyone's time, part of the Design Thinking Pack by 90n. Use this whenever the user says "run desk-research-digest", "what do we already know", "summarize the existing research", "pull together prior findings", or a discovery is starting and old reports, analytics, and support logs are sitting unread. Use it even for "I think someone studied this before".
 ---
 
 # Desk Research Digest
@@ -25,4 +25,4 @@ Only sources you actually provide go in the digest, and every claim carries its 
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

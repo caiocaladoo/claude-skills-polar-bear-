@@ -1,6 +1,6 @@
 ---
 name: pmjob-referral-ask
-description: Runs a Referral Ask Check on the relationship and the role, says "not yet" plainly when it is, and when ready gives points for asking whether a former colleague would be comfortable referring you, with an easy no and a two line summary they can forward. Use for "run pmjob-referral-ask", "should I ask for a referral", "can I ask a former colleague to refer me", "is it too soon to ask", "how do I ask for a referral", "a role opened where my old manager works", "referral request points", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Runs a Referral Ask Check on the relationship and the role, says "not yet" plainly when it is, and when ready gives points for asking whether a former colleague would be comfortable referring you, with an easy no and a two line summary they can forward. Use for "run pmjob-referral-ask", "should I ask for a referral", "can I ask a former colleague to refer me", "is it too soon to ask", "how do I ask for a referral", "a role opened where my old manager works", "referral request points", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Referral Ask
@@ -69,4 +69,4 @@ Run pmjob-recruiter-screen (Recruiter Screen Prep) to be ready when the process 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

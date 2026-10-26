@@ -1,6 +1,6 @@
 ---
 name: reach-cold-email-outline
-description: Sets up a cold email outline for one person, with a warm path and past thread check, a five-slot frame you fill in your own words, flags per line and one follow-up date. Use for "run reach-cold-email-outline", "cold email outline", "cold email", "first email to a stranger", "how do I structure a cold email", "outreach email frame", "email to someone who does not know me", "cold email without spam", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Sets up a cold email outline for one person, with a warm path and past thread check, a five-slot frame you fill in your own words, flags per line and one follow-up date. Use for "run reach-cold-email-outline", "cold email outline", "cold email", "first email to a stranger", "how do I structure a cold email", "outreach email frame", "email to someone who does not know me", "cold email without spam", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # Cold Email Outline
@@ -70,4 +70,4 @@ Run reach-message-checklist (Message Checklist) on the email you wrote before yo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

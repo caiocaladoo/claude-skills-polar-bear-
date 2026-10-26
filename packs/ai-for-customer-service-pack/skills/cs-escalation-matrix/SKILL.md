@@ -1,6 +1,6 @@
 ---
 name: cs-escalation-matrix
-description: Builds an escalation matrix for a support desk, with support tiers and their entry criteria, an impact and urgency priority grid, triggers, target times and the information each route needs before a ticket moves. Use for "run cs-escalation-matrix", "escalation matrix", "escalation path for support", "who decides on this ticket", "support tiers", "priority matrix for tickets", "stop every ticket landing on me", "tier 1 tier 2 tier 3 rules", part of the AI for Customer Service Pack by Polar Bear.
+description: Builds an escalation matrix for a support desk, with support tiers and their entry criteria, an impact and urgency priority grid, triggers, target times and the information each route needs before a ticket moves. Use for "run cs-escalation-matrix", "escalation matrix", "escalation path for support", "who decides on this ticket", "support tiers", "priority matrix for tickets", "stop every ticket landing on me", "tier 1 tier 2 tier 3 rules", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Escalation Matrix
@@ -68,4 +68,4 @@ Run cs-sla-ola (SLA and OLA Template) to put agreed times on each route.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

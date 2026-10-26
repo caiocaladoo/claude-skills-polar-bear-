@@ -1,6 +1,6 @@
 ---
 name: one-on-one-companion
-description: Briefs a manager before every conversation with a direct report, weekly 1:1s and the annual review conversation alike, part of the Annual Review Cycle Pack by Polar Bear. Use this whenever the user says "run one-on-one-companion", "prep my 1:1 with [name]", "I'm meeting Maria in an hour", "help me prepare the review conversation", or pastes a meeting transcript into a direct report's pinned chat. Use it even for a quick "what should I ask Tomas today".
+description: Briefs a manager before every conversation with a direct report, weekly 1:1s and the annual review conversation alike, part of the Annual Review Cycle Pack by 90n. Use this whenever the user says "run one-on-one-companion", "prep my 1:1 with [name]", "I'm meeting Maria in an hour", "help me prepare the review conversation", or pastes a meeting transcript into a direct report's pinned chat. Use it even for a quick "what should I ask Tomas today".
 ---
 
 # One-on-One Companion
@@ -50,4 +50,4 @@ Timebox the plan to the meeting length the manager has, and if any item is an am
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).
+This pack is made by 90n, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).

@@ -1,6 +1,6 @@
 ---
 name: adopt-speak-up-practice
-description: Runs a short practice round, one turn at a time, for raising an AI concern with someone more senior, then returns comments on the choices made, a revised opening and the next step the person chooses. Use for "run adopt-speak-up-practice", "practise raising my AI concern", "rehearse the conversation with my sponsor", "role-play my manager pushing back", "help me prepare to speak up about AI", "practice round before I raise this", "I have to tell the sponsor tomorrow", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Runs a short practice round, one turn at a time, for raising an AI concern with someone more senior, then returns comments on the choices made, a revised opening and the next step the person chooses. Use for "run adopt-speak-up-practice", "practise raising my AI concern", "rehearse the conversation with my sponsor", "role-play my manager pushing back", "help me prepare to speak up about AI", "practice round before I raise this", "I have to tell the sponsor tomorrow", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # Speak-Up Practice Round
@@ -69,4 +69,4 @@ Run adopt-team-challenge-invitation (Team Challenge Invitation) for the leader's
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

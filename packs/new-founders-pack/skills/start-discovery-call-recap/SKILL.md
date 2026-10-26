@@ -1,6 +1,6 @@
 ---
 name: start-discovery-call-recap
-description: Writes a Discovery Call Recap from your notes or transcript, with the problem and its cost in their words, what they want to be different, how they will decide, the open questions and the agreed next step, as a short email you edit and send. Use for "run start-discovery-call-recap", "recap my discovery call", "write up the call", "follow-up email after the call", "play back what they said", "nobody remembers what we agreed", "summarise my call notes", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Writes a Discovery Call Recap from your notes or transcript, with the problem and its cost in their words, what they want to be different, how they will decide, the open questions and the agreed next step, as a short email you edit and send. Use for "run start-discovery-call-recap", "recap my discovery call", "write up the call", "follow-up email after the call", "play back what they said", "nobody remembers what we agreed", "summarise my call notes", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # Discovery Call Recap
@@ -71,4 +71,4 @@ Run start-first-client-proposal (First Client Proposal) once they have confirmed
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

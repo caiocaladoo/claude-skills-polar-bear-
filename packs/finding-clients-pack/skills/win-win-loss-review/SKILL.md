@@ -1,6 +1,6 @@
 ---
 name: win-win-loss-review
-description: Writes a Win/Loss Review for deals you won or lost, with expected versus actual per deal, what to keep and change, questions to ask the client with their agreement, and patterns across recent deals. Use for "run win-win-loss-review", "win loss review", "why did I lose that pitch", "we went another way", "debrief a lost deal", "what did we do right on that win", "lessons from my last proposals", "ask a client why they said no", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Writes a Win/Loss Review for deals you won or lost, with expected versus actual per deal, what to keep and change, questions to ask the client with their agreement, and patterns across recent deals. Use for "run win-win-loss-review", "win loss review", "why did I lose that pitch", "we went another way", "debrief a lost deal", "what did we do right on that win", "lessons from my last proposals", "ask a client why they said no", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Win/Loss Review
@@ -68,4 +68,4 @@ Run win-past-client-list (Past Client Reconnect List) to turn the lessons and th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

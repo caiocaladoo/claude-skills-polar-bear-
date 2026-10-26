@@ -1,6 +1,6 @@
 ---
 name: ldg-set-the-team-ai-rules
-description: Prepares the L&D team's rules for working with AI, written with the team, producing a use map by task (Claude drafts, a person does, never), a never-put-in list, the check a person runs before anything ships, whose name is on the work, a disclosure line per output type and a review date. Use for "run ldg-set-the-team-ai-rules", "ai policy for l&d", "ai usage guidelines", "team rules for using AI", "AI working agreement", "disclose AI use in training", "what can we put into AI tools", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Prepares the L&D team's rules for working with AI, written with the team, producing a use map by task (Claude drafts, a person does, never), a never-put-in list, the check a person runs before anything ships, whose name is on the work, a disclosure line per output type and a review date. Use for "run ldg-set-the-team-ai-rules", "ai policy for l&d", "ai usage guidelines", "team rules for using AI", "AI working agreement", "disclose AI use in training", "what can we put into AI tools", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Set the Team AI Rules
@@ -70,4 +70,4 @@ Run ldg-question-the-request (Question the Request) to go back to the front door
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

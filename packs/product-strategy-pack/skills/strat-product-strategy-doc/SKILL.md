@@ -1,6 +1,6 @@
 ---
 name: strat-product-strategy-doc
-description: Writes the Product Strategy document a leader signs, two pages at most, starting with a line-by-line check of the current strategy, then a diagnosis with evidence and confidence, a guiding policy with the options it rules out, three to five coherent actions, the top "we will not" lines and the bets. Use for "run strat-product-strategy-doc", "write our product strategy", "we have no strategy to say no against", "everything is high priority", "check our strategy for fluff", "is this a strategy or a list of goals", "turn our goals into a strategy", "strategy document for leadership to sign", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Writes the Product Strategy document a leader signs, two pages at most, starting with a line-by-line check of the current strategy, then a diagnosis with evidence and confidence, a guiding policy with the options it rules out, three to five coherent actions, the top "we will not" lines and the bets. Use for "run strat-product-strategy-doc", "write our product strategy", "we have no strategy to say no against", "everything is high priority", "check our strategy for fluff", "is this a strategy or a list of goals", "turn our goals into a strategy", "strategy document for leadership to sign", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Product Strategy Document
@@ -69,4 +69,4 @@ Run strat-one-page-strategy (One-Page Strategy) to cut the signed strategy to th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

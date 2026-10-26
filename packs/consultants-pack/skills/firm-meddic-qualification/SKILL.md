@@ -1,6 +1,6 @@
 ---
 name: firm-meddic-qualification
-description: Sorts what you know about one opportunity under the MEDDIC letters, with the source of each fact, the unknowns turned into call questions, a fit check against your own practice brief and a fit note you decide on, with no score. Use for "run firm-meddic-qualification", "qualify this opportunity", "is this lead worth a proposal", "MEDDIC this client", "what do I not know about this deal", "interested prospects that never sign", "fit check before I invest a week", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Sorts what you know about one opportunity under the MEDDIC letters, with the source of each fact, the unknowns turned into call questions, a fit check against your own practice brief and a fit note you decide on, with no score. Use for "run firm-meddic-qualification", "qualify this opportunity", "is this lead worth a proposal", "MEDDIC this client", "what do I not know about this deal", "interested prospects that never sign", "fit check before I invest a week", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # MEDDIC Qualification
@@ -65,4 +65,4 @@ Run firm-buying-committee-map (Buying Committee Map) to find the roles behind th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

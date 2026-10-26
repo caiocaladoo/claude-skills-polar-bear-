@@ -1,6 +1,6 @@
 ---
 name: frac-onboarding-checklist
-description: Builds the request list a fractional leader sends before day one, with the documents, the system access, the first-week introductions with one line on why each matters, how the CEO announces your role and authority, the meeting rhythm and the first deliverable with its date. Use for "run frac-onboarding-checklist", "onboarding checklist for a fractional executive", "what to ask for before day one", "still waiting for logins", "nobody told the team who I am", "first week as a fractional leader", "draft the announcement of my role", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Builds the request list a fractional leader sends before day one, with the documents, the system access, the first-week introductions with one line on why each matters, how the CEO announces your role and authority, the meeting rhythm and the first deliverable with its date. Use for "run frac-onboarding-checklist", "onboarding checklist for a fractional executive", "what to ask for before day one", "still waiting for logins", "nobody told the team who I am", "first week as a fractional leader", "draft the announcement of my role", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Fractional Onboarding Checklist
@@ -67,4 +67,4 @@ Run frac-stakeholder-map (Stakeholder Map) to record who the work depends on and
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

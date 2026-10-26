@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "The Onboarding Pack: 12 Claude Skills that carry a new hire from \"yes\" to day 90. Pre-boarding plan, the internal emails that get IT and finance moving, the cultural brief, the welcome pack, the per-joiner checklist and dashboard, the team deck, the intro email, the first goals, the first week, and the joiner's own 90-day companion.",
   "author": {
-    "name": "Polar Bear",
-    "url": "https://meet-polar-bear.com"
+    "name": "90n",
+    "url": "https://90n.ai"
   },
-  "homepage": "https://meet-polar-bear.com/skills/onboarding-pack",
+  "homepage": "https://90n.ai/resources/onboarding-pack",
   "repository": "https://github.com/polar-bear-org/claude-skills",
   "license": "LicenseRef-PolarBear-Internal-Use",
   "keywords": [

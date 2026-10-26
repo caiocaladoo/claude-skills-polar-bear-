@@ -1,6 +1,6 @@
 ---
 name: strat-quarterly-okrs
-description: Writes the quarter's OKRs with one to three objectives tied to strategy actions, outcome key results with baseline, target and source, each marked committed or aspirational, a capacity split, a stop list, and end-of-quarter grading of key results only. Use for "run strat-quarterly-okrs", "write our quarterly OKRs", "quarterly planning", "our OKRs read like a task list", "turn this feature list into key results", "the quarter is filled to the brim", "committed or aspirational key results", "grade our key results", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Writes the quarter's OKRs with one to three objectives tied to strategy actions, outcome key results with baseline, target and source, each marked committed or aspirational, a capacity split, a stop list, and end-of-quarter grading of key results only. Use for "run strat-quarterly-okrs", "write our quarterly OKRs", "quarterly planning", "our OKRs read like a task list", "turn this feature list into key results", "the quarter is filled to the brim", "committed or aspirational key results", "grade our key results", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Quarterly OKRs
@@ -70,4 +70,4 @@ Run strat-product-strategy-doc (Product Strategy Document) to write the argument
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

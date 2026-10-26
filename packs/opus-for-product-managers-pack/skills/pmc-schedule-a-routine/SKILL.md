@@ -1,6 +1,6 @@
 ---
 name: pmc-schedule-a-routine
-description: Specifies a Claude scheduled task that only drafts, producing a routine spec (self-contained prompt, cadence, connectors kept and removed, draft-only rule, where output lands, stop rule) and a first-run review list. Use for "run pmc-schedule-a-routine", "schedule my weekly update draft", "which connectors should this routine not have", "review last night's run", "run this every Friday", "make sure it never posts as me", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Specifies a Claude scheduled task that only drafts, producing a routine spec (self-contained prompt, cadence, connectors kept and removed, draft-only rule, where output lands, stop rule) and a first-run review list. Use for "run pmc-schedule-a-routine", "schedule my weekly update draft", "which connectors should this routine not have", "review last night's run", "run this every Friday", "make sure it never posts as me", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Schedule a Routine Safely
@@ -70,4 +70,4 @@ Run pmc-frame-the-problem (Frame the Problem) to start the cycle with Claude set
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

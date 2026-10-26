@@ -1,6 +1,6 @@
 ---
 name: build-idea-one-pager
-description: Writes an Idea One-Pager with the ask in the first lines (a time box to prototype and access to five real target users), the problem with its evidence source, who it is for and why now, the bet in one paragraph, one success measure, what you will not build and open questions with owners. Use for "run build-idea-one-pager", "write a one-pager for my idea", "I need a go-ahead to prototype", "ask for a week to build a prototype", "turn this chat thread into one page", "pitch this idea on a page", "what am I asking for", "one page idea brief", part of the Claude for Product Builders Pack by Polar Bear.
+description: Writes an Idea One-Pager with the ask in the first lines (a time box to prototype and access to five real target users), the problem with its evidence source, who it is for and why now, the bet in one paragraph, one success measure, what you will not build and open questions with owners. Use for "run build-idea-one-pager", "write a one-pager for my idea", "I need a go-ahead to prototype", "ask for a week to build a prototype", "turn this chat thread into one page", "pitch this idea on a page", "what am I asking for", "one page idea brief", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Idea One-Pager
@@ -68,4 +68,4 @@ Run build-prototype-test-card (Prototype Test Card) to set the pass line before 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

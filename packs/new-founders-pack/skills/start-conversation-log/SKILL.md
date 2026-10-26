@@ -1,6 +1,6 @@
 ---
 name: start-conversation-log
-description: Keeps a private Conversation Log of who you spoke to and when, what they said they need, what you promised and by when, what they promised and the next date, holding facts and promises only with no ratings. Use for "run start-conversation-log", "log this conversation", "what did I promise", "who did I say I would send that to", "personal CRM for a one-person business", "keep track of my conversations", "what is still open from my calls", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Keeps a private Conversation Log of who you spoke to and when, what they said they need, what you promised and by when, what they promised and the next date, holding facts and promises only with no ratings. Use for "run start-conversation-log", "log this conversation", "what did I promise", "who did I say I would send that to", "personal CRM for a one-person business", "keep track of my conversations", "what is still open from my calls", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # Conversation Log
@@ -64,4 +64,4 @@ Run start-monthly-practice-review (Monthly Practice Review) at the end of the mo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: dlead-designer-30-60-90
-description: Builds a Designer 30-60-90 Day Plan with before day one, the first week, 30, 60 and 90 day goals, a buddy, the first critique, the first real piece of work, the first handoff and check-in questions. Use for "run dlead-designer-30-60-90", "30 60 90 plan for a new designer", "designer onboarding plan", "a designer starts in two weeks", "onboard a new product designer", "first week for a new hire", "design team onboarding", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Builds a Designer 30-60-90 Day Plan with before day one, the first week, 30, 60 and 90 day goals, a buddy, the first critique, the first real piece of work, the first handoff and check-in questions. Use for "run dlead-designer-30-60-90", "30 60 90 plan for a new designer", "designer onboarding plan", "a designer starts in two weeks", "onboard a new product designer", "first week for a new hire", "design team onboarding", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Designer 30-60-90 Day Plan
@@ -71,4 +71,4 @@ Run dlead-sbi-feedback-prep (SBI Feedback Prep) for the feedback conversations t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

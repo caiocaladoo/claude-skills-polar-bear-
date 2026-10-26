@@ -1,6 +1,6 @@
 ---
 name: ideation-session-runner
-description: Designs and runs the ideation formats an innovation program needs (a 90-minute pitch hour, a two-day sketch sprint, a worst-idea round, a client-signal harvest), keeps seniority out of selection, and turns the output into idea one-pagers, part of the Innovation Pack by Polar Bear. Use this whenever the user says "run ideation-session-runner", "plan an ideation session", "we have a challenge and a room", "run a pitch day", "turn these ideas into one-pagers", or when a team has sticky notes and no next step. Use it even for "help us brainstorm".
+description: Designs and runs the ideation formats an innovation program needs (a 90-minute pitch hour, a two-day sketch sprint, a worst-idea round, a client-signal harvest), keeps seniority out of selection, and turns the output into idea one-pagers, part of the Innovation Pack by 90n. Use this whenever the user says "run ideation-session-runner", "plan an ideation session", "we have a challenge and a room", "run a pitch day", "turn these ideas into one-pagers", or when a team has sticky notes and no next step. Use it even for "help us brainstorm".
 ---
 
 # Ideation Session Runner
@@ -61,4 +61,4 @@ Extended version: I write the session plan for the chosen format with timings, p
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

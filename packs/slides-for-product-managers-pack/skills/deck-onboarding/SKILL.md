@@ -1,6 +1,6 @@
 ---
 name: deck-onboarding
-description: Builds a Product Onboarding Deck in Claude Slides for new joiners, covering company, product and users, strategy and north star, roadmap now, how we decide, who owns what by role, the first 30 days, and a glossary of where things live, kept current behind one share link. Use for "run deck-onboarding", "onboarding deck for a new PM", "new joiner slides", "product onboarding presentation", "replace our sixty-slide history deck", "first 30 days plan slides", "who owns what slide", "glossary for new starters", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Builds a Product Onboarding Deck in Claude Slides for new joiners, covering company, product and users, strategy and north star, roadmap now, how we decide, who owns what by role, the first 30 days, and a glossary of where things live, kept current behind one share link. Use for "run deck-onboarding", "onboarding deck for a new PM", "new joiner slides", "product onboarding presentation", "replace our sixty-slide history deck", "first 30 days plan slides", "who owns what slide", "glossary for new starters", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Product Onboarding Deck
@@ -68,4 +68,4 @@ Run deck-sprint-review (Sprint Review Deck) so the joiner sees the work in their
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

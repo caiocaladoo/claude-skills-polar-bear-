@@ -1,6 +1,6 @@
 ---
 name: aipm-data-privacy-brief
-description: Drafts an AI Data Privacy Brief with a data flow map from user to model to logs, the personal data in prompts and context with minimisation options, retention and processing region per hop, the vendor terms to read and the questions for legal with the facts attached. Use for "run aipm-data-privacy-brief", "what user data reaches the model", "data flow for our AI feature", "privacy review for an LLM feature", "legal asked about the model's data", "personal data in prompts", "prepare for the privacy review", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Drafts an AI Data Privacy Brief with a data flow map from user to model to logs, the personal data in prompts and context with minimisation options, retention and processing region per hop, the vendor terms to read and the questions for legal with the facts attached. Use for "run aipm-data-privacy-brief", "what user data reaches the model", "data flow for our AI feature", "privacy review for an LLM feature", "legal asked about the model's data", "personal data in prompts", "prepare for the privacy review", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Data Privacy Brief
@@ -68,4 +68,4 @@ Run aipm-system-prompt (System Prompt Brief) to brief the model once the data bo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

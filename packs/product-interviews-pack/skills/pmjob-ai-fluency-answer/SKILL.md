@@ -1,6 +1,6 @@
 ---
 name: pmjob-ai-fluency-answer
-description: Build your answer to "how do you use AI in your work" from two or three real examples, with an example table, a two minute version, a thirty second version and honest answers to the follow-up questions, and no tool list. Use for "run pmjob-ai-fluency-answer", "how do you use AI in your work", "AI fluency interview question", "the ad asks for AI fluency", "I have never had AI in my title", "my AI answer is a list of tools", "prepare my AI answer", "show AI skills as a product manager", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Build your answer to "how do you use AI in your work" from two or three real examples, with an example table, a two minute version, a thirty second version and honest answers to the follow-up questions, and no tool list. Use for "run pmjob-ai-fluency-answer", "how do you use AI in your work", "AI fluency interview question", "the ad asks for AI fluency", "I have never had AI in my title", "my AI answer is a list of tools", "prepare my AI answer", "show AI skills as a product manager", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # AI Fluency Answer
@@ -70,4 +70,4 @@ Run pmjob-ai-work-sample (AI Work Sample) to have something to show.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

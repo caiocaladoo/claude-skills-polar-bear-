@@ -1,6 +1,6 @@
 ---
 name: pmjob-experience-inventory
-description: Interviews you role by role, one question at a time, and writes your Career Evidence Inventory with one evidence row per piece of work, strengths backed by two rows and a do-not-claim list. Use for "run pmjob-experience-inventory", "interview me about my career", "I cannot remember what I did in that role", "list what I have really done", "build my evidence rows", "what did I decide in that job", "career inventory before interviews", "find proof for my resume", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Interviews you role by role, one question at a time, and writes your Career Evidence Inventory with one evidence row per piece of work, strengths backed by two rows and a do-not-claim list. Use for "run pmjob-experience-inventory", "interview me about my career", "I cannot remember what I did in that role", "list what I have really done", "build my evidence rows", "what did I decide in that job", "career inventory before interviews", "find proof for my resume", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Career Evidence Inventory
@@ -67,4 +67,4 @@ Run pmjob-story-bank (Interview Story Bank) to turn the rows into stories you ca
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

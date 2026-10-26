@@ -1,6 +1,6 @@
 ---
 name: pm-pre-mortem
-description: Runs a pre-mortem on a launch or big product decision, producing a failure story, a merged list of reasons it failed, a risk register with owners and early signals, and a go, adjust or stop call. Use for "run pm-pre-mortem", "pre-mortem this launch", "what could go wrong", "risks before we commit", "launch risk register", "premortem workshop", "stress test the plan", part of the AI for Product Management Pack by Polar Bear.
+description: Runs a pre-mortem on a launch or big product decision, producing a failure story, a merged list of reasons it failed, a risk register with owners and early signals, and a go, adjust or stop call. Use for "run pm-pre-mortem", "pre-mortem this launch", "what could go wrong", "risks before we commit", "launch risk register", "premortem workshop", "stress test the plan", part of the AI for Product Management Pack by 90n.
 ---
 
 # Pre-Mortem Analysis
@@ -63,4 +63,4 @@ Run pm-go-to-market-plan (Go-to-Market Plan) to build the launch plan around the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

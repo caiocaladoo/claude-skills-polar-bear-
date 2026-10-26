@@ -1,6 +1,6 @@
 ---
 name: adopt-concern-response-log
-description: Builds a log of the concerns raised about AI, with the substance of each checked on its merits, what changed and what did not and why, an owner and date for each commitment, and a shareable update with identifying details removed. Use for "run adopt-concern-response-log", "what happened to the concerns people raised", "close the loop on AI concerns", "you said we did log for AI", "respond to an anonymous AI concern", "track commitments from the AI feedback session", "update the team on their AI concerns", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Builds a log of the concerns raised about AI, with the substance of each checked on its merits, what changed and what did not and why, an owner and date for each commitment, and a shareable update with identifying details removed. Use for "run adopt-concern-response-log", "what happened to the concerns people raised", "close the loop on AI concerns", "you said we did log for AI", "respond to an anonymous AI concern", "track commitments from the AI feedback session", "update the team on their AI concerns", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # Concern Response Log
@@ -71,4 +71,4 @@ Check-in: on [date], [role] asks whether the work issue improved and whether the
 Run adopt-ai-value-measures (AI Value Measures) to agree what "it worked" will mean before the pilot.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

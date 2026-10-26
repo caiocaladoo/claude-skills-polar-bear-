@@ -1,6 +1,6 @@
 ---
 name: uxr-repository-entry
-description: Writes Research Repository Entries as linked atomic units (experiment, fact, insight, recommendation) with study conditions and date, an anonymised quote per fact, tags from the team's taxonomy, a link to the source study and a review date. Use for "run uxr-repository-entry", "research repository entry", "atomic research", "file these findings", "add to the research repository", "nuggets from this study", "insight database entry", "findings will die in a deck", part of the UX Research with Claude Pack by Polar Bear.
+description: Writes Research Repository Entries as linked atomic units (experiment, fact, insight, recommendation) with study conditions and date, an anonymised quote per fact, tags from the team's taxonomy, a link to the source study and a review date. Use for "run uxr-repository-entry", "research repository entry", "atomic research", "file these findings", "add to the research repository", "nuggets from this study", "insight database entry", "findings will die in a deck", part of the UX Research with Claude Pack by 90n.
 ---
 
 # Research Repository Entry
@@ -70,4 +70,4 @@ Run uxr-tagging-taxonomy (Research Tagging Taxonomy) to keep the tags people sea
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

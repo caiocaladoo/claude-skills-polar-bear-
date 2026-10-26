@@ -1,6 +1,6 @@
 ---
 name: pmjob-negotiation-prep
-description: Prepare one offer conversation from your real alternative, producing what you want and the least you would accept per item, the sourced fact behind each ask, the employer's likely constraints as questions, the order of the call and the short lines you will say yourself. Use for "run pmjob-negotiation-prep", "prepare my offer negotiation", "how do I ask for more", "the offer is good but I should ask", "what is my alternative if this falls through", "negotiate level and scope", "rehearse the offer call", "what do I say to the recruiter about the offer", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Prepare one offer conversation from your real alternative, producing what you want and the least you would accept per item, the sourced fact behind each ask, the employer's likely constraints as questions, the order of the call and the short lines you will say yourself. Use for "run pmjob-negotiation-prep", "prepare my offer negotiation", "how do I ask for more", "the offer is good but I should ask", "what is my alternative if this falls through", "negotiate level and scope", "rehearse the offer call", "what do I say to the recruiter about the offer", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Offer Negotiation Prep
@@ -70,4 +70,4 @@ Run pmjob-30-60-90-plan (30-60-90 Day Plan) to plan the start once you have acce
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

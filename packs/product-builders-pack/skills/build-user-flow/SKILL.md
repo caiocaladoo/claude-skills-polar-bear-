@@ -1,6 +1,6 @@
 ---
 name: build-user-flow
-description: Maps one journey from entry to done as a screen-by-screen flow, with each screen's purpose, the control that leaves it and where that leads, the dead ends, the empty, error and loading state per screen and one large-data case. Use for "run build-user-flow", "list every screen before I build", "what happens after the first click", "map the user flow", "write the wireflow", "which states am I missing", "find the dead ends in my flow", part of the Claude for Product Builders Pack by Polar Bear.
+description: Maps one journey from entry to done as a screen-by-screen flow, with each screen's purpose, the control that leaves it and where that leads, the dead ends, the empty, error and loading state per screen and one large-data case. Use for "run build-user-flow", "list every screen before I build", "what happens after the first click", "map the user flow", "write the wireflow", "which states am I missing", "find the dead ends in my flow", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Screen-by-Screen User Flow
@@ -71,4 +71,4 @@ Run build-prototype-spec (Prototype Spec) to turn the flow into numbered require
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

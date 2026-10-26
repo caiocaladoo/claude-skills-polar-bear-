@@ -45,7 +45,7 @@ Nothing in the pack is legal advice: points on offers, contracts, pay, recording
 
 ## Deliberate design choices
 
-These are Polar Bear's own choices, not findings from the sources.
+These are 90n's own choices, not findings from the sources.
 
 - **The red line.** Claude helps you prepare and practise from work you really did: it never invents a role, a result or a number, it stays out of the live interview, and when an employer asks what you used AI for, you tell them. S1 shows one employer asking the same of its candidates. Making it the rule of every skill, for every employer, is our position.
 - **Evidence rows.** The row with a "how you know" column, the claim map and the do-not-claim list are our own practice methods. No source says they improve interview outcomes.

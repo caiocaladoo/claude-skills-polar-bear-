@@ -1,6 +1,6 @@
 ---
 name: brand-measure-designer
-description: Designs the handful of employer brand measures that work when a firm hires a few people a year, and how to collect each without tracking individuals, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run brand-measure-designer", "is our employer branding working", "employer brand KPIs", "how do we measure the careers page", "metrics for hiring content", or when someone asks whether any of this is worth the time and nobody has an answer. Use it even for a vague "how would we know if this is working".
+description: Designs the handful of employer brand measures that work when a firm hires a few people a year, and how to collect each without tracking individuals, part of the Employer Branding Pack by 90n. Use this whenever the user says "run brand-measure-designer", "is our employer branding working", "employer brand KPIs", "how do we measure the careers page", "metrics for hiring content", or when someone asks whether any of this is worth the time and nobody has an answer. Use it even for a vague "how would we know if this is working".
 ---
 
 # Brand measure designer
@@ -57,4 +57,4 @@ The extended version: I design the collection into the hiring process (the decli
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

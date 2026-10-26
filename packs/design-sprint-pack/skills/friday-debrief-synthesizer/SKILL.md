@@ -1,6 +1,6 @@
 ---
 name: friday-debrief-synthesizer
-description: Turns the five test sessions into an answer, with patterns confirmed by the room, each sprint question marked yes, no or unclear, and an honest statement of what five users can and cannot tell you, part of the Design Sprint Pack by Polar Bear. Use this whenever the user says "run friday-debrief-synthesizer", "synthesize the test sessions", "what did we learn", "debrief the sprint", "did the prototype work", or when the last tester has left and the room needs a conclusion before it goes home. Use it even for a vague ask like "help me write up what happened today".
+description: Turns the five test sessions into an answer, with patterns confirmed by the room, each sprint question marked yes, no or unclear, and an honest statement of what five users can and cannot tell you, part of the Design Sprint Pack by 90n. Use this whenever the user says "run friday-debrief-synthesizer", "synthesize the test sessions", "what did we learn", "debrief the sprint", "did the prototype work", or when the last tester has left and the room needs a conclusion before it goes home. Use it even for a vague ask like "help me write up what happened today".
 ---
 
 # Friday debrief synthesizer
@@ -77,4 +77,4 @@ What I add is the transcript pass and the counting. If you recorded with permiss
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

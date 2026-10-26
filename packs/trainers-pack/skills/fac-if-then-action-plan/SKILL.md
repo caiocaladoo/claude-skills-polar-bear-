@@ -1,6 +1,6 @@
 ---
 name: fac-if-then-action-plan
-description: Builds the action plan page participants fill in the last block of a session, with the blank if-then page, a two-minute script to introduce it and two worked examples from the session's own learning points. Use for "run fac-if-then-action-plan", "if-then plan", "action plan template for training", "implementation intentions", "how to close a training session", "one takeaway each", "commitment page for participants", "nobody remembers their takeaway", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Builds the action plan page participants fill in the last block of a session, with the blank if-then page, a two-minute script to introduce it and two worked examples from the session's own learning points. Use for "run fac-if-then-action-plan", "if-then plan", "action plan template for training", "implementation intentions", "how to close a training session", "one takeaway each", "commitment page for participants", "nobody remembers their takeaway", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # If-Then Action Plan
@@ -70,4 +70,4 @@ Run fac-practice-assignment (Practice Assignment) to give the plan a first real 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

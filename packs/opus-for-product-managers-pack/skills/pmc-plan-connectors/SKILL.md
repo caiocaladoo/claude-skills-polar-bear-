@@ -1,6 +1,6 @@
 ---
 name: pmc-plan-connectors
-description: Plans which Claude connectors to turn on for your product stack, producing a stack map checked against each tool's official directory page, the read and write actions with writes kept off, who enables each one, a setup order and a first-run test per connector. Use for "run pmc-plan-connectors", "what can you connect to", "which write actions should I keep off", "write the request to our admin", "test the analytics connector", "connect Claude to our tools", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Plans which Claude connectors to turn on for your product stack, producing a stack map checked against each tool's official directory page, the read and write actions with writes kept off, who enables each one, a setup order and a first-run test per connector. Use for "run pmc-plan-connectors", "what can you connect to", "which write actions should I keep off", "write the request to our admin", "test the analytics connector", "connect Claude to our tools", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Plan Your Connectors
@@ -64,4 +64,4 @@ Run pmc-schedule-a-routine (Schedule a Routine Safely) to put the connected tool
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

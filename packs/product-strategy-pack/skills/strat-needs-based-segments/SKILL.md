@@ -1,6 +1,6 @@
 ---
 name: strat-needs-based-segments
-description: Draws Needs-Based Segments as job statements with circumstance and trigger, the current alternative, a size signal from aggregate data, an underserved check and the choice of which segment the strategy serves first and which it does not. Use for "run strat-needs-based-segments", "needs-based segmentation", "segment customers by needs", "jobs to be done segments", "which segment do we serve first", "which segment is underserved", "our users means four groups", "who is the strategy for", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Draws Needs-Based Segments as job statements with circumstance and trigger, the current alternative, a size signal from aggregate data, an underserved check and the choice of which segment the strategy serves first and which it does not. Use for "run strat-needs-based-segments", "needs-based segmentation", "segment customers by needs", "jobs to be done segments", "which segment do we serve first", "which segment is underserved", "our users means four groups", "who is the strategy for", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Needs-Based Segmentation
@@ -67,4 +67,4 @@ Run strat-opportunity-solution-tree (Opportunity Solution Tree) to map what the 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

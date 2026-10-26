@@ -1,6 +1,6 @@
 ---
 name: experiment-results-reader
-description: Reads an experiment's results against the thresholds written on its card, records what was learned, and prepares a scale, pivot, persevere, or kill recommendation for named humans to decide on, part of the Innovation Pack by Polar Bear. Use this whenever the user says "run experiment-results-reader", "read these results", "the landing page got X signups, is that good", "pivot or persevere", "what did we learn from the test", or when results are in and the room is arguing about what they mean. Use it even for "the experiment is done, now what".
+description: Reads an experiment's results against the thresholds written on its card, records what was learned, and prepares a scale, pivot, persevere, or kill recommendation for named humans to decide on, part of the Innovation Pack by 90n. Use this whenever the user says "run experiment-results-reader", "read these results", "the landing page got X signups, is that good", "pivot or persevere", "what did we learn from the test", or when results are in and the room is arguing about what they mean. Use it even for "the experiment is done, now what".
 ---
 
 # Experiment Results Reader
@@ -53,4 +53,4 @@ Extended version: I read the raw results, check the sample against the card, com
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

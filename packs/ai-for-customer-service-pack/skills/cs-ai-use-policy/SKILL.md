@@ -1,6 +1,6 @@
 ---
 name: cs-ai-use-policy
-description: Writes a support team AI use policy, producing a list of useful AI tasks with their risks, customer-data and send rules, disclosure wording and a review log. Use for "run cs-ai-use-policy", "AI use policy for support", "what can my team use AI for", "rules for AI drafted replies", "can agents paste customer data into AI", "AI disclosure wording", "leadership is watching who uses AI", part of the AI for Customer Service Pack by Polar Bear.
+description: Writes a support team AI use policy, producing a list of useful AI tasks with their risks, customer-data and send rules, disclosure wording and a review log. Use for "run cs-ai-use-policy", "AI use policy for support", "what can my team use AI for", "rules for AI drafted replies", "can agents paste customer data into AI", "AI disclosure wording", "leadership is watching who uses AI", part of the AI for Customer Service Pack by 90n.
 ---
 
 # AI Use Policy
@@ -69,4 +69,4 @@ Run cs-qa-scorecard (QA Scorecard) to review AI-assisted replies with the same r
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

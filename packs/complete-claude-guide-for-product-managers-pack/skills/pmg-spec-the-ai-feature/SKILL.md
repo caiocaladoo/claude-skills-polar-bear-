@@ -1,6 +1,6 @@
 ---
 name: pmg-spec-the-ai-feature
-description: Writes an AI Feature Spec with the task in one line, specific and measurable success criteria, an acceptable error rate set by a named person, an eval set plan, the human fallback and the launch bar. Use for "run pmg-spec-the-ai-feature", "spec an AI feature", "eval plan for this feature", "what error rate is acceptable", "success criteria for the model", "a prompt change broke another case", "when is the AI feature ready to launch", part of The Complete Claude Guide for Product Managers Pack by Polar Bear.
+description: Writes an AI Feature Spec with the task in one line, specific and measurable success criteria, an acceptable error rate set by a named person, an eval set plan, the human fallback and the launch bar. Use for "run pmg-spec-the-ai-feature", "spec an AI feature", "eval plan for this feature", "what error rate is acceptable", "success criteria for the model", "a prompt change broke another case", "when is the AI feature ready to launch", part of The Complete Claude Guide for Product Managers Pack by 90n.
 ---
 
 # Spec the AI Feature
@@ -66,4 +66,4 @@ Run pmg-build-story-map (Build the Story Map) to lay the work out along the user
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

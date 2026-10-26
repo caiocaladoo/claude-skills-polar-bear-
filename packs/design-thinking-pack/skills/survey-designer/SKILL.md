@@ -1,6 +1,6 @@
 ---
 name: survey-designer
-description: Designs short unbiased surveys that measure instead of flatter, part of the Design Thinking Pack by Polar Bear. Use this whenever the user says "run survey-designer", "write a survey", "we want to poll our users", "help me make a questionnaire", or someone wants numbers from many users and the draft questions all start with "don't you agree". Use it even for "let's just send a quick survey".
+description: Designs short unbiased surveys that measure instead of flatter, part of the Design Thinking Pack by 90n. Use this whenever the user says "run survey-designer", "write a survey", "we want to poll our users", "help me make a questionnaire", or someone wants numbers from many users and the draft questions all start with "don't you agree". Use it even for "let's just send a quick survey".
 ---
 
 # Survey Designer
@@ -26,4 +26,4 @@ A survey samples real users; it never simulates them. I don't generate fake resp
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

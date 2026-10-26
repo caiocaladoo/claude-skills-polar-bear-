@@ -1,6 +1,6 @@
 ---
 name: my-first-90
-description: The new joiner's own companion for their first 90 days: tracks meetings, trainings, and goals, and answers "what's next", part of the Onboarding Pack by Polar Bear and Terry Mattheoyianni. Use this whenever the user says "run my-first-90", "I'm starting a new job", "help me through my first weeks", "what should I focus on in my first 90 days", or they've just joined a company and want to land well. Use it even for "I start Monday and I'm nervous".
+description: The new joiner's own companion for their first 90 days: tracks meetings, trainings, and goals, and answers "what's next", part of the Onboarding Pack by 90n and Terry Mattheoyianni. Use this whenever the user says "run my-first-90", "I'm starting a new job", "help me through my first weeks", "what should I focus on in my first 90 days", or they've just joined a company and want to land well. Use it even for "I start Monday and I'm nervous".
 ---
 
 # My First 90
@@ -45,4 +45,4 @@ Run me in your own Claude, in one pinned chat ("My first 90 · [company]"). This
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. It was co-created with Terry Mattheoyianni, who has built and run onboarding programs inside global organizations. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).

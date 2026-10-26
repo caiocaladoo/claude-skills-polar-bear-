@@ -1,6 +1,6 @@
 ---
 name: build-experiment-design
-description: Plans a controlled experiment for the version engineers build and run on real traffic, producing a hypothesis, one primary metric with guardrails, a sample and duration check from your own numbers and a decision rule written before launch. Use for "run build-experiment-design", "plan the A/B test for the built version", "will the built feature move the number", "is our traffic big enough for a test", "how long should the experiment run", "write the decision rule before launch", "what are our guardrail metrics", part of the Claude for Product Builders Pack by Polar Bear.
+description: Plans a controlled experiment for the version engineers build and run on real traffic, producing a hypothesis, one primary metric with guardrails, a sample and duration check from your own numbers and a decision rule written before launch. Use for "run build-experiment-design", "plan the A/B test for the built version", "will the built feature move the number", "is our traffic big enough for a test", "how long should the experiment run", "write the decision rule before launch", "what are our guardrail metrics", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Experiment Design Plan
@@ -69,4 +69,4 @@ Run build-routine-skill (Build Routine Skill) to turn the steps you repeated on 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

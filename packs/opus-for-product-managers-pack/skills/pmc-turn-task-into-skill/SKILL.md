@@ -1,6 +1,6 @@
 ---
 name: pmc-turn-task-into-skill
-description: Turns a prompt you paste every week into a Claude skill, producing a SKILL.md draft, three test inputs from past work and a before and after comparison against outputs you already approved. Use for "run pmc-turn-task-into-skill", "turn this prompt into a skill", "make a skill for release notes", "test this skill on last month's updates", "why does this skill keep missing", "I paste the same prompt every Friday", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Turns a prompt you paste every week into a Claude skill, producing a SKILL.md draft, three test inputs from past work and a before and after comparison against outputs you already approved. Use for "run pmc-turn-task-into-skill", "turn this prompt into a skill", "make a skill for release notes", "test this skill on last month's updates", "why does this skill keep missing", "I paste the same prompt every Friday", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Turn a Repeat Task Into a Skill
@@ -68,4 +68,4 @@ Run pmc-plan-connectors (Plan Your Connectors) to feed the skill live inputs.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

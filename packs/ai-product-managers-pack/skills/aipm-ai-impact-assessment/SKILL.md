@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-impact-assessment
-description: Drafts an AI Impact Assessment covering who is affected and how, intended use and foreseeable misuse, data used, human oversight, mitigations and residual risk with a named owner, with every legal point marked as a question for an adviser. Use for "run aipm-ai-impact-assessment", "AI impact assessment", "algorithmic impact assessment", "the customer wants an impact assessment", "foreseeable misuse of our AI feature", "who does this feature affect", "residual risk sign-off", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Drafts an AI Impact Assessment covering who is affected and how, intended use and foreseeable misuse, data used, human oversight, mitigations and residual risk with a named owner, with every legal point marked as a question for an adviser. Use for "run aipm-ai-impact-assessment", "AI impact assessment", "algorithmic impact assessment", "the customer wants an impact assessment", "foreseeable misuse of our AI feature", "who does this feature affect", "residual risk sign-off", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Impact Assessment
@@ -70,4 +70,4 @@ Run aipm-ai-risk-register (AI Risk Register) to turn residual risks into owned e
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

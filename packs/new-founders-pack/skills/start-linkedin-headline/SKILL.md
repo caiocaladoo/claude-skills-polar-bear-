@@ -1,6 +1,6 @@
 ---
 name: start-linkedin-headline
-description: Drafts five LinkedIn Headline options from your positioning, with the buyer words behind them and where each came from, a character count against your editor's limit, a read-aloud test and the one you pick. Use for "run start-linkedin-headline", "rewrite my LinkedIn headline", "my headline still says my old job", "headline for a new founder", "my headline just says Founder", "what should my LinkedIn headline say", "headline options from my positioning", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Drafts five LinkedIn Headline options from your positioning, with the buyer words behind them and where each came from, a character count against your editor's limit, a read-aloud test and the one you pick. Use for "run start-linkedin-headline", "rewrite my LinkedIn headline", "my headline still says my old job", "headline for a new founder", "my headline just says Founder", "what should my LinkedIn headline say", "headline options from my positioning", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # LinkedIn Headline
@@ -65,4 +65,4 @@ Run start-linkedin-about-section (LinkedIn About Section) to back the headline w
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

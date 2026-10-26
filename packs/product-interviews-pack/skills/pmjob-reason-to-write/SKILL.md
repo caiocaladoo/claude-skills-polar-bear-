@@ -1,6 +1,6 @@
 ---
 name: pmjob-reason-to-write
-description: Finds one honest reason to get back in touch with each former colleague, manager or partner on your list, with why it fits the relationship, what not to ask yet, and points for a short message you write yourself. Use for "run pmjob-reason-to-write", "we have not spoken in years", "how do I reconnect with a former colleague", "every draft turns into an ask", "what do I say to my old manager", "reach out without asking for a job", "reason to message someone", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Finds one honest reason to get back in touch with each former colleague, manager or partner on your list, with why it fits the relationship, what not to ask yet, and points for a short message you write yourself. Use for "run pmjob-reason-to-write", "we have not spoken in years", "how do I reconnect with a former colleague", "every draft turns into an ask", "what do I say to my old manager", "reach out without asking for a job", "reason to message someone", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Reason to Write
@@ -62,4 +62,4 @@ Run pmjob-informational-questions (Informational Interview Questions) to prepare
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

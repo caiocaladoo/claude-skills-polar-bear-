@@ -1,6 +1,6 @@
 ---
 name: price-outcome-based-pricing
-description: Drafts an outcome-based pricing plan that tests whether a result can be measured and attributed fairly, with the outcome metric, baseline, control map, attribution rule, base fee plus outcome component, cap and floor, measurement window, dispute rule and when not to do it. Use for "run price-outcome-based-pricing", "the client wants to pay for results", "pay on outcome", "success fee", "gain share", "performance-based fee", "can I price on this result", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Drafts an outcome-based pricing plan that tests whether a result can be measured and attributed fairly, with the outcome metric, baseline, control map, attribution rule, base fee plus outcome component, cap and floor, measurement window, dispute rule and when not to do it. Use for "run price-outcome-based-pricing", "the client wants to pay for results", "pay on outcome", "success fee", "gain share", "performance-based fee", "can I price on this result", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Outcome-Based Pricing Plan
@@ -70,4 +70,4 @@ Run price-three-option-proposal (Three-Option Proposal) to present it as an opti
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

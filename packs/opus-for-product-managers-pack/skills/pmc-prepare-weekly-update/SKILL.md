@@ -1,6 +1,6 @@
 ---
 name: pmc-prepare-weekly-update
-description: Drafts the Friday Weekly Product Update from tickets moved, things shipped, metric changes and decisions made in chat, with a headline, what changed, at risk, what I need from you, links, and one cut per audience, never sent by Claude. Use for "run pmc-prepare-weekly-update", "draft my weekly update from Linear and Slack", "weekly product update", "Friday status update", "make a short cut for execs and a longer one for the team", "what should be in at risk this week", "status update nobody reads", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Drafts the Friday Weekly Product Update from tickets moved, things shipped, metric changes and decisions made in chat, with a headline, what changed, at risk, what I need from you, links, and one cut per audience, never sent by Claude. Use for "run pmc-prepare-weekly-update", "draft my weekly update from Linear and Slack", "weekly product update", "Friday status update", "make a short cut for execs and a longer one for the team", "what should be in at risk this week", "status update nobody reads", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Prepare the Weekly Update
@@ -69,4 +69,4 @@ Run pmc-prep-for-meeting (Prep for the Meeting) to prepare the meetings the upda
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

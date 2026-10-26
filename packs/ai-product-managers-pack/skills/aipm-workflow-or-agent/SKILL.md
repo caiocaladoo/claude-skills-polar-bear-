@@ -1,6 +1,6 @@
 ---
 name: aipm-workflow-or-agent
-description: Writes a Workflow or Agent Decision comparing the candidate patterns from a single call to an autonomous agent, with cost, latency and failure trade-offs, the simplest pattern that passes and the trigger that would justify the next step up. Use for "run aipm-workflow-or-agent", "do we need an agent", "workflow vs agent", "agent or prompt chain", "agentic architecture choice", "the team wants an agent", "simplest AI pattern", "router or orchestrator", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Writes a Workflow or Agent Decision comparing the candidate patterns from a single call to an autonomous agent, with cost, latency and failure trade-offs, the simplest pattern that passes and the trigger that would justify the next step up. Use for "run aipm-workflow-or-agent", "do we need an agent", "workflow vs agent", "agent or prompt chain", "agentic architecture choice", "the team wants an agent", "simplest AI pattern", "router or orchestrator", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # Workflow or Agent Decision
@@ -63,4 +63,4 @@ Run aipm-ai-model-selection (AI Model Selection) to pick the model for each step
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

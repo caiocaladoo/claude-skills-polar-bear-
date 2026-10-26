@@ -1,6 +1,6 @@
 ---
 name: deck-product-strategy
-description: Builds a product strategy deck in Claude Slides that moves from what is to what could be, names the diagnosis, the guiding policy and two to four coherent actions, states what we will not do and how we will know, and ends on the endorsement asked. Use for "run deck-product-strategy", "product strategy deck", "strategy slides for leadership", "we need a strategy to say no against", "diagnosis and guiding policy", "strategy kernel deck", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Builds a product strategy deck in Claude Slides that moves from what is to what could be, names the diagnosis, the guiding policy and two to four coherent actions, states what we will not do and how we will know, and ends on the endorsement asked. Use for "run deck-product-strategy", "product strategy deck", "strategy slides for leadership", "we need a strategy to say no against", "diagnosis and guiding policy", "strategy kernel deck", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Product Strategy Deck
@@ -69,4 +69,4 @@ Run deck-qbr (Quarterly Business Review Deck) to report each quarter against thi
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

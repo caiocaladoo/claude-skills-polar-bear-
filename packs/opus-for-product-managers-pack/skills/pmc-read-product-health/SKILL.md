@@ -1,6 +1,6 @@
 ---
 name: pmc-read-product-health
-description: Builds a Product Health Read across usage, quality, revenue signals and feedback, each line with its source and date, plus what changed since last quarter and what is still unknown. Use for "run pmc-read-product-health", "health read of the product", "what state is the product in", "what changed since last quarter", "read Amplitude, Jira and Intercom for me", "I am new to this product", "what can't we tell from the data", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Builds a Product Health Read across usage, quality, revenue signals and feedback, each line with its source and date, plus what changed since last quarter and what is still unknown. Use for "run pmc-read-product-health", "health read of the product", "what state is the product in", "what changed since last quarter", "read Amplitude, Jira and Intercom for me", "I am new to this product", "what can't we tell from the data", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Read the Product's Health
@@ -68,4 +68,4 @@ Run pmc-map-the-stakeholders (Map the Stakeholders) to know who cares about what
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

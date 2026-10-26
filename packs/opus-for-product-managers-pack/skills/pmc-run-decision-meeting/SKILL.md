@@ -1,6 +1,6 @@
 ---
 name: pmc-run-decision-meeting
-description: Plans and records a meeting built around one decision, producing the agenda with DACI roles and the pre-read, the way disagreement is recorded, and a decision record drafted in Claude Docs for you to send after. Use for "run pmc-run-decision-meeting", "plan a 45-minute meeting to decide on the pricing change", "who is the approver and who is only informed", "write the decision record from these notes", "meetings end with let's take this offline", "set up a DACI", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Plans and records a meeting built around one decision, producing the agenda with DACI roles and the pre-read, the way disagreement is recorded, and a decision record drafted in Claude Docs for you to send after. Use for "run pmc-run-decision-meeting", "plan a 45-minute meeting to decide on the pricing change", "who is the approver and who is only informed", "write the decision record from these notes", "meetings end with let's take this offline", "set up a DACI", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Run the Decision Meeting
@@ -70,4 +70,4 @@ Run pmc-morning-brief (Build the Morning Brief) to start running the week with t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

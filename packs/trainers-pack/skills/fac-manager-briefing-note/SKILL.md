@@ -1,6 +1,6 @@
 ---
 name: fac-manager-briefing-note
-description: Writes two short messages to participants' managers, one before the session and one after, each with what it covers in three lines, one question to ask and one thing to make room for. Use for "run fac-manager-briefing-note", "manager briefing before training", "email to managers about training", "note for line managers", "what managers should know about the workshop", "manager support for training", "the manager has no idea what the session was for", "message to managers after training", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Writes two short messages to participants' managers, one before the session and one after, each with what it covers in three lines, one question to ask and one thing to make room for. Use for "run fac-manager-briefing-note", "manager briefing before training", "email to managers about training", "note for line managers", "what managers should know about the workshop", "manager support for training", "the manager has no idea what the session was for", "message to managers after training", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Manager Briefing Note
@@ -68,4 +68,4 @@ Run fac-manager-check-in-guide (Manager Check-In Guide) to prepare more, where m
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

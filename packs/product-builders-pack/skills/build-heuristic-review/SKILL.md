@@ -1,6 +1,6 @@
 ---
 name: build-heuristic-review
-description: Walks your prototype against the 10 usability heuristics and writes up each problem with its screen and a proposed severity, an over-design check, a short accessibility pass and a ranked fix list. Use for "run build-heuristic-review", "review my prototype", "heuristic evaluation of these screens", "what is wrong with this prototype", "check usability before testing", "is this too cluttered", "quick accessibility check", "critique my screens", part of the Claude for Product Builders Pack by Polar Bear.
+description: Walks your prototype against the 10 usability heuristics and writes up each problem with its screen and a proposed severity, an over-design check, a short accessibility pass and a ranked fix list. Use for "run build-heuristic-review", "review my prototype", "heuristic evaluation of these screens", "what is wrong with this prototype", "check usability before testing", "is this too cluttered", "quick accessibility check", "critique my screens", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Prototype Heuristic Review
@@ -69,4 +69,4 @@ Run build-claude-code-setup (Claude Code Setup) if the test needs a working vers
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

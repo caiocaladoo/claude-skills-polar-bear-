@@ -1,6 +1,6 @@
 ---
 name: doc-template-kit
-description: Turns your team's PRD, memo and update templates into a reusable kit of outlines with a rule per section and a filled sample for each, so Claude keeps your headings. Use for "run doc-template-kit", "Claude ignores our template", "use our PRD template", "turn our templates into a kit", "keep our headings", "section rules for our memo", "fill our Word template", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Turns your team's PRD, memo and update templates into a reusable kit of outlines with a rule per section and a filled sample for each, so Claude keeps your headings. Use for "run doc-template-kit", "Claude ignores our template", "use our PRD template", "turn our templates into a kit", "keep our headings", "section rules for our memo", "fill our Word template", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Doc Template Kit
@@ -65,4 +65,4 @@ Run doc-brief (Doc Brief) to start the first document from a six-line brief.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

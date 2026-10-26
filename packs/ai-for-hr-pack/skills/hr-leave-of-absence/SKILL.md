@@ -1,6 +1,6 @@
 ---
 name: hr-leave-of-absence
-description: Builds a Leave of Absence Case Plan for one person's leave, with the eligibility points to confirm, notices, contact, cover and return, plus the letters to the employee and the questions for the leave administrator. Use for "run hr-leave-of-absence", "leave of absence plan", "someone is going on FMLA", "plan this medical leave", "letters for someone on leave", "return from leave", "restructure during leave", "our leave administrator got it wrong", part of the AI for HR Pack by Polar Bear.
+description: Builds a Leave of Absence Case Plan for one person's leave, with the eligibility points to confirm, notices, contact, cover and return, plus the letters to the employee and the questions for the leave administrator. Use for "run hr-leave-of-absence", "leave of absence plan", "someone is going on FMLA", "plan this medical leave", "letters for someone on leave", "return from leave", "restructure during leave", "our leave administrator got it wrong", part of the AI for HR Pack by 90n.
 ---
 
 # Leave of Absence Plan
@@ -70,4 +70,4 @@ Run hr-accommodation-process (Reasonable Accommodation Process) if the return ne
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

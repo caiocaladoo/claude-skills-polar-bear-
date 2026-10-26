@@ -1,6 +1,6 @@
 ---
 name: frac-weekly-review
-description: Runs a weekly review across all the clients of a fractional leader, with expected against actual per client and the evidence, days used against days agreed, strategic against reactive time, what you would change, one thing to drop or renegotiate and next week's short list. Use for "run frac-weekly-review", "run my weekly review", "Friday review across clients", "which client got more than they pay for", "where did my week go", "plan next week across my clients", "weekly reset for fractional work", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Runs a weekly review across all the clients of a fractional leader, with expected against actual per client and the evidence, days used against days agreed, strategic against reactive time, what you would change, one thing to drop or renegotiate and next week's short list. Use for "run frac-weekly-review", "run my weekly review", "Friday review across clients", "which client got more than they pay for", "where did my week go", "plan next week across my clients", "weekly reset for fractional work", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Weekly Review Across Clients
@@ -71,4 +71,4 @@ Run frac-weekly-ceo-update (Weekly CEO Update) to turn one client's row into the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

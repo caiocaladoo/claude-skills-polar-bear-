@@ -1,6 +1,6 @@
 ---
 name: firm-statement-of-work
-description: Writes a results-based statement of work, with objectives as results, deliverables each with an acceptance criterion and an accepting role, a dated timeline, client responsibilities, assumptions and the won't list word for word, and change control for any new request including ones the client's AI suggests, with contract terms left as placeholders. Use for "run firm-statement-of-work", "write the statement of work", "SOW for this engagement", "acceptance criteria for my deliverables", "stop scope creep before it starts", "change control wording", "scope document the client can sign", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Writes a results-based statement of work, with objectives as results, deliverables each with an acceptance criterion and an accepting role, a dated timeline, client responsibilities, assumptions and the won't list word for word, and change control for any new request including ones the client's AI suggests, with contract terms left as placeholders. Use for "run firm-statement-of-work", "write the statement of work", "SOW for this engagement", "acceptance criteria for my deliverables", "stop scope creep before it starts", "change control wording", "scope document the client can sign", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Statement of Work
@@ -69,4 +69,4 @@ Run firm-proposal-red-team (Proposal Red Team Review) to have the whole draft re
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

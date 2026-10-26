@@ -1,6 +1,6 @@
 ---
 name: start-one-page-offer
-description: Writes a One-Page Offer a contact can forward, with who it is for, the problem in their words, the offer and what they get, one proof you may share and how to start, ready to export as a document or PDF. Use for "run start-one-page-offer", "send me something I can pass on", "one pager for my practice", "offer sheet", "I only have a CV to send", "write my one page offer", "something a contact can forward", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Writes a One-Page Offer a contact can forward, with who it is for, the problem in their words, the offer and what they get, one proof you may share and how to start, ready to export as a document or PDF. Use for "run start-one-page-offer", "send me something I can pass on", "one pager for my practice", "offer sheet", "I only have a CV to send", "write my one page offer", "something a contact can forward", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # One-Page Offer
@@ -71,4 +71,4 @@ Run start-former-employer-terms (Former Employer Terms Check) before you send it
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

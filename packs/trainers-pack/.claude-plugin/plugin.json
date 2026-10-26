@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "Claude for Trainers and Facilitators: 32 Claude skills for one session or programme, from the first brief to the follow-up weeks later, in seven stages: frame it with the purpose brief, the sponsor call and the participant survey; design the session plan, the agenda, the time budget, the activities, the role plays and the virtual version; prepare the invitation, the run sheet, the facilitator guide, the slides and the handout; run it with openers, agreements and consent, a difficult moments plan, debrief questions and the wall capture; make it stick with the action plan, the practice task, follow-up messages, spaced recall and two skills for managers; review it with the feedback form, the summary, the retro and the sponsor debrief; then the proposal, the programme and the handover. For corporate trainers, facilitators and independent consultants who run workshops. Claude prepares the session and the follow-up; you read the room and decide what happens in it, no participant is ever graded, ranked or profiled, and nothing is recorded without their consent.",
   "author": {
-    "name": "Polar Bear",
-    "url": "https://meet-polar-bear.com"
+    "name": "90n",
+    "url": "https://90n.ai"
   },
-  "homepage": "https://meet-polar-bear.com/skills/trainers-pack",
+  "homepage": "https://90n.ai/resources/trainers-pack",
   "repository": "https://github.com/polar-bear-org/claude-skills",
   "license": "LicenseRef-PolarBear-Internal-Use",
   "keywords": [

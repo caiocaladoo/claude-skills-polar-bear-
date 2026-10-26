@@ -1,6 +1,6 @@
 ---
 name: frac-week-plan
-description: Designs a week template for a fractional leader with several clients, by client day or half-day, with no more than two client contexts in a day, focus blocks, solo work placed right after each client call, one daily triage slot, a buffer and the published version each client sees. Use for "run frac-week-plan", "plan my week across clients", "managing multiple clients", "I switch between three companies before lunch", "theme days for my clients", "week template for fractional work", "how do I structure my week with several clients", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Designs a week template for a fractional leader with several clients, by client day or half-day, with no more than two client contexts in a day, focus blocks, solo work placed right after each client call, one daily triage slot, a buffer and the published version each client sees. Use for "run frac-week-plan", "plan my week across clients", "managing multiple clients", "I switch between three companies before lunch", "theme days for my clients", "week template for fractional work", "how do I structure my week with several clients", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Week Plan Across Clients
@@ -71,4 +71,4 @@ Run frac-client-log (Client Log) to keep each client's context ready for the sta
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

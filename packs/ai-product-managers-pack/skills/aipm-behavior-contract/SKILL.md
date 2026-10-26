@@ -1,6 +1,6 @@
 ---
 name: aipm-behavior-contract
-description: Writes an AI Behavior Contract of must, must never and when-unsure lines, each as a Given-When-Then scenario with a pass rate over repeated runs set by a named person, a guardrail list for what the prompt alone cannot enforce, and a tag to the eval that checks each line. Use for "run aipm-behavior-contract", "behavior spec for our AI", "must never rules for the assistant", "Given When Then for an LLM", "turn helpful and safe into tests", "what should the bot refuse", "guardrails spec", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Writes an AI Behavior Contract of must, must never and when-unsure lines, each as a Given-When-Then scenario with a pass rate over repeated runs set by a named person, a guardrail list for what the prompt alone cannot enforce, and a tag to the eval that checks each line. Use for "run aipm-behavior-contract", "behavior spec for our AI", "must never rules for the assistant", "Given When Then for an LLM", "turn helpful and safe into tests", "what should the bot refuse", "guardrails spec", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Behavior Contract
@@ -67,4 +67,4 @@ Run aipm-human-in-the-loop (Human-in-the-Loop Design) to design where a person s
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

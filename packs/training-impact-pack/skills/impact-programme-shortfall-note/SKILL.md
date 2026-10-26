@@ -1,6 +1,6 @@
 ---
 name: impact-programme-shortfall-note
-description: Drafts a plain account of a programme that missed its measure, producing what was expected beside what the evidence shows, the likely reasons sorted into five kinds, what stops now and what was learned for the next request. Use for "run impact-programme-shortfall-note", "programme shortfall note", "the training did not work", "programme missed its target", "how to report a failed training", "tell the sponsor it did not work", "lessons from a programme that missed", "blameless programme review", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Drafts a plain account of a programme that missed its measure, producing what was expected beside what the evidence shows, the likely reasons sorted into five kinds, what stops now and what was learned for the next request. Use for "run impact-programme-shortfall-note", "programme shortfall note", "the training did not work", "programme missed its target", "how to report a failed training", "tell the sponsor it did not work", "lessons from a programme that missed", "blameless programme review", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Programme Shortfall Note
@@ -70,4 +70,4 @@ Run impact-needs-assessment-update (Training Needs Assessment Update) to carry w
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

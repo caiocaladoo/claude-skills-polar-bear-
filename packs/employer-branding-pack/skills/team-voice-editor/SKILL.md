@@ -1,6 +1,6 @@
 ---
 name: team-voice-editor
-description: Helps a colleague who wants to write about the work by interviewing them, structuring their own answers into a draft, marking what was rearranged, and handing it back to them to finish, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run team-voice-editor", "help Sam write a LinkedIn post about the project", "our developers should post more", "employee advocacy", "turn this into a post in my own voice", or when someone on the team is willing to write about working here and does not know where to start. Use it even for a vague "how do we get the team talking about us online".
+description: Helps a colleague who wants to write about the work by interviewing them, structuring their own answers into a draft, marking what was rearranged, and handing it back to them to finish, part of the Employer Branding Pack by 90n. Use this whenever the user says "run team-voice-editor", "help Sam write a LinkedIn post about the project", "our developers should post more", "employee advocacy", "turn this into a post in my own voice", or when someone on the team is willing to write about working here and does not know where to start. Use it even for a vague "how do we get the team talking about us online".
 ---
 
 # Team voice editor
@@ -49,4 +49,4 @@ The extended version: I interview, shape with marks, and hand back. Cost: the pe
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

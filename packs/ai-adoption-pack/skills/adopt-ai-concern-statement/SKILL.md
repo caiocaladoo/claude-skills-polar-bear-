@@ -1,6 +1,6 @@
 ---
 name: adopt-ai-concern-statement
-description: Puts one person's concern about how AI is used at work into their own words as a four-part statement, with the question to ask a specialist and a choice of route including a private one. Use for "run adopt-ai-concern-statement", "help me raise a concern about AI", "how do I say this without sounding against AI", "word my concern about the AI rollout", "I see a problem with how we use AI", "write up my AI concern", "who do I raise an AI concern with", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Puts one person's concern about how AI is used at work into their own words as a four-part statement, with the question to ask a specialist and a choice of route including a private one. Use for "run adopt-ai-concern-statement", "help me raise a concern about AI", "how do I say this without sounding against AI", "word my concern about the AI rollout", "I see a problem with how we use AI", "write up my AI concern", "who do I raise an AI concern with", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # AI Concern Statement
@@ -71,4 +71,4 @@ Run adopt-speak-up-practice (Speak-Up Practice Round) to rehearse saying it befo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

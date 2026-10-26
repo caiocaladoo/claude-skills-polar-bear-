@@ -1,6 +1,6 @@
 ---
 name: fac-session-openers
-description: Drafts three session openers tied to the first content block, each with its question, steps, a way to take part without personal disclosure and a virtual variant, plus the one to drop for a senior, tired or sent room. Use for "run fac-session-openers", "icebreakers", "icebreaker ideas for a workshop", "an opener that does not make people cringe", "how do I start this session", "check-in question for my training", "virtual icebreaker", "opening activity for a senior group", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Drafts three session openers tied to the first content block, each with its question, steps, a way to take part without personal disclosure and a virtual variant, plus the one to drop for a senior, tired or sent room. Use for "run fac-session-openers", "icebreakers", "icebreaker ideas for a workshop", "an opener that does not make people cringe", "how do I start this session", "check-in question for my training", "virtual icebreaker", "opening activity for a senior group", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Icebreakers and Session Openers
@@ -70,4 +70,4 @@ Run fac-session-agreements (Session Agreements and Consent) to set how the room 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

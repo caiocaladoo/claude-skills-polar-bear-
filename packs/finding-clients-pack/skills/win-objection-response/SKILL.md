@@ -1,6 +1,6 @@
 ---
 name: win-objection-response
-description: Prepares your answer to one live client objection with LAER, the objection in their exact words, an honest acknowledgement, exploring questions to find the concern under it, a response built only from your real proof, and what you will not say, including "AI could do this" and "too expensive". Use for "run win-objection-response", "the client says AI could do this", "they said it is too expensive", "handle this objection", "how do I answer this pushback", "why are you charging so much", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Prepares your answer to one live client objection with LAER, the objection in their exact words, an honest acknowledgement, exploring questions to find the concern under it, a response built only from your real proof, and what you will not say, including "AI could do this" and "too expensive". Use for "run win-objection-response", "the client says AI could do this", "they said it is too expensive", "handle this objection", "how do I answer this pushback", "why are you charging so much", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Objection Response
@@ -65,4 +65,4 @@ Run win-win-loss-review (Win/Loss Review) to learn from the outcome, either way.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

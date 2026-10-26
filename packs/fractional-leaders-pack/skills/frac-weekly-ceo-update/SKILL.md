@@ -1,6 +1,6 @@
 ---
 name: frac-weekly-ceo-update
-description: Drafts the weekly update a fractional leader sends to the CEO, with the bottom line first, results against the 90-day plan in place of activity, status reported as it is this week, the decisions needed from the CEO with a date, the scope asks that go beyond the agreed days and next week, using facts only from your log. Use for "run frac-weekly-ceo-update", "write my weekly update to the CEO", "weekly status report for my client", "the CEO asks what I did this week", "turn my log into an update", "update for my fractional client", "bottom line first update", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Drafts the weekly update a fractional leader sends to the CEO, with the bottom line first, results against the 90-day plan in place of activity, status reported as it is this week, the decisions needed from the CEO with a date, the scope asks that go beyond the agreed days and next week, using facts only from your log. Use for "run frac-weekly-ceo-update", "write my weekly update to the CEO", "weekly status report for my client", "the CEO asks what I did this week", "turn my log into an update", "update for my fractional client", "bottom line first update", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Weekly CEO Update
@@ -68,4 +68,4 @@ Run frac-monthly-value-report (Monthly Value Report) to roll the weeks into the 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: frac-retainer-redesign
-description: Redesigns a fractional retainer that no longer fits, setting the retainer as it stands (days bought, days used, what was delivered) against what the client values in their own words, with the options (outcome retainer, capacity with an output floor, fixed-term handover, advisory, keep as is), the move you choose and why, and a conversation outline that says how AI changed the work. Use for "run frac-retainer-redesign", "redesign my retainer", "the role has outgrown the days I sold", "my retainer is sold as days and the work shrank", "move a retainer to outcomes", "the client did the maths on my days", "change what my retainer buys", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Redesigns a fractional retainer that no longer fits, setting the retainer as it stands (days bought, days used, what was delivered) against what the client values in their own words, with the options (outcome retainer, capacity with an output floor, fixed-term handover, advisory, keep as is), the move you choose and why, and a conversation outline that says how AI changed the work. Use for "run frac-retainer-redesign", "redesign my retainer", "the role has outgrown the days I sold", "my retainer is sold as days and the work shrank", "move a retainer to outcomes", "the client did the maths on my days", "change what my retainer buys", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Retainer Redesign
@@ -71,4 +71,4 @@ Run frac-price-increase-plan (Retainer Increase Plan) when the shape is settled 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

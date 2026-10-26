@@ -1,6 +1,6 @@
 ---
 name: uxr-diary-study
-description: Designs a Diary Study Plan with the behaviour over time to capture, entry prompts per moment with logging design, cadence and length, reminder and drop-off plans, the onboarding call and an entry-to-theme coding plan. Use for "run uxr-diary-study", "set up a diary study", "diary study prompts", "see behaviour over weeks", "longitudinal user research", "how people use it across a week", "diary study drop-off", part of the UX Research with Claude Pack by Polar Bear.
+description: Designs a Diary Study Plan with the behaviour over time to capture, entry prompts per moment with logging design, cadence and length, reminder and drop-off plans, the onboarding call and an entry-to-theme coding plan. Use for "run uxr-diary-study", "set up a diary study", "diary study prompts", "see behaviour over weeks", "longitudinal user research", "how people use it across a week", "diary study drop-off", part of the UX Research with Claude Pack by 90n.
 ---
 
 # Diary Study Plan
@@ -70,4 +70,4 @@ Run uxr-thematic-analysis (Thematic Analysis) to code the entries with quotes ke
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

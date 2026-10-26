@@ -1,6 +1,6 @@
 ---
 name: pmjob-work-walkthrough
-description: Builds a Work Walkthrough Outline for a portfolio review or a project deep dive with a timed plan for two or three pieces of work, each told through stakes, your role, three decisions and the mistake, plus a slide outline, the likely questions and a check on what you may show. Use for "run pmjob-work-walkthrough", "portfolio review prep", "project walkthrough for a product interview", "present a project I led", "my portfolio only shows screens", "20 minute presentation of my work", "case study deck for an interview", "what am I allowed to show", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Builds a Work Walkthrough Outline for a portfolio review or a project deep dive with a timed plan for two or three pieces of work, each told through stakes, your role, three decisions and the mistake, plus a slide outline, the likely questions and a check on what you may show. Use for "run pmjob-work-walkthrough", "portfolio review prep", "project walkthrough for a product interview", "present a project I led", "my portfolio only shows screens", "20 minute presentation of my work", "case study deck for an interview", "what am I allowed to show", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Portfolio and Project Walkthrough
@@ -70,4 +70,4 @@ Run pmjob-questions-to-ask (Questions to Ask) to prepare your side of the conver
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

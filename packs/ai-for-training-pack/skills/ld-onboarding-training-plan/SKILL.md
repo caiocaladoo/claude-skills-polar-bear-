@@ -1,6 +1,6 @@
 ---
 name: ld-onboarding-training-plan
-description: Plans a new hire's first weeks around the real work, producing a week-by-week learning path, the real tasks a new hire must handle, buddy sessions and sign-off by doing the task with a person. Use for "run ld-onboarding-training-plan", "onboarding training plan", "new employee training plan", "new hire ramp-up", "30 60 90 day training", "onboarding buddy programme", "new hires are not ready", "time to productivity", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Plans a new hire's first weeks around the real work, producing a week-by-week learning path, the real tasks a new hire must handle, buddy sessions and sign-off by doing the task with a person. Use for "run ld-onboarding-training-plan", "onboarding training plan", "new employee training plan", "new hire ramp-up", "30 60 90 day training", "onboarding buddy programme", "new hires are not ready", "time to productivity", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # Onboarding Training Plan
@@ -66,4 +66,4 @@ Run ld-kirkpatrick-evaluation-plan (Kirkpatrick Evaluation Plan) to decide how y
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

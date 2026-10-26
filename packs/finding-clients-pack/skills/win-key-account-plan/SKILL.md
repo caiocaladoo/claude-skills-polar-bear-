@@ -1,6 +1,6 @@
 ---
 name: win-key-account-plan
-description: Writes a Key Account Plan for one client you rely on, with their goals this year in their own words, who takes part in buying and how by role, relationship gaps, further work that fits their goals, a check-in rhythm and the next 90 days. Use for "run win-key-account-plan", "key account plan", "account plan for my biggest client", "I depend on one client", "protect this client", "grow this account", "who else should I know at this client", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Writes a Key Account Plan for one client you rely on, with their goals this year in their own words, who takes part in buying and how by role, relationship gaps, further work that fits their goals, a check-in rhythm and the next 90 days. Use for "run win-key-account-plan", "key account plan", "account plan for my biggest client", "I depend on one client", "protect this client", "grow this account", "who else should I know at this client", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Key Account Plan
@@ -70,4 +70,4 @@ Run win-referral-request (Referral Request) to ask a happy client for an introdu
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

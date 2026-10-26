@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-failure-modes
-description: Builds an AI Failure Modes Map with the failure list per output type, the cost of a false yes and a false no to the user, severity and detection ratings, a graceful failure per mode and a tolerable error rate left blank for a named person. Use for "run aipm-ai-failure-modes", "AI FMEA", "which AI mistakes matter", "leaders expect it to be right every time", "false positives vs false negatives", "graceful failure", "what happens when the AI is wrong", "AI error budget", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Builds an AI Failure Modes Map with the failure list per output type, the cost of a false yes and a false no to the user, severity and detection ratings, a graceful failure per mode and a tolerable error rate left blank for a named person. Use for "run aipm-ai-failure-modes", "AI FMEA", "which AI mistakes matter", "leaders expect it to be right every time", "false positives vs false negatives", "graceful failure", "what happens when the AI is wrong", "AI error budget", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Failure Modes Map
@@ -64,4 +64,4 @@ Run aipm-workflow-or-agent (Workflow or Agent Decision), because the failure cos
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

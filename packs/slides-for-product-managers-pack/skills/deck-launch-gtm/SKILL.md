@@ -1,6 +1,6 @@
 ---
 name: deck-launch-gtm
-description: Drafts a Launch Deck in Claude Slides with the launch in one customer sentence, the launch tier and date, readiness by team and owner, and a sales cut with a talk track and what not to promise. Use for "run deck-launch-gtm", "launch deck", "go-to-market deck", "GTM slides", "sales enablement deck", "launch kickoff slides", "sales heard about it from a customer", "launch readiness deck", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Drafts a Launch Deck in Claude Slides with the launch in one customer sentence, the launch tier and date, readiness by team and owner, and a sales cut with a talk track and what not to promise. Use for "run deck-launch-gtm", "launch deck", "go-to-market deck", "GTM slides", "sales enablement deck", "launch kickoff slides", "sales heard about it from a customer", "launch readiness deck", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Go-to-Market Launch Deck
@@ -66,4 +66,4 @@ Run deck-case-study (Customer Case Study Slides) to turn the first results into 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

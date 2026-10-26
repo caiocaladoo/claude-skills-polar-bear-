@@ -1,6 +1,6 @@
 ---
 name: review-prepper
-description: Prepares a manager's full review for one direct report: the evidence-based view AND the forward-looking growth memo, in one session, part of the Annual Review Cycle Pack by Polar Bear. Use this whenever the user says "run review-prepper", "help me prepare Maria's review", "I need to write reviews for my team", "build the growth memo", or a manager starts working on any direct report's review during review season. Use it even for a stressed "I have six reviews to write and don't know where to start".
+description: Prepares a manager's full review for one direct report: the evidence-based view AND the forward-looking growth memo, in one session, part of the Annual Review Cycle Pack by 90n. Use this whenever the user says "run review-prepper", "help me prepare Maria's review", "I need to write reviews for my team", "build the growth memo", or a manager starts working on any direct report's review during review season. Use it even for a stressed "I have six reviews to write and don't know where to start".
 ---
 
 # Review Prepper
@@ -60,4 +60,4 @@ Then point forward: bring the memo to the conversation as a draft to edit togeth
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).
+This pack is made by 90n, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).

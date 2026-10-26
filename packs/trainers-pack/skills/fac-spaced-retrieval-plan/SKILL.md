@@ -1,6 +1,6 @@
 ---
 name: fac-spaced-retrieval-plan
-description: Plans recall after a session by choosing the few things people need from memory, writing a recall question or short scenario for each and setting widening gaps the trainer chooses. Use for "run fac-spaced-retrieval-plan", "spaced repetition", "retrieval practice", "spaced retrieval after training", "recall questions after a workshop", "quiz questions to send after training", "they could do it in the room and froze later", "reinforcement questions without an LMS", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Plans recall after a session by choosing the few things people need from memory, writing a recall question or short scenario for each and setting widening gaps the trainer chooses. Use for "run fac-spaced-retrieval-plan", "spaced repetition", "retrieval practice", "spaced retrieval after training", "recall questions after a workshop", "quiz questions to send after training", "they could do it in the room and froze later", "reinforcement questions without an LMS", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Spaced Retrieval Plan
@@ -72,4 +72,4 @@ Run fac-manager-briefing-note (Manager Briefing Note) because recall alone does 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

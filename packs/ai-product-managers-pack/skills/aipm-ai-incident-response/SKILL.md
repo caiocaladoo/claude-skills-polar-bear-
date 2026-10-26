@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-incident-response
-description: Writes an AI Incident Response Plan for a wrong answer or action that reached customers, with severity levels for AI errors, containment (fallback, switch off, human takeover), a customer correction, an evidence timeline, the fix into the golden dataset and a blameless review. Use for "run aipm-ai-incident-response", "our AI told a customer something wrong", "AI incident playbook", "the chatbot made a promise we cannot keep", "switch off the AI feature", "AI postmortem", "contain an AI failure", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Writes an AI Incident Response Plan for a wrong answer or action that reached customers, with severity levels for AI errors, containment (fallback, switch off, human takeover), a customer correction, an evidence timeline, the fix into the golden dataset and a blameless review. Use for "run aipm-ai-incident-response", "our AI told a customer something wrong", "AI incident playbook", "the chatbot made a promise we cannot keep", "switch off the AI feature", "AI postmortem", "contain an AI failure", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Incident Response Plan
@@ -70,4 +70,4 @@ Run aipm-unit-economics (AI Unit Economics) to check the feature still pays its 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

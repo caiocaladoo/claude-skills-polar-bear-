@@ -1,6 +1,6 @@
 ---
 name: aipm-error-analysis
-description: Reads 50 to 100 real AI outputs with you and turns them into an error analysis log with open codes, failure types grouped by axial coding, counts per type and the three to fix first. Use for "run aipm-error-analysis", "error analysis", "what is actually going wrong with our AI", "read our transcripts", "build a failure taxonomy", "code these LLM outputs", "our eval scores mean nothing", "where do I start with evals", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Reads 50 to 100 real AI outputs with you and turns them into an error analysis log with open codes, failure types grouped by axial coding, counts per type and the three to fix first. Use for "run aipm-error-analysis", "error analysis", "what is actually going wrong with our AI", "read our transcripts", "build a failure taxonomy", "code these LLM outputs", "our eval scores mean nothing", "where do I start with evals", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # Error Analysis
@@ -67,4 +67,4 @@ Run aipm-golden-dataset (Golden Dataset) to keep the coded cases as tests.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

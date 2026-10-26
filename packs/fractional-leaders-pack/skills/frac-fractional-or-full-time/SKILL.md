@@ -1,6 +1,6 @@
 ---
 name: frac-fractional-or-full-time
-description: Builds one neutral page a CEO can take to the board, framing the decision around an outcome and comparing a full-time hire, a fractional seat, interim cover, an adviser, doing it in house with AI and doing nothing on the CEO's own criteria, with what would change the choice and the open facts. Use for "run frac-fractional-or-full-time", "why not just hire someone full time", "fractional vs full time", "fractional or full-time hire", "one page for the board on this role", "help the CEO compare the options", "should they hire or go fractional", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Builds one neutral page a CEO can take to the board, framing the decision around an outcome and comparing a full-time hire, a fractional seat, interim cover, an adviser, doing it in house with AI and doing nothing on the CEO's own criteria, with what would change the choice and the open facts. Use for "run frac-fractional-or-full-time", "why not just hire someone full time", "fractional vs full time", "fractional or full-time hire", "one page for the board on this role", "help the CEO compare the options", "should they hire or go fractional", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Fractional or Full-Time Brief
@@ -65,4 +65,4 @@ Run frac-ai-objection-answer (AI Objection Answer) to prepare your reply when th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

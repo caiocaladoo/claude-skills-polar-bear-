@@ -1,6 +1,6 @@
 ---
 name: isd-designer-run-through
-description: Prepares the protocol for taking your own course start to finish as one kind of learner, then sorts your notes into a step-by-step issues log with the severity you set and your own verdict. Use for "run isd-designer-run-through", "I have never taken my own course", "prepare a run-through before reviewers see it", "I will take it as a new starter on a phone", "sort my run-through notes", "walk through the build step by step", "is it ready for reviewers", "what happens when one learner takes the whole thing", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Prepares the protocol for taking your own course start to finish as one kind of learner, then sorts your notes into a step-by-step issues log with the severity you set and your own verdict. Use for "run isd-designer-run-through", "I have never taken my own course", "prepare a run-through before reviewers see it", "I will take it as a new starter on a phone", "sort my run-through notes", "walk through the build step by step", "is it ready for reviewers", "what happens when one learner takes the whole thing", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Designer Run-Through
@@ -68,4 +68,4 @@ Run isd-sme-review-round (SME Review Round) now that you have taken it before an
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

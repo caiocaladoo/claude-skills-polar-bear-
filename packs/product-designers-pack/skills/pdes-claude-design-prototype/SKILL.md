@@ -1,6 +1,6 @@
 ---
 name: pdes-claude-design-prototype
-description: Plan a Claude Design prototype with the written brief to give it, the design system and look to specify, three or more directions to ask for and remix, and the copies to save at each milestone. Use for "run pdes-claude-design-prototype", "claude design prototype", "plan a prototype in claude design", "clickable prototype this afternoon", "my prototype looks generic", "what do I tell claude design", "prompt for a prototype", "three design directions", part of the Claude for Product Designers Pack by Polar Bear.
+description: Plan a Claude Design prototype with the written brief to give it, the design system and look to specify, three or more directions to ask for and remix, and the copies to save at each milestone. Use for "run pdes-claude-design-prototype", "claude design prototype", "plan a prototype in claude design", "clickable prototype this afternoon", "my prototype looks generic", "what do I tell claude design", "prompt for a prototype", "three design directions", part of the Claude for Product Designers Pack by 90n.
 ---
 
 # Claude Design Prototype Plan
@@ -71,4 +71,4 @@ Run pdes-prototype-share-check (Prototype Share Check) before anyone outside the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: discovery-interview-planner
-description: Plans the customer conversations an innovation initiative needs before anything is built (who to talk to, how many, the interview guide, consent, the note template, and synthesis into evidence entries), part of the Innovation Pack by Polar Bear. Use this whenever the user says "run discovery-interview-planner", "plan problem interviews", "who should we talk to before we build this", "write the interview guide", "synthesize the interviews", or when an idea is about to enter stage one and nobody has spoken to a customer yet. Use it even for "should we ask some clients about this".
+description: Plans the customer conversations an innovation initiative needs before anything is built (who to talk to, how many, the interview guide, consent, the note template, and synthesis into evidence entries), part of the Innovation Pack by 90n. Use this whenever the user says "run discovery-interview-planner", "plan problem interviews", "who should we talk to before we build this", "write the interview guide", "synthesize the interviews", or when an idea is about to enter stage one and nobody has spoken to a customer yet. Use it even for "should we ask some clients about this".
 ---
 
 # Discovery Interview Planner
@@ -53,4 +53,4 @@ Extended version: I write the screener, the consent text, the guide, and the not
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: insight-playback-builder
-description: Builds the client or stakeholder playback of the research and testing story, part of the Design Thinking Pack by Polar Bear. Use this whenever the user says "run insight-playback-builder", "build the playback", "prep the readout", "make the findings presentation", or the work is done and the people who weren't in the room need to believe what the team now knows. Use it even for "we present to the steering committee next week".
+description: Builds the client or stakeholder playback of the research and testing story, part of the Design Thinking Pack by 90n. Use this whenever the user says "run insight-playback-builder", "build the playback", "prep the readout", "make the findings presentation", or the work is done and the people who weren't in the room need to believe what the team now knows. Use it even for "we present to the steering committee next week".
 ---
 
 # Insight Playback Builder
@@ -26,4 +26,4 @@ The playback claims only what the evidence holds, and the "what we did not find"
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

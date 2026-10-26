@@ -1,6 +1,6 @@
 ---
 name: isd-course-slides
-description: Drafts a course deck slide by slide from your storyboard, with a build sheet of one idea per slide, notes kept apart from slide text, planned practice slides and an export check you run yourself. Use for "run isd-course-slides", "turn my storyboard into slides", "build the course deck", "one idea per slide", "my authoring tool starts from a deck", "split the slide text from the narration", "add practice slides to this deck", "check the PowerPoint export before I import it", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Drafts a course deck slide by slide from your storyboard, with a build sheet of one idea per slide, notes kept apart from slide text, planned practice slides and an export check you run yourself. Use for "run isd-course-slides", "turn my storyboard into slides", "build the course deck", "one idea per slide", "my authoring tool starts from a deck", "split the slide text from the narration", "add practice slides to this deck", "check the PowerPoint export before I import it", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Course Slides Build
@@ -71,4 +71,4 @@ Run isd-microlearning-series (Microlearning Series) to plan a short spaced serie
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

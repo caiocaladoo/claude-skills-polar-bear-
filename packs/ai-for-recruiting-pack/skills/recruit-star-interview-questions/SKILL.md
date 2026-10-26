@@ -1,6 +1,6 @@
 ---
 name: recruit-star-interview-questions
-description: Writes a STAR question bank for one role, producing behavioural questions per scorecard criterion, STAR probes for vague or "I would" answers, one situational question per criterion and a never-ask list. Use for "run recruit-star-interview-questions", "STAR interview questions", "behavioral interview questions", "behavioural interview questions", "tell me about a time questions", "interview probes", "situational interview questions", "competency based interview questions", part of the AI for Recruiting Pack by Polar Bear.
+description: Writes a STAR question bank for one role, producing behavioural questions per scorecard criterion, STAR probes for vague or "I would" answers, one situational question per criterion and a never-ask list. Use for "run recruit-star-interview-questions", "STAR interview questions", "behavioral interview questions", "behavioural interview questions", "tell me about a time questions", "interview probes", "situational interview questions", "competency based interview questions", part of the AI for Recruiting Pack by 90n.
 ---
 
 # STAR Interview Questions
@@ -65,4 +65,4 @@ Run recruit-structured-interview (Structured Interview) to place these questions
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

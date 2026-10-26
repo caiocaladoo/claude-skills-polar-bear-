@@ -1,6 +1,6 @@
 ---
 name: start-first-client-proposal
-description: Writes a First Client Proposal of one or two pages, with their objective in their words, what you will do by phase, one to three real options that differ in scope, the fee from your own numbers, the assumptions it rests on, plain terms and a dated next step. Use for "run start-first-client-proposal", "write my first proposal", "consulting proposal for a first client", "they asked for a proposal", "turn my call notes into a proposal", "how do I present my price", "short proposal with options", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Writes a First Client Proposal of one or two pages, with their objective in their words, what you will do by phase, one to three real options that differ in scope, the fee from your own numbers, the assumptions it rests on, plain terms and a dated next step. Use for "run start-first-client-proposal", "write my first proposal", "consulting proposal for a first client", "they asked for a proposal", "turn my call notes into a proposal", "how do I present my price", "short proposal with options", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # First Client Proposal
@@ -71,4 +71,4 @@ Run start-price-conversation-prep (Price Conversation Prep) before you walk them
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

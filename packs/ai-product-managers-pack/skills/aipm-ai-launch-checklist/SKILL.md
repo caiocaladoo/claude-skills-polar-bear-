@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-launch-checklist
-description: Builds an AI Launch Checklist with an owner, a status and an evidence link per line, covering evals passed as run, guardrails on, fallback tested, monitoring and alerts, feedback capture live, support briefed, disclosure in place and rollback rehearsed. Use for "run aipm-ai-launch-checklist", "AI launch checklist", "go-live checklist for an AI feature", "are we ready to launch", "launch readiness review", "what did we forget before launch", "pre-launch checks for our assistant", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Builds an AI Launch Checklist with an owner, a status and an evidence link per line, covering evals passed as run, guardrails on, fallback tested, monitoring and alerts, feedback capture live, support briefed, disclosure in place and rollback rehearsed. Use for "run aipm-ai-launch-checklist", "AI launch checklist", "go-live checklist for an AI feature", "are we ready to launch", "launch readiness review", "what did we forget before launch", "pre-launch checks for our assistant", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Launch Checklist
@@ -68,4 +68,4 @@ Run aipm-launch-gates (AI Launch Gates) to release in stages with kill criteria.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

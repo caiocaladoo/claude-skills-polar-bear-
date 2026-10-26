@@ -1,6 +1,6 @@
 ---
 name: workshop-retro
-description: Runs the facilitation team's debrief after a workshop and writes the learnings into the workshop's retro note, part of the Workshop Pack by Polar Bear. Use this whenever the user says "run workshop-retro", "let's debrief the session", "the workshop is done, what did we learn", or the facilitation team is in its post-workshop debrief slot. Use it even for a quick solo "that went weird, let me think it through".
+description: Runs the facilitation team's debrief after a workshop and writes the learnings into the workshop's retro note, part of the Workshop Pack by 90n. Use this whenever the user says "run workshop-retro", "let's debrief the session", "the workshop is done, what did we learn", or the facilitation team is in its post-workshop debrief slot. Use it even for a quick solo "that went weird, let me think it through".
 ---
 
 # Workshop Retro
@@ -43,4 +43,4 @@ Close the loop explicitly: tell the user the retro note now holds what this work
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

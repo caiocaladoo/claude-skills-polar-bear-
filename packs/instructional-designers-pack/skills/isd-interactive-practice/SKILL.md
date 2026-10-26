@@ -1,6 +1,6 @@
 ---
 name: isd-interactive-practice
-description: Drafts one practice activity as a Claude artifact to prototype and pilot, with the spec behind it, a test log you fill in, and a plain note on where it can and cannot live. Use for "run isd-interactive-practice", "prototype a practice activity", "make a decision activity I can click", "build a sorting exercise to try", "try this practice idea before the build", "turn this scenario node into something clickable", "can learners open a Claude artifact", "quick interactive practice for my course", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Drafts one practice activity as a Claude artifact to prototype and pilot, with the spec behind it, a test log you fill in, and a plain note on where it can and cannot live. Use for "run isd-interactive-practice", "prototype a practice activity", "make a decision activity I can click", "build a sorting exercise to try", "try this practice idea before the build", "turn this scenario node into something clickable", "can learners open a Claude artifact", "quick interactive practice for my course", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Interactive Practice Activity
@@ -70,4 +70,4 @@ Run isd-course-slides (Course Slides Build) to build the deck when part of the c
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

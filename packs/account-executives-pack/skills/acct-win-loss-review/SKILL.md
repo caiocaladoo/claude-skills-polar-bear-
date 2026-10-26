@@ -1,6 +1,6 @@
 ---
 name: acct-win-loss-review
-description: Writes a win/loss review of one deal, with the timeline and its sources, expected against actual, the customer's reasons only as they gave them or "not asked" with three neutral questions, what counted factor by factor and what you keep and change. Use for "run acct-win-loss-review", "win/loss review", "win-loss analysis", "why did we lose this deal", "deal post-mortem", "debrief a lost deal", "what did we do right on this win", "lessons from this deal", part of the Claude for Account Executives Pack by Polar Bear.
+description: Writes a win/loss review of one deal, with the timeline and its sources, expected against actual, the customer's reasons only as they gave them or "not asked" with three neutral questions, what counted factor by factor and what you keep and change. Use for "run acct-win-loss-review", "win/loss review", "win-loss analysis", "why did we lose this deal", "deal post-mortem", "debrief a lost deal", "what did we do right on this win", "lessons from this deal", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Win/Loss Review
@@ -70,4 +70,4 @@ Run acct-account-plan (Account Plan) to carry what you learned into the plan for
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

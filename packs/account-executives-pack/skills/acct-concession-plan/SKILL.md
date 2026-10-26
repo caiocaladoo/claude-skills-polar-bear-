@@ -1,6 +1,6 @@
 ---
 name: acct-concession-plan
-description: Builds your concession plan with the list of what can be traded, its cost to you and its value to the customer, the order of concessions, the wording "if you, then we" for each and the floor your leadership approved. Use for "run acct-concession-plan", "concession plan", "give-get list", "what can I trade in this negotiation", "the customer wants a discount", "trade-offs for negotiation", "what do I ask for in return", part of the Claude for Account Executives Pack by Polar Bear.
+description: Builds your concession plan with the list of what can be traded, its cost to you and its value to the customer, the order of concessions, the wording "if you, then we" for each and the floor your leadership approved. Use for "run acct-concession-plan", "concession plan", "give-get list", "what can I trade in this negotiation", "the customer wants a discount", "trade-offs for negotiation", "what do I ask for in return", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Concession Plan
@@ -68,4 +68,4 @@ Run acct-mutual-action-plan (Mutual Action Plan) to set with the customer the st
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

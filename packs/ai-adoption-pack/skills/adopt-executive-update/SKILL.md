@@ -1,6 +1,6 @@
 ---
 name: adopt-executive-update
-description: Writes a one-page executive update on AI adoption with the bottom line and the decision asked first, what changed in the work with its source and date, a fixed section on what the evidence does not show, concerns raised and what was done, and what the team needs. Use for "run adopt-executive-update", "AI adoption executive update", "one page on AI for leadership", "report AI adoption to executives", "the board wants one number for AI", "AI pilot update for the sponsor", "AI progress report for leadership", "slides on AI adoption results", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Writes a one-page executive update on AI adoption with the bottom line and the decision asked first, what changed in the work with its source and date, a fixed section on what the evidence does not show, concerns raised and what was done, and what the team needs. Use for "run adopt-executive-update", "AI adoption executive update", "one page on AI for leadership", "report AI adoption to executives", "the board wants one number for AI", "AI pilot update for the sponsor", "AI progress report for leadership", "slides on AI adoption results", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # AI Adoption Executive Update
@@ -71,4 +71,4 @@ Run adopt-champions-network (AI Champions Network) to set up the people who keep
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

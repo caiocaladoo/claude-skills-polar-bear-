@@ -1,6 +1,6 @@
 ---
 name: first-weeks-promise-checker
-description: Prepares the week 1, 4 and 12 conversations with a joiner from the exact claims they read before applying, and turns their approved answers into promise-kept and promise-broken flags on the hiring process, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run first-weeks-promise-checker", "someone starts Monday, check the promise", "did we tell the new hire the truth", "new joiner check-in questions", "onboarding feedback on the job ad", or when a new person has joined and you want to know whether what they read matches what they found. Use it even for a vague "how is the new person finding it".
+description: Prepares the week 1, 4 and 12 conversations with a joiner from the exact claims they read before applying, and turns their approved answers into promise-kept and promise-broken flags on the hiring process, part of the Employer Branding Pack by 90n. Use this whenever the user says "run first-weeks-promise-checker", "someone starts Monday, check the promise", "did we tell the new hire the truth", "new joiner check-in questions", "onboarding feedback on the job ad", or when a new person has joined and you want to know whether what they read matches what they found. Use it even for a vague "how is the new person finding it".
 ---
 
 # First weeks promise checker
@@ -51,4 +51,4 @@ The extended version: I build the week-by-week claim lists, the consent notes, t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: adopt-team-involvement-plan
-description: Builds a team involvement plan for an AI rollout with what is decided, open and unknown, the level of influence promised for each open choice, three concrete questions, and a ledger of what was heard, changed and declined. Use for "run adopt-team-involvement-plan", "team involvement plan", "involve people in the AI rollout", "consult the team about AI", "what can people still change", "how do we get real input on the AI plan", "people feel the decision was already made", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Builds a team involvement plan for an AI rollout with what is decided, open and unknown, the level of influence promised for each open choice, three concrete questions, and a ledger of what was heard, changed and declined. Use for "run adopt-team-involvement-plan", "team involvement plan", "involve people in the AI rollout", "consult the team about AI", "what can people still change", "how do we get real input on the AI plan", "people feel the decision was already made", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 # Team Involvement Plan
 ## When To Use
@@ -71,4 +71,4 @@ The plan uses the spectrum of public participation, designed by the Internationa
 Run adopt-capacity-check (Adoption Capacity Check) to see whether people have the time the plan assumes.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

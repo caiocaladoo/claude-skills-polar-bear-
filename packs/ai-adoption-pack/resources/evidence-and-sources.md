@@ -63,7 +63,7 @@ These pages are cited for where a method comes from and how it works, not as evi
 
 ## Deliberate design choices
 
-These are Polar Bear's own choices, not findings from the sources above.
+These are 90n's own choices, not findings from the sources above.
 
 - **The red line.** Adoption is something people choose: Claude prepares the plan, the sessions and the evidence, a named person makes every call, nobody's use of AI is tracked, scored or ranked, and no saving is claimed that the organisation's own evidence does not show.
 - **No per-person measure of any kind.** No skill reads usage data about individuals. The evidence review works from what the team itself provides, at team level, with counts beside percentages and small groups merged or suppressed. Several sources measure individuals; this guide does not carry that over.

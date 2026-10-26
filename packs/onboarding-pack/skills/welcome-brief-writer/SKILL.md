@@ -1,6 +1,6 @@
 ---
 name: welcome-brief-writer
-description: Writes the cultural brief a new joiner receives a few days before starting, and choreographs the congratulations moment right after they accept, part of the Onboarding Pack by Polar Bear and Terry Mattheoyianni. Use this whenever the user says "run welcome-brief-writer", "write the welcome brief", "what should Maria know before day one", "prepare the pre-start info", or a joiner's start is approaching and they haven't heard what it's actually like to work here. Use it even for "what do we send her before she starts".
+description: Writes the cultural brief a new joiner receives a few days before starting, and choreographs the congratulations moment right after they accept, part of the Onboarding Pack by 90n and Terry Mattheoyianni. Use this whenever the user says "run welcome-brief-writer", "write the welcome brief", "what should Maria know before day one", "prepare the pre-start info", or a joiner's start is approaching and they haven't heard what it's actually like to work here. Use it even for "what do we send her before she starts".
 ---
 
 # Welcome Brief Writer
@@ -47,4 +47,4 @@ The MVP is this brief written once per joiner, three minutes of tailoring on a s
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. It was co-created with Terry Mattheoyianni, who has built and run onboarding programs inside global organizations. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).

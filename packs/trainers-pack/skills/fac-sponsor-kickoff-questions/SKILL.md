@@ -1,6 +1,6 @@
 ---
 name: fac-sponsor-kickoff-questions
-description: Prepares a question guide for the kickoff call with the sponsor and turns your notes into a one-page call note with success at work in their words and dated commitments on both sides. Use for "run fac-sponsor-kickoff-questions", "questions to ask the sponsor", "kickoff call with the client", "what should I ask before the workshop", "the sponsor booked the room and disappeared", "get the managers involved", "client discovery call for training", "write up the kickoff call", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Prepares a question guide for the kickoff call with the sponsor and turns your notes into a one-page call note with success at work in their words and dated commitments on both sides. Use for "run fac-sponsor-kickoff-questions", "questions to ask the sponsor", "kickoff call with the client", "what should I ask before the workshop", "the sponsor booked the room and disappeared", "get the managers involved", "client discovery call for training", "write up the kickoff call", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Sponsor Kickoff Questions
@@ -72,4 +72,4 @@ Run fac-pre-session-survey (Pre-Session Survey) to hear from the people who will
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: hr-employee-handbook
-description: Assembles an Employee Handbook from your approved policies, with contents in the order a new starter needs them, a disclaimer flagged for an adviser, an acknowledgement page, a change log and a gap list of policies still missing. Use for "run hr-employee-handbook", "employee handbook", "update our handbook", "handbook rewrite", "handbook acknowledgement form", "handbook change log", "which policies are missing from our handbook", "put our policies in one place", part of the AI for HR Pack by Polar Bear.
+description: Assembles an Employee Handbook from your approved policies, with contents in the order a new starter needs them, a disclaimer flagged for an adviser, an acknowledgement page, a change log and a gap list of policies still missing. Use for "run hr-employee-handbook", "employee handbook", "update our handbook", "handbook rewrite", "handbook acknowledgement form", "handbook change log", "which policies are missing from our handbook", "put our policies in one place", part of the AI for HR Pack by 90n.
 ---
 
 # Employee Handbook
@@ -70,4 +70,4 @@ Run hr-policy-faq (HR Policy FAQ) to answer staff questions from the finished ha
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

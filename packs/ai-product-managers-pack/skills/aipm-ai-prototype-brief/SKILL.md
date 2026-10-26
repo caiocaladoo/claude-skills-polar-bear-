@@ -1,6 +1,6 @@
 ---
 name: aipm-ai-prototype-brief
-description: Writes an AI Prototype Brief with what the demo tests, a pass line set in advance, a cherry-picked input check, what the demo does not prove and a gap-to-production list with an owner per line. Use for "run aipm-ai-prototype-brief", "leadership thinks the demo is the product", "AI demo to production", "test card for an AI prototype", "what does this AI demo prove", "gap to production", "the demo worked, can we ship", "AI proof of concept plan", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Writes an AI Prototype Brief with what the demo tests, a pass line set in advance, a cherry-picked input check, what the demo does not prove and a gap-to-production list with an owner per line. Use for "run aipm-ai-prototype-brief", "leadership thinks the demo is the product", "AI demo to production", "test card for an AI prototype", "what does this AI demo prove", "gap to production", "the demo worked, can we ship", "AI proof of concept plan", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Prototype Brief
@@ -71,4 +71,4 @@ Run aipm-ai-prd (AI PRD) to write the spec the gap list demands.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -2,7 +2,7 @@
 
 13 Claude skills for selling, running, and landing a design sprint. For consultants, leads, and founders at 20 to 200 person creative and digital firms.
 
-**Guide and download:** [meet-polar-bear.com/skills/design-sprint-pack](https://meet-polar-bear.com/skills/design-sprint-pack)
+**Guide and download:** [90n.ai/resources/design-sprint-pack](https://90n.ai/resources/design-sprint-pack)
 
 The arc is one breath: work out whether a sprint is even the right tool, frame the challenge, cast the room, book five real testers, then run the week from map to target to sketch to decision to storyboard to prototype to Friday's five conversations, and land the whole thing on the Monday after, which is the part every sprint book skips. Through all of it, one line holds: **a sprint buys a decision people will defend on Monday, not a document. Ideas can come from anywhere, including Claude; the vote, the Decider's call, and the five real conversations stay human.** Claude will happily generate concepts for the wall on sketch day, and they compete on the same heat map as everyone else's. What they cannot do is win unadopted: if a machine concept draws heat, a person has to put their name on it before it reaches the vote, because a concept whose only defender is a file will not survive the meeting where it costs something. Ideas are cheap. Commitment is what the client is buying.
 
@@ -64,7 +64,7 @@ It does not do research or persona work: a sprint that needs personas has alread
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
 
 ---
 

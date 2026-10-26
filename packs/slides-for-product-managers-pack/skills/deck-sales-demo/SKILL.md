@@ -1,6 +1,6 @@
 ---
 name: deck-sales-demo
-description: Drafts a Demo Deck in Claude Slides for one buying group, with what we heard played back from discovery notes, the result shown first, only the two or three workflows they asked about, and a dated next step. Use for "run deck-sales-demo", "demo deck", "sales demo slides", "deck for the prospect call", "too many intro slides before the demo", "demo storyline", "slides for a customer demo", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Drafts a Demo Deck in Claude Slides for one buying group, with what we heard played back from discovery notes, the result shown first, only the two or three workflows they asked about, and a dated next step. Use for "run deck-sales-demo", "demo deck", "sales demo slides", "deck for the prospect call", "too many intro slides before the demo", "demo storyline", "slides for a customer demo", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Sales Demo Deck
@@ -66,4 +66,4 @@ Run deck-advisory-board (Customer Advisory Board Deck) to take what buyers keep 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

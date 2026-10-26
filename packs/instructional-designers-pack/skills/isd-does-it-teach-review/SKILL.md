@@ -1,6 +1,6 @@
 ---
 name: isd-does-it-teach-review
-description: Reviews a storyboard or draft course objective by objective, producing a grid of what is shown, tried and given feedback, an alignment table of objective, practice and check, and a list of fixes the designer accepts or rejects. Use for "run isd-does-it-teach-review", "does this course teach anything", "it looks finished but nobody practises", "which objectives are never practised", "too much telling and no asking", "review this storyboard against the objectives", "is the quiz at the level of the objective", "this reads like any course on any topic", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Reviews a storyboard or draft course objective by objective, producing a grid of what is shown, tried and given feedback, an alignment table of objective, practice and check, and a list of fixes the designer accepts or rejects. Use for "run isd-does-it-teach-review", "does this course teach anything", "it looks finished but nobody practises", "which objectives are never practised", "too much telling and no asking", "review this storyboard against the objectives", "is the quiz at the level of the objective", "this reads like any course on any topic", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Does It Teach Review
@@ -69,4 +69,4 @@ Run isd-accessibility-check (Accessibility Check) for the next check before you 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

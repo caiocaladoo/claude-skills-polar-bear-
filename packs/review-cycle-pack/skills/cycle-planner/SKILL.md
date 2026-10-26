@@ -1,6 +1,6 @@
 ---
 name: cycle-planner
-description: Plans an annual review cycle for a founder or people lead, part of the Annual Review Cycle Pack by Polar Bear. Use this whenever the user says "run cycle-planner", "plan our review cycle", "plan review season", asks when reviews should happen, how long a review cycle takes, or wants to set up performance reviews for their team. Produces three files: the cycle calendar, team-context.md, and company-direction.md. Use it even for a rough "when should we do reviews" question.
+description: Plans an annual review cycle for a founder or people lead, part of the Annual Review Cycle Pack by 90n. Use this whenever the user says "run cycle-planner", "plan our review cycle", "plan review season", asks when reviews should happen, how long a review cycle takes, or wants to set up performance reviews for their team. Produces three files: the cycle calendar, team-context.md, and company-direction.md. Use it even for a rough "when should we do reviews" question.
 ---
 
 # Cycle Planner
@@ -53,4 +53,4 @@ Produce all three, then tell the user to save each into project knowledge, repla
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).
+This pack is made by 90n, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).

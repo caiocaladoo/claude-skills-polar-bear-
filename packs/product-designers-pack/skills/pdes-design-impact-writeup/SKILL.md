@@ -1,6 +1,6 @@
 ---
 name: pdes-design-impact-writeup
-description: Writes a Design Impact Write-Up with three lines up front, what design changed with ship dates, before and after per metric from your data only, what else moved in the same window, a confidence level with its reason, results that got worse kept in and lessons, with missing numbers left as not measured. Use for "run pdes-design-impact-writeup", "design impact write-up", "what did the redesign deliver", "show the impact of my design", "before and after metrics for a redesign", "prove the value of design work", "design results report", "post-launch design review", part of the Claude for Product Designers Pack by Polar Bear.
+description: Writes a Design Impact Write-Up with three lines up front, what design changed with ship dates, before and after per metric from your data only, what else moved in the same window, a confidence level with its reason, results that got worse kept in and lessons, with missing numbers left as not measured. Use for "run pdes-design-impact-writeup", "design impact write-up", "what did the redesign deliver", "show the impact of my design", "before and after metrics for a redesign", "prove the value of design work", "design results report", "post-launch design review", part of the Claude for Product Designers Pack by 90n.
 ---
 
 # Design Impact Write-Up
@@ -70,4 +70,4 @@ Run pdes-portfolio-case-study (Portfolio Case Study) to tell the story outside t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

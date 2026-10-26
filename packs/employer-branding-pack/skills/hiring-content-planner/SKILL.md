@@ -1,6 +1,6 @@
 ---
 name: hiring-content-planner
-description: Plans a quarter of hiring content where every piece maps to one EVP claim and one willing human owner, and shows evidence instead of asserting it, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run hiring-content-planner", "content plan for employer branding", "what should we post about working here", "we only post when a role opens", "employer brand content calendar", or when someone wants a steady presence for candidates without a marketing team. Use it even for a vague "we should be more visible to people who might join".
+description: Plans a quarter of hiring content where every piece maps to one EVP claim and one willing human owner, and shows evidence instead of asserting it, part of the Employer Branding Pack by 90n. Use this whenever the user says "run hiring-content-planner", "content plan for employer branding", "what should we post about working here", "we only post when a role opens", "employer brand content calendar", or when someone wants a steady presence for candidates without a marketing team. Use it even for a vague "we should be more visible to people who might join".
 ---
 
 # Hiring content planner
@@ -49,4 +49,4 @@ The extended version: I keep the plan across quarters, map every piece to a clai
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

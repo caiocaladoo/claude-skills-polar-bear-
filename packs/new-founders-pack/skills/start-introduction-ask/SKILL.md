@@ -1,6 +1,6 @@
 ---
 name: start-introduction-ask
-description: Prepares your Introduction Ask to someone who knows your work, with the moment check (ask or wait), one specific introduction as a role and a situation, why it serves the person introduced, the easy no in your words, what you offer in return and what not to say. Use for "run start-introduction-ask", "how do I ask for a referral", "how do I ask for an introduction", "asking for help feels like begging", "who do you know who", "let me know if you hear of anything never works", "ask a former colleague to introduce me", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Prepares your Introduction Ask to someone who knows your work, with the moment check (ask or wait), one specific introduction as a role and a situation, why it serves the person introduced, the easy no in your words, what you offer in return and what not to say. Use for "run start-introduction-ask", "how do I ask for a referral", "how do I ask for an introduction", "asking for help feels like begging", "who do you know who", "let me know if you hear of anything never works", "ask a former colleague to introduce me", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # Introduction Ask
@@ -68,4 +68,4 @@ Run start-warm-intro-request (Warm Introduction Request) when they say yes and y
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

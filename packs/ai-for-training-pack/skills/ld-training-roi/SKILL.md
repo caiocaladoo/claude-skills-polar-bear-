@@ -1,6 +1,6 @@
 ---
 name: ld-training-roi
-description: Builds a Training ROI Estimate from your own figures, showing the benefits and how the programme's effect was isolated, the money conversion with a source for every value, the full costs, and a conservative ROI range with caveats and intangibles. Use for "run ld-training-roi", "training ROI", "what did the programme return", "calculate return on investment for training", "Phillips ROI", "benefit cost ratio for training", "justify the training budget", "cost of the programme versus benefit", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Builds a Training ROI Estimate from your own figures, showing the benefits and how the programme's effect was isolated, the money conversion with a source for every value, the full costs, and a conservative ROI range with caveats and intangibles. Use for "run ld-training-roi", "training ROI", "what did the programme return", "calculate return on investment for training", "Phillips ROI", "benefit cost ratio for training", "justify the training budget", "cost of the programme versus benefit", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # Training ROI Estimate
@@ -70,4 +70,4 @@ Run ld-training-plan (Training Plan) to feed the result into next year's priorit
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

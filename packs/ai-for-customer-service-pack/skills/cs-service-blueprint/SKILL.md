@@ -1,6 +1,6 @@
 ---
 name: cs-service-blueprint
-description: Draws a service blueprint for one service, with frontstage and backstage actions, support processes, the line of visibility, and the fail points and wait points each with an owner. Use for "run cs-service-blueprint", "service blueprint", "map what happens behind the scenes", "why do handoffs keep failing", "support gets blamed for other teams", "frontstage and backstage", "find the fail points", "show leadership where tickets wait", part of the AI for Customer Service Pack by Polar Bear.
+description: Draws a service blueprint for one service, with frontstage and backstage actions, support processes, the line of visibility, and the fail points and wait points each with an owner. Use for "run cs-service-blueprint", "service blueprint", "map what happens behind the scenes", "why do handoffs keep failing", "support gets blamed for other teams", "frontstage and backstage", "find the fail points", "show leadership where tickets wait", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Service Blueprint
@@ -66,4 +66,4 @@ Run cs-chatbot-handoff-rules (Chatbot Handoff Rules), because the bot is a new f
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

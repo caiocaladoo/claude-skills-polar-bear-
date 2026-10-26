@@ -1,6 +1,6 @@
 ---
 name: ldg-plan-the-session
-description: Plans a live or virtual training session block by block, producing a timed flow (open, recall, show, practise, apply), activities and materials per block, a first five minutes that opens on a real problem and a transfer close. Use for "run ldg-plan-the-session", "session plan", "training session plan", "workshop agenda", "virtual training session", "lesson plan for adults", "plan my workshop with timings", "how do I open a training session", "keep a virtual session engaging", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Plans a live or virtual training session block by block, producing a timed flow (open, recall, show, practise, apply), activities and materials per block, a first five minutes that opens on a real problem and a transfer close. Use for "run ldg-plan-the-session", "session plan", "training session plan", "workshop agenda", "virtual training session", "lesson plan for adults", "plan my workshop with timings", "how do I open a training session", "keep a virtual session engaging", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Plan the Session
@@ -69,4 +69,4 @@ Run ldg-plan-the-group-work (Plan the Group Work) to design each practice block 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

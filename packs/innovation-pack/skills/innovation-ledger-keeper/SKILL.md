@@ -1,6 +1,6 @@
 ---
 name: innovation-ledger-keeper
-description: Sets up and updates an innovation program's accounting (leading indicators per initiative and per stage, plus program-level measures like cycle time, kill rate, learning velocity, and money by stage), part of the Innovation Pack by Polar Bear. Use this whenever the user says "run innovation-ledger-keeper", "update the innovation ledger", "how do we measure the program", "what metrics for innovation", "leadership wants numbers on the program", or at the monthly review when the ledger needs a new line. Use it even for "is our innovation stuff working".
+description: Sets up and updates an innovation program's accounting (leading indicators per initiative and per stage, plus program-level measures like cycle time, kill rate, learning velocity, and money by stage), part of the Innovation Pack by 90n. Use this whenever the user says "run innovation-ledger-keeper", "update the innovation ledger", "how do we measure the program", "what metrics for innovation", "leadership wants numbers on the program", or at the monthly review when the ledger needs a new line. Use it even for "is our innovation stuff working".
 ---
 
 # Innovation Ledger Keeper
@@ -57,4 +57,4 @@ Extended version: I read every results and decision file in the Project, draft t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

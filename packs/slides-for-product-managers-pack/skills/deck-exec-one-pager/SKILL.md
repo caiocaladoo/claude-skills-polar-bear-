@@ -1,6 +1,6 @@
 ---
 name: deck-exec-one-pager
-description: Writes one executive summary slide in Claude Slides with the bottom line as the title, the ask with an owner and a date, and three reasons with one sourced number each. Use for "run deck-exec-one-pager", "one slide for the exec", "executive summary slide", "boil this down to one slide", "the VP only reads the first slide", "BLUF slide", "one-pager for leadership", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Writes one executive summary slide in Claude Slides with the bottom line as the title, the ask with an owner and a date, and three reasons with one sourced number each. Use for "run deck-exec-one-pager", "one slide for the exec", "executive summary slide", "boil this down to one slide", "the VP only reads the first slide", "BLUF slide", "one-pager for leadership", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Executive Summary One-Pager
@@ -68,4 +68,4 @@ Run deck-exec-two-pager (Executive Summary Two-Pager) when one slide loses the s
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

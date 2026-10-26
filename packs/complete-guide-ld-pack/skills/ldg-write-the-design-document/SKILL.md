@@ -1,6 +1,6 @@
 ---
 name: ldg-write-the-design-document
-description: Drafts the design document for one course or programme, with the audience by role and need, a strategy, practice and check per objective, every design decision with its options and rationale, what was left out and why, and a sign-off block. Use for "run ldg-write-the-design-document", "instructional design document", "instructional design", "design document for this course", "ADDIE design phase", "backward design", "get sign-off before we build", "show the design decisions", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Drafts the design document for one course or programme, with the audience by role and need, a strategy, practice and check per objective, every design decision with its options and rationale, what was left out and why, and a sign-off block. Use for "run ldg-write-the-design-document", "instructional design document", "instructional design", "design document for this course", "ADDIE design phase", "backward design", "get sign-off before we build", "show the design decisions", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Write the Design Document
@@ -71,4 +71,4 @@ Run ldg-map-the-curriculum (Map the Curriculum) to lay the modules out in order.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

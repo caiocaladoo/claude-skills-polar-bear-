@@ -1,6 +1,6 @@
 ---
 name: price-conversation-prep
-description: Prepares one page for tomorrow's price call with your number, your walk-away floor, your realistic alternative, the client's interests, your first two sentences and what you can and cannot trade. Use for "run price-conversation-prep", "the price call is tomorrow", "prepare me for the fee conversation", "I always discount before they ask", "help me hold my price", "what do I say when they push back on price", "walk the client through my proposal", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Prepares one page for tomorrow's price call with your number, your walk-away floor, your realistic alternative, the client's interests, your first two sentences and what you can and cannot trade. Use for "run price-conversation-prep", "the price call is tomorrow", "prepare me for the fee conversation", "I always discount before they ask", "help me hold my price", "what do I say when they push back on price", "walk the client through my proposal", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Price Conversation Prep Sheet
@@ -71,4 +71,4 @@ Run price-ai-objection-answer (AI Objection Answer) for the moment the client sa
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

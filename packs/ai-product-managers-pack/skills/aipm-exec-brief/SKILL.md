@@ -1,6 +1,6 @@
 ---
 name: aipm-exec-brief
-description: Writes a one-page AI Exec Brief, bottom line first, covering what the feature does, how often it is wrong by severity, what a wrong answer costs, how it is caught, run cost and the decision asked. Use for "run aipm-exec-brief", "how accurate is it", "explain the AI to leadership", "one-pager for execs on the AI feature", "go or no-go memo for the AI", "board update on our AI feature", "bottom line up front", "leaders want one accuracy number", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Writes a one-page AI Exec Brief, bottom line first, covering what the feature does, how often it is wrong by severity, what a wrong answer costs, how it is caught, run cost and the decision asked. Use for "run aipm-exec-brief", "how accurate is it", "explain the AI to leadership", "one-pager for execs on the AI feature", "go or no-go memo for the AI", "board update on our AI feature", "bottom line up front", "leaders want one accuracy number", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Exec Brief
@@ -68,4 +68,4 @@ Run aipm-quality-review (Weekly AI Quality Review) to keep the numbers in the br
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

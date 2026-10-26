@@ -1,6 +1,6 @@
 ---
 name: impact-programme-decision-record
-description: Writes the full record of one decision about a programme, producing the decision in the owner's words with its status, the options rejected, the evidence known at the time with its strength, and the review date with what would reopen it. Use for "run impact-programme-decision-record", "programme decision record", "write down the decision", "record why we kept the programme", "the sponsor said keep going", "stop or scale decision", "decision log for training", "why did we continue this course", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Writes the full record of one decision about a programme, producing the decision in the owner's words with its status, the options rejected, the evidence known at the time with its strength, and the review date with what would reopen it. Use for "run impact-programme-decision-record", "programme decision record", "write down the decision", "record why we kept the programme", "the sponsor said keep going", "stop or scale decision", "decision log for training", "why did we continue this course", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Programme Decision Record
@@ -71,4 +71,4 @@ Run impact-programme-shortfall-note (Programme Shortfall Note) when the decision
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

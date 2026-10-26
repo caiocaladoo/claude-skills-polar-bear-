@@ -1,6 +1,6 @@
 ---
 name: build-demo-script
-description: Writes a Prototype Demo Script with the one moment to show first, the limits said out loud straight after it, a timed path through the prototype, what users did in the sessions as counts, the decision asked and prepared answers for the date question. Use for "run build-demo-script", "write my demo script", "I am demoing the prototype to leadership", "what do I show first in the demo", "how do I answer when can we have it", "running order for a prototype demo", "how do I say it is only a prototype", "prepare me for the demo questions", part of the Claude for Product Builders Pack by Polar Bear.
+description: Writes a Prototype Demo Script with the one moment to show first, the limits said out loud straight after it, a timed path through the prototype, what users did in the sessions as counts, the decision asked and prepared answers for the date question. Use for "run build-demo-script", "write my demo script", "I am demoing the prototype to leadership", "what do I show first in the demo", "how do I answer when can we have it", "running order for a prototype demo", "how do I say it is only a prototype", "prepare me for the demo questions", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Prototype Demo Script
@@ -68,4 +68,4 @@ Run build-production-gap-note (Prototype vs Production Note) to put the limits a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

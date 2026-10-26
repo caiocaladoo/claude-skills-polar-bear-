@@ -1,6 +1,6 @@
 ---
 name: cs-bug-report
-description: Turns a customer ticket into a bug report engineering can act on, with steps to reproduce, expected and actual result, impact and customers affected, urgency, a workaround and what the customer was told. Use for "run cs-bug-report", "bug report template", "write a bug report from this ticket", "escalate to engineering", "engineering ignores my escalations", "steps to reproduce", "turn this ticket into a bug", part of the AI for Customer Service Pack by Polar Bear.
+description: Turns a customer ticket into a bug report engineering can act on, with steps to reproduce, expected and actual result, impact and customers affected, urgency, a workaround and what the customer was told. Use for "run cs-bug-report", "bug report template", "write a bug report from this ticket", "escalate to engineering", "engineering ignores my escalations", "steps to reproduce", "turn this ticket into a bug", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Bug Report Template
@@ -67,4 +67,4 @@ Run cs-release-readiness-brief (Release Readiness Brief) so the fix ships with s
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

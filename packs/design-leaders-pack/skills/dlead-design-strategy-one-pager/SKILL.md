@@ -1,6 +1,6 @@
 ---
 name: dlead-design-strategy-one-pager
-description: Writes a Design Strategy One-Pager with a diagnosis of the real challenge, a guiding policy and three to five coherent actions, what design stops doing, how you will know it is working, and an owner and review date. Use for "run dlead-design-strategy-one-pager", "design strategy", "design team strategy one pager", "what is design's plan this year", "new head of design strategy", "write the design team vision", "design strategy for leadership", "strategy in my first 90 days", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Writes a Design Strategy One-Pager with a diagnosis of the real challenge, a guiding policy and three to five coherent actions, what design stops doing, how you will know it is working, and an owner and review date. Use for "run dlead-design-strategy-one-pager", "design strategy", "design team strategy one pager", "what is design's plan this year", "new head of design strategy", "write the design team vision", "design strategy for leadership", "strategy in my first 90 days", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Design Strategy One-Pager
@@ -70,4 +70,4 @@ Run dlead-design-principles (Design Principles) to turn the strategy into criter
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

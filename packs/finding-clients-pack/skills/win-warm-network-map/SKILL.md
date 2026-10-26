@@ -1,6 +1,6 @@
 ---
 name: win-warm-network-map
-description: Maps your warm network against a written brief from your own LinkedIn Connections.csv, with closeness tiers you set, fit to the brief judged by you, at most 3 names per organisation and a short run of about 10 people you choose. Use for "run win-warm-network-map", "who should I talk to this week", "map my network", "go through my LinkedIn connections", "who in my network could help", "I have years of contacts and no plan", "warm network list", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Maps your warm network against a written brief from your own LinkedIn Connections.csv, with closeness tiers you set, fit to the brief judged by you, at most 3 names per organisation and a short run of about 10 people you choose. Use for "run win-warm-network-map", "who should I talk to this week", "map my network", "go through my LinkedIn connections", "who in my network could help", "I have years of contacts and no plan", "warm network list", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Warm Network Map
@@ -61,4 +61,4 @@ Run win-reconnect-message (Reconnect Message) to write to the people you picked.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

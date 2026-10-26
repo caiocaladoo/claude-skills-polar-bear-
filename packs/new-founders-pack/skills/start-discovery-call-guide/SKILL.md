@@ -1,6 +1,6 @@
 ---
 name: start-discovery-call-guide
-description: Writes a Discovery Call Guide for one person, with an agenda to agree at the start, a few situation questions and more problem, implication and need-payoff questions written for them, room for the cost of doing nothing in their numbers, who else decides and the next step to ask for. Use for "run start-discovery-call-guide", "prep my discovery call", "what do I ask on a first client call", "I have never run a sales conversation", "SPIN questions for this call", "they said they might need help", "help me run a first meeting", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Writes a Discovery Call Guide for one person, with an agenda to agree at the start, a few situation questions and more problem, implication and need-payoff questions written for them, room for the cost of doing nothing in their numbers, who else decides and the next step to ask for. Use for "run start-discovery-call-guide", "prep my discovery call", "what do I ask on a first client call", "I have never run a sales conversation", "SPIN questions for this call", "they said they might need help", "help me run a first meeting", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # Discovery Call Guide
@@ -71,4 +71,4 @@ Run start-discovery-call-recap (Discovery Call Recap) the same day, to play the 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

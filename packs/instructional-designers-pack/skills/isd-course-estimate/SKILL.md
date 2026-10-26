@@ -1,6 +1,6 @@
 ---
 name: isd-course-estimate
-description: Drafts a course estimate and timeline from your own past builds, with effort by phase, three scope options for the same date, review gates placed on the calendar, a table of what drafting with Claude shortens and what it does not, and the scope line the sponsor signs. Use for "run isd-course-estimate", "course estimate", "how long will this course take", "e-learning development timeline", "they want it next week", "AI writes it now so it should be quick", "scope options for the deadline", "estimate a course build", "what can we deliver by the date", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Drafts a course estimate and timeline from your own past builds, with effort by phase, three scope options for the same date, review gates placed on the calendar, a table of what drafting with Claude shortens and what it does not, and the scope line the sponsor signs. Use for "run isd-course-estimate", "course estimate", "how long will this course take", "e-learning development timeline", "they want it next week", "AI writes it now so it should be quick", "scope options for the deadline", "estimate a course build", "what can we deliver by the date", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Course Estimate and Timeline
@@ -71,4 +71,4 @@ Run isd-sme-interview-script (SME Interview Script) because expert time is the f
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

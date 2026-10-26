@@ -1,6 +1,6 @@
 ---
 name: gate-review-preparer
-description: Prepares one initiative for one gate (the one-page evidence brief, the reviewer's question list, the 10-minute meeting script, and the decision record with a named signer), part of the Innovation Pack by Polar Bear. Use this whenever the user says "run gate-review-preparer", "prepare the gate review", "gate is Thursday", "write the evidence brief", "what should the reviewers ask", "record the gate decision", or when a team has thirty slides and a review in two days. Use it even for "help us get ready for the partners meeting about this project".
+description: Prepares one initiative for one gate (the one-page evidence brief, the reviewer's question list, the 10-minute meeting script, and the decision record with a named signer), part of the Innovation Pack by 90n. Use this whenever the user says "run gate-review-preparer", "prepare the gate review", "gate is Thursday", "write the evidence brief", "what should the reviewers ask", "record the gate decision", or when a team has thirty slides and a review in two days. Use it even for "help us get ready for the partners meeting about this project".
 ---
 
 # Gate Review Preparer
@@ -53,4 +53,4 @@ Extended version: I assemble the brief from the results chain and the ledger wit
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

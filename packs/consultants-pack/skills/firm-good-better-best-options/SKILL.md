@@ -1,6 +1,6 @@
 ---
 name: firm-good-better-best-options
-description: Builds three ways to buy one engagement that differ in outcome and scope, each priced from your own price list, with what each leaves out, the client effort, the assumptions each rests on, the decoy test on every pair and your recommended one with the reason. Use for "run firm-good-better-best-options", "give the client three options", "good better best pricing", "stop quoting a single price", "what would a smaller first phase look like", "build tiers from my rates", "they said no to one number", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Builds three ways to buy one engagement that differ in outcome and scope, each priced from your own price list, with what each leaves out, the client effort, the assumptions each rests on, the decoy test on every pair and your recommended one with the reason. Use for "run firm-good-better-best-options", "give the client three options", "good better best pricing", "stop quoting a single price", "what would a smaller first phase look like", "build tiers from my rates", "they said no to one number", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Good-Better-Best Options
@@ -69,4 +69,4 @@ Run firm-fee-structure (Fee Structure Choice) to choose how the chosen options a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

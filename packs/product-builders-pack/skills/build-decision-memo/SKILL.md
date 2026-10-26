@@ -1,6 +1,6 @@
 ---
 name: build-decision-memo
-description: Writes a one-page decision memo after a prototype test, producing the decision asked in the first lines, three options (build, change and test again, stop) with their cost as engineering states it, and the roles who decide, contribute and are informed. Use for "run build-decision-memo", "write the decision memo", "build, change or stop", "get a decision on my prototype", "who decides what happens to the prototype", "everyone likes it and nobody has decided", "go or no-go after the user test", part of the Claude for Product Builders Pack by Polar Bear.
+description: Writes a one-page decision memo after a prototype test, producing the decision asked in the first lines, three options (build, change and test again, stop) with their cost as engineering states it, and the roles who decide, contribute and are informed. Use for "run build-decision-memo", "write the decision memo", "build, change or stop", "get a decision on my prototype", "who decides what happens to the prototype", "everyone likes it and nobody has decided", "go or no-go after the user test", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Build, Change or Stop Decision
@@ -69,4 +69,4 @@ Run build-experiment-design (Experiment Design Plan) if the decision is build, t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

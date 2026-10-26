@@ -1,6 +1,6 @@
 ---
 name: price-increase-plan
-description: Plans a price increase client by client and offer by offer, with the new price set from your own numbers, timing and notice, what changes for each client, the order to tell them, the fallback if one leaves, and your decision per client. Use for "run price-increase-plan", "I want to raise my prices", "I keep putting off a price increase", "plan a fee increase", "which clients to raise first", "how much notice do I give", "raise rates without losing clients", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Plans a price increase client by client and offer by offer, with the new price set from your own numbers, timing and notice, what changes for each client, the order to tell them, the fallback if one leaves, and your decision per client. Use for "run price-increase-plan", "I want to raise my prices", "I keep putting off a price increase", "plan a fee increase", "which clients to raise first", "how much notice do I give", "raise rates without losing clients", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # Price Increase Plan
@@ -71,4 +71,4 @@ Run price-increase-letter (Price Increase Letter) to write each client's letter 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

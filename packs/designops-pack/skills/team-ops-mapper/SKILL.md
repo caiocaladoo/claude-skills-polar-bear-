@@ -1,6 +1,6 @@
 ---
 name: team-ops-mapper
-description: Interviews a design lead and writes the map of how the team actually works today (rituals, handoffs, tools, decisions, pains), part of the DesignOps Pack by Polar Bear. Use this whenever the user says "run team-ops-mapper", "map our ops", "how does our team actually work", "write down our ways of working", "design ops audit", or when a lead wants to see the invisible processes the team runs on before fixing any of them. Use it even for a vague "our process is a mess, where do we start".
+description: Interviews a design lead and writes the map of how the team actually works today (rituals, handoffs, tools, decisions, pains), part of the DesignOps Pack by 90n. Use this whenever the user says "run team-ops-mapper", "map our ops", "how does our team actually work", "write down our ways of working", "design ops audit", or when a lead wants to see the invisible processes the team runs on before fixing any of them. Use it even for a vague "our process is a mess, where do we start".
 ---
 
 # Team Ops Mapper
@@ -65,4 +65,4 @@ The extended version: I run the interview, keep you honest about "is" versus "sh
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

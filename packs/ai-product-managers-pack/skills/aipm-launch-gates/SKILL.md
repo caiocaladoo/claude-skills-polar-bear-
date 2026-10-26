@@ -1,6 +1,6 @@
 ---
 name: aipm-launch-gates
-description: Drafts AI Launch Gates with release stages (internal, small share, wider, all), the eval and live numbers that must hold at each, kill criteria set in advance, the rollback path and the one named person who signs each gate. Use for "run aipm-launch-gates", "AI launch gates", "staged rollout for an AI feature", "canary release plan", "kill criteria for our AI launch", "what would stop the launch", "rollout stages and sign-off", part of the Claude for AI Product Managers Pack by Polar Bear.
+description: Drafts AI Launch Gates with release stages (internal, small share, wider, all), the eval and live numbers that must hold at each, kill criteria set in advance, the rollback path and the one named person who signs each gate. Use for "run aipm-launch-gates", "AI launch gates", "staged rollout for an AI feature", "canary release plan", "kill criteria for our AI launch", "what would stop the launch", "rollout stages and sign-off", part of the Claude for AI Product Managers Pack by 90n.
 ---
 
 # AI Launch Gates
@@ -67,4 +67,4 @@ Run aipm-quality-review (Weekly AI Quality Review) to keep reading transcripts o
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

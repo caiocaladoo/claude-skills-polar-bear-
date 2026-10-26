@@ -1,6 +1,6 @@
 ---
 name: impact-early-warning-note
-description: Drafts a Programme Early Warning Note for the sponsor while there is still time to act, producing a six-field note on the leading indicator that is off, the options with their costs including carrying on as planned, and the triggers to agree in advance for sending the next one. Use for "run impact-early-warning-note", "early warning", "training attendance is dropping", "the programme is off track", "tell the sponsor bad news", "nobody is using the training", "red status update", "escalate a programme risk", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Drafts a Programme Early Warning Note for the sponsor while there is still time to act, producing a six-field note on the leading indicator that is off, the options with their costs including carrying on as planned, and the triggers to agree in advance for sending the next one. Use for "run impact-early-warning-note", "early warning", "training attendance is dropping", "the programme is off track", "tell the sponsor bad news", "nobody is using the training", "red status update", "escalate a programme risk", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Programme Early Warning Note
@@ -71,4 +71,4 @@ Run impact-ld-metrics-set (L&D Metrics Set) to move from one programme to what t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

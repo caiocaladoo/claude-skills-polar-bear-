@@ -1,6 +1,6 @@
 ---
 name: dlead-design-operating-rhythm
-description: Builds a Design Team Operating Rhythm with every recurring meeting listed by purpose, owner, cadence and output, a keep, change or replace call for each, and the weekly and monthly rhythm with protected focus time on one page. Use for "run dlead-design-operating-rhythm", "too many meetings", "design team rituals", "team cadence", "meeting audit", "my designers have no focus time", "which meetings should we cut", "design team operating model", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Builds a Design Team Operating Rhythm with every recurring meeting listed by purpose, owner, cadence and output, a keep, change or replace call for each, and the weekly and monthly rhythm with protected focus time on one page. Use for "run dlead-design-operating-rhythm", "too many meetings", "design team rituals", "team cadence", "meeting audit", "my designers have no focus time", "which meetings should we cut", "design team operating model", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Design Team Operating Rhythm
@@ -69,4 +69,4 @@ Run dlead-delegation-board (Delegation Board) to agree who decides what inside t
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

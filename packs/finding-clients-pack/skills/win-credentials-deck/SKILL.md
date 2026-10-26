@@ -1,6 +1,6 @@
 ---
 name: win-credentials-deck
-description: Builds a Credentials Deck of 6 to 10 slides on your template, with who it is for, the problems you solve, 2 or 3 case slides matched to this prospect, how you work, the team and a next step. Use for "run win-credentials-deck", "credentials deck", "who we are deck", "creds deck for this prospect", "intro deck before the call", "send them something after the first call", "case slides", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Builds a Credentials Deck of 6 to 10 slides on your template, with who it is for, the problems you solve, 2 or 3 case slides matched to this prospect, how you work, the team and a next step. Use for "run win-credentials-deck", "credentials deck", "who we are deck", "creds deck for this prospect", "intro deck before the call", "send them something after the first call", "case slides", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Credentials Deck
@@ -67,4 +67,4 @@ Run win-target-account-list (Target Account List) to decide who should see your 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

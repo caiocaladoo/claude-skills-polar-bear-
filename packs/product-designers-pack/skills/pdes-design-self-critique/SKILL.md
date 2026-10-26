@@ -1,6 +1,6 @@
 ---
 name: pdes-design-self-critique
-description: Runs a Design Self-Critique on one task before a review, with your own pass against the ten usability heuristics, a separate second-opinion pass from Claude, the two merged into one issue list, and your call on each issue (fix before the review, deliberate trade-off, needs a real user). Use for "run pdes-design-self-critique", "critique my design before the review", "heuristic evaluation of my flow", "find the obvious problems first", "second opinion on my screens", "what will the room pick apart", "check my flow against the heuristics", part of the Claude for Product Designers Pack by Polar Bear.
+description: Runs a Design Self-Critique on one task before a review, with your own pass against the ten usability heuristics, a separate second-opinion pass from Claude, the two merged into one issue list, and your call on each issue (fix before the review, deliberate trade-off, needs a real user). Use for "run pdes-design-self-critique", "critique my design before the review", "heuristic evaluation of my flow", "find the obvious problems first", "second opinion on my screens", "what will the room pick apart", "check my flow against the heuristics", part of the Claude for Product Designers Pack by 90n.
 ---
 
 # Design Self-Critique
@@ -66,4 +66,4 @@ Run pdes-accessibility-review (Accessibility Review) to run the check heuristics
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: strat-business-case
-description: Writes a one-page business case for the chosen strategic option in five parts (why change, options including do nothing, build, buy or partner, cost and affordability, delivery and measurement), with an assumptions table of low, base and high values, sources and owners by role, and a note on what would change the answer. Use for "run strat-business-case", "business case for the strategy", "finance wants a number", "make the money case for this option", "build, buy or partner", "cost the chosen option", "the return is a guess", "what would change the answer", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Writes a one-page business case for the chosen strategic option in five parts (why change, options including do nothing, build, buy or partner, cost and affordability, delivery and measurement), with an assumptions table of low, base and high values, sources and owners by role, and a note on what would change the answer. Use for "run strat-business-case", "business case for the strategy", "finance wants a number", "make the money case for this option", "build, buy or partner", "cost the chosen option", "the return is a guess", "what would change the answer", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Business Case
@@ -69,4 +69,4 @@ Run strat-north-star-metric (North Star Metric) to name the one number the funde
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

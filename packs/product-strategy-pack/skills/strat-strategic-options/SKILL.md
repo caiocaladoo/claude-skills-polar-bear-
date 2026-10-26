@@ -1,6 +1,6 @@
 ---
 name: strat-strategic-options
-description: Builds a Strategic Option Set of three to five options that differ in kind, with do nothing as option zero and its cost of waiting, the bet each option makes, what each gives up, its reversibility and a log of merged options. Use for "run strat-strategic-options", "give me options that differ in kind", "these are one idea in three sizes", "add do nothing as option zero", "which option did we not consider", "alternatives to the leader's plan", "widen the strategic options", "where to play and how to win options", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Builds a Strategic Option Set of three to five options that differ in kind, with do nothing as option zero and its cost of waiting, the bet each option makes, what each gives up, its reversibility and a log of merged options. Use for "run strat-strategic-options", "give me options that differ in kind", "these are one idea in three sizes", "add do nothing as option zero", "which option did we not consider", "alternatives to the leader's plan", "widen the strategic options", "where to play and how to win options", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Strategic Options
@@ -68,4 +68,4 @@ Run strat-decision-matrix (Decision Matrix) to compare the surviving options on 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

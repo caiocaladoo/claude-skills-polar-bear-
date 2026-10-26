@@ -1,6 +1,6 @@
 ---
 name: pdes-critique-session-brief
-description: Prepares a Critique Session Brief with two or three numbered objectives, the stage of the work, the one question for the room about a real user moment, what is out of scope today, a walkthrough cut to the timebox, a framing sentence to read aloud and prompts that turn reactions into questions. Use for "run pdes-critique-session-brief", "prep my crit", "I present at critique on Thursday", "what should I ask the room", "how do I get useful feedback on my design", "design critique brief", "frame my work for crit", "stop getting opinions at crit", part of the Claude for Product Designers Pack by Polar Bear.
+description: Prepares a Critique Session Brief with two or three numbered objectives, the stage of the work, the one question for the room about a real user moment, what is out of scope today, a walkthrough cut to the timebox, a framing sentence to read aloud and prompts that turn reactions into questions. Use for "run pdes-critique-session-brief", "prep my crit", "I present at critique on Thursday", "what should I ask the room", "how do I get useful feedback on my design", "design critique brief", "frame my work for crit", "stop getting opinions at crit", part of the Claude for Product Designers Pack by 90n.
 ---
 
 # Critique Session Brief
@@ -68,4 +68,4 @@ Run pdes-critique-notes-to-actions (Critique Notes to Actions) to sort what the 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

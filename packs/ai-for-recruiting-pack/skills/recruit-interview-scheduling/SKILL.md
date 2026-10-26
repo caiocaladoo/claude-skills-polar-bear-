@@ -1,6 +1,6 @@
 ---
 name: recruit-interview-scheduling
-description: Writes interview scheduling messages, an invitation that says what to expect and offers adjustments, then confirmation, reminder, reschedule, and apologies for a late cancellation or a missed slot. Use for "run recruit-interview-scheduling", "interview invitation email", "interview scheduling email", "reschedule an interview", "we cancelled the interview last minute", "candidate no show email", "interview reminder", "ask about interview adjustments", part of the AI for Recruiting Pack by Polar Bear.
+description: Writes interview scheduling messages, an invitation that says what to expect and offers adjustments, then confirmation, reminder, reschedule, and apologies for a late cancellation or a missed slot. Use for "run recruit-interview-scheduling", "interview invitation email", "interview scheduling email", "reschedule an interview", "we cancelled the interview last minute", "candidate no show email", "interview reminder", "ask about interview adjustments", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Interview Scheduling Messages
@@ -68,4 +68,4 @@ Run recruit-rejection-email (Rejection Email) to write the no, once a person has
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

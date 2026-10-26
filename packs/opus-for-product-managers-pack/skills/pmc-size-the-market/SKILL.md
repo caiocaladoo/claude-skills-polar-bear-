@@ -1,6 +1,6 @@
 ---
 name: pmc-size-the-market
-description: Builds a Market Sizing Model with a top-down and a bottom-up estimate side by side, every input sourced or labelled as an assumption, a low, base and high range instead of a point, the gap between the methods explained and an editable spreadsheet. Use for "run pmc-size-the-market", "size the market", "how big is this", "TAM SAM SOM", "top-down and bottom-up sizing", "which assumptions move the answer most", "put the model in a spreadsheet I can change", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Builds a Market Sizing Model with a top-down and a bottom-up estimate side by side, every input sourced or labelled as an assumption, a low, base and high range instead of a point, the gap between the methods explained and an editable spreadsheet. Use for "run pmc-size-the-market", "size the market", "how big is this", "TAM SAM SOM", "top-down and bottom-up sizing", "which assumptions move the answer most", "put the model in a spreadsheet I can change", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Size the Market
@@ -70,4 +70,4 @@ Run pmc-segment-by-needs (Segment Customers by Needs) to see who inside the mark
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

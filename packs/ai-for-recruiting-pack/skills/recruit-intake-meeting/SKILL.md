@@ -1,6 +1,6 @@
 ---
 name: recruit-intake-meeting
-description: Plans and records the intake meeting with the hiring manager, producing a question plan, a calibration on 3 to 5 anonymised sample profiles, a must-have versus trainable list and a one-page intake summary to sign off. Use for "run recruit-intake-meeting", "intake meeting with the hiring manager", "intake questions", "the manager can't describe the job", "my search keeps drifting", "calibrate the brief", "kickoff call for a new role", "intake form", part of the AI for Recruiting Pack by Polar Bear.
+description: Plans and records the intake meeting with the hiring manager, producing a question plan, a calibration on 3 to 5 anonymised sample profiles, a must-have versus trainable list and a one-page intake summary to sign off. Use for "run recruit-intake-meeting", "intake meeting with the hiring manager", "intake questions", "the manager can't describe the job", "my search keeps drifting", "calibrate the brief", "kickoff call for a new role", "intake form", part of the AI for Recruiting Pack by 90n.
 ---
 
 # Intake Meeting
@@ -71,4 +71,4 @@ Run recruit-job-scorecard (Job Scorecard) to turn the agreed brief into criteria
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

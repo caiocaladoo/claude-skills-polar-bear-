@@ -1,6 +1,6 @@
 ---
 name: acct-customer-proof-story
-description: Writes a customer proof story from a guided interview with the seller who ran the account, with a paragraph of 120 to 180 words for one prospect, a short version and the list of what the customer must agree to. Use for "run acct-customer-proof-story", "customer story", "customer proof", "case study paragraph for a proposal", "customer reference for this prospect", "have you done this before", "write up a customer win", part of the Claude for Account Executives Pack by Polar Bear.
+description: Writes a customer proof story from a guided interview with the seller who ran the account, with a paragraph of 120 to 180 words for one prospect, a short version and the list of what the customer must agree to. Use for "run acct-customer-proof-story", "customer story", "customer proof", "case study paragraph for a proposal", "customer reference for this prospect", "have you done this before", "write up a customer win", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Customer Proof Story
@@ -67,4 +67,4 @@ Run acct-proposal-follow-up (Proposal Follow-Up) to bring this story to the cust
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: build-usability-findings
-description: Turns your session notes into Usability Test Findings with completed, completed with help and not completed per task against the criteria set before testing, what people did beside what they said, a sheet with one observation per row, problems with a proposed severity and the moments to show. Use for "run build-usability-findings", "read my usability test notes", "what did the user tests show", "rate these usability problems", "write up the prototype sessions", "the sessions went well I think", "which problems matter most", "what should I change after testing", part of the Claude for Product Builders Pack by Polar Bear.
+description: Turns your session notes into Usability Test Findings with completed, completed with help and not completed per task against the criteria set before testing, what people did beside what they said, a sheet with one observation per row, problems with a proposed severity and the moments to show. Use for "run build-usability-findings", "read my usability test notes", "what did the user tests show", "rate these usability problems", "write up the prototype sessions", "the sessions went well I think", "which problems matter most", "what should I change after testing", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Usability Test Findings
@@ -69,4 +69,4 @@ Run build-iteration-plan (Prototype Iteration Plan) to choose what changes befor
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

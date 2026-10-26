@@ -1,6 +1,6 @@
 ---
 name: isd-microlearning-series
-description: Drafts a spaced series of short units, one job action each, with a retrieval prompt and a decision in every unit, the order and the gaps between them, and a table of what the series replaces in the long course. Use for "run isd-microlearning-series", "turn this long module into microlearning", "nobody finishes the long course", "plan a spaced series", "short units with retrieval practice", "do not just chop the module into pieces", "what should each micro unit contain", "design a drip course", part of the Claude for Instructional Designers Pack by Polar Bear.
+description: Drafts a spaced series of short units, one job action each, with a retrieval prompt and a decision in every unit, the order and the gaps between them, and a table of what the series replaces in the long course. Use for "run isd-microlearning-series", "turn this long module into microlearning", "nobody finishes the long course", "plan a spaced series", "short units with retrieval practice", "do not just chop the module into pieces", "what should each micro unit contain", "design a drip course", part of the Claude for Instructional Designers Pack by 90n.
 ---
 
 # Microlearning Series
@@ -70,4 +70,4 @@ Run isd-live-to-elearning (Live Session to E-Learning Conversion) to plan the mo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

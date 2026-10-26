@@ -1,6 +1,6 @@
 ---
 name: reach-talking-points
-description: Prepares two or three talking points for the one reason you chose, each three or four sentences, with every fact carrying its source or marked as your history, your offer kept out and no greeting, sign-off or assembled message. Use for "run reach-talking-points", "talking points", "what should I say", "points for my message", "help me think about what to write", "do not write it for me", "substance for my outreach", "points not a draft", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Prepares two or three talking points for the one reason you chose, each three or four sentences, with every fact carrying its source or marked as your history, your offer kept out and no greeting, sign-off or assembled message. Use for "run reach-talking-points", "talking points", "what should I say", "points for my message", "help me think about what to write", "do not write it for me", "substance for my outreach", "points not a draft", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # Talking Points
@@ -63,4 +63,4 @@ Run reach-cold-email-outline (Cold Email Outline) to set your own words into a f
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

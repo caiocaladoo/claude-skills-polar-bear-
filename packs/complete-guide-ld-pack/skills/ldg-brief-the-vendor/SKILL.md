@@ -1,6 +1,6 @@
 ---
 name: ldg-brief-the-vendor
-description: Writes a requirements brief for an outside training provider or a learning tool, producing the outcomes wanted, must-haves against nice-to-haves, the same questions and a demo script on your own content for every provider, selection criteria with weights the team sets and a decision record. Use for "run ldg-brief-the-vendor", "training rfp", "lms rfp", "vendor selection for training", "choose a training provider", "request for proposal training", "compare learning tools", "demo script for a vendor", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Writes a requirements brief for an outside training provider or a learning tool, producing the outcomes wanted, must-haves against nice-to-haves, the same questions and a demo script on your own content for every provider, selection criteria with weights the team sets and a decision record. Use for "run ldg-brief-the-vendor", "training rfp", "lms rfp", "vendor selection for training", "choose a training provider", "request for proposal training", "compare learning tools", "demo script for a vendor", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Brief the Vendor
@@ -71,4 +71,4 @@ Run ldg-plan-the-build (Plan the Build) to plan the work, with or without the pr
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

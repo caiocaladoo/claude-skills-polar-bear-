@@ -1,6 +1,6 @@
 ---
 name: strat-recommendation-memo
-description: Writes a one-page recommendation memo with the call and the ask in the first line, three reasons each tied to evidence a reader can open, every rejected option with its fair case and the one reason it lost, risks with owners, and a one-minute spoken answer to "why not the other option?". Use for "run strat-recommendation-memo", "write the recommendation memo for our strategy choice", "put the call and the ask in the first line", "what are we rejecting and why?", "how do I answer why not the other option?", "decision memo for leadership", "make the call on one page", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Writes a one-page recommendation memo with the call and the ask in the first line, three reasons each tied to evidence a reader can open, every rejected option with its fair case and the one reason it lost, risks with owners, and a one-minute spoken answer to "why not the other option?". Use for "run strat-recommendation-memo", "write the recommendation memo for our strategy choice", "put the call and the ask in the first line", "what are we rejecting and why?", "how do I answer why not the other option?", "decision memo for leadership", "make the call on one page", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Recommendation Memo
@@ -70,4 +70,4 @@ Run strat-business-case (Business Case) to put the money case behind the recomme
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

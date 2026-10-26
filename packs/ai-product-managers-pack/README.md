@@ -2,7 +2,7 @@
 
 36 Claude skills for deciding if AI fits, testing it before launch and keeping it honest after. For AI product managers, product managers adding AI features and founders shipping AI products.
 
-**Guide and download:** [meet-polar-bear.com/skills/ai-product-managers-pack](https://meet-polar-bear.com/skills/ai-product-managers-pack)
+**Guide and download:** [90n.ai/resources/ai-product-managers-pack](https://90n.ai/resources/ai-product-managers-pack)
 
 ## What this is
 
@@ -169,7 +169,7 @@ The sources behind each method are in `resources/evidence-and-sources.md`.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
 
 ---
 

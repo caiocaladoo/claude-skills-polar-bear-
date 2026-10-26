@@ -1,6 +1,6 @@
 ---
 name: dlead-critique-ritual
-description: Designs a Design Critique Ritual with two aims, who comes and who does not, critique split from review and status, a format (round robin, quota or silent first), role sentences, rules with consequences, the reply after and named failure modes. Use for "run dlead-critique-ritual", "fix the design crit", "design critiques are not working", "set up design critique", "crit is a taste argument", "the loudest person redesigns the work", "critique format", "design feedback culture", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Designs a Design Critique Ritual with two aims, who comes and who does not, critique split from review and status, a format (round robin, quota or silent first), role sentences, rules with consequences, the reply after and named failure modes. Use for "run dlead-critique-ritual", "fix the design crit", "design critiques are not working", "set up design critique", "crit is a taste argument", "the loudest person redesigns the work", "critique format", "design feedback culture", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Design Critique Ritual
@@ -71,4 +71,4 @@ Run dlead-critique-session-brief (Critique Session Brief) to prepare the first p
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

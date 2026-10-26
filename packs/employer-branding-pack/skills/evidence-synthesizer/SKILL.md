@@ -1,6 +1,6 @@
 ---
 name: evidence-synthesizer
-description: Turns the notes from the listening round (plus exit notes, review-site text, survey verbatims) into the evidence base an honest EVP is written from, with themes counted, the minority view kept, and contradictions named, part of the Employer Branding Pack by Polar Bear. Use this whenever the user says "run evidence-synthesizer", "what did the interviews tell us", "synthesize the employee interviews", "find the themes in these notes", "what do people actually say about working here", or when someone has a folder of interview notes and a deadline. Use it even for a vague "help me make sense of what the team said".
+description: Turns the notes from the listening round (plus exit notes, review-site text, survey verbatims) into the evidence base an honest EVP is written from, with themes counted, the minority view kept, and contradictions named, part of the Employer Branding Pack by 90n. Use this whenever the user says "run evidence-synthesizer", "what did the interviews tell us", "synthesize the employee interviews", "find the themes in these notes", "what do people actually say about working here", or when someone has a folder of interview notes and a deadline. Use it even for a vague "help me make sense of what the team said".
 ---
 
 # Evidence synthesizer
@@ -55,4 +55,4 @@ The extended version: I keep versions across rounds, weight sources, and produce
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: cs-workload-recovery-rules
-description: Writes team workload and recovery rules for a support desk, with an occupancy cap, breaks between hard contacts, recovery time after abuse, cover and shift-end rules, and a team check against six stress areas. Use for "run cs-workload-recovery-rules", "my team is burning out", "workload rules for support agents", "recovery time after an abusive call", "cap back-to-back hard contacts", "support team stress check", "breaks between difficult calls", part of the AI for Customer Service Pack by Polar Bear.
+description: Writes team workload and recovery rules for a support desk, with an occupancy cap, breaks between hard contacts, recovery time after abuse, cover and shift-end rules, and a team check against six stress areas. Use for "run cs-workload-recovery-rules", "my team is burning out", "workload rules for support agents", "recovery time after an abusive call", "cap back-to-back hard contacts", "support team stress check", "breaks between difficult calls", part of the AI for Customer Service Pack by 90n.
 ---
 
 # Workload and Recovery Rules
@@ -68,4 +68,4 @@ Run cs-erlang-c-staffing (Erlang C Staffing Plan) to cost these rules as agents 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

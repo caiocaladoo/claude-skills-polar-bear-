@@ -1,6 +1,6 @@
 ---
 name: strat-red-team-review
-description: Argues against the leading strategy option and returns a red team review with the assumptions the plan cannot survive losing, the strongest case against it in good faith, the counter-evidence already on file, three sceptic questions, a change-now list and the accepted risks. Use for "run strat-red-team-review", "red team our product strategy", "argue against this plan as hard as you can", "which assumptions can this plan not survive losing?", "poke holes in the strategy before the review", "key assumptions check", "what will a sceptical leader ask?", "what should I change before the review?", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Argues against the leading strategy option and returns a red team review with the assumptions the plan cannot survive losing, the strongest case against it in good faith, the counter-evidence already on file, three sceptic questions, a change-now list and the accepted risks. Use for "run strat-red-team-review", "red team our product strategy", "argue against this plan as hard as you can", "which assumptions can this plan not survive losing?", "poke holes in the strategy before the review", "key assumptions check", "what will a sceptical leader ask?", "what should I change before the review?", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Red Team Review
@@ -69,4 +69,4 @@ Run strat-pre-mortem-analysis (Pre-Mortem Analysis) to imagine the changed plan 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

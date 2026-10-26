@@ -1,6 +1,6 @@
 ---
 name: proj-stakeholder-map
-description: Builds a stakeholder map for a project, with the stakeholder list by role, a power and interest grid based on formal decision rights and how much the project changes each role's work, and a table of who decides what. Use for "run proj-stakeholder-map", "stakeholder map", "power interest grid", "who actually decides this", "stakeholder analysis for my project", "map the stakeholders", "who do I need to manage closely", "stakeholder register", part of the AI for Project Management Pack by Polar Bear.
+description: Builds a stakeholder map for a project, with the stakeholder list by role, a power and interest grid based on formal decision rights and how much the project changes each role's work, and a table of who decides what. Use for "run proj-stakeholder-map", "stakeholder map", "power interest grid", "who actually decides this", "stakeholder analysis for my project", "map the stakeholders", "who do I need to manage closely", "stakeholder register", part of the AI for Project Management Pack by 90n.
 ---
 
 # Stakeholder Map
@@ -70,4 +70,4 @@ Run proj-raci-matrix (RACI Matrix) to turn these decision rights into one owner 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

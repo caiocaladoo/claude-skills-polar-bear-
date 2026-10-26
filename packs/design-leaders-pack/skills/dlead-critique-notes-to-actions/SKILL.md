@@ -1,6 +1,6 @@
 ---
 name: dlead-critique-notes-to-actions
-description: Turns raw crit notes into Critique Actions and Reply, with each note sorted as tied to an objective, preference, out of scope or open question, the presenter's change, will not change or test call per note, actions with owners and dates, and the three-line reply to the room. Use for "run dlead-critique-notes-to-actions", "sort my crit notes", "write up the crit", "too many critique comments", "which feedback matters", "reply to the room after crit", "turn crit feedback into actions", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Turns raw crit notes into Critique Actions and Reply, with each note sorted as tied to an objective, preference, out of scope or open question, the presenter's change, will not change or test call per note, actions with owners and dates, and the three-line reply to the room. Use for "run dlead-critique-notes-to-actions", "sort my crit notes", "write up the crit", "too many critique comments", "which feedback matters", "reply to the room after crit", "turn crit feedback into actions", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Critique Notes to Actions
@@ -66,4 +66,4 @@ Run dlead-heart-metrics-plan (HEART Metrics Plan) to agree how the shipped work 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: win-proposal-follow-up
-description: Plans how one proposal gets an answer, with the walk-through call booked before you send, a shared next-step list with dates both sides agree, two follow-ups that each add something useful, a close-the-loop note that makes no easy to say, and a log. Use for "run win-proposal-follow-up", "the client went silent", "follow up on my proposal", "no reply to my proposal", "how do I chase without being pushy", "mutual action plan", "close the loop", part of the Claude Guide for Finding Clients Pack by Polar Bear.
+description: Plans how one proposal gets an answer, with the walk-through call booked before you send, a shared next-step list with dates both sides agree, two follow-ups that each add something useful, a close-the-loop note that makes no easy to say, and a log. Use for "run win-proposal-follow-up", "the client went silent", "follow up on my proposal", "no reply to my proposal", "how do I chase without being pushy", "mutual action plan", "close the loop", part of the Claude Guide for Finding Clients Pack by 90n.
 ---
 
 # Proposal Follow-Up Plan
@@ -69,4 +69,4 @@ Run win-objection-response (Objection Response) to answer the concern that comes
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

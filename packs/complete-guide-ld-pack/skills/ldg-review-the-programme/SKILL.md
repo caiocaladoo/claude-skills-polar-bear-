@@ -1,6 +1,6 @@
 ---
 name: ldg-review-the-programme
-description: Prepares the team's review of one training programme, setting what was intended before launch against what happened, with the reasons, a two-part keep and change list, a keep, fix or retire recommendation, and the items for next year's plan. Use for "run ldg-review-the-programme", "after action review", "program review", "training programme review", "lessons learned", "retire a course", "course audit", "should we keep running this course", part of The Complete Claude Guide for L&D Pack by Polar Bear.
+description: Prepares the team's review of one training programme, setting what was intended before launch against what happened, with the reasons, a two-part keep and change list, a keep, fix or retire recommendation, and the items for next year's plan. Use for "run ldg-review-the-programme", "after action review", "program review", "training programme review", "lessons learned", "retire a course", "course audit", "should we keep running this course", part of The Complete Claude Guide for L&D Pack by 90n.
 ---
 
 # Review the Programme
@@ -70,4 +70,4 @@ Run ldg-plan-the-year (Plan the L&D Year) to carry what was learned into next ye
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

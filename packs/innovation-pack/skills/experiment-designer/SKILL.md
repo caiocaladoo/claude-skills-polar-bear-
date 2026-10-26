@@ -1,6 +1,6 @@
 ---
 name: experiment-designer
-description: Maps the assumptions behind an innovation initiative (desirability, feasibility, viability), picks the riskiest one, and writes an experiment card with pass and fail thresholds set before the experiment runs, part of the Innovation Pack by Polar Bear. Use this whenever the user says "run experiment-designer", "design an experiment", "how do we test this without building it", "what is our riskiest assumption", "write the experiment card", or when a team is about to build something and has not said what would prove them wrong. Use it even for "how do we know if this idea is any good".
+description: Maps the assumptions behind an innovation initiative (desirability, feasibility, viability), picks the riskiest one, and writes an experiment card with pass and fail thresholds set before the experiment runs, part of the Innovation Pack by 90n. Use this whenever the user says "run experiment-designer", "design an experiment", "how do we test this without building it", "what is our riskiest assumption", "write the experiment card", or when a team is about to build something and has not said what would prove them wrong. Use it even for "how do we know if this idea is any good".
 ---
 
 # Experiment Designer
@@ -53,4 +53,4 @@ Extended version: I write the full assumption map, propose two or three instrume
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

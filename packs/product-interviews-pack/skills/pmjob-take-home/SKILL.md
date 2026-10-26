@@ -1,6 +1,6 @@
 ---
 name: pmjob-take-home
-description: Builds a Take-Home Assignment Plan that restates the brief, lists the questions to send before you start (expected hours, what is assessed, the AI rule), sets a time box you choose, lays out the submission with an assumptions and limits page, and adds a note of what you used AI for in line with what the employer allows. Use for "run pmjob-take-home", "plan my take-home", "product take-home assignment", "design challenge plan", "how long should a take-home take", "can I use AI on the take-home", "structure my case study submission", "take-home with no time limit", part of the Claude Guide for Product Interviews Pack by Polar Bear.
+description: Builds a Take-Home Assignment Plan that restates the brief, lists the questions to send before you start (expected hours, what is assessed, the AI rule), sets a time box you choose, lays out the submission with an assumptions and limits page, and adds a note of what you used AI for in line with what the employer allows. Use for "run pmjob-take-home", "plan my take-home", "product take-home assignment", "design challenge plan", "how long should a take-home take", "can I use AI on the take-home", "structure my case study submission", "take-home with no time limit", part of the Claude Guide for Product Interviews Pack by 90n.
 ---
 
 # Take-Home Assignment Plan
@@ -67,4 +67,4 @@ Run pmjob-round-debrief (Interview Round Debrief) to capture what happened after
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

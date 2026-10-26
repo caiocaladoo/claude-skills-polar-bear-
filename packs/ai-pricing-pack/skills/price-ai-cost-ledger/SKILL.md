@@ -1,6 +1,6 @@
 ---
 name: price-ai-cost-ledger
-description: Builds an AI cost ledger from your invoices, with every AI tool and API cost per month, the share traceable to each client or offer, the review time AI adds, what you absorb or bill today, and the choice per cost (absorb in the fee, bill as a line, build into the offer price) for you to decide. Use for "run price-ai-cost-ledger", "should I bill clients for AI tools", "pass AI costs to clients", "absorb or bill my AI subscriptions", "track my AI spend per client", "my AI bills keep growing", part of the Pricing Under AI Pressure Pack by Polar Bear.
+description: Builds an AI cost ledger from your invoices, with every AI tool and API cost per month, the share traceable to each client or offer, the review time AI adds, what you absorb or bill today, and the choice per cost (absorb in the fee, bill as a line, build into the offer price) for you to decide. Use for "run price-ai-cost-ledger", "should I bill clients for AI tools", "pass AI costs to clients", "absorb or bill my AI subscriptions", "track my AI spend per client", "my AI bills keep growing", part of the Pricing Under AI Pressure Pack by 90n.
 ---
 
 # AI Cost Ledger
@@ -68,4 +68,4 @@ Run price-ai-savings-decision (AI Savings Decision) to decide what the net savin
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

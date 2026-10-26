@@ -1,6 +1,6 @@
 ---
 name: start-point-of-view
-description: Records your Point of View Statement by asking and never supplying, setting out up to three beliefs about your field in your words, the shift behind each, the practice you think others get wrong, evidence from your own work and where you might be wrong. Use for "run start-point-of-view", "what do I believe", "my point of view", "I have opinions but nothing written down", "what do others get wrong in my field", "thought leadership for a new founder", "what do I stand for now", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Records your Point of View Statement by asking and never supplying, setting out up to three beliefs about your field in your words, the shift behind each, the practice you think others get wrong, evidence from your own work and where you might be wrong. Use for "run start-point-of-view", "what do I believe", "my point of view", "I have opinions but nothing written down", "what do others get wrong in my field", "thought leadership for a new founder", "what do I stand for now", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # Point of View Statement
@@ -65,4 +65,4 @@ Run start-positioning-statement (Positioning Statement) to turn who you are for 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

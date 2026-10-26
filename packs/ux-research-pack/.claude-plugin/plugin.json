@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "description": "UX Research with Claude: 32 Claude Skills for planning, recruiting, running, synthesising and sharing user research with real users only. Plan the study, recruit and consent real people, write the interview, usability, survey and diary guides, run and capture sessions, synthesise with every quote kept, turn findings into journey maps, jobs to be done and opportunities, then share them in a readout, an action tracker and a repository. For designers who run their own research, UX researchers and design leads who defend research time.",
   "author": {
-    "name": "Polar Bear",
-    "url": "https://meet-polar-bear.com"
+    "name": "90n",
+    "url": "https://90n.ai"
   },
-  "homepage": "https://meet-polar-bear.com/skills/ux-research-pack",
+  "homepage": "https://90n.ai/resources/ux-research-pack",
   "repository": "https://github.com/polar-bear-org/claude-skills",
   "license": "LicenseRef-PolarBear-Internal-Use",
   "keywords": [

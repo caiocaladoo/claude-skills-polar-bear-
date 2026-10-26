@@ -1,6 +1,6 @@
 ---
 name: pmc-write-leadership-memo
-description: Writes a narrative leadership decision memo in Claude Docs for one decision meeting, covering context, the problem, options considered, the recommendation, what it costs and the open questions, written to be read in silence before discussion. Use for "run pmc-write-leadership-memo", "write a six-page memo for the platform decision", "make it readable in ten minutes of silence", "write the pre-read", "the meeting keeps relitigating the basics", "which questions should the memo answer first", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Writes a narrative leadership decision memo in Claude Docs for one decision meeting, covering context, the problem, options considered, the recommendation, what it costs and the open questions, written to be read in silence before discussion. Use for "run pmc-write-leadership-memo", "write a six-page memo for the platform decision", "make it readable in ten minutes of silence", "write the pre-read", "the meeting keeps relitigating the basics", "which questions should the memo answer first", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Write the Leadership Memo
@@ -68,4 +68,4 @@ Run pmc-build-deck-in-claude-slides (Build the Deck in Claude Slides) when the a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

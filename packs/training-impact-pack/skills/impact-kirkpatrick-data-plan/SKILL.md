@@ -1,6 +1,6 @@
 ---
 name: impact-kirkpatrick-data-plan
-description: Builds the collection schedule for a training evaluation across the four Kirkpatrick levels, producing a schedule of measure, instrument, source, owner, date and reporting group size per level, a required drivers table with owners, and a written choice of how deep to evaluate this programme. Use for "run impact-kirkpatrick-data-plan", "kirkpatrick model", "kirkpatrick model of evaluation", "evaluation plan", "who collects what", "data collection plan for training", "kirkpatrick four levels", "how deep should we evaluate this programme", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Builds the collection schedule for a training evaluation across the four Kirkpatrick levels, producing a schedule of measure, instrument, source, owner, date and reporting group size per level, a required drivers table with owners, and a written choice of how deep to evaluate this programme. Use for "run impact-kirkpatrick-data-plan", "kirkpatrick model", "kirkpatrick model of evaluation", "evaluation plan", "who collects what", "data collection plan for training", "kirkpatrick four levels", "how deep should we evaluate this programme", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # Kirkpatrick Data Collection Plan
@@ -70,4 +70,4 @@ Run impact-post-training-survey (Post-Training Survey) to build the first instru
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

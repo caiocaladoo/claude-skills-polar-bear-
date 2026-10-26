@@ -1,6 +1,6 @@
 ---
 name: deck-context-setup
-description: Writes deck-context.md, the ground-truth file every deck reads, with your product and users, a metric dictionary giving each metric an owner, source, base and period, your recurring audiences and their asks, and the house words to use and avoid. Use for "run deck-context-setup", "set up the slides pack", "Claude keeps guessing our metrics", "write our deck context", "metric dictionary for decks", "where do our numbers come from", "update the deck context file", "where do I start with Claude Slides", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Writes deck-context.md, the ground-truth file every deck reads, with your product and users, a metric dictionary giving each metric an owner, source, base and period, your recurring audiences and their asks, and the house words to use and avoid. Use for "run deck-context-setup", "set up the slides pack", "Claude keeps guessing our metrics", "write our deck context", "metric dictionary for decks", "where do our numbers come from", "update the deck context file", "where do I start with Claude Slides", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Deck Context File
@@ -70,4 +70,4 @@ Run deck-design-system (Slide Design System) to set the look once the facts are 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

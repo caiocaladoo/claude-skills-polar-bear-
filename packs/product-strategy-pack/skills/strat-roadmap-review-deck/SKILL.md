@@ -1,6 +1,6 @@
 ---
 name: strat-roadmap-review-deck
-description: Builds a roadmap review deck that opens on the ask, recaps the strategy, shows shipped against said from the last review, lays out Now, Next and Later by theme with confidence and a committed or aspirational label, gives the costed no list and the trade-off that moved the most, and ends on one decision. Use for "run strat-roadmap-review-deck", "roadmap review deck", "roadmap slides for leadership", "quarterly roadmap review", "show what we shipped against what we said", "roadmap without dates", "explain what we said no to", "our roadmap dates were read as promises", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Builds a roadmap review deck that opens on the ask, recaps the strategy, shows shipped against said from the last review, lays out Now, Next and Later by theme with confidence and a committed or aspirational label, gives the costed no list and the trade-off that moved the most, and ends on one decision. Use for "run strat-roadmap-review-deck", "roadmap review deck", "roadmap slides for leadership", "quarterly roadmap review", "show what we shipped against what we said", "roadmap without dates", "explain what we said no to", "our roadmap dates were read as promises", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Roadmap Review Deck
@@ -70,4 +70,4 @@ Run strat-board-memo (Board Memo) to write the product section the board reads a
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

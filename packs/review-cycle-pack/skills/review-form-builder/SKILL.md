@@ -1,6 +1,6 @@
 ---
 name: review-form-builder
-description: Builds the self-review and manager review forms for an annual review cycle, part of the Annual Review Cycle Pack by Polar Bear. Use this whenever the user says "run review-form-builder", "create our review form", "build the self-review questions", "what should we ask in reviews", or wants a performance review questionnaire or template. Use it even for a casual "what questions should I ask my team in their reviews".
+description: Builds the self-review and manager review forms for an annual review cycle, part of the Annual Review Cycle Pack by 90n. Use this whenever the user says "run review-form-builder", "create our review form", "build the self-review questions", "what should we ask in reviews", or wants a performance review questionnaire or template. Use it even for a casual "what questions should I ask my team in their reviews".
 ---
 
 # Review Form Builder
@@ -58,4 +58,4 @@ For each question, add one line of "why we ask" under it. People answer better w
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).
+This pack is made by 90n, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We design career frameworks and run review systems for our clients, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry) or Alexey (linkedin.com/in/alexey-lobachev-tor).

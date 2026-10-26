@@ -1,6 +1,6 @@
 ---
 name: adopt-ai-adoption-brief
-description: Turns "get everyone using AI" into an adoption brief with one observable work change per role, what stops as well as starts, and the sponsor and decision owner. Use for "run adopt-ai-adoption-brief", "AI adoption brief", "we need everyone using AI", "define the AI rollout", "what should people do differently with AI", "scope an AI adoption programme", "AI adoption plan first step", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Turns "get everyone using AI" into an adoption brief with one observable work change per role, what stops as well as starts, and the sponsor and decision owner. Use for "run adopt-ai-adoption-brief", "AI adoption brief", "we need everyone using AI", "define the AI rollout", "what should people do differently with AI", "scope an AI adoption programme", "AI adoption plan first step", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # AI Adoption Brief
@@ -71,4 +71,4 @@ Status: [first draft / checked with people in the role on [date]] · Prepared fo
 Run adopt-ai-starting-point-survey (AI Starting Point Survey) to ask the people affected where they are before planning anything for them.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

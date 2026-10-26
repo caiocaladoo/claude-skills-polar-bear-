@@ -1,6 +1,6 @@
 ---
 name: dlead-leadership-case-study
-description: Writes a Leadership Case Study with the situation, your role and who decided what, the key decisions and trade-offs, how you brought people along, outcomes from real data with placeholders where numbers are missing and what you would do differently. Use for "run dlead-leadership-case-study", "design leadership portfolio", "case study for a design lead", "my portfolio doesn't show my work", "head of design portfolio", "write up a project as a case study", "show leadership not screens", "principal designer case study", part of the Claude for Design Leaders Pack by Polar Bear.
+description: Writes a Leadership Case Study with the situation, your role and who decided what, the key decisions and trade-offs, how you brought people along, outcomes from real data with placeholders where numbers are missing and what you would do differently. Use for "run dlead-leadership-case-study", "design leadership portfolio", "case study for a design lead", "my portfolio doesn't show my work", "head of design portfolio", "write up a project as a case study", "show leadership not screens", "principal designer case study", part of the Claude for Design Leaders Pack by 90n.
 ---
 
 # Leadership Case Study
@@ -70,4 +70,4 @@ Run dlead-brag-document (Brag Document) to keep logging so the next case study w
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

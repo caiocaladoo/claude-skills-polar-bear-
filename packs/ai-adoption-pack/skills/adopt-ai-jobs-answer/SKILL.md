@@ -1,6 +1,6 @@
 ---
 name: adopt-ai-jobs-answer
-description: Prepares an honest answer to what people ask about AI and their jobs, with the questions sorted, a decided, open and unknown table, a can and cannot promise list and the named leader who gives the answer. Use for "run adopt-ai-jobs-answer", "will AI replace my job", "how do I answer the jobs question", "AI and job security answer", "what do we tell staff about AI and jobs", "FAQ on AI and jobs", "people are afraid AI will replace them", "the trainer keeps getting asked about layoffs", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Prepares an honest answer to what people ask about AI and their jobs, with the questions sorted, a decided, open and unknown table, a can and cannot promise list and the named leader who gives the answer. Use for "run adopt-ai-jobs-answer", "will AI replace my job", "how do I answer the jobs question", "AI and job security answer", "what do we tell staff about AI and jobs", "FAQ on AI and jobs", "people are afraid AI will replace them", "the trainer keeps getting asked about layoffs", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # AI and Jobs Answer
@@ -71,4 +71,4 @@ Prepared for: [leader, by role] | Draft date: [date] | Status: [draft for the le
 Run adopt-ai-concern-statement (AI Concern Statement) to help one person put a specific concern into words.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: firm-proposal-follow-up
-description: Drafts two proposal follow-up emails that each bring one useful thing (an answer to an open question, a real example, a smaller first phase), then a short close-the-loop note, as drafts only, with the dates and the sending left to you. Use for "run firm-proposal-follow-up", "follow up on my proposal", "no reply to the proposal", "my proposal went quiet", "how do I follow up without nagging", "anything but just checking in", "write a close the loop email", part of the Claude for Consultants · Team in Claude Pack by Polar Bear.
+description: Drafts two proposal follow-up emails that each bring one useful thing (an answer to an open question, a real example, a smaller first phase), then a short close-the-loop note, as drafts only, with the dates and the sending left to you. Use for "run firm-proposal-follow-up", "follow up on my proposal", "no reply to the proposal", "my proposal went quiet", "how do I follow up without nagging", "anything but just checking in", "write a close the loop email", part of the Claude for Consultants · Team in Claude Pack by 90n.
 ---
 
 # Proposal Follow-Up Emails
@@ -64,4 +64,4 @@ Run firm-client-decision-brief (Client Decision Brief) to give your contact a fa
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

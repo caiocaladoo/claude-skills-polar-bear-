@@ -1,6 +1,6 @@
 ---
 name: adopt-team-challenge-invitation
-description: Drafts an invitation to question an AI plan before it is final, with what is still open, questions sent in advance, likely objections written as neutral questions and labelled as generated, three routes to respond and the leader's response commitment. Use for "run adopt-team-challenge-invitation", "invite the team to challenge the AI plan", "get honest objections to the AI rollout", "nobody pushes back on the AI plan", "stress test the AI rollout with the team", "consult the team before we decide on AI", "what might we be missing in the AI plan", part of the Claude Guide for AI Adoption Pack by Polar Bear.
+description: Drafts an invitation to question an AI plan before it is final, with what is still open, questions sent in advance, likely objections written as neutral questions and labelled as generated, three routes to respond and the leader's response commitment. Use for "run adopt-team-challenge-invitation", "invite the team to challenge the AI plan", "get honest objections to the AI rollout", "nobody pushes back on the AI plan", "stress test the AI rollout with the team", "consult the team before we decide on AI", "what might we be missing in the AI plan", part of the Claude Guide for AI Adoption Pack by 90n.
 ---
 
 # Team Challenge Invitation
@@ -71,4 +71,4 @@ The questions below are generated possibilities, not employee feedback: correct 
 Run adopt-concern-response-log (Concern Response Log) to show what happened to every concern raised.
 
 ## About the makers
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: pmg-plan-the-quarter
-description: Writes a quarter plan with a few objectives and measurable key results marked committed or aspirational, a capacity split, the bets behind each key result, what is not in the quarter, and end-of-quarter notes that grade key results, never people. Use for "run pmg-plan-the-quarter", "plan the quarter", "quarterly OKRs", "turn this feature list into OKRs", "quarterly planning", "key results", "grade our OKRs", "OKR check-in", part of The Complete Claude Guide for Product Managers Pack by Polar Bear.
+description: Writes a quarter plan with a few objectives and measurable key results marked committed or aspirational, a capacity split, the bets behind each key result, what is not in the quarter, and end-of-quarter notes that grade key results, never people. Use for "run pmg-plan-the-quarter", "plan the quarter", "quarterly OKRs", "turn this feature list into OKRs", "quarterly planning", "key results", "grade our OKRs", "OKR check-in", part of The Complete Claude Guide for Product Managers Pack by 90n.
 ---
 
 # Plan the Quarter
@@ -71,4 +71,4 @@ Run pmg-build-product-roadmap (Build the Product Roadmap) to update the Now, Nex
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

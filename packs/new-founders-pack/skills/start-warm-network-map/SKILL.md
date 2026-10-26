@@ -1,6 +1,6 @@
 ---
 name: start-warm-network-map
-description: Maps your warm network against a two-line brief from your own connections file, showing each visible match with its reason, fit set by you, closeness in four tiers in your own words, at most three names per organisation, a run of about 10 you pick with a reason for each and the names set aside. Use for "run start-warm-network-map", "who should I talk to this week", "map my network", "go through my LinkedIn connections", "who in my network could help", "pick 10 people to contact", "I have years of contacts and no plan", part of the Claude Guide for New Founders Pack by Polar Bear.
+description: Maps your warm network against a two-line brief from your own connections file, showing each visible match with its reason, fit set by you, closeness in four tiers in your own words, at most three names per organisation, a run of about 10 you pick with a reason for each and the names set aside. Use for "run start-warm-network-map", "who should I talk to this week", "map my network", "go through my LinkedIn connections", "who in my network could help", "pick 10 people to contact", "I have years of contacts and no plan", part of the Claude Guide for New Founders Pack by 90n.
 ---
 
 # Warm Network Map
@@ -70,4 +70,4 @@ Run start-reconnect-message (Reconnect Message) to prepare the first note to som
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

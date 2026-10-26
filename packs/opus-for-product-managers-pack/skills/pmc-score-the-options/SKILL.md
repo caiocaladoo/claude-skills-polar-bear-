@@ -1,6 +1,6 @@
 ---
 name: pmc-score-the-options
-description: Scores the options in an Option Scorecard with weighted criteria agreed before any scoring, every option scored on the same scale with evidence per score, and a sensitivity check on the weights. Use for "run pmc-score-the-options", "score these four options on impact, cost, risk and strategic fit", "agree the weights with me first", "would the winner change if risk weighed double?", "weighted decision matrix", "compare the options fairly", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Scores the options in an Option Scorecard with weighted criteria agreed before any scoring, every option scored on the same scale with evidence per score, and a sensitivity check on the weights. Use for "run pmc-score-the-options", "score these four options on impact, cost, risk and strategic fit", "agree the weights with me first", "would the winner change if risk weighed double?", "weighted decision matrix", "compare the options fairly", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Score the Options
@@ -68,4 +68,4 @@ Run pmc-build-business-case (Build the Business Case) to cost the leading option
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

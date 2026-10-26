@@ -1,6 +1,6 @@
 ---
 name: impact-ld-metrics-set
-description: Builds a short fixed set of measures for the L&D function in three kinds (efficiency, effectiveness, outcome), producing a reader and decision map, a metrics table with definition, source, owner and reader per measure, and a stop reporting list. Use for "run impact-ld-metrics-set", "L&D metrics", "learning and development metrics", "training KPIs", "what should L&D report", "L&D dashboard measures", "training metrics executives read", "stop reporting completions", part of the Claude Guide for Training Impact Pack by Polar Bear.
+description: Builds a short fixed set of measures for the L&D function in three kinds (efficiency, effectiveness, outcome), producing a reader and decision map, a metrics table with definition, source, owner and reader per measure, and a stop reporting list. Use for "run impact-ld-metrics-set", "L&D metrics", "learning and development metrics", "training KPIs", "what should L&D report", "L&D dashboard measures", "training metrics executives read", "stop reporting completions", part of the Claude Guide for Training Impact Pack by 90n.
 ---
 
 # L&D Metrics Set
@@ -70,4 +70,4 @@ Run impact-quarterly-ld-report (Quarterly L&D Report) to report the set for the 
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

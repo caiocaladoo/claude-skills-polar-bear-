@@ -1,6 +1,6 @@
 ---
 name: pdes-portfolio-case-study
-description: Writes a Portfolio Case Study that tells one project through three to five decisions with the options you had and the trade-off you chose, your own role and who decided what, what real users did in testing, outcomes from real data, what you would do differently and a confidentiality check before anything is published. Use for "run pdes-portfolio-case-study", "portfolio case study", "ux case study", "write up a project for my portfolio", "my case study reads like everyone else's", "show my design decisions", "ux portfolio project", "case study from my design work", part of the Claude for Product Designers Pack by Polar Bear.
+description: Writes a Portfolio Case Study that tells one project through three to five decisions with the options you had and the trade-off you chose, your own role and who decided what, what real users did in testing, outcomes from real data, what you would do differently and a confidentiality check before anything is published. Use for "run pdes-portfolio-case-study", "portfolio case study", "ux case study", "write up a project for my portfolio", "my case study reads like everyone else's", "show my design decisions", "ux portfolio project", "case study from my design work", part of the Claude for Product Designers Pack by 90n.
 ---
 
 # Portfolio Case Study
@@ -71,4 +71,4 @@ Run pdes-design-decision-log (Design Decision Log) so the next case study has it
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

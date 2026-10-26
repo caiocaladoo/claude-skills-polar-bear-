@@ -1,6 +1,6 @@
 ---
 name: build-engineering-handover
-description: Writes an Engineering Handover Note covering how to open and run the prototype, a map of screens to requirements, the decisions made and why, everything faked or hardcoded, known problems, and what you recommend keeping, rebuilding or throwing away. Use for "run build-engineering-handover", "hand my prototype to engineering", "write a handover note", "write a README for my prototype", "document the decisions I made while building", "what should engineers keep or rebuild", "engineers have forty questions about my prototype", "list everything I hardcoded", part of the Claude for Product Builders Pack by Polar Bear.
+description: Writes an Engineering Handover Note covering how to open and run the prototype, a map of screens to requirements, the decisions made and why, everything faked or hardcoded, known problems, and what you recommend keeping, rebuilding or throwing away. Use for "run build-engineering-handover", "hand my prototype to engineering", "write a handover note", "write a README for my prototype", "document the decisions I made while building", "what should engineers keep or rebuild", "engineers have forty questions about my prototype", "list everything I hardcoded", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Engineering Handover Note
@@ -70,4 +70,4 @@ Run build-review-request (Engineering Review Request) to ask an engineer one que
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

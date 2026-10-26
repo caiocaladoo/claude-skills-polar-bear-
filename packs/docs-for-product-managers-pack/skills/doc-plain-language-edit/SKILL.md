@@ -1,6 +1,6 @@
 ---
 name: doc-plain-language-edit
-description: Edits one document into plain language, returning a shorter version with word counts before and after, AI tells removed, and every edit listed so you can reject it, with every fact and number unchanged. Use for "run doc-plain-language-edit", "make this sound less like AI", "cut this doc in half", "remove the Claudish", "plain language edit", "tighten this spec", "this reads like AI wrote it", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Edits one document into plain language, returning a shorter version with word counts before and after, AI tells removed, and every edit listed so you can reject it, with every fact and number unchanged. Use for "run doc-plain-language-edit", "make this sound less like AI", "cut this doc in half", "remove the Claudish", "plain language edit", "tighten this spec", "this reads like AI wrote it", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Plain Language Edit
@@ -62,4 +62,4 @@ Run doc-writing-style-guide (Writing Style Guide) to add what this edit found to
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

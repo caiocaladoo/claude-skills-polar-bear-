@@ -1,6 +1,6 @@
 ---
 name: doc-okrs
-description: Writes Product OKRs for the quarter with one to three objectives, outcome key results with baselines and sources, a what we stop doing list and the check-in rhythm, plus end-of-quarter grading of key results only. Use for "run doc-okrs", "write our product OKRs", "quarterly planning", "our OKRs read like a task list", "turn this feature list into key results", "set key results with baselines", "grade our OKRs", "OKR check-in", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Writes Product OKRs for the quarter with one to three objectives, outcome key results with baselines and sources, a what we stop doing list and the check-in rhythm, plus end-of-quarter grading of key results only. Use for "run doc-okrs", "write our product OKRs", "quarterly planning", "our OKRs read like a task list", "turn this feature list into key results", "set key results with baselines", "grade our OKRs", "OKR check-in", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Product OKRs
@@ -69,4 +69,4 @@ Run doc-weekly-update (Weekly Product Update) to report progress each week.
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -1,6 +1,6 @@
 ---
 name: acct-account-plan
-description: Writes the account plan for one key account, with the customer's goals in their own words, a whitespace map, objectives, dated actions with owners, relationship gaps by role, risks and review dates. Use for "run acct-account-plan", "account plan", "key account plan", "strategic account plan", "write my account plan", "grow this account", "whitespace map", "account planning template", part of the Claude for Account Executives Pack by Polar Bear.
+description: Writes the account plan for one key account, with the customer's goals in their own words, a whitespace map, objectives, dated actions with owners, relationship gaps by role, risks and review dates. Use for "run acct-account-plan", "account plan", "key account plan", "strategic account plan", "write my account plan", "grow this account", "whitespace map", "account planning template", part of the Claude for Account Executives Pack by 90n.
 ---
 
 # Account Plan
@@ -71,4 +71,4 @@ Run acct-territory-plan (Territory Plan) to place this account in your whole boo
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

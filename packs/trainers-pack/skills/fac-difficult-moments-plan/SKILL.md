@@ -1,6 +1,6 @@
 ---
 name: fac-difficult-moments-plan
-description: Builds a plan for the moments a session wobbles, with a prepared move, the sentence to say and the block that shrinks for silence, one voice filling the room, open resistance, a senior redirect, a side conflict, people who were sent, failing technology and running behind. Use for "run fac-difficult-moments-plan", "what do I do if the room goes quiet", "one person is taking over my workshop", "participants who were sent by their boss", "how to handle resistance in training", "we are running behind in the session", "plan B for my workshop", "the group went flat after lunch", part of the Claude for Trainers and Facilitators Pack by Polar Bear.
+description: Builds a plan for the moments a session wobbles, with a prepared move, the sentence to say and the block that shrinks for silence, one voice filling the room, open resistance, a senior redirect, a side conflict, people who were sent, failing technology and running behind. Use for "run fac-difficult-moments-plan", "what do I do if the room goes quiet", "one person is taking over my workshop", "participants who were sent by their boss", "how to handle resistance in training", "we are running behind in the session", "plan B for my workshop", "the group went flat after lunch", part of the Claude for Trainers and Facilitators Pack by 90n.
 ---
 
 # Difficult Moments Plan
@@ -70,4 +70,4 @@ Run fac-activity-debrief-questions (Activity Debrief Questions) to plan what you
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

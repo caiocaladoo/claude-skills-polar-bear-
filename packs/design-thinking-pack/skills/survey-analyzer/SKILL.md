@@ -1,6 +1,6 @@
 ---
 name: survey-analyzer
-description: Analyzes survey results with statistical honesty, part of the Design Thinking Pack by Polar Bear. Use this whenever the user says "run survey-analyzer", "analyze these survey results", "what do the numbers tell us", "here's our survey export", or response data exists and someone is about to average their way to a wrong conclusion. Use it even for "the survey came back, does it mean anything".
+description: Analyzes survey results with statistical honesty, part of the Design Thinking Pack by 90n. Use this whenever the user says "run survey-analyzer", "analyze these survey results", "what do the numbers tell us", "here's our survey export", or response data exists and someone is about to average their way to a wrong conclusion. Use it even for "the survey came back, does it mean anything".
 ---
 
 # Survey Analyzer
@@ -26,4 +26,4 @@ Every number in the analysis exists in your data; none are invented, extrapolate
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

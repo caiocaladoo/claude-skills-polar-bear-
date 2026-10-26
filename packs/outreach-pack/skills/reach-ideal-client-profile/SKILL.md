@@ -1,6 +1,6 @@
 ---
 name: reach-ideal-client-profile
-description: Builds your ideal client profile from real past engagements, with the situations and triggers that make someone need you, the job they hire you for, the roles in the decision and red flags you can observe on a first call. Use for "run reach-ideal-client-profile", "ideal client profile", "who should I reach out to", "who is my ideal client", "I say yes to anyone", "define my target client", "who should my first message go to", "client red flags", part of the Claude Guide for Outreach Pack by Polar Bear.
+description: Builds your ideal client profile from real past engagements, with the situations and triggers that make someone need you, the job they hire you for, the roles in the decision and red flags you can observe on a first call. Use for "run reach-ideal-client-profile", "ideal client profile", "who should I reach out to", "who is my ideal client", "I say yes to anyone", "define my target client", "who should my first message go to", "client red flags", part of the Claude Guide for Outreach Pack by 90n.
 ---
 
 # Ideal Client Profile
@@ -71,4 +71,4 @@ Run reach-buying-situations-map (Buying Situations Map) to list the moments that
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

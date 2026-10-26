@@ -1,6 +1,6 @@
 ---
 name: frac-discovery-questions
-description: Prepares a one-page question guide for the scoping call of a fractional engagement, covering the outcome, what it is worth in the company's own figures, the cost of waiting, the alternatives and who decides what today, with a "listen for" column, an answer grid left blank for the CEO's words and the gaps to follow up. Use for "run frac-discovery-questions", "what should I ask on the scoping call", "discovery call questions for a fractional role", "they said send me a proposal", "find out who decides", "what is this seat worth to them", "questions before I scope the engagement", part of the Claude for Fractional Leaders Pack by Polar Bear.
+description: Prepares a one-page question guide for the scoping call of a fractional engagement, covering the outcome, what it is worth in the company's own figures, the cost of waiting, the alternatives and who decides what today, with a "listen for" column, an answer grid left blank for the CEO's words and the gaps to follow up. Use for "run frac-discovery-questions", "what should I ask on the scoping call", "discovery call questions for a fractional role", "they said send me a proposal", "find out who decides", "what is this seat worth to them", "questions before I scope the engagement", part of the Claude for Fractional Leaders Pack by 90n.
 ---
 
 # Engagement Discovery Questions
@@ -68,4 +68,4 @@ Run frac-engagement-options (Good-Better-Best Engagement Options) to turn the an
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

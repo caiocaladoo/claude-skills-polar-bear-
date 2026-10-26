@@ -1,6 +1,6 @@
 ---
 name: proj-meeting-minutes
-description: Turns a meeting transcript or notes into minutes that keep only decisions, actions with one owner and a due date, risks raised and open questions, plus a chat-ready summary and a same-day send note. Use for "run proj-meeting-minutes", "meeting minutes", "write up this meeting", "action items from this transcript", "who agreed to what", "minutes from my notes", "summarise the call for the team", part of the AI for Project Management Pack by Polar Bear.
+description: Turns a meeting transcript or notes into minutes that keep only decisions, actions with one owner and a due date, risks raised and open questions, plus a chat-ready summary and a same-day send note. Use for "run proj-meeting-minutes", "meeting minutes", "write up this meeting", "action items from this transcript", "who agreed to what", "minutes from my notes", "summarise the call for the team", part of the AI for Project Management Pack by 90n.
 ---
 
 # Meeting Minutes
@@ -68,4 +68,4 @@ Run proj-decision-log (Decision Log) to add this meeting's decisions to the runn
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

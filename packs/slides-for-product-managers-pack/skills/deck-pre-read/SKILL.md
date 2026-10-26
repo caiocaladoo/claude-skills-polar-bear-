@@ -1,6 +1,6 @@
 ---
 name: deck-pre-read
-description: Turns a presented deck into a read-cold Pre-Read Slidedoc with full-sentence slides, the decision asked on page one, an appendix of sources, and a one-paragraph cover note. Use for "run deck-pre-read", "make this a pre-read", "they will read it, not hear it", "send the deck ahead", "people will not attend", "board pre-read", "make the slides stand alone", part of the Claude Slides for Product Managers Pack by Polar Bear.
+description: Turns a presented deck into a read-cold Pre-Read Slidedoc with full-sentence slides, the decision asked on page one, an appendix of sources, and a one-paragraph cover note. Use for "run deck-pre-read", "make this a pre-read", "they will read it, not hear it", "send the deck ahead", "people will not attend", "board pre-read", "make the slides stand alone", part of the Claude Slides for Product Managers Pack by 90n.
 ---
 
 # Pre-Read Slidedoc
@@ -69,4 +69,4 @@ Run deck-context-setup (Deck Context File) to add what this deck taught to the c
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

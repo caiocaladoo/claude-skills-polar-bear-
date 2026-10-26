@@ -1,6 +1,6 @@
 ---
 name: strat-strategic-bets
-description: Writes the Strategic Bets for the chosen option as three to five conditions that would have to be true, each with the evidence today, the test or early signal, a kill criterion and date set in advance, and an owner by role. Use for "run strat-strategic-bets", "what would have to be true", "write the bets behind our strategy", "what would prove this strategy wrong", "set kill criteria before the results", "early signals for the strategy", "which bet does the strategy lean on most", part of the Claude Guide for Product Strategy Pack by Polar Bear.
+description: Writes the Strategic Bets for the chosen option as three to five conditions that would have to be true, each with the evidence today, the test or early signal, a kill criterion and date set in advance, and an owner by role. Use for "run strat-strategic-bets", "what would have to be true", "write the bets behind our strategy", "what would prove this strategy wrong", "set kill criteria before the results", "early signals for the strategy", "which bet does the strategy lean on most", part of the Claude Guide for Product Strategy Pack by 90n.
 ---
 
 # Strategic Bets
@@ -64,4 +64,4 @@ Run strat-not-doing-list (Not-Doing List) to test every live request against the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

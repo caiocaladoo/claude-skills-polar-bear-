@@ -1,6 +1,6 @@
 ---
 name: ld-job-aid
-description: Builds a job aid as a checklist, decision table or one-page flow, with where it lives in the workflow and who updates it and when. Use for "run ld-job-aid", "make a job aid", "quick reference guide for this task", "a checklist instead of a course", "decision table for this process", "people need the answer mid-task", "one-page flow", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Builds a job aid as a checklist, decision table or one-page flow, with where it lives in the workflow and who updates it and when. Use for "run ld-job-aid", "make a job aid", "quick reference guide for this task", "a checklist instead of a course", "decision table for this process", "people need the answer mid-task", "one-page flow", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # Job Aid
@@ -64,4 +64,4 @@ Run ld-ai-content-qa (AI Content QA Checklist) to check the aid and the course b
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

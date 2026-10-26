@@ -1,6 +1,6 @@
 ---
 name: pmc-build-deck-in-claude-slides
-description: Builds a deck in Claude Slides from a finished doc, starting with a deck storyline of action titles you approve, then one claim per slide, numbers checked against the doc, speaker notes, and export to PowerPoint or PDF. Use for "run pmc-build-deck-in-claude-slides", "write the action titles first, then build the deck", "make the deck from the recommendation doc in this chat", "check every number against the doc", "the review is tomorrow", "turn this doc into slides", "ghost deck for the review", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Builds a deck in Claude Slides from a finished doc, starting with a deck storyline of action titles you approve, then one claim per slide, numbers checked against the doc, speaker notes, and export to PowerPoint or PDF. Use for "run pmc-build-deck-in-claude-slides", "write the action titles first, then build the deck", "make the deck from the recommendation doc in this chat", "check every number against the doc", "the review is tomorrow", "turn this doc into slides", "ghost deck for the review", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Build the Deck in Claude Slides
@@ -67,4 +67,4 @@ Run pmc-prepare-hard-questions (Prepare the Hard Questions) to rehearse the ques
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

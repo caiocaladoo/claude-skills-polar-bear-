@@ -1,6 +1,6 @@
 ---
 name: hr-termination-letter
-description: Prepares a Termination Meeting Plan and Letter for a dismissal a named person has already decided (who is in the room, the one stated reason, a script and what not to say), the letter itself, and the final pay and benefits questions for payroll and an adviser. Use for "run hr-termination-letter", "termination letter", "dismissal letter", "termination meeting script", "how to run a termination meeting", "letter of termination of employment", "what to say when firing someone", part of the AI for HR Pack by Polar Bear.
+description: Prepares a Termination Meeting Plan and Letter for a dismissal a named person has already decided (who is in the room, the one stated reason, a script and what not to say), the letter itself, and the final pay and benefits questions for payroll and an adviser. Use for "run hr-termination-letter", "termination letter", "dismissal letter", "termination meeting script", "how to run a termination meeting", "letter of termination of employment", "what to say when firing someone", part of the AI for HR Pack by 90n.
 ---
 
 # Termination Letter
@@ -68,4 +68,4 @@ Run hr-offboarding-checklist (Offboarding Checklist) for final pay, access and e
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

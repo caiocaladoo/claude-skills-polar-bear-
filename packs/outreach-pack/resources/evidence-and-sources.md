@@ -46,7 +46,7 @@ Methods with no single public originator are described generically and attribute
 
 ## Deliberate design choices
 
-These are Polar Bear's own choices, not findings from the sources.
+These are 90n's own choices, not findings from the sources.
 
 - **The red line.** Claude researches and prepares; you choose the people, write every word and press send. The sources do not say who should write a message. This guide takes the position that the sender does.
 - **A source for every fact.** A claim that cannot be tied to a public page or to your own first-hand history is dropped. Unknowns are listed, and a thin result is labelled thin. This is stricter than any source requires.

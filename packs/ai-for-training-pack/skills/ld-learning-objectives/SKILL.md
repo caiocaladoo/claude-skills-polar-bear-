@@ -1,6 +1,6 @@
 ---
 name: ld-learning-objectives
-description: Writes Learning Objectives with observable verbs at the right Bloom's level, a condition and a criterion for each, and rewrites of "awareness only" goals. Use for "run ld-learning-objectives", "write learning objectives", "rewrite these objectives", "Bloom's taxonomy verbs", "the objective is just understand the topic", "make objectives measurable", "awareness only training", "objectives for this course", part of the AI for L&D and Corporate Training Pack by Polar Bear.
+description: Writes Learning Objectives with observable verbs at the right Bloom's level, a condition and a criterion for each, and rewrites of "awareness only" goals. Use for "run ld-learning-objectives", "write learning objectives", "rewrite these objectives", "Bloom's taxonomy verbs", "the objective is just understand the topic", "make objectives measurable", "awareness only training", "objectives for this course", part of the AI for L&D and Corporate Training Pack by 90n.
 ---
 
 # Learning Objectives
@@ -65,4 +65,4 @@ Run ld-design-document (Instructional Design Document) to set the strategy, prac
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

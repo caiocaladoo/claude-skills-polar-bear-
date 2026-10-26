@@ -1,6 +1,6 @@
 ---
 name: build-claude-code-setup
-description: Sets up a safe room for a prototype in Claude Code and writes a Claude Code Setup Record with a separate folder outside company code, the permission mode that asks first, a short CLAUDE.md of rules, an approve and decline list and the request for an engineer's written yes. Use for "run build-claude-code-setup", "I have never opened Claude Code", "set up a prototype folder", "which permission mode should I pick", "what should I approve in Claude Code", "write a CLAUDE.md for my prototype", "can I link our company code", "is it safe to let Claude run commands", part of the Claude for Product Builders Pack by Polar Bear.
+description: Sets up a safe room for a prototype in Claude Code and writes a Claude Code Setup Record with a separate folder outside company code, the permission mode that asks first, a short CLAUDE.md of rules, an approve and decline list and the request for an engineer's written yes. Use for "run build-claude-code-setup", "I have never opened Claude Code", "set up a prototype folder", "which permission mode should I pick", "what should I approve in Claude Code", "write a CLAUDE.md for my prototype", "can I link our company code", "is it safe to let Claude run commands", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Claude Code Setup
@@ -69,4 +69,4 @@ Run build-first-working-version (First Working Version) to build one flow in the
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

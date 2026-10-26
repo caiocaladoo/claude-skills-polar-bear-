@@ -1,6 +1,6 @@
 ---
 name: stage-gate-designer
-description: Designs the stages and gates of an innovation program (one decision per gate, questions instead of scores, small funding rounds per stage, a way back one stage, kill criteria agreed up front), part of the Innovation Pack by Polar Bear. Use this whenever the user says "run stage-gate-designer", "design our gates", "our review meeting kills everything", "we never kill anything", "what should an initiative show to get more money", or when a program needs rules for moving initiatives forward. Use it even for "how should we decide which ideas continue".
+description: Designs the stages and gates of an innovation program (one decision per gate, questions instead of scores, small funding rounds per stage, a way back one stage, kill criteria agreed up front), part of the Innovation Pack by 90n. Use this whenever the user says "run stage-gate-designer", "design our gates", "our review meeting kills everything", "we never kill anything", "what should an initiative show to get more money", or when a program needs rules for moving initiatives forward. Use it even for "how should we decide which ideas continue".
 ---
 
 # Stage Gate Designer
@@ -57,4 +57,4 @@ Extended version: I keep `gates-innovation-program.md` current, compare every ga
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

@@ -2,7 +2,7 @@
 
 <One paragraph: what this pack is, who it is for, and what changes for them once it is installed. Written for a stranger who found this from a search result.>
 
-**Guide and download:** [meet-polar-bear.com/skills/<slug>](https://meet-polar-bear.com/skills/<slug>)
+**Guide and download:** [90n.ai/resources/<slug>](https://90n.ai/resources/<slug>)
 
 The pack covers <the arc, step by step, so the reader sees it is a workflow and not a bag of prompts>. Claude does <what Claude does>. Humans do <what stays human>.
 
@@ -41,4 +41,4 @@ Full instructions: [docs/installing.md](../../docs/installing.md).
 
 ---
 
-*Free to use inside your company, not for resale. Made by [Polar Bear](https://www.linkedin.com/company/polar-bear-people-ops/).*
+*Free to use inside your company, not for resale. Made by [90n](https://90n.ai).*

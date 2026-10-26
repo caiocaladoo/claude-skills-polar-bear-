@@ -1,6 +1,6 @@
 ---
 name: pmc-build-issue-tree
-description: Breaks the framed question into an Issue Tree of sub-questions that do not overlap and together cover it, each leaf with the data that would answer it and where that data lives. Use for "run pmc-build-issue-tree", "build an issue tree", "break down why activation is flat", "check this tree for overlaps", "what is missing from this tree", "what data answers each branch", "where do we look first", part of the Claude Opus 5.5 for Product Managers Pack by Polar Bear.
+description: Breaks the framed question into an Issue Tree of sub-questions that do not overlap and together cover it, each leaf with the data that would answer it and where that data lives. Use for "run pmc-build-issue-tree", "build an issue tree", "break down why activation is flat", "check this tree for overlaps", "what is missing from this tree", "what data answers each branch", "where do we look first", part of the Claude Opus 5.5 for Product Managers Pack by 90n.
 ---
 
 # Build the Issue Tree
@@ -66,4 +66,4 @@ Run pmc-draft-hypotheses (Draft the Hypotheses) to put a first answer on each br
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

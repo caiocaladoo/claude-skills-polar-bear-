@@ -1,6 +1,6 @@
 ---
 name: build-test-recruitment-note
-description: Writes a Tester Recruitment and Consent Note that says who counts as a real target user for the belief you are testing and who does not, where to find five of them, the invitation message and a plain consent note covering recording, how notes are kept and the right to stop. Use for "run build-test-recruitment-note", "who should test my prototype", "find five users to test with", "write the invitation for a user test", "consent note for a usability session", "can I test it on my colleagues", "screening questions for testers", "can I record the session", part of the Claude for Product Builders Pack by Polar Bear.
+description: Writes a Tester Recruitment and Consent Note that says who counts as a real target user for the belief you are testing and who does not, where to find five of them, the invitation message and a plain consent note covering recording, how notes are kept and the right to stop. Use for "run build-test-recruitment-note", "who should test my prototype", "find five users to test with", "write the invitation for a user test", "consent note for a usability session", "can I test it on my colleagues", "screening questions for testers", "can I record the session", part of the Claude for Product Builders Pack by 90n.
 ---
 
 # Tester Recruitment and Consent Note
@@ -69,4 +69,4 @@ Run build-usability-test-plan (Five-User Usability Test Plan) to write the tasks
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

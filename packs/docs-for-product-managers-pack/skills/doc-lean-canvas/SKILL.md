@@ -1,6 +1,6 @@
 ---
 name: doc-lean-canvas
-description: Fills a one-page Lean Canvas in Claude Docs (beta) with problem, segments, unique value proposition, solution, channels, revenue, costs, key metrics and unfair advantage, every statement marked tested or untested, plus the riskiest assumptions with the cheapest test for each. Use for "run doc-lean-canvas", "lean canvas", "business logic on one page", "map this new bet", "what are our riskiest assumptions", "early adopters for this idea", "one-page business model for a new product", part of the Claude Docs for Product Managers Pack by Polar Bear.
+description: Fills a one-page Lean Canvas in Claude Docs (beta) with problem, segments, unique value proposition, solution, channels, revenue, costs, key metrics and unfair advantage, every statement marked tested or untested, plus the riskiest assumptions with the cheapest test for each. Use for "run doc-lean-canvas", "lean canvas", "business logic on one page", "map this new bet", "what are our riskiest assumptions", "early adopters for this idea", "one-page business model for a new product", part of the Claude Docs for Product Managers Pack by 90n.
 ---
 
 # Lean Canvas
@@ -69,4 +69,4 @@ Run doc-business-model-canvas (Business Model Canvas) to see what changes for th
 
 ## About the makers
 
-This pack is made by Polar Bear, a consultancy built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry).

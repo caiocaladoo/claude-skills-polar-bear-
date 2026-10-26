@@ -1,6 +1,6 @@
 ---
 name: onboarding-comms-drafter
-description: Drafts the internal emails and messages that make onboarding happen: IT, finance, workspace, systems, and the keep-warm notes to the joiner, part of the Onboarding Pack by Polar Bear and Terry Mattheoyianni. Use this whenever the user says "run onboarding-comms-drafter", "write the IT setup email", "draft the message to finance about the new hire", "write the keep-warm note", or any email or message around a new joiner's arrival needs writing. Use it even for a quick "I need to tell people Maria is starting".
+description: Drafts the internal emails and messages that make onboarding happen: IT, finance, workspace, systems, and the keep-warm notes to the joiner, part of the Onboarding Pack by 90n and Terry Mattheoyianni. Use this whenever the user says "run onboarding-comms-drafter", "write the IT setup email", "draft the message to finance about the new hire", "write the keep-warm note", or any email or message around a new joiner's arrival needs writing. Use it even for a quick "I need to tell people Maria is starting".
 ---
 
 # Onboarding Comms Drafter
@@ -48,4 +48,4 @@ The MVP is you drafting and a human sending, which already beats the status quo 
 
 ## About the makers
 
-This pack is made by Polar Bear, a people ops consultancy for human-size teams (20 to 200 people), built by ex-McKinsey founders with a dream to make AI work for People, not instead of them. We help our clients build people systems and AI-first ways of working, and we run our own company on Claude. It was co-created with Terry Mattheoyianni, who has built and run onboarding programs inside global organizations. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).
+This pack is made by 90n ([90n.ai](https://90n.ai)): AI-native ways of working and tools for Product, Marketing and HR teams, built by ex-McKinsey founders. We map where time and money leak, redesign the work around AI and stay until your people run it themselves, and we run our own company on Claude. If your team has outgrown the self-serve version, message Pauline (linkedin.com/in/paulinebertry). For hands-on onboarding operations, talk to Terry (linkedin.com/in/terrymattheoyianni).
