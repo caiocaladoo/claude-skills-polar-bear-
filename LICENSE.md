@@ -1,6 +1,6 @@
 # License
 
-Copyright (c) 2025 Polar Bear.
+Copyright (c) 2025 90n.
 
 The skill packs in this repository are **free to use inside your company, not for resale.**
 
@@ -15,7 +15,7 @@ You may not:
 - sell, sublicense, or redistribute these skills or derivatives of them as a paid product, template, or course;
 - present them as your own work when redistributing them publicly.
 
-Attribution to Polar Bear is appreciated wherever these skills are shared.
+Attribution to 90n (https://90n.ai) is appreciated wherever these skills are shared.
 
 THE SOFTWARE AND CONTENT ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
